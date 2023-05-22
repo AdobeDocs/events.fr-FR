@@ -6,8 +6,8 @@ description: Collection d’enregistrements des événements en direct de l’Ad
 type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/events.fr-FR
-hide: true
-source-git-commit: fa7aa346db744f390ec839472cd978caf983a976
+index: true
+source-git-commit: 01971230eeaa291ac8f9130ece58484e925d611a
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 83%
