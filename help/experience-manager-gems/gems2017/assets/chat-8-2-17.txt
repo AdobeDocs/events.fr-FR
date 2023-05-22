@@ -1,0 +1,166 @@
+Dominik Suess: If customers or partners have done it wrong we as Adobe have done a bad job on enablement - so it’s always our fault ;)
+Chris Trubiani: +1
+Guillaume Albert: Well maybe not always - however the result is a poor experience for the customer which is damageable to our image and business
+brobert: Exhibit B: The product executes incorrect queries when you have two indexes that overlap.
+brobert: (so people redefine existing indexes, etc.)
+brobert: Could be a need for re-education, or it could be a limitation.
+Gilles Metz: The indexing top is a top issue we’re addressing via CXA-635, as it’s quite pervasive
+brobert: @gilles, Understood and thank you.
+Justin Edelson: I’m pretty sure the specifics of these examples isn’t the point Alex is trying to make :)
+brobert: exhibit d: That was Adidas. Ian Reasor had to gut and rewrite the workflows to fix all the nasty race conditions that happened because of it. Was awful.
+Dominik Suess: lol.. haven’t seen that one
+brobert: @Justin: Yes but in case any doubt exists, Alex totally nailed it. :D
+Guillaume Albert: we even had some customers with 1 Mongo node … 1 node cluster ;-)
+Justin Edelson: contradicting myself… the MongoDB documentation is far from clear
+brobert: It is, but our use of mongo, though improving, is far from perfect. (but it’s getting better…)
+brobert: “Read the furnished materials…” LOL
+Joerg Hoh: (the documentation evolves in the shadow, it improved a lot in the past years, but it isn’t obvious to us ‘old guys’ who are used to non-sufficient docs …)
+Joerg Hoh: who were used to have to non-sufficient docs
+brobert: Joerg: That’s what health checks are for, right? ;)
+Dominik Suess: stop just designing just for the happy day scenario - always try to break your own design and figure out potential misconceptions.. and talk to our field guys :)
+Guillaume Albert: This is a good point - we often hear customers commenting on such scenario, stating that they expect an entreprise grade product to prevent failures even in cases of misuse
+Joerg Hoh: @dominik: true, that’s what I tell all the day
+brobert: It’s some of our partners (not all, just some of them) you have to worry about. We have even less control over how they do things or what they recommend.
+brobert: AGS is close enough that engineering can smack us around if we get it wrong. ;)
+Joerg Hoh: @brobert: they definitly do this :-)
+Ian Reasor: these are good points, i have felt like we need better guardrails for a long time
+brobert: Having built my own guard rails, I agree @ireasor. But I’m a niche case.
+Kiran Murugulla: another case that we found is - in case of S3 DS configuration, if the s3 credentials are correct then DS never initializes and hence stores every thing in either tar / mongo
+Dominik Suess: I think in some scenarios we should not always fall back to defaults but require explicit configuration - or at least persist the default on first time - it’s currently way to easy to misconfigure on upgrade and startup with a misconfigured DS - the repo will still start up (falling back to default)
+Kiran Murugulla: which is expected , but admin does not know about this till they check s3 is empty
+Dominik Suess:(actually the case Kiran is mentioning ;))
+Kiran Murugulla: with respect to documentation - we may better advocate to read the docs and contribute to improve them rather than thinking our docs are not sufficient enough
+brobert: Need health checks to trigger big red warning boxes when admin logs in. Some admins just don’t check that page (!)
+Kiran Murugulla: like Ian assets performance best practices are one such example
+Joerg Hoh: @kiran: very true, but I have quite some trouble with finding the right documentation
+Joerg Hoh: you google for “docs aem 6.3 foo” and you end up on 5.6.1
+Kiran Murugulla: thats because YOU are the documentation :)
+Ian Reasor: @kiran if our documentation was sufficient, i wouldn’t have had to write those docs ;)
+Joerg Hoh: also documentation of some items are spread over multiple pages
+Kiran Murugulla: @ian - thats where the contribution part i mentioned
+Kiran Murugulla: i agree lots of sections were confusing or mis leading at times
+Kiran Murugulla: like enabling SSL in 6.2 docs was one such case
+brobert: There’s also an internal effort (Dexter) to merge the internal adobe sites on one platform. It doesn’t help things that HelpX site is not well-maintained from a code standpoint.
+brobert: Hopefully this will evolve in the near future as they re-platform on to 6.3
+Gilles Metz: I think Helpx got upgraded to 6.3 recently, and the 6.2 + 6.3 doc will move there by end of this month
+brobert: That pertains to docs because… well.. let’s talk about that search feature… ;)
+Kiran Murugulla: Also an indexed content across public docs , wiki , jira , daycare ,dl-tech will be super helpful for AGS folks
+brobert: Right but the components used are not from a common code base. We made the recommendation to the Dexter team to converge with the core components introduced in 6.3.
+brobert: <– Loves chaos monkey tests. Not sure what those entail but they sound fun.
+Dominik Suess: you should also make sure that what you let the user confirm is really what happens if he confirms
+Dominik Suess: we had a customer killing a complete country site because the treedelete in classic ui triggered reference check and on confirmation window it triggered the delete of the node that was selected “then” (not when the check was triggered)
+brobert: yeah, when I demo’d some big tools on Friday the first request was “Can we get a preview mode where it just says what will happen…?”
+Dominik Suess: important for CritSits: document anything being performed and always have a way to roll back - automate where possible (script down the steps, even if shell script)
+Dominik Suess: it’s tempting to act as fast as possible, but you are often in a worse spot after an emergency operation where you didn’t capture all steps
+Dominik Suess: wrt G - example: customers misusing the workflowsession and having loooong running workflows steps limiting workflow throughput to a point where the replication triggered via workflow took 90 min on average
+Gilles Metz: would the AEM developer DoD be updated/reference such information ?
+brobert: Keep an eye on ACS Commons… we have some tooling that can help you guys in a pinch (at least for 6.2/6.3…)
+Clint Goudie-Nice: I feel like we have a gap, where no one is contributing the ACS Commons components back as core AEM product features. It would be ideal in an open development environment if this was taking place.
+Justin Edelson: @Clint - talk to PM
+Clint Goudie-Nice: “the Adobe”
+brobert: @Clint: Good call… we need to take lesser-developed (non-core) features and move them into github like we did with core components. —- I’M LOOKING AT YOU, ASSET SHARE!!
+Joerg Hoh: @Clint: that’s very typical when you are with customers. I then often ask if they store their data also in their IBM
+Gilles Metz: add chaos monkey test cases for the most common mistakes/bad practices
+Guillaume Albert: @Gilles, W/Rgds to Chaos Monkey: such tools are designed to keep the system in operating conditions by causing random resources failures during production time - it’s not a test - it means for the customer to implement the corresponding organization and monitoring activities around such a potentially harmfull process
+Ian Reasor: thanks, alex, this is a good topic, and i think you’re on the right track from what i’ve seen in the crit sits i’ve been involved with
+Dominik Suess: do we have a slack channel for warstories and ideation around those?
+Vijesh K Nair 2: May be good idea to see the unusual issues which each one of us could encounter in a health check/audit engagements
+Vijesh K Nair 2: must be a good feeder
+Vijesh K Nair 2: thanks
+Guillaume Albert: thanks
+Conor Cuddihy: Thanks fro great session. Conr, Escaltation team EMEA
+Bob van Manen: ty - great session
+Lingling Sun: thanks alex!
+vmehrotr: thanks alex
+brobert: thanks!!
+Anuj Shiva Patel: thanks all…bye
+Dominik Suess: thx Alex - just reminds me how complex this topic is and how much tehre is to share
+Goran Brodnik: Thanks ALL!
+Chat for story 1
+
+Justin Edelson: #1 - get rid of onprem deployments
+Bob van Manen: on #1 - segmentstore should not be stored in the same location as the AEM code. They should be stored separately by default.
+Bob van Manen: Code/data separation on all levels
+Vijesh K Nair 2: #1 may be document the untouchable areas for a sys admin
+Dominik Suess: #1 - make sure that AEM itself has a proper warning system about exceeding diskspace and providing guidance (prevent bad practies due to chickening out when system has already gone down)
+Lingling Sun: story1: can we provide instructions on the recopmmended way of freeing up space on the warning.
+Bob van Manen: On #1 - AEM shouldn’t start without the user defining the location of the segmentstore. Something similar to how we ask for the admin user/pass. We might need to provide a default for demo purposes. Maybe better to define a demo run mode, and have QS be secure and production ready by default.
+Joerg Hoh: #1 we cannot prevent an admin from removing files from AEM, but we could shut down if the system detects that files are missing.
+Bob van Manen: on #1 - customers don’t expect data in the installation folder of a product, that’s where the disconnect is
+Ian Reasor: @bob: +1
+Lingling Sun: #1 renaming to make it clearer that some of the folders or data is important to keep?
+Joerg Hoh:“database”
+Ian Reasor: “repository” == “database”
+Joerg Hoh: @ian: in that case the admin did not know, maybe he knew “database” which is a more common term
+Ian Reasor: if we made compaction and GC easier to run, maybe people wouldn’t try to delete files from the filesystem ;)
+Anuj Shiva Patel: +1 Ian, it should be easier to run compaction
+Chat for story 2
+
+Dominik Suess: #2 - make apps & libs immutable ;)
+Ian Reasor: #2 - make getResource(null) throw an exception
+brobert: #2: VALIDATE YOUR !@#$!@#$ INPUT!
+Ian Reasor: @brobert, i think you’re missing the point of the exercise
+Justin Edelson: #2 - ban low level custom code
+Clint Goudie-Nice: Ian, I agree, but how to know if customers are actually relying on this behavior
+dg: #2 use service users and ACLs!
+Kaushal Mall: if(StringUtils.isNotEmpty(resourcePath))then do $h!t
+brobert: I would much rather spend a few extra days adding checks to my code if that means I don’t get a phone call on a Saturday in the future.
+Clint Goudie-Nice: It’s apparent that getResource("“) and getResource(null) should not work this way now, but how do you not introduce a breaking change for unintended behavior…
+Clint Goudie-Nice: I propose, #2 and #3 would be to trigger a health check failure from that point forward.
+Kaushal Mall: #2 and #3 are more like ”fix your damn code“
+Ian Reasor: getResource with an empty string or a null should not retun a node
+Joerg Hoh: automated code checks as a service
+Bob van Manen: on #2 - code should be running in ”jails“, i.e. defined areas of the JCR that they can access. For instance force it to only have read access to /conf and r/w access to /content. ACLs can do this, but they are complex and easy to get wrong
+Clint Goudie-Nice: @Ian I agree, but changing the contract now is problematic, how many customers do you break by doing so?
+Joerg Hoh: @bob: Node root = chroot(”/content“)
+brobert: Runtime.getRuntime().exec(”sudo rm -rf /“);
+Bob van Manen: @Joerg - Yes, but by default and not rely on the implementer to do this
+Ian Reasor: @clint - if a customer is calling getResource(null) to return /apps, we should have a word with them anyway
+Clint Goudie-Nice: Exactly, this is why I propose a health check rather than a change
+vmehrotr: @ian - customer didn’t try to call /apps
+vmehrotr: they were reading path from a file
+vmehrotr: if there was any empty path
+vmehrotr: it return /apps and deleted whole of it
+vmehrotr: happened with hpe
+Ian Reasor: @varun - i remember ;)
+Anuj Shiva Patel: #2 - Any such scripts , they should run with a resource resolver which only has access to limited are of repository e.g. /content/dam/
+Joerg Hoh: restricting repo access – that’s what service users for
+Joerg Hoh: no need to chroot()
+brobert: Query stats should capture if a null query was executed which returned /apps… we can elevate that as critical on a health check.
+Ian Reasor: seems like a health check wouldn’t be able to determine every way that an API could be called
+Lingling Sun: #2 doesn’t the path ”/app“ have restrictions on any damaging actions?
+Ian Reasor: i don’t think so, lingling
+Justin Edelson: my point is that query -> delete nodes is something which could be abstracted by the product into a safe operation
+Lingling Sun: or any warning on ”/app“ damaging actions @ian?
+Ian Reasor: @lingling - not that i know of
+Guillaume Albert: repo deletion or /apps: This remind me the Windows autosave/autorestore of important files in the past - lol
+vmehrotr: @Guillaume - for restore yoiu could do with journal.log but very tricky since until 6.2 we didn’t have timestamp in there
+brobert: Well, not extension points per se but more like what you see when you use Scratch or go to code.org.
+Joerg Hoh: we should implement a bin for deleted nodes!!
+Ian Reasor: @joerg like a ”recycle" bin?
+vmehrotr: +1 @joerg
+Joerg Hoh: ian: +1
+Joerg Hoh: on a pagemanager level it should be easy to implement
+vmehrotr: several times .. this has happened and we should be able to restore back deleted files
+Joerg Hoh: and then we only have to force the devs not to use the JCR/Sling API to delete pages
+Chat for story 3
+
+Justin Edelson: #3 - ban custom 404 error handling
+Ian Reasor: @justin - ban AEM development
+Justin Edelson: @Ian - my point is that all of these things are really caused by customers operating on the wrong abstraction layer
+Ian Reasor: i think alex’s point is that our APIs should make it harder for customers to do that
+Clint Goudie-Nice: I propose, #2 and #3 would be to trigger a health check failure from that point forward.
+Justin Edelson: @Ian - we need better APIs
+Clint Goudie-Nice: It doesn’t break existing behavior, but warns the user they have driven off the edge of expected behavior
+Ian Reasor: @Justin - agreed
+brobert: Or just simplify the playing field so they don’t have to write code for basic things. Make a Sightly-based UI where all the basic use cases are safe in their own sandbox. Let the customers play with their crayons without stabbing themselves in the eye.
+Justin Edelson: 404 handling is a really good example of that
+Ian Reasor: if we made it easier it customize 404s, it would be easier to prevent #3
+Vijesh K Nair 2: #3 make sure only the view can be overriden in the project, not the entire error handler
+Bob van Manen: on #3 - i’m thinking of a view in AEM To see what is stored in the Dispatcher cache (summary), utilization, and how some stats on the length of time a cache entry is the cache (i.e. check the created date)
+Ian Reasor: on #3, it would be nice if the dispatcher would automatically remove the oldest cached content when the disk was getting full
+Justin Edelson: yes, and you’d be able to do that through a higher-level extension point
+Justin Edelson: but customers shouldn’t be able to set the status code in that extension point
+Joerg Hoh: @justin: +1
+Dominik Suess: wrt custom statuscode.. at least no 2xx .. forwards would be an alternative way to handle 404
+Anuj Shiva Patel: #3 - 404 is the most common requirement, if we provide something OOTb with AEM which is easier to extend.

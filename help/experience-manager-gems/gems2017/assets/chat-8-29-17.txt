@@ -1,0 +1,376 @@
+ Chat / BC  Collapse source
+Krystian Nowak:I can hear you well
+ 
+ 
+  
+Andrei Dulvac:yup, sounds good from bebbi
+ 
+ 
+  
+Andrei Dulvac:there's someone talking now, muffled
+ 
+ 
+  
+Andrei Dulvac:can you mute your mics, please?
+ 
+ 
+  
+Andrei Dulvac:------ MUTE YOUR MICS, PLEASE --------
+ 
+ 
+  
+Andrei Dulvac:Please mute your mics!
+ 
+ 
+  
+Justin Edelson:what is an "incorrect overlay"?
+ 
+ 
+  
+Dominik Suess:phrasing is probably to be fixed ;) - it is a potentially
+breaking overlay.. the patterns right now are not finetuned so there are false
+positives
+ 
+ 
+  
+Brendan Robert:We could benefit from this pattern detector for other
+uses than upgrades.  We also need to
+audit partner engagements for customers from time to time, also if we are
+assisting with security audits it helps to produce a list of customizations installed.
+ 
+ 
+  
+Dominik Suess:@brendan - good point - I guess we should add some kind of
+classification similar as we have for healthchecks
+ 
+ 
+  pflory@adobe.com:Would be useful even
+as a real-time *pre commit* source code check, for customer's / developer's
+ongoing AEM customizations -- make sure they aren't introducing potential
+issues.
+ 
+ 
+  
+Dominik Suess:we start with this limited scope but it certainly can be
+extended beyond this use - we'll anyhow have to talk with helpx team about
+making sure that we can have a corresponding "resolution" DB
+ 
+ 
+  
+Andrei Dulvac:bless you!
+ 
+ 
+  
+Dominik Suess:@paul - that likely would wire this too deep into the
+deployment mechanisms etc. We anyhow expect customers to deploy to stage first
+and such a check would be an easy and automation friendly smoke test (as any
+HC)
+ 
+ 
+  
+Justin Edelson:this should definitely be integrated into the AMS SSF
+pipeline
+ 
+ 
+  pflory@adobe.com:Ok, so not along the
+lines of SonarQube rules... In any case, anything to help during the dev cycle
+is welcomed!
+ 
+ 
+  
+Justin Edelson:that's a good point Paul... I'm not sure if Sonar can do
+all of this
+ 
+ 
+  
+Justin Edelson:but either way, the implementation isn't as important as
+the end goal
+ 
+ 
+  
+Justin Edelson:(by implementation, I mean the specific tool used to
+implement the checks)
+ 
+ 
+  
+Brendan Robert:Well having an external tool that can audit from above
+would be helpful.  The same checks could
+be rolled into a maven task as part of packaging since anaylzing a package
+would work the same in both cases.
+ 
+ 
+  
+Dominik Suess:note that the pattern and the resolution db will be not
+hardwired - so the PD only reports a rough indicator and a key that allows
+lookup in helpx for corresponding guidance - that allows us to adjust our
+recommendations as we learn where generic recommendations might not match
+ 
+ 
+  
+Brendan Robert:Here's a novel starting point for an external scan tool: https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2FAdobe-Consulting-Services%2Faem-epic-tool&data=02%7C01%7C%7Cb64b16fb46b24312e05c08d4f03e9bc2%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C636397599074108967&sdata=UFBayFx1qsqju0fqa5YMa%2FlzjM8qohOuXPhww7GP29c%3D&reserved=0
+ 
+ 
+  
+Justin Edelson:you don't really need a separate tool. just a server side
+test which runs the HC
+ 
+ 
+  
+Dominik Suess:@Brendan the MAEM agent basically is about making the data
+extractable for external consumption, where PD adds a thin layer about cheap
+checks on top of this to provide info within the instance
+ 
+ 
+  
+Justin Edelson:such a test could run as part of the SSF
+ 
+ 
+  
+Brendan Robert:Depends on if it is a project you have control over,
+Justin.  Watch-dogging partners or
+on-prem customers might only afford you access to /crx/packmgr
+ 
+ 
+  pflory@adobe.com:Rename
+"anti-patterns" to "smells"?  Makes it more fun :-)
+ 
+ 
+  
+Justin Edelson:access to HC output shouldn't be controversial
+ 
+ 
+  
+Brendan Robert:Oh for sure.
+ 
+ 
+  
+Justin Edelson:I'm talking about from a CI perspective in the SSF
+pipeline
+ 
+ 
+  
+Brendan Robert:Is this HC going to be back-ported to 6.1/6.2?
+ 
+ 
+  
+Justin Edelson:manual review is a different story
+ 
+ 
+  
+Brendan Robert:It also becomes a good estimation framework.  If you know number and complexity of
+extensions it better helps you understand effort required for upgrades or
+audits alike.
+ 
+ 
+  
+chris-k:for content / libs stuff it may be much more effective than
+thinking of patterns
+ 
+ 
+  
+Dominik Suess:@brendan - yes the check will be available for 6.1 upwards
+at least.. 6.0 currently poses a little challenge for the MAEM agent but
+despite of that we need 6.1 and 6.2 to make use for upgrades "TO" 6.4
+;)
+ 
+ 
+  
+Brendan Robert:That is encouraging.
+Thanks Dominik!
+ 
+ 
+  
+Arek Kita:>>> Justin Edelson: this should definitely be
+integrated into the AMS SSF pipeline
+ 
+ 
+  
+Arek Kita:yes I already had a chat with AMS SSF team about that and we
+are planning to integrate it.
+ 
+ 
+  
+Arek Kita:>>> Justin Edelson: that's a good point Paul... I'm
+not sure if Sonar can do all of this
+ 
+ 
+  
+Alexander Klimetschek:are we actually expecting most customers that
+upgrade to 6.4 will come from 6.3?
+ 
+ 
+  
+Dominik Suess:@Brendan  - I would
+suggest to play around with PD as soon as possible (esp when you have clones of
+customer instances) so we get better wrt false positives and negatives and get
+an idea on what kind of guidance would be reuqired
+ 
+ 
+  
+Arek Kita:It seems some check are not possible (according to the team
+working on AMS SSF)
+ 
+ 
+  
+Arek Kita:They operate on source code. PD operates in runtime on byte
+code (different area)
+ 
+ 
+  
+Dominik Suess:@Alex - no but it's the only upgrade path where we can
+currently provide a no-touch ugprade as 6.2 -> 6.3 already introduce
+breaking changes
+ 
+ 
+  
+Justin Edelson:@Arek - that sounds wrong. let's talk offline. SSF will
+run tests on a live AEM instance
+ 
+ 
+  
+Alexander Klimetschek:@Dominik - yeah, but we might want to fix that :)
+ 
+ 
+  
+Justin Edelson:in addition to doing static analysis
+ 
+ 
+  
+Justin Edelson:it's just a different stage in the pipeline
+ 
+ 
+  
+Alexander Klimetschek:otherwise if we have no customers upgrading to 6.3
+because of the cost, then it doesn't help if we make 6.3 to 6.4 easier
+ 
+ 
+  
+Dominik Suess:Alex.. a) AMS is expeciting more customers to do N+1 when
+they don't have the upgrade costs invoked b) we will at latest have the payoff
+in 6.3 -> 6.5 upgrades (even if majority stays with N+2 upgrades)
+ 
+ 
+  
+Arek Kita:@Justin you're right. SSF fires AEM for IT tests but I meant
+here static analysis and I meant that summary: https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwiki.corp.adobe.com%2Fdisplay%2FWEM%2FRules%2Bnot%2Bcovered%2Bby%2BSonarQube&data=02%7C01%7C%7Cb64b16fb46b24312e05c08d4f03e9bc2%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C636397599074265223&sdata=f7O%2BOmZ8OuiXPvIg4LihBCDG9Yno2vvXYYGqwICQxUk%3D&reserved=0
+ 
+ 
+  
+Arek Kita:It seems that the focus currently for SSF is on static
+analysis IIRC
+ 
+ 
+  
+Justin Edelson:@Arek - whether or not the "current" focus is
+correct is a separate issue :) SSF needs to accomodate whatever test scenarios
+are deemed to be critical to  customer
+susccss
+ 
+ 
+  
+Justin Edelson:what phase of the pipeline they are accomodated is an
+implementation detail
+ 
+ 
+  
+Elham Chandler:So the improvements won't be helpful for 6.2->6.4....
+ 
+ 
+  
+Elham Chandler:that's too bad
+ 
+ 
+  
+Justin Edelson:@Elham - IMO that is a misreading
+ 
+ 
+  
+Justin Edelson:PD has benefits for any customer on 6.1 or higher
+ 
+ 
+  
+Elham Chandler:thanks for the clarification
+ 
+ 
+  
+Justin Edelson:BC has benefit for the same in that it limits the change
+surface for any upgrade
+ 
+ 
+  
+Justin Edelson:but it doesn't remove the change surface for 6.1 or 6.2
+customers
+ 
+ 
+  
+Justin Edelson:it just locks in the scope
+ 
+ 
+  
+Justin Edelson:to what is already there in 6.3
+ 
+ 
+  
+Justin Edelson:i.e. a 6.1 to 6.4 upgrade is the same LOE as a 6.1 to 6.3
+upgrade
+ 
+ 
+  
+Justin Edelson:if we assume that the LOE is dependent upon the # of
+skipped versions, that is a significant difference
+ 
+ 
+  
+Justin Edelson:question - in the program meeting today, Pierre mentioned
+that compat packages shouldn't violate 0DT constraints. is that covered by the
+current tests?
+ 
+ 
+  
+chris-k:@justin its a nice wish
+ 
+ 
+  
+chris-k:but the 0dt was about mistakes in content-model
+ 
+ 
+  
+Justin Edelson:@chris I hadn't heard that as a constraint before
+ 
+ 
+  
+Justin Edelson:(on the compat packages0
+ 
+ 
+  
+Andrei Dulvac:that would have to be covered by the 0DT deployment tests
+ 
+ 
+  
+chris-k:especially this changs are breaking compatibility
+ 
+ 
+  
+chris-k:odt problems have been of a lack in separation of content
+according their concerns
+ 
+ 
+  
+chris-k:aka they mixed system content (private) with customer content
+ 
+ 
+  
+chris-k:All changes to these issues will require to not use 0dt
+ 
+ 
+  
+Justin Edelson:@chris-k agreed, which is why I was surprised by this
+mandate from Pierre
+ 
+ 
+  
+chris-k:he must fail
+ 
+ 
+  
+chris-k:sorry

@@ -1,0 +1,567 @@
+ Chat - August 22, 2017
+
+Goran Brodnik:Welcome to Granite Gems!
+ 
+ 
+  
+Kaushal Mall:all the slides said 6.5 .. Is that the targeted version?
+ 
+ 
+  
+Vlad Petcu:6.5 was the example for 1 click upgrade that JM envisioned
+ 
+ 
+  
+Vlad Petcu:BC is starting with 6.4
+ 
+ 
+  
+Oscar Bolaños:It should start with 6.4
+ 
+ 
+  
+Toto Tuo:Is AEM upgrade process going to get easier, right now it is
+very manual, long and complicated process
+ 
+ 
+  
+Kaushal Mall:Thanks Vlad & Oscar
+ 
+ 
+  
+Goran Brodnik:MS Reimagined 6.4 link: https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwiki.corp.adobe.com%2Fdisplay%2FWEM%2FPPC%2B-%2BMS%2BReimagined%2B6.4&data=02%7C01%7C%7C9d7532666b894b15d4f608d4e9770960%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C636390144844402697&sdata=gwBo0cpxz9eAGSsOrIo6Zt8H8B1tEzD3Ka5NK%2FFlU3M%3D&reserved=0
+ 
+ 
+  
+Rishabh Sharma:if not 1 click upgrade, may be a near automated
+assessment of the source system, and generation of scripts that could take care
+of "some part" of the manual activities
+ 
+ 
+  
+Vlad Petcu:Toto that's the plan, we need to improve a lot into making
+upgrade easier for everyone
+ 
+ 
+  
+Andrei Dulvac:If we have one big BC switch on, what's the difference
+between 6.4+compat-pack and a 6.3 updated instance?
+ 
+ 
+  
+Bertrand Delacretaz:I was going to ask exactly that
+ 
+ 
+  
+Bertrand Delacretaz:as a customer, why do I want to pay for a 6.4
+upgrade if I end up running 6.3 due to this compat package?
+ 
+ 
+  
+chris-k:because you save penality from ms
+ 
+ 
+  
+Arek Kita:One of the improvements for 6.4 with compat mode on will be
+newer Oak, Sling and in general platform versions.
+ 
+ 
+  
+Oscar Bolaños:Are we moving ClassicUI, Coral2 to the compat package?
+ 
+ 
+  
+J. Casalino:Does the compatibility pack add duplicate bundles with older
+versions?
+ 
+ 
+  
+Alexander Klimetschek:you get all the features and updates that are not
+affected by backwards compatiblity special handling
+ 
+ 
+  
+chris-k:@casalino this is not possible
+ 
+ 
+  
+Alexander Klimetschek:as jmp said, there are hopefully more than zero :)
+ 
+ 
+  
+Bertrand Delacretaz:yeah I guess how many new features still work with
+the compat mode on is the big question
+ 
+ 
+  
+Mitch Nelson:Lets please remember that the reason AMS has an upgrade
+requirement is to make sure the customer is using the new features..
+ 
+ 
+  
+chris-k:@mitch
+ 
+ 
+  
+Mitch Nelson:So we need to be careful around sabotaging that intent
+ 
+ 
+  
+chris-k:@mitch they can't as they need integrators to use the new
+feature
+ 
+ 
+  
+Bertrand Delacretaz:Agreed Mitch, that sabotaging is what I'm afraid
+might happen depending on how many things the compat mode hides.
+ 
+ 
+  
+Andrei Dulvac:In a larger context, if featurepacks are faded out in
+favor of a more unified package, it's expected that some features that used to
+be FPs will go into something like the servicepack, keeping fixes for
+cumulativefixpack. Was that taken into consideration when comparing 6.3 with
+all updates and 6.4 with the compat mode on ?
+ 
+ 
+  
+Mitch Nelson:@chris-k, do not understand your comment.
+ 
+ 
+  
+chris-k:if we have a new service you need new component to use it
+ 
+ 
+  
+Alexander Klimetschek:AFAIK the vision is FIRST to make stuff backwards
+compatible, and only if that is really not possible SECOND put it in the BC
+package as last resort (Dominik's yellow warning box on his slide)
+ 
+ 
+  
+Costin Genescu:yes.
+ 
+ 
+  
+chris-k:@alex as any resource is API you cant do much comptiable
+ 
+ 
+  
+Alexander Klimetschek:seems like people get the impression the BC
+package is all we do for the upgrade goal, I think that is highly misleading
+right now
+ 
+ 
+  
+Costin Genescu:also. based on business considerations we could decide to
+provide additional granularity than on/off switch
+ 
+ 
+  
+chris-k:what eles is there
+ 
+ 
+  
+Goran Brodnik:PLEASE MUTE YOUR MICROPHONES IF YOU'RE NOT PRESENTING!
+THANKS
+ 
+ 
+  
+Mitch Nelson:@chirs-k, that seems to be a given.  We have no problems with adding new stuff.
+ 
+ 
+  
+Mitch Nelson:We need to look at how we break the old stuff.
+ 
+ 
+  
+chris-k:so what is the way they make them use new features
+ 
+ 
+  
+chris-k:that doesn't happen automatically
+ 
+ 
+  
+Mitch Nelson:@chris, customers are adding code often on a weekly basis.
+ 
+ 
+  
+Oscar Bolaños:How will the customer determine the there is a newer
+version?
+ 
+ 
+  
+Daniel Gordon:is it all or nothing for compat? Can you use some old
+features and some new?
+ 
+ 
+  
+Mitch Nelson:They can start integrating new features as a part of the
+thread.
+ 
+ 
+  
+J. Casalino:How would a customer with no customizer know/be able to flip
+this compatibility switch?
+ 
+ 
+  
+J. Casalino:How will compatibility and 6.4 upgrade affect workflow
+models?
+ 
+ 
+  
+Alexander Klimetschek:@chis-k my understanding is that once upgrade is
+simple and automatic, it's no longer a roadblock to the discussion; once the
+customer has upgraded and sees the new features that need a system integrator
+to be leveraged, then they see the value and would pay for it; but today they
+have the impressoin they pay for just keeping what they have
+ 
+ 
+  
+Bertrand Delacretaz:Alex K agreed compat mode is only one element. IMO
+the only way to make things easier in the future is also to enforce a much more
+restricted extension model.
+ 
+ 
+  
+chris-k:@bertrabd tgat us removing api and thus incompaible
+ 
+ 
+  
+Bertrand Delacretaz:chris-k you need to draw a line at some point, or
+stay stuck in the past.
+ 
+ 
+  
+Alexander Klimetschek:@bertrand: fully agree. I have the feeling that
+starting the BC gem sessions here with the BC package is sending a slightly
+confusing message, I would start with how we can keep things backwards
+compatible, how we design proper extension points, what stuff like overlays is
+causing the biggest problems and how to address them etc
+ 
+ 
+  
+chris-k:@ I agree but you cant have both
+ 
+ 
+  
+chris-k:thats the problem
+ 
+ 
+  
+Costin Genescu:@alex, @bertrand that's the next part of the presentation
+ 
+ 
+  
+Alexander Klimetschek:ok
+ 
+ 
+  
+Bertrand Delacretaz:A past where customers bought CQ as an applications
+platform, and didn't mind recompiling and making slight adjustements to their
+code, as they had strong automated tests to validate it. If now and in the
+future people buy AEM as a solution with some customizability, that
+customizability can only happen with a much more restricted model, in order to
+support their different view of what upgrading means.
+ 
+ 
+  
+chris-k:@but bertrand that is not supported with the given road-map
+ 
+ 
+  
+Oscar Bolaños:@chris-k: it does make sense
+ 
+ 
+  
+Oscar Bolaños:it could be the time to disable overlays, and some
+extension points that we know that do not scale
+ 
+ 
+  
+Gilles Metz:will the new extension model/surface API guarantee 100%
+future backw. comp to customers who use it starting from 6.4 ?
+ 
+ 
+  
+chris-k:@oscar it makes sense and is high time. But this makes
+everything incomptaible in 6.4
+ 
+ 
+  
+Oscar Bolaños:it could be "disabled" as part of the compat
+mode
+ 
+ 
+  
+Oscar Bolaños:but if you are a customer that has never never 6.3
+ 
+ 
+  
+Oscar Bolaños:then it makes sense that 6.4 does not allow such practices
+ 
+ 
+  
+Toto Tuo:When 6.3 first came out, it did not support/work well with s3
+as data store for upgrade, considering we have quite a lot customers on s3, are
+we going to see similar issue with aem 6.4?
+ 
+ 
+  
+Bertrand Delacretaz:right @chris-k, so I'm pessimistic about that
+roadmap...
+ 
+ 
+  
+Mitch Nelson:@Toto, we are working to change the testing model,
+increasing the base of Azure/AWS testing, so that some of those issues get
+caught earlier.
+ 
+ 
+  
+Toto Tuo:Thanks Mitch!
+ 
+ 
+  
+Kaushal Mall:so, we won't be able to say "you can customize pretty
+much everything in AEM" anymore.
+ 
+ 
+  
+chris-k:that was wrong anyway
+ 
+ 
+  
+Costin Genescu:the customer can chose to customise anything. but the
+price they will pay is complex upgrade.
+ 
+ 
+  
+chris-k:that was in place since ever
+ 
+ 
+  
+Alexander Klimetschek:@kaushall kind of, but today we have many ways how
+you could change things, and that also makes it hard to keep backwards
+compatibility for all those ways
+ 
+ 
+  
+Kaushal Mall:agreed, but, in the field that phrase gets thrown around a
+lot.
+ 
+ 
+  
+Alexander Klimetschek:I guess we wouldn't change that you have an osgi
+runtime that can execute your custom stuff, giving a lot of freedom; the
+problem is in changes/interaction touching on product features
+ 
+ 
+  
+Alexander Klimetschek:(for 6.4 et al)
+ 
+ 
+  
+Kaushal Mall:so, the content nodes marked as "internal" can
+still be overlayed and customized, just like today,  right?
+ 
+ 
+  
+Oscar Bolaños:no
+ 
+ 
+  
+Kaushal Mall:or "private"
+ 
+ 
+  
+Oscar Bolaños:AEM won't have a runtime check, but it would appear in the
+health dashboard as a problem
+ 
+ 
+  
+Oscar Bolaños:so customers would know that the partner code violates the
+best practices
+ 
+ 
+  
+Bertrand Delacretaz:To me ideally there should be two modes: 1)
+customize anything you want, at a price and 2) flip a "restrictions"
+switch which blocks any extensions for which we cannot guarantee zero cost
+upgrade
+ 
+ 
+  
+Kaushal Mall:@Oscar, thanks. thats actually a good thing because we've
+had to create reports for clients in the past for customizations that have been
+done. So, a dashboard is a good thing
+ 
+ 
+  
+Bertrand Delacretaz:Oscar yes, if a HC that acts as my
+"restrictions" switch can be implemented that would be fantastic
+ 
+ 
+  
+Costin Genescu:@bertrand: yes
+ 
+ 
+  
+Bertrand Delacretaz:but that would only work with a whitelist IMO, and
+anything outside of it is flagged
+ 
+ 
+  
+Oscar Bolaños:in reality we could lift restrictions when compat mode is
+on
+ 
+ 
+  
+Alexander Klimetschek:btw, we need better long running HC support, with
+progress bar support
+ 
+ 
+  
+Oscar Bolaños:this way if a customer has only seen 6.4 the it would
+won't be able to do it
+ 
+ 
+  
+Bertrand Delacretaz:Oscar, compat mode gives you a crippled system, as a
+customer I would consider it a band-aid
+ 
+ 
+  
+Bertrand Delacretaz:but a HC that tells me if my extensions are within
+bounds for painless upgrade - YES
+ 
+ 
+  
+Alexander Klimetschek:do we have a plan for a pre upgrade check tool
+that tells you whether you need the compat mode or not?
+ 
+ 
+  
+Bertrand Delacretaz:If I was whoever-allocates-money-to-things I would
+put a lot of $ on making that HC happen.
+ 
+ 
+  
+Justin Edelson:because we don't have UI extension points
+ 
+ 
+  
+Justin Edelson:we just have the overlay model today
+ 
+ 
+  
+Arek Kita:@alex: Yes - that's a goal of Pattern Detector - it will be
+acting as HC as well.
+ 
+ 
+  
+Oscar Bolaños:that's the "extension" point :)
+ 
+ 
+  
+Bertrand Delacretaz:Arek where's that Pattern Detector?
+ 
+ 
+  
+Oscar Bolaños:but it is basically killing us
+ 
+ 
+  
+Justin Edelson:fair enough @Oscar
+ 
+ 
+  
+Costin Genescu:@bertrand: next week we'll have a session for the pattern
+detector
+ 
+ 
+  
+Justin Edelson:we can play the definition game all day
+ 
+ 
+  
+Bertrand Delacretaz:Can I have a URL, not a session? I'll be off sailing
+next week ;-)
+ 
+ 
+  
+Arek Kita:@bertrand: I've sent an email to DL-dev with POC ca 2 weeks
+ago (pattern detector in subject line)
+ 
+ 
+  
+Bertrand
+Delacretaz:https://wiki.corp.adobe.com/display/WEM/CQ-85533+-+Pattern+detector+for+potentially+breaking+customizations
+?
+ 
+ 
+  
+Arek Kita:yes
+ 
+ 
+  
+Bertrand Delacretaz:thanks
+ 
+ 
+  
+Arek Kita:+  https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Farchive.corp.adobe.com%2Fdiscussion-groups%2Fcontent%2Flists%2Fadobe-dev%2F2017-08%2F2017-08-04__BC_POC_Upgrade_Compatibility_Tool_a_k_a_Pattern_Detector__Arek_Kita.html%3Fq%3Dpattern%2520detector&data=02%7C01%7C%7C9d7532666b894b15d4f608d4e9770960%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C636390144844402697&sdata=TJ9wp5JXCz6uS3kUhNk29ldZzDmWp1BfQ%2FClDot9moA%3D&reserved=0
+ 
+ 
+  
+Alexander Klimetschek:Question: please repeat the BC package/compat mode
+is a last resort
+ 
+ 
+  
+chris-k:@alex sites needs it for all changes made for 0dt
+ 
+ 
+  
+Alexander Klimetschek:I had the feeling folks got the wrong impression
+because the session started with it, like everything goes in there and then we
+are done
+ 
+ 
+  
+chris-k:what else to you have to offer
+ 
+ 
+  
+Alexander Klimetschek:a decision flow chart would help
+ 
+ 
+  
+Alexander Klimetschek:that's not true, 6.3 had a breaking change that
+was done after repeated complains
+ 
+ 
+  
+Costin Genescu:please check this epic: https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fjira.corp.adobe.com%2Fbrowse%2FCQ-4194070&data=02%7C01%7C%7C9d7532666b894b15d4f608d4e9770960%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C636390144844402697&sdata=CRX2Bycx3zeyC%2FK1wlQ1cD%2BzE87FFmSSK3vrJ1SGvZc%3D&reserved=0
+ 
+ 
+  
+Bertrand Delacretaz:Thanks everybody for a lively meeting, that's unusual.
+It shows how much people care about this.
+ 
+ 
+  
+Arek Kita:yeah BC is definitely hot topic  :) see you next week
+ 
+ 
+  
+Costin Genescu:thanks guys. p
+ 
+ 
+  
+Goran Brodnik:Thanks!
+ 
+ 
+  
+Kaushal Mall:thanks guys
