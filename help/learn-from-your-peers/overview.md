@@ -10,8 +10,6 @@ ht-degree: 0%
 
 # [!DNL Experience Makers - Learn from your peers] {#overview}
 
-&lt;!--- <img alt="Les créateurs d’expérience : apprenez de vos pairs" src="./assets/skill-exchange.png" /> --->
-
 Apprenez auprès d’experts en Adobe et de pairs comment tirer le meilleur parti de vos solutions d’Adobe. Avec des thèmes sélectionnés pour les professionnels, _par_ les utilisateurs, ces sessions interactives partagent &quot;l’art du possible&quot; cas d’utilisation, bonnes pratiques et conseils et astuces.
 
 >[!TIP]
