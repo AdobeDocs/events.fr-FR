@@ -1,7 +1,7 @@
 ---
 title: L'Échange De Compétences Est Le Maître De L'Expérience
 description: Experience Makers The Skill Exchange est une série mondiale d’événements d’apprentissage client virtuels, axés sur l’exploration des solutions Adobe Experience Cloud.
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Experience Makers The Skill Exchange est une série mondiale d’événements d�
       </a>
       <div>
          <a href="analytics/jun2021/getting-started.md"><strong>Prise en main d’Adobe Analytics</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -53,7 +53,7 @@ Experience Makers The Skill Exchange est une série mondiale d’événements d�
       </a>
       <div>
          <a href="marketo/feb2022/data-maintenance.md"><strong>Maintenance des données</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>
@@ -66,7 +66,7 @@ Experience Makers The Skill Exchange est une série mondiale d’événements d�
       </a>
       <div>
          <a href="workfront/apr2022/ten-tips.md"><strong>10 conseils pour surfer votre Workfront</strong></a>
-<!----         <br/><em>foo</em> --->
+<!---         <br/><em>foo</em> -->
       </div>
       <p>
         <br/>

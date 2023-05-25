@@ -3,7 +3,7 @@ user-guide-title: Événements Gems Adobe Experience Manager
 user-guide-description: Découvrez AEM Gems, une série d’études approfondies réalisées par des experts d’Adobe Experience Manager sur certains de ses aspects techniques.
 breadcrumb-title: Événements AEM Gems
 feature-set: Experience Manager
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 100%
@@ -120,7 +120,7 @@ ht-degree: 100%
    + [Rationalisation du processus de contenu multilingue](gems2013/aem-streamlining-multilingual-content-process.md)
    + [Mécanismes de mise à niveau d’AEM 5.6](gems2013/aem-upgrade-mechanisms.md)
 
-<!---
+<!--
 + [Archive] {#archive}
     + [AEM 6 Oak: MongoMK and Queries](archive/aem-oak-mongomk-and-queries.md)
     + [Search forms made easy with the AEM querybuilder](archive/aem-search-forms-using-querybuilder.md)
@@ -213,4 +213,4 @@ ht-degree: 100%
     + [Adobe I/O Events - Analytics Triggers](archive/aem-analytics-triggers.md)
     + [Introducing the AEM Modernization Suite](archive/introducing-the-aem-modernization-suite.md)
     + [AEM Query and Index Troubleshooting](archive/aem-query-and-index-troubleshooting2.md)
---->
+-->
