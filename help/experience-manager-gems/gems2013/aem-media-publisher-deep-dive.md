@@ -4,9 +4,9 @@ description: Obtenez un aperçu de la structure de commerce CQ 5.6 d’un point
 uuid: 20701264-a2fb-4f8e-a818-02247acbb2eb
 discoiquuid: a6a4f598-2f3b-4428-9237-40b1d21b482e
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '120'
 ht-degree: 100%
 
 ---
@@ -31,4 +31,4 @@ John Fait
 
 * [Documentation](https://docs.adobe.com/content/docs/en/cq/5-6-1/media-publisher.html)
 * [Page de produit DPS](http://www.adobe.com/ca/products/digital-publishing-suite-family.html)
-* [Service cloud DPS](https://digitalpublishing.acrobat.com/welcome.html)
+* [Service cloud DPS](https://helpx.adobe.com/fr/digital-publishing-suite/help/eol-statement-for-dpsc.html)

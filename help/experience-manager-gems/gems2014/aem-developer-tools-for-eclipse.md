@@ -4,9 +4,9 @@ description: Developer Tools d’AEM pour Eclipse est un ensemble de plug-ins E
 uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 100%
 
 ---
@@ -29,7 +29,7 @@ Stefan Egli, développeur, Adobe
 
 ## Liens connexes {#related-links}
 
-* [Developer Tools d’AEM pour Eclipse – Documentation](http://docs.adobe.com/docs/fr/dev-tools/aem-eclipse.html)
+* [Developer Tools d’AEM pour Eclipse – Documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/eclipse.html?lang=fr)
 * [Site de téléchargement de Developer Tools d’AEM](http://eclipse.adobe.com/aem/dev-tools/)
 * [Outils d’EDI Sling](https://sling.apache.org/documentation/development/ide-tooling.html)
 * [Forum de discussion et de questions](http://help-forums.adobe.com/content/adobeforums/en/experience-manager-forum/adobe-experience-manager.html)

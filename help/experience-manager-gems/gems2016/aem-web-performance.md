@@ -4,10 +4,10 @@ description: Diffuser rapidement des expériences web complexes est un art. Dans
 uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 100%
+source-wordcount: '294'
+ht-degree: 92%
 
 ---
 
@@ -40,7 +40,7 @@ AEM:\
 [https://docs.adobe.com/docs/fr/aem/6-2/develop/the-basics/clientlibs.html](https://docs.adobe.com/docs/fr/aem/6-2/develop/the-basics/clientlibs.html)\
 [https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html](https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html)\
 [https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html](https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html)\
-[https://helpx.adobe.com/fr/experience-manager/kb/performance-tuning-tips.html](https://helpx.adobe.com/fr/experience-manager/kb/performance-tuning-tips.html)
+[https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html)
 
 Composants AEM :\
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\
@@ -55,7 +55,7 @@ Performances JavaScript :\
 [https://developers.google.com/web/tools/chrome-devtools/?hl=en](https://developers.google.com/web/tools/chrome-devtools/?hl=en)
 
 Outil de profilage :\
-[https://visualvm.java.net/](https://visualvm.java.net/)
+[https://visualvm.java.net/](https://docs.oracle.com/javase/8/docs/technotes/guides/visualvm/intro.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

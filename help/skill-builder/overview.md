@@ -1,9 +1,9 @@
 ---
 title: Présentation de Skill Builder
 description: Série de webinaires enregistrés pour créer votre base de connaissances et optimiser votre investissement dans Adobe Experience Cloud.
-source-git-commit: 284ccf5a5cebf2f813dbe2b8df98a8cb325526a3
+source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '162'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Skill Builder est une série de webinaires conçus pour renforcer votre base de 
     <p>
     <em>Créez et gérez un large éventail de sites web, d’applications mobiles et de formulaires attrayants. Apprenez également à créer des expériences commerciales multicanales sur une seule plateforme grâce à notre solution de commerce flexible optimisée par l’IA.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/content-and-commerce/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sessions de navigation</span>
     </a>
   </td>
@@ -36,7 +36,7 @@ Skill Builder est une série de webinaires conçus pour renforcer votre base de 
     <p>
     <em>Développez des profils client en temps réel en extrayant des données de toutes les sources pour créer des parcours personnalisés et cross-canal.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/customer-journeys/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sessions de navigation</span>
     </a>
   </td>
@@ -48,7 +48,7 @@ Skill Builder est une série de webinaires conçus pour renforcer votre base de 
     <p>
     <em>Effectuez une personnalisation en temps réel sur n’importe quel canal à l’aide d’informations sur les données en ligne et hors ligne dans l’ensemble de votre organisation.</em>
     <p>
-    <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
+    <a href="https://experienceleague.adobe.com/docs/events//data-and-insights/overview.html?lang=en" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM">
       <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Sessions de navigation</span>
     </a>
   </td>  
