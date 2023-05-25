@@ -12,7 +12,8 @@ doc-type: Event
 last-substantial-update: 2023-05-19T00:00:00Z
 jira: KT-13305
 thumbnail: 3419557.jpeg
-source-git-commit: 7ee71356c51c875e454f6f895eaa678ae0a7c21b
+event-start-time: 2023-5-16 08:30-8
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%

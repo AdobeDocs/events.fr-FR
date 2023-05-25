@@ -12,7 +12,8 @@ doc-type: Event
 last-substantial-update: 2023-01-31T00:00:00Z
 kt: 11797
 thumbnail: kt-11797.jpeg
-source-git-commit: 59c814af6f0bb745e50ec6ca481a79f7520995fe
+event-start-time: 2023-2-22 08:30-8
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 100%

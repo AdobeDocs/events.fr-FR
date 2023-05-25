@@ -10,7 +10,8 @@ level: Beginner
 doc-type: Event
 last-substantial-update: 2023-05-17T00:00:00Z
 jira: KT-13206
-source-git-commit: 2880d89fc0a783887efb0982010ea52385c0fb3c
+event-start-time: 2023-4-27 08:30-8
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # Rationalisation de votre entreprise avec PaaS Cloud Commerce de l’Adobe
 
-Dans la dernière partie de la Série de webinaires sur le commerce APAC, nous explorons la valeur de la solution de pages de Commerce Cloud de l’Adobe. Pour toute personne qui s’auto-héberge et qui souhaite savoir ce qu’une solution PaaS peut leur offrir, ce webinaire est à votre disposition. Si vous êtes déjà client Adobe Commerce Cloud, vous pouvez vous joindre à nous pour en savoir plus sur la manière d’optimiser la valeur de votre configuration existante. 
+Dans la dernière partie de la Série de webinaires sur le commerce APAC, nous explorons la valeur de la solution de pages de Commerce Cloud de l’Adobe. Pour toute personne qui s’auto-héberge et qui souhaite savoir ce qu’une solution PaaS peut leur offrir, ce webinaire est à votre disposition. Si vous êtes déjà client Adobe Commerce Cloud, vous pouvez vous joindre à nous pour en savoir plus sur la manière d’optimiser la valeur de votre configuration existante.
 
 Vous entendrez parler de l&#39;un de nos clients, Panatrade, le principal distributeur de vêtements de sport en Indonésie, de leur parcours de On-Premise à Adobe Commerce Cloud et de la manière dont ils récoltent les fruits du passage à une solution entièrement optimisée et gérée pour leur commerce de l&#39;e-commerce.
 

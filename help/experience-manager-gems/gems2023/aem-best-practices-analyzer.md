@@ -9,7 +9,8 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 11630
-source-git-commit: 5d20c88e799787b91a4f224efcdeb917ccdd259f
+event-start-time: 2023-1-18 08:30-8
+source-git-commit: 5dd2af910607eb5c69fc08d34001ecff9bbcb485
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 100%
