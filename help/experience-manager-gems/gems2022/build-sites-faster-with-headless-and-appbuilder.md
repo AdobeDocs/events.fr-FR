@@ -10,7 +10,7 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: d9ab4de0d6666713727f41bb385ad80e2de42cb2
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%
@@ -28,7 +28,10 @@ Lancez et déployez rapidement des applications d’une seule page (SPA) à l’
 Ce webinaire a été organisé le 23 mars 2022 et présenté par Duy Nguyen, ingénieur du développement logiciel.
 
 >[!MORELIKETHIS]
-<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
+>
 >* [Thread contextuel correspondant](https://adobe.ly/3LkSWdm)
 >* Inscrivez-vous au [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/) pour être averti des webinaires à venir.
 
+
+
+<!-- >>* [Corresponding Adobe Experience Manager User Group Event page](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) -->
