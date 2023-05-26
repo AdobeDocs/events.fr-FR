@@ -12,7 +12,7 @@ kt: 7403
 type: Event
 thumbnail: 332305.jpg
 exl-id: 2acdcc8d-dafa-4b49-bfa5-502e7058f29b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Cette session se concentre sur le parcours de Forms, de On-Premise à Cloud. Il couvrira également l’activation des cas pratiques d’inscription numérique par le biais de démonstrations.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](http://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332305/?quality=12&learn=on&hidetitle=true)
 

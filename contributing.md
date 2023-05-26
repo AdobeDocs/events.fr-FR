@@ -1,5 +1,5 @@
 ---
-source-git-commit: 504ae54ecf4ea2a687e1aa3c90cf0e74734d4a9a
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 100%
@@ -25,7 +25,7 @@ Commencez par soumettre un problème. Les validateurs existants à ce projet s�
 
 ## Contrat de licence du contributeur
 
-Toutes les contributions tierces à ce projet doivent être accompagnées d’un contrat de licence de contributeur signé. Cela donne à Adobe l’autorisation de redistribuer vos contributions dans le cadre du projet. [Signez notre contrat de licence du contributeur](http://opensource.adobe.com/cla.html). Vous ne devez envoyer un contrat de licence du contributeur Adobe qu’une seule fois. Par conséquent, si vous en avez déjà envoyé un, vous pouvez poursuivre !
+Toutes les contributions tierces à ce projet doivent être accompagnées d’un contrat de licence de contributeur signé. Cela donne à Adobe l’autorisation de redistribuer vos contributions dans le cadre du projet. [Signez notre contrat de licence du contributeur](https://opensource.adobe.com/cla.html). Vous ne devez envoyer un contrat de licence du contributeur Adobe qu’une seule fois. Par conséquent, si vous en avez déjà envoyé un, vous pouvez poursuivre !
 
 ## Révisions du code
 

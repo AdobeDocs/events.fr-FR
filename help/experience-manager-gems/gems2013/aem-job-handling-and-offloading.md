@@ -5,10 +5,10 @@ uuid: 181e3781-8eca-4a5d-879e-15ae4e1f6649
 discoiquuid: ee4cd526-7363-4b8e-ad26-c2c937b70327
 targetaudience: target-audience advanced
 exl-id: 13888662-d1c5-4fff-b55e-38acede95396
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -36,6 +36,6 @@ Diapositives du présentateur – Partie 2
 
 ## Liens connexes {#related-links}
 
-* [Génération d’événements et gestion des tâches Apache Sling](http://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
-* [API Discovery et ses implémentations](http://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
-* [Tâches de déchargement](http://docs.adobe.com/docs/fr/cq/current/deploying/offloading.html)
+* [Génération d’événements et gestion des tâches Apache Sling](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [API Discovery et ses implémentations](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
+* [Tâches de déchargement](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

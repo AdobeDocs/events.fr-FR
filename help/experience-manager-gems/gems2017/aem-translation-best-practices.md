@@ -5,10 +5,10 @@ uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
 exl-id: b68fee5a-1dac-4488-8725-ec6ef73db549
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 100%
+source-wordcount: '211'
+ht-degree: 70%
 
 ---
 
@@ -31,6 +31,8 @@ Mathias Siegel, chef principal de produit, [!DNL AEM Sites], Adobe
 
 ## Liens connexes {#related-links}
 
-* [Documents sur la traduction dans AEM Sites](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation.html)
-* [Gestion des ressources multilingues](https://docs.adobe.com/docs/en/aem/6-3/author/assets/managing-assets-touch-ui/multilingual-assets.html)
-* [Documentation sur les bonnes pratiques de traduction](https://docs.adobe.com/docs/en/aem/6-3/administer/sites/translation/tc-bp.html)
+>[!WARNING]
+>
+>AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
+>
+>En ce qui concerne cette session, veuillez consulter *Documents de traduction AEM Sites*, *Documentation sur les bonnes pratiques de traduction* et *Gestion des ressources multilingues* dans la documentation d’AEM 6.3.

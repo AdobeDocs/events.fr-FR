@@ -5,10 +5,10 @@ uuid: 76e69880-3d93-49bd-98fa-0e2f34afe5f2
 discoiquuid: 97d8dc55-0f38-4505-88af-27e08b173407
 targetaudience: target-audience advanced
 exl-id: 59101371-c17d-45cc-a184-6ce7ebb01fe2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -30,7 +30,7 @@ Bertrand Delacretaz, développeur principal, Adobe
 
 ## Liens connexes {#related-links}
 
-[Documentation](http://docs.adobe.com/docs/en/cq/current/deploying/upgrading.html)
+[Documentation](https://docs.adobe.com/docs/en/cq/current/deploying/upgrading.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

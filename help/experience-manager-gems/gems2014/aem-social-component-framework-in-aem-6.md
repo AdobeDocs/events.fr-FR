@@ -5,10 +5,10 @@ uuid: ea0d66a9-258c-45a7-92c9-8f43b7615080
 discoiquuid: bb43bdf0-8d8d-40c2-865f-ad675348e667
 targetaudience: target-audience advanced
 exl-id: 46cb81e7-bd1d-4ee7-b15f-178e25eedd5a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -31,4 +31,4 @@ Siddharth Palaniswami, responsable principal d’ingénierie logicielle, Adobe
 ## Liens connexes {#related-links}
 
 * [Lien Github vers un exemple de code](https://github.com/Adobe-Marketing-Cloud/aem-scf-sample-components-extension)
-* [Structure des composants sociaux](http://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)
+* [Structure des composants sociaux](https://docs.adobe.com/content/docs/en/aem/6-0/develop/social-communities/scf.html)

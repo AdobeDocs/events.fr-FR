@@ -13,7 +13,7 @@ kt: 7170
 type: Event
 thumbnail: 331735.jpg
 exl-id: 87c64749-6f4a-4143-9c06-d0441776f304
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Découvrez comment le framework Blueprint de Digital Foundation vous permet de mettre en oeuvre rapidement une conception avec des fonctionnalités prêtes à l’emploi et une personnalisation minimale.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](http://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331735/?quality=12&learn=on&hidetitle=true)
 

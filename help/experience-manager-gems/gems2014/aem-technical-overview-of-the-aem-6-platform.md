@@ -5,10 +5,10 @@ uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
 exl-id: 674467f9-d05d-49ab-b457-975f413342fe
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -30,6 +30,6 @@ Peter Klassen, chef de produit, Adobe
 
 ## Liens connexes {#related-links}
 
-* [Notes de mise à jour d’AEM 6.0](http://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
-* [Gestion d’AEM 6.0](http://docs.adobe.com/docs/fr/aem/6-0/manage.html)
-* [Planification de votre mise à niveau vers AEM 6.0](http://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)
+* [Notes de mise à jour d’AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/release-notes.html)
+* [Gestion d’AEM 6.0](https://docs.adobe.com/docs/en/aem/6-0/manage.html)
+* [Planification de votre mise à niveau vers AEM 6.0](https://docs.adobe.com/content/docs/en/aem/6-0/deploy/upgrade/planning.html)

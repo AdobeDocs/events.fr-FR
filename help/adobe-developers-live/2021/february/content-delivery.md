@@ -12,7 +12,7 @@ kt: 7270
 type: Event
 thumbnail: 332022.jpg
 exl-id: e5c3b842-c8d5-413a-9019-cfe87f1b35ef
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 29%
@@ -23,7 +23,7 @@ ht-degree: 29%
 
 Adobe Experience Manager as a Cloud Service dispose d’une puissante architecture de diffusion de contenu préconfigurée. Montrer comment tirer le meilleur parti des configurations optimisées de diffusion de contenu.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](http://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332022/?quality=12&learn=on&hidetitle=true)
 

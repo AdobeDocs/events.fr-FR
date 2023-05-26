@@ -13,7 +13,7 @@ kt: 7187
 type: Event
 thumbnail: 331850.jpg
 exl-id: c41fd457-a8aa-4ab5-a7e4-67562aa77d63
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Découvrez comment étendre les composants principaux de Commerce à l’aide de GraphQL.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](http://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 

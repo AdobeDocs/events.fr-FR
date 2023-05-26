@@ -14,7 +14,7 @@ kt: 11797
 thumbnail: kt-11797.jpeg
 event-start-time: 2023-2-22 08:30-8
 exl-id: 6749cb7d-9130-4855-8a6a-8818810339ae
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 100%
@@ -42,6 +42,6 @@ Les RDE permettent aux développeurs et développeuses de déployer et d’exami
 
 >[!NOTE]
 >
->* Pour plus d’interactions de la communauté Experience League spécifiques à une session, consultez ce [thread contextuel](http://bit.ly/3x1Cl8x).
+>* Pour plus d’interactions de la communauté Experience League spécifiques à une session, consultez ce [thread contextuel](https://bit.ly/3x1Cl8x).
 >* Pour recevoir des notifications concernant les futurs webinaires, inscrivez-vous sur le [groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/).
 

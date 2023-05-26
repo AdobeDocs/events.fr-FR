@@ -12,7 +12,7 @@ kt: 7174
 type: Event
 thumbnail: 331740.jpg
 exl-id: e1ac9124-847a-4432-8ab4-eef52b2a88c7
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 Une table ronde avec Carsten Ziegeler, Karl Pauls et David Bosschaert sur les raisons pour lesquelles nous utilisons OSGi, pourquoi il est pertinent dans le cloud et ce que les développeurs Adobe Experience Manager doivent savoir à ce sujet.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](http://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331740/?quality=12&learn=on&hidetitle=true)

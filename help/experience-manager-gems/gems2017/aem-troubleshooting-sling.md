@@ -6,10 +6,10 @@ topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
 exl-id: 19ded93d-2183-4a26-9dc6-8c25cdd4caeb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 100%
+source-wordcount: '182'
+ht-degree: 70%
 
 ---
 
@@ -31,11 +31,12 @@ Timothée Maret, développeur principal, Adobe
 
 ## Ressources {#resources}
 
-Synchronisation des utilisateurs
+>[!WARNING]
+>
+>AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
+>
+>En ce qui concerne cette session, veuillez consulter *Synchronisation des utilisateurs* dans la documentation AEM.
 
-* [Documentation d’AEM 6.3](https://docs.adobe.com/docs/en/aem/6-3/administer/security/security/sync.html)
-* [Documentation d’AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/administer/security/security/sync.html)
-* [Documentation d’AEM 6.1](https://docs.adobe.com/docs/en/aem/6-1/administer/security/security/sync.html)
 * [Distribution de contenu Apache Sling](https://sling.apache.org/documentation/bundles/content-distribution.html)
 * [Revenir à la présentation](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 

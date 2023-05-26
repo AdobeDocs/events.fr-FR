@@ -9,7 +9,7 @@ kt: 7189
 type: Event
 thumbnail: 331852.jpg
 exl-id: fe442380-d52d-4718-84ff-fec4011ae8f2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Vous souhaitez étendre les solutions Adobe à l’aide d’une architecture moderne qui fonctionne pour plusieurs solutions ? Nous pensons que vous devriez essayer Adobe Developer App Builder.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](http://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331852/?quality=12&learn=on&hidetitle=true)
 

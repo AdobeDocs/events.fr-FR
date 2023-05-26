@@ -5,10 +5,10 @@ uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
 exl-id: 8a66cda4-c856-415f-a1fd-cafc6909b7ee
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 92%
+source-wordcount: '296'
+ht-degree: 76%
 
 ---
 
@@ -30,6 +30,10 @@ Diffuser rapidement des expériences web complexes est un art. Dans cette confé
 
 ## Liens connexes {#related-links}
 
+>[!WARNING]
+>
+>AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
+
 Apache:\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
 
@@ -38,9 +42,6 @@ Normes web :\
 [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
 
 AEM:\
-[https://docs.adobe.com/docs/fr/aem/6-2/develop/the-basics/clientlibs.html](https://docs.adobe.com/docs/fr/aem/6-2/develop/the-basics/clientlibs.html)\
-[https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html](https://docs.adobe.com/docs/en/aem/6-2/develop/mobile-web/responsive.html)\
-[https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html](https://docs.adobe.com/docs/en/aem/6-2/develop/components/developer-mode.html)\
 [https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html)
 
 Composants AEM :\
@@ -49,7 +50,7 @@ Composants AEM :\
 
 Troisième niveau:\
 [https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)\
-[http://www.appelsiini.net/projects/lazyload](http://www.appelsiini.net/projects/lazyload)
+[https://www.appelsiini.net/projects/lazyload](https://www.appelsiini.net/projects/lazyload)
 
 Performances JavaScript :\
 [https://gist.github.com/paulirish/5d52fb081b3570c81e3a](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)\

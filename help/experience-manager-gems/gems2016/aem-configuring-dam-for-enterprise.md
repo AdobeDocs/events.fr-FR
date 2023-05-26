@@ -6,10 +6,10 @@ dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
 exl-id: 4d9bd5a8-9052-42e6-87df-2c1bdfce575a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 100%
+source-wordcount: '301'
+ht-degree: 81%
 
 ---
 
@@ -35,6 +35,11 @@ Les participants pourront mieux comprendre comment utiliser la gestion des resso
 
 ## Liens connexes {#related-links}
 
+>[!WARNING]
+>
+>AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
+>
+>En ce qui concerne cette session, veuillez consulter *Notes de mise à jour de l’application de bureau* dans la documentation d’AEM 6.2.
+
 * [Mises à jour de la documentation AEM Assets](https://docs.adobe.com/content/docs/fr/aem/recent-documentation-updates.html)
-* [Notes de mise à jour d’AEM 6.1 SP2](https://docs.adobe.com/docs/fr/aem/6-1/release-notes-sp2.html)
-* [Notes de mise à jour de l’application de bureau AEM 6.2](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)
+

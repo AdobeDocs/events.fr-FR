@@ -13,7 +13,7 @@ kt: 7178
 type: Event
 thumbnail: 331743.jpg
 exl-id: b541fca1-de05-444a-adb5-44398d0df9ad
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Chargez votre SPA React ou Angular existant dans l’éditeur de page et, avec une intervention minimale, activez les auteurs à insérer du contenu qu’ils modifient en contexte.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](http://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
 

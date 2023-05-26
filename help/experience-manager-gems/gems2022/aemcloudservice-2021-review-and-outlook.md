@@ -11,10 +11,10 @@ level: Intermediate
 kt: 10055
 thumbnail: 341444.jpeg
 exl-id: 6ccb55f7-bf15-4f88-8822-950ca9de5e15
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -30,7 +30,7 @@ Ce webinaire a été organisé le 25 janvier 2022 et présenté par Bertrand d
 
 >[!MORELIKETHIS]
 >
->* [Page Événement de groupe d’utilisateurs Adobe Experience Manager correspondant](https://aem-augs.adobe.com/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-adobe-experience-manager-as-a-cloud-service-2021-review-and-2022-outlook/)
+>* [Page Événement de groupe d’utilisateurs Adobe Experience Manager correspondant](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
 >* [Thread contextuel correspondant](https://adobe.ly/3rqbSOz)
 >* Inscrivez-vous au [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/) pour être averti des webinaires à venir.
 

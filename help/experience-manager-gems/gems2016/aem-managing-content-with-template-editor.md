@@ -5,10 +5,10 @@ uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: f29e6070-62d3-472c-9772-d470134e76d1
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 100%
+source-wordcount: '270'
+ht-degree: 78%
 
 ---
 
@@ -34,5 +34,8 @@ Spécialiste sur le chat,
 
 ## Liens connexes {#related-links}
 
-* [Modèles de page](https://docs.adobe.com/docs/en/aem/6-2/develop/templates/page-templates-editable.html)
-* [Création de modèles de page](https://docs.adobe.com/docs/fr/aem/6-2/author/site-page-features/templates.html)
+>[!WARNING]
+>
+>AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
+>
+>En ce qui concerne cette session, veuillez consulter *Modèles de page* et *Création de modèles de page* dans la documentation d’AEM 6.2.

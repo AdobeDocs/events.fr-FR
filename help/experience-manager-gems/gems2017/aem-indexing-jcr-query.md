@@ -6,10 +6,10 @@ topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
 exl-id: 30a68d44-f4f1-4370-8e96-edc6f9cbfe1a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '155'
+ht-degree: 52%
 
 ---
 
@@ -29,8 +29,15 @@ ht-degree: 100%
 
  Documentation d’AEM 
 
-* [Requêtes et indexation Oak](https://docs.adobe.com/docs/en/aem/6-3/deploy/platform/queries-and-indexing.html)
-* [Bonnes pratiques en ce qui concerne les requêtes et l’indexation](https://docs.adobe.com/docs/en/aem/6-3/deploy/best-practices/best-practices-for-queries-and-indexing.html)
+>[!CAUTION]
+>
+>**Toutes les sessions enregistrées sont répertoriées dans le volet de navigation de gauche.**.
+
+>[!WARNING]
+>
+>AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
+>
+>En ce qui concerne cette session, veuillez consulter *Requêtes et indexation Oak* et *Bonnes pratiques relatives aux requêtes et à l’indexation* dans la documentation d’AEM 6.3.
 
 Documentation Oak
 
