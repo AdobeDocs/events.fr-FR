@@ -1,7 +1,7 @@
 ---
 title: Série de webinaires sur le commerce APAC
 description: La Série de webinaires sur le commerce APAC est une cadence mensuelle d’ateliers pour les clients Adobe Commerce qui couvre un large éventail de sujets, des bonnes pratiques aux feuilles de route des produits en passant par les tendances du secteur.
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+source-git-commit: fe18679ea0bdbb10d88e651b001737833ed1abff
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -44,7 +44,7 @@ La Série de webinaires sur le commerce APAC est une cadence mensuelle d’ateli
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
-      <img alt="Classe maître New Relic" src="./assets/new-relic.png" />
+      <img alt="Classe maître New Relic" src="https://video.tv.adobe.com/v/345148?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2022/new-relic.html">
