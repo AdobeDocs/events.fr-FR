@@ -11,13 +11,13 @@ level: Intermediate
 kt: 7179
 type: Event
 thumbnail: 331761.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 93ee54d3-b522-47c8-91f9-eb9f9487afc9
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # SDK Experience Platform et Launch côté serveur
 

@@ -8,13 +8,13 @@ role: Leader, Architect, Developer, Admin
 level: Intermediate, Experienced
 kt: 10790
 thumbnail: 345380.png
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 84c85f98-98e5-44fe-96b4-5a6e4546cece
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # Extension d’Adobe Experience Manager Headless avec Adobe App Builder
 

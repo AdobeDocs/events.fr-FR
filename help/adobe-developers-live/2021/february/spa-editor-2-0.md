@@ -12,13 +12,13 @@ version: Cloud Service
 kt: 7178
 type: Event
 thumbnail: 331743.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: b541fca1-de05-444a-adb5-44398d0df9ad
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # SPA Editor 2.0 - Ajout de zones de contenu modifiables en contexte à n’importe quelle application
 

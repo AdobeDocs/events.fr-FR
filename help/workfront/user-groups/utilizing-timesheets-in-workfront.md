@@ -5,7 +5,8 @@ role: Admin, Leader, User
 level: Beginner, Intermediate
 kt: 10010
 thumbnail: 341228.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: dabd60b7-1543-498f-b390-990794a1ecf3
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%

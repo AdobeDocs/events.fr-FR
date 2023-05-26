@@ -4,7 +4,8 @@ description: Les portails multimédias sont essentiels pour que les entreprises 
 uuid: 0a5a3c7c-60b2-400f-b555-ca51f01e8184
 discoiquuid: 524f8a2e-dcd4-44b5-ae2f-524dff8f03ab
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 2664bee0-85d4-4f85-bdd2-841d2d5f1e35
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 100%

@@ -4,7 +4,8 @@ description: Developer Tools d’AEM pour Eclipse est un ensemble de plug-ins E
 uuid: cb4bb28a-8370-4425-b082-3516b35f3125
 discoiquuid: dfefaa5f-0800-4d6c-99c0-430b2d960079
 targetaudience: target-audience advanced
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+exl-id: 539da93f-b3be-4c66-81de-fe97fcb19727
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 100%

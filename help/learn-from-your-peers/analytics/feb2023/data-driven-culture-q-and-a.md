@@ -6,7 +6,8 @@ doc-type: Event
 last-substantial-update: 2023-02-16T00:00:00Z
 jira: KT-11881
 thumbnail: 3415614.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: a663394c-6394-4831-a0d4-17ee8799c4de
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

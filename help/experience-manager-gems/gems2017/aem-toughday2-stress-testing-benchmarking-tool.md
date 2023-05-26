@@ -4,7 +4,8 @@ description: « Tough Day » était un outil de test qui simulait les pire ca
 uuid: 6bf40482-6152-421b-bdfe-9a50176b98b7
 discoiquuid: d60dbb18-7938-4446-9928-7f5f5d1f83a1
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 17c03036-bd8c-4cc7-bb66-8600d17cb98c
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 100%

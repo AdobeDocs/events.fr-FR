@@ -7,13 +7,13 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate
 kt: 10786
 thumbnail: 345382.png
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 93c3b60d-c3a2-4ba9-8282-83184c986f68
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
-
 
 # Création d’une chaîne d’approvisionnement de contenu à l’échelle
 

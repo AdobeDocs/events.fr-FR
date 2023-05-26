@@ -12,13 +12,13 @@ version: Cloud Service
 kt: 7170
 type: Event
 thumbnail: 331735.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 87c64749-6f4a-4143-9c06-d0441776f304
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # Valeur rapide avec Adobe Experience Manager Sites
 

@@ -4,7 +4,8 @@ description: Rejoignez-nous pour connaître les bonnes pratiques de déploiement
 uuid: ff4d7884-c3df-44a9-9863-78a79fa58fad
 discoiquuid: 9020b761-503f-4e4a-9d4f-eb615919d716
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 55b4da7c-b21c-4ae2-9008-6d37e4f97006
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%

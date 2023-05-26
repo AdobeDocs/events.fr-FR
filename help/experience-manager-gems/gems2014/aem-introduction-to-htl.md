@@ -4,7 +4,8 @@ description: Découvrez HTL, un nouveau moteur de modèle et une nouvelle mise e
 uuid: 980bc4ee-8b7f-4bce-9933-8b8af4cce3d2
 discoiquuid: e53db2da-f9a4-45b8-9203-1e4084937bba
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 9bf7b7ab-2eb1-4a8e-9e6d-2e8e209abc30
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%

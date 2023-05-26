@@ -4,7 +4,8 @@ description: La version OSGi R7 représente de nombreux et importants changemen
 uuid: a173cd38-d646-4748-b8d0-8a726f1c3be8
 discoiquuid: da05c4fb-e8b7-4f01-b588-dea904eaddf9
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 3680483f-fb50-4272-86bd-46c2bc22d0a5
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%

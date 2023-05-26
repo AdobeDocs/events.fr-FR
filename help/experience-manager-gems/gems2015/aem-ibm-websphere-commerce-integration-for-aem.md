@@ -4,7 +4,8 @@ description: Découvrez les différentes fonctionnalités d’intégration au tr
 uuid: 0c7aa66b-3909-4eeb-85d6-87e7faa4db39
 discoiquuid: f9e11075-59f1-46cb-82c7-ba85864f5e33
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: f9fd62b7-89e4-46d3-a3e2-40f5d856580f
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%

@@ -4,7 +4,8 @@ description: Déterminer si une instance AEM est saine n’est pas une tâche si
 uuid: 33d6c0e2-9bf8-443d-babe-2ceda52a1837
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 03298b03-360c-43af-9ece-ad95b49f581b
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 100%

@@ -7,13 +7,13 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner
 kt: 10788
 thumbnail: 345378.png
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 9d867d04-debc-4ebd-8c17-487ab83fc807
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
-
 
 # Ressources pour tous
 

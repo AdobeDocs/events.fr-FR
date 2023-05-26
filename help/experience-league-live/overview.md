@@ -5,7 +5,8 @@ solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
-source-git-commit: f4953d9b0a3449d31e09877e11ef29524e3026fb
+exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 48%

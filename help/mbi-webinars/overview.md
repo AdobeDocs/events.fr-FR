@@ -1,7 +1,8 @@
 ---
 title: Événements MBI
 description: Explorez les webinaires enregistrés sur l’IMS, qui couvrent un large éventail de sujets et de bonnes pratiques pour utiliser l’IMS à son plein potentiel.
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 30%

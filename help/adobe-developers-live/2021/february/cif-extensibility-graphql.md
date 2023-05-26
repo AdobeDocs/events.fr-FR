@@ -12,13 +12,13 @@ version: Cloud Service
 kt: 7187
 type: Event
 thumbnail: 331850.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: c41fd457-a8aa-4ab5-a7e4-67562aa77d63
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
-
 
 # Extensibilité de la structure d’intégration de commerce via GraphQL
 

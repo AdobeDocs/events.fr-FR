@@ -4,7 +4,8 @@ description: Découvrez notre solution d’intégration pour hybris dans AEM. No
 uuid: d09192f9-c9a3-43db-8538-d581838e1e27
 discoiquuid: 7fc5a2ec-df8c-44c1-95d0-050d77f82349
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 3fb71915-e0b0-4919-966f-cc0417d708c6
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 100%

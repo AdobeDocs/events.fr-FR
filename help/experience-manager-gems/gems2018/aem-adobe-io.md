@@ -4,7 +4,8 @@ description: Fatigué de créer des connecteurs pour AEM ? Découvrez comment e
 uuid: 78a98ffd-cdca-462a-8915-fd936a270232
 discoiquuid: 4c239cfb-5c0f-45d7-a856-acdfd015df5d
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: b7b4b4cb-93f3-49a8-a542-44847d9b8f24
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%

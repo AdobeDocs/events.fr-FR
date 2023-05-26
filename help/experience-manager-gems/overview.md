@@ -10,7 +10,8 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: Sessions AEM Gems
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: 595f6977-935a-4859-9cfd-161d45847f85
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 100%
@@ -72,5 +73,3 @@ Notre [Communauté Experience Manager](https://experienceleaguecommunities.adob
 * Connexion : un réseau de pairs et de membres du personnel d’Adobe pour obtenir des conseils et des bonnes pratiques, de la mise en œuvre à l’optimisation de l’utilisation des produits
 * Réponses rapides : vaste base de données de réponses de cas pratiques réels pour une utilisation active et réussie des solutions Adobe
 * Idéation et commentaires : apprenez des idées de produits client et offrez un retour VoC précieux aux équipes produit.
-
-

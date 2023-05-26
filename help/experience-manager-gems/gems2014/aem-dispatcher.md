@@ -4,7 +4,8 @@ description: Cette session va explorer les nouvelles fonctionnalités du Dispatc
 uuid: df8dc6ec-3785-4204-b0b9-e656a1a4db94
 discoiquuid: 732207fa-d0f6-4bc8-8cda-f25703e4b061
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 65c0fdeb-39ab-4a90-a5eb-fcb8ec474a10
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%

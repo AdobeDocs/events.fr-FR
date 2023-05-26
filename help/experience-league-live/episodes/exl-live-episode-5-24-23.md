@@ -8,7 +8,8 @@ event-cta-url-live: https://www.youtube.com/watch?v=ABhwYw44r2g
 event-cta-url-reg: null
 event-start-time: 2023-5-24 08:30-8
 event-guests: Sandra Hausmann,Chetan Prasad,Peter Fransen
-source-git-commit: 408a3ae9ada432dc515d49c1108ce1f732c3a1f2
+exl-id: 558800ab-ea45-460b-9970-1714bdb4dcf7
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%

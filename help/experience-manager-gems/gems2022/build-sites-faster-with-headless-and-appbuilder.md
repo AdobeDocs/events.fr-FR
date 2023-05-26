@@ -10,7 +10,8 @@ role: Developer
 level: Intermediate
 kt: 10053
 thumbnail: 341311.jpeg
-source-git-commit: d9ab4de0d6666713727f41bb385ad80e2de42cb2
+exl-id: 2b8158e3-3122-4ce6-ad0a-3124664fd0aa
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 100%

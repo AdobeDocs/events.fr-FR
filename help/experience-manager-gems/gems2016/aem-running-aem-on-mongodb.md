@@ -4,7 +4,8 @@ description: Cette Gem AEM explique comment exécuter AEM sur MongoDB dans une 
 uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: a730275f-cfc9-4fbe-aa7b-d0a5220a8417
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 100%

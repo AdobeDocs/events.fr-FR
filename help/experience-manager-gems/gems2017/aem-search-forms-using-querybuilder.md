@@ -4,7 +4,8 @@ description: Cette session explique les principes sous-jacents de QueryBuilder p
 uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: f0fd2a81-80c9-41df-844b-d94362c9f27a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 100%

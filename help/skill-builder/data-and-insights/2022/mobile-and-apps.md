@@ -6,7 +6,8 @@ role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10568
 thumbnail: 343819.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 84ad109b-650f-4f33-bb1d-6e3a98c46ad1
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%

@@ -9,7 +9,8 @@ feature: Analytics Basics, Analysis Workspace, Visualizations, Segmentation, Met
 doc-type: Event
 kt: 10318
 thumbnail: 342528.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 1169e01e-19c5-4cfc-a6b5-d050f006955f
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%

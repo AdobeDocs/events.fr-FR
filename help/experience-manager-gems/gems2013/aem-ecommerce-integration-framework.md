@@ -4,7 +4,8 @@ description: Dans le cadre d’Adobe Experience Manager, CQ 5.6 fournit une n
 uuid: cf925889-3538-4ae4-a82c-a8e5d30ad1ab
 discoiquuid: c2876633-70b8-46d9-b63d-581b40ec0fef
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: e08c14f4-a46a-43b0-a7a0-18c4a778324b
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%

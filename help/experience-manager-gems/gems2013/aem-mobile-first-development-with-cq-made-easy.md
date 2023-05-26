@@ -4,7 +4,8 @@ description: Découvrez les modèles de responsive design dans CQ et comment dé
 uuid: 20f50539-8299-4080-818c-77201047022b
 discoiquuid: 5d79cfc0-a128-445b-9745-fd3722b550ac
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 29d15dc9-7e53-4ec3-ad4f-eb58be7d2e27
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 100%

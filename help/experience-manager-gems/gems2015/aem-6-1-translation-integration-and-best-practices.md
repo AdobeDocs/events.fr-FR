@@ -4,7 +4,8 @@ description: Découvrez une présentation des fonctionnalités améliorées d’
 uuid: 07db1af6-e823-44cb-8502-4b4a135902c9
 discoiquuid: b05a88a0-8a38-432b-99f7-23e3799ad209
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 13dad1bb-9190-470e-a0e5-fd10b13fed57
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%

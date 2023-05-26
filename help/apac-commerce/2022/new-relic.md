@@ -7,7 +7,8 @@ role: Leader, Architect, Developer, Data Architect, Admin, User
 level: Beginner
 kt: 10712
 thumbnail: 345148.jpeg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 695bc9ab-8d06-449d-9ef8-c0a61b90ae27
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%

@@ -1,7 +1,8 @@
 ---
 title: Présentation de Skill Builder
 description: Effectuez une personnalisation en temps réel sur n’importe quel canal à l’aide d’informations sur les données en ligne et hors ligne dans l’ensemble de votre organisation.
-source-git-commit: c64a24e142a493f71a8712f0af72a50bca53921d
+exl-id: dbb8c5dc-596d-4f89-8a81-3ea201dd4b6b
+source-git-commit: e04e1c9bea0b99e7f35aedbe18942f04e10df5d2
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 6%
@@ -18,7 +19,7 @@ Effectuez une personnalisation en temps réel sur n’importe quel canal à l’
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
-      <img alt="Personnaliser et automatiser avec Adobe Target" src="assets/343821.jpeg" />
+      <img alt="Personnaliser et automatiser avec Adobe Target" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/personalize.html">
@@ -31,7 +32,7 @@ Effectuez une personnalisation en temps réel sur n’importe quel canal à l’
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
-      <img alt="Innovations et tendances 2022" src="assets/343818.jpeg" />
+      <img alt="Innovations et tendances 2022" src="https://video.tv.adobe.com/v/343818?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/innovations.html">
@@ -44,7 +45,7 @@ Effectuez une personnalisation en temps réel sur n’importe quel canal à l’
   </td>  
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
-      <img alt="Applications Analytics et Target pour les applications mobiles et les applications" src="assets/343819.jpeg" />
+      <img alt="Applications Analytics et Target pour les applications mobiles et les applications" src="https://video.tv.adobe.com/v/343819?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/data-and-insights/2022/mobile-and-apps.html">
@@ -61,4 +62,3 @@ Effectuez une personnalisation en temps réel sur n’importe quel canal à l’
 >[!TIP]
 >
 >**Toutes les sessions enregistrées sont répertoriées dans le volet de navigation de gauche.**.
-

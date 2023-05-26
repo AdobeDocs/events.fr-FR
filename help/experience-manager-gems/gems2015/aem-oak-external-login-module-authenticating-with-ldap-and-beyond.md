@@ -4,7 +4,8 @@ description: Découvrez le nouveau module de connexion externe d’Apache Jackra
 uuid: 97f60619-50fd-4f6d-ad77-3afb5951846c
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 74f54b4c-28dd-420e-81d9-4abe1824989b
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%

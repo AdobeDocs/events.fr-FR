@@ -4,7 +4,8 @@ description: La session présente un aperçu du magasin de données (DS) et des 
 uuid: 65aabe5c-2f33-4caf-a01c-803e2c71f49d
 discoiquuid: 2d92a9bf-4a98-46d9-8b4c-583654e5bac0
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 85a7f830-5a72-499e-9b41-797537fbf2be
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 100%

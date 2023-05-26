@@ -7,7 +7,8 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10633
 thumbnail: 344312.jpeg
-source-git-commit: 75f8d18c3394ff4997322db4745d8cd1004481ec
+exl-id: 87bed2ec-5ad6-4eab-bf68-30275aaea2db
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 1%

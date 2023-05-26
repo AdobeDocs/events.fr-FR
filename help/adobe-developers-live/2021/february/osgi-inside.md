@@ -11,13 +11,13 @@ version: Cloud Service
 kt: 7174
 type: Event
 thumbnail: 331740.jpg
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: e1ac9124-847a-4432-8ab4-eef52b2a88c7
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # OSGi à l&#39;intérieur - pourquoi nous l&#39;aimons et pourquoi vous n&#39;avez pas vraiment besoin de vous en préoccuper
 

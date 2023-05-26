@@ -2,7 +2,8 @@
 title: Présentation de cette version d’Adobe Experience Manager as a Cloud Service
 description: Obtenez un aperçu rapide sur les dernières fonctionnalités d’Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
-source-git-commit: d266db05fdbb172f4600b720cf8ba445926ac8c9
+exl-id: 15bc0a37-79c6-47f7-958b-96b47fe8b3ff
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 100%

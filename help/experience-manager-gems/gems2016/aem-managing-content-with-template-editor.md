@@ -4,7 +4,8 @@ description: Adobe Experience Manager 6.2 introduit un nouvel éditeur de mod
 uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: f29e6070-62d3-472c-9772-d470134e76d1
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 100%

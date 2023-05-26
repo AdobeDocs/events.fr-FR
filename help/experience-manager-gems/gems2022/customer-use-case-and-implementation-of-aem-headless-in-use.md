@@ -8,7 +8,8 @@ feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: 5d20c88e799787b91a4f224efcdeb917ccdd259f
+exl-id: 5f75ebf2-1a15-4d1d-b233-6de1cfecd11f
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%

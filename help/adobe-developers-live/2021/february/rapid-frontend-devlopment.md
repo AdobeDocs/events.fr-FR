@@ -12,13 +12,13 @@ version: Cloud Service
 kt: 7177
 type: Event
 thumbnail: 331737.jpg
-source-git-commit: 184c50f1424d2e49da6e84f88a111397e2541153
+exl-id: 9b221a85-5e8b-486c-9d47-17f939c9a59c
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # Rapide Frontend Development - Your Future Workflow
 

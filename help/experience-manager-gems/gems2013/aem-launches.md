@@ -4,7 +4,8 @@ description: Découvrez comment utiliser AEM Launches pour travailler simultané
 uuid: ebff46e5-e580-4a42-bb8a-55ea0fa13d9e
 discoiquuid: a18d345a-fbb4-4ace-b569-96fd95503a39
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: dca9a8d0-c956-42a7-93e6-12abaf47d041
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 100%

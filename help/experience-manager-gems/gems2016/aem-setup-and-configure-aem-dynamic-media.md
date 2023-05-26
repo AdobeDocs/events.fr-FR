@@ -4,7 +4,8 @@ description: Dynamic Media AEM permet aux clients de diffuser des expériences 
 uuid: 7074c98e-f9d1-4c15-b9db-dae3efda0ea0
 discoiquuid: c58473c1-d8d8-44a7-ac40-65843c77c937
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: c0e407ef-4b74-4f18-812d-ff97732dae5d
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 100%

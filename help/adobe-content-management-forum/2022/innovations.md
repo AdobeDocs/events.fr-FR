@@ -7,13 +7,13 @@ role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner
 kt: 10789
 thumbnail: 345379.png
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: fb45a679-ab98-46c5-bc5b-243bdd43ad6e
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
 
 ---
-
 
 # Innovations as a Cloud Service Experience Manager
 

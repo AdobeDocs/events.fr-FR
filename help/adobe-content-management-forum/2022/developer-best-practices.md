@@ -8,13 +8,13 @@ role: Architect, Developer
 level: Intermediate, Experienced
 kt: 10791
 thumbnail: 345381.png
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 87511f79-d1dd-417f-8be5-6c688ea25883
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 9%
 
 ---
-
 
 # Meilleures pratiques pour les développeurs pour accélérer la mise sur le marché d’Adobe Experience Manager Sites
 

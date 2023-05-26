@@ -4,7 +4,8 @@ description: Obtenez des instructions détaillées sur les paramètres et la con
 uuid: 48c54652-4816-4e31-933d-5d710db40ba3
 discoiquuid: 731a0196-b5da-459c-96a6-7da08cd3756d
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: 6be84631-1f4b-4240-985e-028e60b0cd4f
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 100%

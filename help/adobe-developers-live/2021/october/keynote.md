@@ -7,7 +7,8 @@ role: Developer, Architect
 level: Beginner, Intermediate, Experienced
 kt: 9116
 type: Event
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+exl-id: cfc20237-e410-45dc-ac82-12a0074f411a
+source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 36%
