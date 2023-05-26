@@ -3,13 +3,13 @@ title: Effectuez la collecte de données et le transfert d’événement en quel
 description: En quelques clics, les workflows de démarrage rapide de la collecte de données d’Adobe configureront plusieurs éléments sur le serveur principal afin de gagner du temps et de vous assurer que votre configuration est correcte.
 solution: Data Collection,Experience Platform,Analytics,Real-time Customer Data Platform,Customer Journey Analytics
 kt: 13041
-thumbnail: 3417927.jpeg
+thumbnail: https://video.tv.adobe.com/v/3417927?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=jGjIKIWFNsM
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230425.html
 event-start-time: 2023-4-25 09:00-8
 event-guests: Rudi Shumpert,Travis Jordan,Doug Moore
 exl-id: 1c5c5c90-9772-440e-a7eb-5138d4adadb9
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 2f91f340269875ee9affbfafc09a3476bfb80d39
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 39%

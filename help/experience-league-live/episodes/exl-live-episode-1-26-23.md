@@ -3,13 +3,13 @@ title: Points forts de la collecte de données et feuille de route
 description: La collecte de données est très importante en Adobe ! Vous devez être en mesure de faire confiance aux données que vous utilisez. L’année dernière, des sorties importantes ont eu lieu et de grandes choses arrivent.
 solution: Data Collection,Experience Platform,Analytics,Real-time Customer Data Platform,Customer Journey Analytics
 kt: 11645
-thumbnail: 3412963.jpg
+thumbnail: https://video.tv.adobe.com/v/3412963?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=Gj_FDCMgU8I
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230126.html
 event-start-time: 2023-1-26 09:00-8
 event-guests: Rudi Shumpert,Mitch Rice,Doug Moore
 exl-id: f2552b21-3b1e-4538-bfe4-a37f4225c4d0
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 2f91f340269875ee9affbfafc09a3476bfb80d39
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 37%
