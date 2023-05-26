@@ -3,13 +3,13 @@ title: Demandez aux experts - Enchères de données et préparation des données
 description: Au cours de cette session concernant la collecte de données pour Adobe Experience Cloud, nos experts vous donneront un aperçu plus détaillé des fonctionnalités avancées de collecte de données d’Adobe, y compris des fonctions telles que la préparation de données pour la collecte de données. À la fin de cette session, les participants auront confiance dans les dernières fonctionnalités puissantes de collecte de données issues d’expériences numériques.
 solution: Data Collection,Experience Platform
 kt: 10528
-thumbnail: 345342.jpeg
+thumbnail: https://video.tv.adobe.com/v/345342?format=jpeg
 event-cta-text: Watch the replay
 event-cta-url: https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en
 event-start-time: 2022-07-21 09:00-7
 event-guests: Rudi Shumpert, Jeff Chasin, Eric Matisoff
 exl-id: ab5121f7-3e92-48a7-8bcc-a4456a4eab6e
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%

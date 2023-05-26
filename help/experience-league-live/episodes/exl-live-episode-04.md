@@ -5,12 +5,12 @@ landing-page-description: Découvrez comment utiliser les classifications avec l
 short-description: Découvrez comment utiliser les classifications avec le Activity Map pour mieux comprendre le comportement des utilisateurs et pour tracer les clics qui conduisent à des activités de site importantes.
 solution: Analytics
 kt: 9255
-thumbnail: 338108.jpg
+thumbnail: https://video.tv.adobe.com/v/338108?format=jpeg
 event-cta-url: null
 event-start-time: 2021-10-21 09:00-7
 event-guests: Jenn Kunz,Adam Klintworth
 exl-id: b601414e-7892-452e-8dd3-e9d917bd9b3e
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 7%

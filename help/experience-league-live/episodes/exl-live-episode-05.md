@@ -6,12 +6,12 @@ short-description: Découvrez comment créer un site dans AEM en utilisant un mo
 solution: Experience Manager
 sub-product: Experience Manager Sites
 kt: 9397
-thumbnail: 338798.jpg
+thumbnail: https://video.tv.adobe.com/v/338798?format=jpeg
 event-cta-url: null
 event-start-time: 2021-11-18 09:00-8
 event-guests: Danny Gordon,Shankari Panchapakesan,Gabriel Walt
 exl-id: 2760b900-44b0-49bc-9d63-39a459c338f1
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 29%
