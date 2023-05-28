@@ -1,22 +1,22 @@
 ---
-title: Évolutivité et efficacité à l’aide de jetons dans Marketo Engage
-description: Découvrez comment utiliser des jetons au-delà de la personnalisation afin de rendre la création et les opérations de votre programme plus efficaces dans Marketo Engage.
+title: Évolutivité et efficacité à l’aide de jetons dans [!DNL Marketo Engage]
+description: Découvrez comment utiliser des jetons au-delà de la personnalisation afin de rendre la création et les opérations de votre programme plus efficaces dans [!DNL Marketo Engage].
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 9770
 thumbnail: 340593.jpeg
 exl-id: 8f061a2b-2a7a-4186-be46-55690e21c0fd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '81'
 ht-degree: 2%
 
 ---
 
-# Évolutivité et efficacité à l’aide de jetons dans Marketo Engage
+# Évolutivité et efficacité à l’aide de jetons dans [!DNL Marketo Engage]
 
-Découvrez comment utiliser des jetons au-delà de la personnalisation afin de rendre la création et les opérations de votre programme plus efficaces dans Marketo Engage.
+Découvrez comment utiliser des jetons au-delà de la personnalisation afin de rendre la création et les opérations de votre programme plus efficaces dans [!DNL Marketo Engage].
 
 **Points clés**
 

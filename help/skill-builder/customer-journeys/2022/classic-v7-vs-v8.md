@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign Classic v7 et v8
+title: Adobe [!DNL Campaign Classic] V7 et V8
 description: Rejoignez cette session pour en savoir plus sur les dernières mises à jour des produits et comprendre les différences entre V7 et V8 de la part de nos responsables produits.
 solution: Campaign Classic v7, Campaign v8
 role: Admin, User
@@ -8,14 +8,14 @@ kt: 10566
 thumbnail: 343823.jpeg
 hideFromToc: true
 hideFromSearch: true
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+source-git-commit: 9c440ff136ecaa7634ca3be666851fbeff298c86
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 17%
+source-wordcount: '65'
+ht-degree: 0%
 
 ---
 
-# Adobe Campaign Classic v7 et v8
+# Adobe [!DNL Campaign Classic] V7 et V8
 
 Rejoignez cette session pour en savoir plus sur les dernières mises à jour des produits et comprendre les différences entre V7 et V8 de la part de nos responsables produits.
 

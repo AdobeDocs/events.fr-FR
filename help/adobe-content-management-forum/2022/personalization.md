@@ -9,12 +9,13 @@ level: Beginner, Intermediate
 kt: 10785
 thumbnail: 345374.png
 exl-id: d7d0dbd9-f3b5-4cc6-bc49-aaefea3201d0
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
 
 ---
+
 
 # Personnalisation du contenu à l’origine de la valeur commerciale
 

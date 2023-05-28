@@ -1,6 +1,6 @@
 ---
 title: Adobe de la couche de données client - Gestion des données pilotée par un événement
-description: Avez-vous jamais voulu connaître les secrets et les détails de la couche de données client Adobe ? Comment elle est conçue, l'architecture ressemble et comment l'exploiter pleinement ? Rejoignez cette session et apprenez-en davantage. En outre, un exemple de commerce montre comment les composants principaux hydratent le code ACDL, puis l’extension Launch interagit avec d’autres applications, telles qu’Adobe Analytics ou Adobe Target.
+description: Avez-vous jamais voulu connaître les secrets et les détails de la couche de données client Adobe ? Comment elle est conçue, l'architecture ressemble et comment l'exploiter pleinement ? Rejoignez cette session et apprenez-en davantage. En outre, un exemple de commerce montre comment les composants principaux hydratent la liste de contrôle d’accès (ACDL) et, plus tard, l’extension Launch interagit avec d’autres applications, telles que Adobe. [!DNL Analytics] ou Adobe Target.
 solution: Data Collection,Experience Manager
 feature: Tags
 topic: Development
@@ -10,16 +10,16 @@ version: Cloud Service
 kt: 9134
 type: Event
 exl-id: 948f7869-71f9-41e8-9686-ef55fd476951
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 16%
+source-wordcount: '188'
+ht-degree: 17%
 
 ---
 
 # Adobe de la couche de données client - Gestion des données pilotée par un événement
 
-Avez-vous jamais voulu connaître les secrets et les détails de la couche de données client Adobe ? Comment elle est conçue, l&#39;architecture ressemble et comment l&#39;exploiter pleinement ? Rejoignez cette session et apprenez-en davantage. En outre, un exemple de commerce montre comment les composants principaux hydratent le code ACDL, puis l’extension Launch interagit avec d’autres applications, telles qu’Adobe Analytics ou Adobe Target.
+Avez-vous jamais voulu connaître les secrets et les détails de la couche de données client Adobe ? Comment elle est conçue, l&#39;architecture ressemble et comment l&#39;exploiter pleinement ? Rejoignez cette session et apprenez-en davantage. En outre, un exemple de commerce montre comment les composants principaux hydratent la liste de contrôle d’accès (ACDL) et, plus tard, l’extension Launch interagit avec d’autres applications, telles que Adobe. [!DNL Analytics] ou Adobe Target.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337585/?quality=12&learn=on&hidetitle=true)
 

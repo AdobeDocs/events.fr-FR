@@ -1,20 +1,20 @@
 ---
-title: Améliorez votre marketing cross-canal avec Adobe Campaign Classic
-description: Webinaire détaillé axé sur les workflows, l’automatisation, la personnalisation et la mesure pour les clients Adobe Campaign Classic.
+title: Optimiser votre marketing cross-canal avec l’Adobe [!DNL Campaign Classic]
+description: Webinaire détaillé axé sur les workflows, l’automatisation, la personnalisation et la mesure pour l’Adobe [!DNL Campaign Classic] clients.
 version: Classic v7
 solution: Campaign
 kt: 10506
 thumbnail: 343524.jpeg
 exl-id: 1f4b6396-d855-429d-b80d-44a06c93bc67
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 39%
+source-wordcount: '38'
+ht-degree: 0%
 
 ---
 
-# Améliorez votre marketing cross-canal avec Adobe Campaign Classic
+# Optimiser votre marketing cross-canal avec l’Adobe [!DNL Campaign Classic]
 
-Webinaire détaillé axé sur les workflows, l’automatisation, la personnalisation et la mesure pour les clients Adobe Campaign Classic.
+Webinaire détaillé axé sur les workflows, l’automatisation, la personnalisation et la mesure pour l’Adobe [!DNL Campaign Classic] clients.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343524/?quality=12&learn=on)

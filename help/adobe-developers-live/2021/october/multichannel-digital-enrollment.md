@@ -1,6 +1,6 @@
 ---
 title: Cloud Service Adobe Experience Manager Forms - Enregistrement numérique multicanal sécurisé
-description: Découvrez comment créer des expériences d’inscription numériques modernes et sécurisées avec Adobe Experience Manager Forms as a Cloud Service. Cette session mettra en évidence les bonnes pratiques concernant la sécurisation des données traitées dans les workflows, l’externalisation des données envoyées vers le stockage Azure et la collecte d’informations à l’aide d’Adobe Analytics avec Forms adaptatif sur le service cloud.
+description: Découvrez comment créer des expériences d’inscription numériques modernes et sécurisées avec Adobe Experience Manager Forms as a Cloud Service. Cette session mettra en évidence les bonnes pratiques concernant la sécurisation des données traitées dans les workflows, l’externalisation des données envoyées vers le stockage Azure et la collecte d’informations à l’aide d’Adobe. [!DNL Analytics] avec le Forms adaptatif sur le service cloud.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ version: Cloud Service
 kt: 9194
 type: Event
 exl-id: 5ac915d0-9e53-4bc8-9d4d-9d8dafe0c06e
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 17%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 17%
 
 Découvrez comment créer des expériences d’inscription numériques modernes et sécurisées avec Adobe Experience Manager Forms as a Cloud Service.
 
-Cette session mettra en évidence les bonnes pratiques concernant la sécurisation des données traitées dans les workflows, l’externalisation des données envoyées vers le stockage Azure et la collecte d’informations à l’aide d’Adobe Analytics avec Forms adaptatif sur le service cloud.
+Cette session mettra en évidence les bonnes pratiques concernant la sécurisation des données traitées dans les workflows, l’externalisation des données envoyées vers le stockage Azure et la collecte d’informations à l’aide d’Adobe. [!DNL Analytics] avec le Forms adaptatif sur le service cloud.
 
 Nous inclurons également un aperçu de certaines intégrations sur notre feuille de route, comme Microsoft PowerAutomate et l’intégration des équipes à Adobe Experience Manager Forms.
 
