@@ -4,11 +4,13 @@ description: Les notifications push vous permettent d'atteindre les utilisateurs
 solution: Journey Optimizer
 kt: 10407
 thumbnail: https://video.tv.adobe.com/v/342810?format=jpeg
+feature: Push
+role: Developer
 event-cta-url: null
 event-start-time: 2022-05-12 09:30-7
 event-guests: Sandra Hausmann,Archana Chaudhary,Don Huynh
 exl-id: 3e813ced-154d-4ec6-b7a3-6800b814f123
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+source-git-commit: 4e01ba2160701014f042ffc774e65ae291855dfd
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 31%
