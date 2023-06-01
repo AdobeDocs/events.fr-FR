@@ -1,8 +1,9 @@
 ---
 title: Événements Adobe Experience League
 description: Collection d’enregistrements d’événements utilisée pour utiliser les produits Enterprise d’Adobe
+mini-toc-levels: 1
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: ecbca1c217f26d718dc5fb69f063c8fbb0f5cdb2
+source-git-commit: 1c2a249b4a270239d3069df799282d1eb32cc71e
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 10%
