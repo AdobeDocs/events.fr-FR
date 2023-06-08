@@ -4,7 +4,7 @@ description: Révolutionnez la manière dont vous créez du contenu et déverrou
 solution: Experience Manager
 version: Cloud Service
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites
-feature: Content Fragments, Experience Fragments
+feature: Content Fragments, Experience Fragments, Learn From Your Peers
 topic: Content Management
 role: User
 level: Intermediate
@@ -14,7 +14,7 @@ jira: KT-13305
 thumbnail: 3419557.jpeg
 event-start-time: 2023-5-16 08:30-8
 exl-id: 63f9ae5b-f5ba-4b09-b2af-20824ad418d2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: ab5fda39e65bdfc0941ef97cd512333a2694bb5e
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
