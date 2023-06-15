@@ -9,18 +9,19 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: d8d773222bc081f58eea44d79c0deae28466fc54
 workflow-type: tm+mt
-source-wordcount: '25'
-ht-degree: 8%
+source-wordcount: '28'
+ht-degree: 7%
 
 ---
 
 
 # Immersion {#deep-dives-recordings}
 
-+ [Présentation](overview.md)
++ [Vue d’ensemble](overview.md)
 + Immersion dans Marketo {#deep-dives-marketo}
    + [Certification](certification.md)
-   + [Maximiser votre instance avec une petite équipe](small-team-instance.md)
    + [Email Nurture](email-nurture.md)
+   + [Héritage d’une instance](inheriting-an-instance.md)
+   + [Maximiser votre instance avec une petite équipe](small-team-instance.md)
