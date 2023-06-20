@@ -2,9 +2,9 @@
 title: Série de webinaires sur le commerce APAC
 description: La Série de webinaires sur le commerce APAC est une cadence mensuelle d’ateliers pour les clients Adobe Commerce qui couvre un large éventail de sujets, des bonnes pratiques aux feuilles de route des produits en passant par les tendances du secteur.
 exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: a5958d739ab6dbbc97626a8f95be6d46ee85cfbd
+source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -45,15 +45,15 @@ La Série de webinaires sur le commerce APAC est une cadence mensuelle d’ateli
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-      <img alt="Classe maître New Relic" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
+      <img alt="Stratégies commerciales composables pour le commerce électronique évolutif et agile" src="https://video.tv.adobe.com/v/3420655?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2023/composable-commerce.html">
-        <strong>Classe maître New Relic</strong>
+        <strong>Stratégies commerciales composables pour le commerce électronique évolutif et agile</strong>
       </a>
     </div>
     <p>
-    <em>Rejoignez ce webinaire pour découvrir comment prendre le contrôle de votre infrastructure avec New Relic. Approche-toi en toute confiance de ta prochaine campagne en accédant aux données de ton infrastructure et en les comprenant.</em>
+    <em>Rejoignez-nous pour un webinaire perspicace qui plongera dans le monde de l'architecture composable et comment elle révolutionne le paysage de l'e-commerce.</em>
     <p>
   </td>  
 </tr>
