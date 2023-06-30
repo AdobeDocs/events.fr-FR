@@ -3,7 +3,7 @@ user-guide-title: L’échange de compétences
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Collection d'enregistrements d'Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
+source-git-commit: b16db3497f0e9801b71294bcaa66ae3cd9a2eb5c
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 11%
@@ -17,7 +17,7 @@ ht-degree: 11%
 + Analytics {#analytics}
    + Mai 2023 {#may2023}
       + [Conseils et astuces pour Adobe Analytics](analytics/may2023/tips-and-tricks.md)
-      + [Migration vers EDDL/WebSDK](analytics/may2023/tips-and-tricks.md)
+      + [Migration vers EDDL/WebSDK](analytics/may2023/migrate.md)
       + [Guides Rockstar](analytics/may2023/rockstar-tips.md)
       + [Augmentation de la productivité](analytics/may2023/productivity.md)
       + [Présentation des mesures](analytics/may2023/metrics.md)
