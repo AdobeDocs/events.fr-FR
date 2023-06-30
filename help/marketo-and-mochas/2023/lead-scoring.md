@@ -8,7 +8,8 @@ last-substantial-update: 2023-01-06T00:00:00Z
 kt: 11655
 thumbnail: 3412722.jpeg
 exl-id: 39affe8c-cb03-4161-8a1d-6ce3e8c0aaad
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+event-start-time: 2023-6-7 08:30-8
+source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
