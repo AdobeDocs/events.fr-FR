@@ -5,14 +5,12 @@ solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
 version: Cloud Service
-role: Leader, Architect, Developer
-level: Beginner, Intermediate, Experienced
 doc-type: Event
 last-substantial-update: 2023-06-30T00:00:00Z
 jira: KT-13182
 thumbnail: 3419001.jpeg
 event-start-time: 2023-4-1 08:30-8
-source-git-commit: 0122cd988472a6c1b87318b925f87b56e908c6e9
+source-git-commit: 0695851792fda7ceeaac785b3c4f1b3c38fdf565
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
