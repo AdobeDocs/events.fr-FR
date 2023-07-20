@@ -1,7 +1,7 @@
 ---
 title: Évolution de votre centre d’excellence d’audience
 description: Un modèle de Centre d’excellence (COE) constitue depuis longtemps la méthode optimale pour prendre en charge les plateformes de gestion des données (DMP).
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -9,7 +9,7 @@ thumbnail: 336938.jpg
 kt: 8864
 type: Event
 exl-id: 179654ad-d12f-4cf2-8154-58e867c8a8ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%

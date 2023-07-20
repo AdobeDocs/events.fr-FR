@@ -1,14 +1,14 @@
 ---
 title: Rationalisation de votre premier fichier de gestion des données
 description: Le volume croissant de données rend très difficile pour les entreprises de capturer efficacement les données d’interaction numérique et de les envoyer au marketing approprié... (Les descriptions doivent comporter entre 60 et 160 caractères)
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Governance
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10632
 thumbnail: 344311.jpeg
 exl-id: 57d7697c-455e-428e-95ed-7a29852a702a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 1%

@@ -1,7 +1,7 @@
 ---
 title: Collaboration en matière de données dans le contexte des données propriétaires
 description: Ce webinaire contribuera à libérer les opportunités de collaboration des données dans un avenir sans cookies tiers.
-solution: Real-time Customer Data Platform
+solution: Real-Time Customer Data Platform
 feature: Data Management
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
@@ -9,10 +9,10 @@ type: Event
 thumbnail: 337665.jpg
 kt: 9145
 exl-id: 4381a5c0-4f74-4828-bd06-4dc2c5ef3bc6
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 26%
+ht-degree: 33%
 
 ---
 
@@ -34,4 +34,4 @@ Tenez votre engagement en matière dʼexpérience, avec un accès à moins de do
 
 [Audience Marketplace pour les acheteurs de données](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
-[Destinations basées sur les personnes](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=en)
+[Destinations basées sur les personnes](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=fr)
