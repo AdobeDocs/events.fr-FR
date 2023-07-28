@@ -1,16 +1,16 @@
 ---
 title: Événements Experience League LIVE
 description: Collection de liens vers les événements Experience League LIVE précédents
-solution: Experience Platform,Real-time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
+solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: 4017a3a3d649af24fd668a24ceece6ed32598c35
+source-git-commit: 1f9b259f31faf9c58a8ea161d17dcffdba47a53d
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 50%
+source-wordcount: '167'
+ht-degree: 48%
 
 ---
 
@@ -24,8 +24,16 @@ Experience League LIVE est une émission produite par l’équipe d’Experien
 
 <table>
 <tr>
-  <td style="vertical-align: top;">
-    Revenez à cette page bientôt pour plus de détails sur notre prochain spectacle d’août 2023 !
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-8-23-23.md">
+      <img alt="Experience League LIVE Apr 21" src="assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-8-23-23.md">
+        <strong>Messagerie déclenchée par l’API dans Adobe Journey Optimizer</strong>
+      </a>
+      <br/><em>avec Sandra Hausmann, Siddharth Jain, Nikhil Sharma et Chetan Prasad</em>
+      <br/><em>23 août 2023</em>
+    </div>
   </td>
 </tr>
 </table>
@@ -67,7 +75,7 @@ Experience League LIVE est une émission produite par l’équipe d’Experien
       <img alt="Experience League LIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - L'Inside Scoop</strong></a>
+      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - L'école intérieure</strong></a>
       <br/><em>avec Trevor Paulsen, Rohit Gossain, Alex Strawn</em>
       <br/><em>25 janvier 2021</em>
     </div>
