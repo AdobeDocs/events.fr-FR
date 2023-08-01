@@ -6,16 +6,16 @@ doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 5952a51bcc4ec25d14cf5527ec1af218ebc0ae11
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1662'
 ht-degree: 2%
 
 ---
 
 # Demandez à l’expert - Surchargez les rapports de mode de texte de base à l’aide de l’explorateur d’API.
 
-Découvrez l’explorateur d’API, comment l’utiliser et comment améliorer vos rapports en utilisant le mode de texte de base. Ce webinaire a été enregistré le 22 janvier 2020.
+En savoir plus sur les [[!UICONTROL Explorateur d’API]](https://developer.adobe.com/workfront/api-explorer/), comment l’utiliser et comment améliorer vos rapports en utilisant le mode texte de base. Ce webinaire a été enregistré le 22 janvier 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
@@ -81,7 +81,7 @@ Est-il possible d&#39;utiliser n&#39;importe quelle collection dans un rapport e
 
 **Réponse**
 
-Oui, vous pouvez utiliser n’importe quel objet dans la zone des collections. Vous voudrez explorer et voir ce à quoi vous avez accès. Tout le monde n’aura pas accès à l’objet utilisateur et à l’objet de rôle de tâche comme nous l’avons vu avec l’objet Rôles utilisateur dans l’explorateur d’API.
+Oui, vous pouvez utiliser n’importe quel objet dans la zone des collections. Vous allez explorer et voir ce à quoi vous avez accès. Tout le monde n’aura pas accès à l’objet utilisateur et à l’objet de rôle de tâche comme nous l’avons vu avec l’objet Rôles utilisateur dans l’explorateur d’API.
 
 **Question**
 
@@ -89,7 +89,7 @@ Pouvez-vous discuter de &quot;l’utilisation conditionnelle de différentes col
 
 **Réponse**
 
-Lorsque vous vous trouvez dans la zone d’itération et que vous y voyez le champ de valeur ou l’expression de valeur, vous accédez à l’un des éléments de votre liste de collections. En utilisant le champ de valeur, nous pouvons obtenir le nom de ce rôle de tâche, par exemple, ou tout ce qui se trouve dans cet élément de la liste. Si vous êtes dans une tâche, un objet de tâche peut référencer le projet dans lequel il se trouve.
+Lorsque vous vous trouvez dans la zone d’itération et que vous y voyez le champ de valeur ou l’expression de valeur, cela permet d’accéder à l’un des éléments de votre liste de collections. En utilisant le champ de valeur, nous pouvons obtenir le nom de ce rôle de tâche, par exemple, ou tout ce qui se trouve dans cet élément de la liste. Si vous êtes dans une tâche, un objet de tâche peut référencer le projet dans lequel il se trouve.
 
 **Question**
 
@@ -143,11 +143,11 @@ valuefield=opTask:name
 
 **Question**
 
-Je cherche à créer un rapport qui présente pour chaque projet la ou les principales tâches en cours de traitement. Comment ferais-je le mieux ? J’imagine qu’il s’agirait d’un rapport de tâche auquel s’ajouterait également des colonnes Informations sur le projet ?
+Je cherche à créer un rapport qui présente pour chaque projet la ou les principales tâches en cours de traitement. Comment ferais-je le mieux ? J’imagine qu’il s’agirait d’un rapport de tâche auquel des colonnes d’informations sur le projet ont également été ajoutées ?
 
 **Réponse**
 
-C&#39;est exact. Un rapport de tâche serait le mieux pour cela. Vous devez définir des &quot;Principales tâches&quot;. Si vous utilisez des prédécesseurs, il s’agit de tâches prêtes. Vous pouvez donc filtrer par Ready = True. Cela entraînerait toutes les tâches prêtes à démarrer. Je vous recommande ensuite de regrouper par nom de projet, de cette manière vos tâches sont toutes regroupées et vous pouvez voir en un coup d’oeil quelles tâches appartiennent au projet concerné.
+C&#39;est exact. Un rapport de tâche serait le mieux pour cela. Vous devez définir des &quot;Principales tâches&quot;. Si vous utilisez des prédécesseurs, il s’agit de tâches prêtes. Vous pouvez donc filtrer par Ready = True. Cela entraînerait toutes les tâches qui sont prêtes à démarrer. Je vous recommande ensuite de regrouper par nom de projet, de cette manière vos tâches sont toutes regroupées et vous pouvez voir en un coup d’oeil quelles tâches appartiennent au projet concerné.
 
 **Question**
 
@@ -205,11 +205,11 @@ La durée d’une tâche parent est calculée en soustrayant la date de début d
 
 **Question**
 
-Pour les regroupements conditionnels, un formulaire personnalisé (pensez &quot;États occidentaux&quot;, &quot;États centraux&quot;, &quot;États de l’Est&quot;) pour décoder les différents groupes est une technique courante qui fonctionne bien sur cette note, quand vous préférez utiliser des regroupements calculés plutôt que des paramètres calculés ?
+Pour les regroupements conditionnels, un formulaire personnalisé (pensez &quot;États occidentaux&quot;, &quot;États centraux&quot;, &quot;États de l’Est&quot;) pour décoder les différents groupes est une technique courante qui fonctionne bien sur cette note, quand vous préférez utiliser des regroupements calculés par rapport à des paramètres calculés ?
 
 **Réponse**
 
-Les groupements calculés (c’est-à-dire une expression de valeur dans un groupement) sont un moyen pratique d’afficher un résultat dans la barre de groupement. Vous pouvez également utiliser un champ personnalisé calculé. Chaque approche présente des avantages et des inconvénients, à savoir :
+Les groupements calculés (c’est-à-dire une expression de valeur dans un groupement) sont un moyen pratique d’afficher un résultat dans la barre de groupement. Vous pouvez également le faire à l’aide d’un champ personnalisé calculé. Chaque approche présente des avantages et des inconvénients, à savoir :
 
 * Les expressions de valeur sont calculées chaque fois que la page de votre navigateur est actualisée. Cela peut être préférable à des champs personnalisés calculés qui sont recalculés chaque fois que l’objet auquel ils sont attachés est modifié, ou lorsque les champs calculés sont recalculés dans une modification en masse, ou lorsque le formulaire personnalisé est modifié et que l’option &quot;Mettre à jour les calculs précédents&quot; est sélectionnée.
 * Toutefois, les expressions de valeur ne peuvent pas être utilisées dans les graphiques, la mise en forme conditionnelle ou le filtre. Vous devrez utiliser des champs personnalisés calculés pour ces éléments.
