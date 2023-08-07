@@ -1,5 +1,5 @@
 ---
-user-guide-title: Immersion
+user-guide-title: Deep Dives
 user-guide-breadcrumb: Deep Dives
 user-guide-description: Une liste d'enregistrements de plongée profonde
 type: Event
@@ -9,18 +9,19 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 45197a447b183e1be3f0c2806fe33b19780086e5
+source-git-commit: ec7e7cd800b0e3c78c259de4211190a090009c4d
 workflow-type: tm+mt
-source-wordcount: '30'
-ht-degree: 6%
+source-wordcount: '31'
+ht-degree: 9%
 
 ---
 
 
-# Immersion {#deep-dives-recordings}
+# Deep Dives {#deep-dives-recordings}
 
 + [Vue d’ensemble](overview.md)
 + Immersion dans Marketo {#deep-dives-marketo}
+   + [API](api.md)
    + [Certification](certification.md)
    + [Email Nurture](email-nurture.md)
    + [Héritage d’une instance](inheriting-an-instance.md)
