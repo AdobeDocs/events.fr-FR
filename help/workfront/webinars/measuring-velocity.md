@@ -4,11 +4,12 @@ description: Découvrez comment mesurer et suivre la vitesse à l’aide de [!DN
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: 9912
+jira: KT-9912
+last-substantial-update: 2023-08-14T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
 workflow-type: tm+mt
-source-wordcount: '3919'
+source-wordcount: '3918'
 ht-degree: 1%
 
 ---
@@ -30,17 +31,17 @@ Format : Date
 Calcul :
 
 ```
-IF(ISBLANK(First Commit Date),Default Baseline.Planned Completion Date,First Commit Date)
+IF(ISBLANK({DE:First Commit Date}),{defaultBaseline}.{plannedCompletionDate},{DE:First Commit Date})
 ```
 
 **Première durée**
 
-Format : Texte
+Format : texte
 
 Calcul :
 
 ```
-IF(ISBLANK(First Duration),Default Baseline.Duration,First Duration)
+IF(ISBLANK({DE:First Duration}),{defaultBaseline}.{durationMinutes},{DE:First Duration})
 ```
 
 **Rapport travail-validation**
@@ -50,7 +51,7 @@ Format : nombre
 Calcul :
 
 ```
-ROUND(DIV(Actual Duration,First Duration),1)
+ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
 **État du ratio travail-validation**
@@ -60,7 +61,7 @@ Format:Texte
 Calcul :
 
 ```
-IF({Work-to-Commit Ratio}>2,"Terrible",IF({Work-to-CommitRatio}>1.6,"Poor",IF({Work-to-Commit Ratio}>1.2,"Not Bad","Exc ellent")))
+IF({DE:Work-to-Commit Ratio}>2,"Terrible",IF({DE:Work-to-Commit Ratio}>1.6,"Poor",IF({DE:Work-to-Commit Ratio}>1.2,"Not Bad","Excellent")))
 ```
 
 **Vitesse ajustée**
@@ -70,7 +71,7 @@ Format : nombre
 Calcul :
 
 ```
-ROUND(DIV(Actual Duration,Duration),1)
+ROUND(DIV({actualDurationMinutes},{durationMinutes}),1)
 ```
 
 **État de vitesse ajusté**
@@ -80,7 +81,7 @@ Format:Texte
 Calcul :
 
 ```
-IF(Adjusted Velocity>2,"Terrible",IF(Adjusted Velocity>1.6,"Poor",IF(Adjusted Velocity>1.2,"Not Bad","Excellent")))
+IF({DE:Adjusted Velocity}>2,"Terrible",IF({DE:Adjusted Velocity}>1.6,"Poor",IF({DE:Adjusted Velocity}>1.2,"Not Bad","Excellent")))
 ```
 
 ## Q&amp;R
@@ -95,7 +96,7 @@ Dans une situation de ce type, vous pouvez utiliser le filtrage et la modificati
 
 Voici la procédure à suivre :
 
-1. Déterminez les valeurs d’état que vous souhaitez mapper aux valeurs de condition. Par exemple, supposons que vous ayez une valeur d’état &quot;En retard&quot; et &quot;Très en retard&quot; qui correspondent toutes deux à une valeur de condition &quot;En problème&quot;.
+1. Déterminez les valeurs d’état que vous souhaitez mapper aux valeurs de condition. Par exemple, supposons que vous ayez une valeur State de &quot;Late&quot; et &quot;Très tardive&quot; qui correspondent toutes deux à une valeur Condition de &quot;In Trouble&quot;.
 1. Créez un rapport de projet présentant tous les projets pour lesquels la valeur d’état est &quot;En retard&quot; et &quot;Très en retard&quot;.
 1. Exécutez le rapport. Assurez-vous d’afficher tous les projets (voir les options en bas à droite du rapport).
 1. Cochez la case en haut à gauche du rapport dans la barre avec les en-têtes de colonne. Tous les projets du rapport seront alors sélectionnés.
@@ -111,7 +112,7 @@ Comment est défini Excellent, Not Bad, etc. ?
 
 **Réponse**
 
-Ce n&#39;était qu&#39;un exemple, mais voici comment je l&#39;ai configuré. J&#39;ai d&#39;abord calculé deux index :
+Ce n&#39;était qu&#39;un exemple, mais voici comment je l&#39;ai mis en place. J&#39;ai d&#39;abord calculé deux index :
 
 Vitesse ajustée
 
@@ -181,7 +182,7 @@ Je voudrais créer un rapport de BAT. Une liste de projets montrant le nombre de
 
 Créez un rapport de document.
 
-La vue par défaut affiche le numéro de version. Vous pouvez laisser cela à cet endroit, mais vous pouvez modifier n’importe quelle autre colonne.
+La vue par défaut affiche le numéro de version. Vous pouvez laisser cela à cet endroit, mais vous pouvez modifier toute autre colonne.
 
 Regroupez le rapport par nom de projet.
 
@@ -203,7 +204,7 @@ La première date de validation doit-elle être définie manuellement par le pro
 
 **Réponse**
 
-La date de première validation est capturée à partir de la ligne de base par défaut. Tant que la ligne de base par défaut est la ligne de base d’origine, elle affiche la date d’achèvement prévue du projet au moment où elle a été définie sur l’état actuel pour la première fois.
+La date de première validation est capturée à partir de la ligne de base par défaut. Tant que la ligne de base par défaut est la ligne de base d’origine, elle indique la date d’achèvement prévue du projet au moment où elle a été définie sur l’état actuel pour la première fois.
 
 **Question**
 
@@ -233,7 +234,7 @@ Quelle est la différence entre la première et la durée du plan ?
 
 Première durée est le nombre de jours que vous avez initialement promis au client que le projet prendrait. Nous obtenons ce nombre à partir de la ligne de base d’origine qui a été enregistrée lorsque le projet a été modifié de Planification à En cours.
 
-Durée planifiée est le nombre de jours entre le début du projet et la date d’achèvement prévue. Au départ, ces deux durées sont identiques, mais si le projet a déjà été replanifié et que la date d’achèvement prévue a été modifiée, la durée planifiée l’a également été.
+Durée planifiée correspond au nombre de jours entre le début du projet et la date d’achèvement prévue. Au départ, ces deux durées sont identiques, mais si le projet a déjà été replanifié et que la date d’achèvement prévue a été modifiée, la durée planifiée l’a également été.
 
 La valeur des rapports Velocity provient du fait que nous pouvons voir à quel point la durée planifiée a changé par rapport à la première durée. Nous pouvons voir cela dès le début de l’enregistrement des lignes de base, car les projets ont changé de Planification à Actuel.
 
@@ -253,7 +254,7 @@ Je tente de déterminer s’il est possible de créer un tableau de bord avec un
 
 Voyons si je comprends votre question. Supposons que j’ai un formulaire personnalisé de tâche appelé Tammy Form avec un champ nommé Tammy Field.
 
-Vous souhaitez un rapport de tâche qui affiche toutes les tâches auxquelles est associé Tammy Form et où Tammy Field a une valeur.
+Vous souhaitez un rapport de tâches qui affiche toutes les tâches auxquelles est associé Tammy Form et où Tammy Field a une valeur.
 
 Oui, vous pouvez le faire. Vous avez simplement besoin d’un filtre dans votre rapport de tâches avec deux règles de filtrage :
 
@@ -337,17 +338,17 @@ Est-il possible de supprimer les entrées en double dans le groupement d’un ra
 
 **Réponse**
 
-Voici la meilleure façon de penser aux groupements dans les rapports de listes :
+Voici la meilleure façon de penser aux regroupements dans les rapports de liste :
 
 Tout d’abord, vous pouvez contrôler les éléments qui s’affichent dans la liste à l’aide de l’onglet Filtre . Il n’y aura pas d’entrées en double. Le filtre est appliqué à chaque objet. S’il passe par le filtre, il apparaîtra une fois dans la liste, s’il n’apparaît pas du tout.
 
-Le regroupement suivant est appliqué à la liste filtrée. Un regroupement identifie une chose au sujet des objets de la liste, comme le nom du portefeuille dans lequel il se trouve (vous ne pouvez pas les regrouper sur une liste d’objets, mais sur une seule chose). Tous les objets ayant la même valeur apparaissent alors dans ce regroupement, comme tous les projets du même portfolio. Tous les projets pour lesquels aucun portefeuille n’est sélectionné s’affichent dans le regroupement nommé &quot;Aucune valeur&quot;.
+Le regroupement suivant est appliqué à la liste filtrée. Un groupement identifie une chose sur les objets de la liste, comme le nom du portefeuille dans lequel il se trouve (vous ne pouvez pas le regrouper sur une liste de choses, mais sur une seule chose). Tous les objets ayant la même valeur apparaissent alors dans ce regroupement, comme tous les projets d’un même portfolio. Tous les projets pour lesquels aucun portefeuille n’est sélectionné s’affichent dans le regroupement nommé &quot;Aucune valeur&quot;.
 
 Il n’existe donc aucun moyen pour qu’un objet apparaisse dans plusieurs regroupements. Et si un objet apparaît dans la liste est entièrement contrôlé par le filtre (et si la personne qui exécute le rapport a les droits de l’afficher).
 
 **Question**
 
-recommanderiez-vous un autre rapport pour suivre Velocity ? Une recommandation de haut niveau est géniale parce que je sais qu&#39;il n&#39;y a pas assez de temps pour entrer dans les détails.
+Est-ce que vous recommanderiez un autre rapport pour effectuer le suivi de Velocity ? Une recommandation de haut niveau est géniale parce que je sais qu&#39;il n&#39;y a pas assez de temps pour entrer dans les détails.
 
 **Réponse**
 
@@ -367,7 +368,7 @@ Pouvez-vous calculer quoi que ce soit au niveau COLONNE ? Au lieu d’appeler un
 
 Il aurait été possible d’utiliser une expression de valeur en mode texte pour effectuer ces calculs. Nous n&#39;aurions pas pu faire la première durée ou la première date de validation, cependant, nous avions besoin de capturer ceux-ci dans un endroit où ils ne changeraient pas.
 
-En ce qui concerne l’état du ratio travail/validation et l’état de vitesse ajusté, il s’agissait de champs personnalisés afin que nous puissions les utiliser dans l’onglet Graphique . L&#39;onglet Graphique ne reconnaît pas les regroupements en mode texte. Il doit s&#39;agir de champs personnalisés. Et comme nous avions besoin d&#39;un ratio travail/validation et d&#39;une vitesse ajustée pour calculer ces états, nous avions également besoin qu&#39;ils soient des champs personnalisés. Dans ce cas, ils devaient tous être des champs personnalisés, mais il est toujours bon de considérer les deux façons et de choisir ce qui fonctionnera le mieux. Merci pour la question.
+En ce qui concerne l’état du ratio travail/validation et l’état de vitesse ajusté, il s’agissait de champs personnalisés afin que nous puissions les utiliser dans l’onglet Graphique . L&#39;onglet Graphique ne reconnaît pas les regroupements en mode texte. Il doit s&#39;agir de champs personnalisés. Et comme nous avions besoin d&#39;un ratio travail/validation et d&#39;une vitesse ajustée pour calculer ces états, nous avions également besoin qu&#39;ils soient des champs personnalisés. Dans ce cas, ils devaient tous être des champs personnalisés, mais il est toujours bon de considérer les deux et de choisir ce qui fonctionnera le mieux. Merci pour la question.
 
 **Question**
 
@@ -377,7 +378,7 @@ Nos projets changent souvent en raison des délais ou des changements des client
 
 Il est recommandé d’utiliser une liste déroulante pour en effectuer le suivi. Ajoutez autant de &quot;raisons&quot; que vous pouvez y penser, puis une option &quot;autre&quot; pour capturer une raison qui ne figure pas dans la liste. Si cette nouvelle raison apparaît ou devient courante, ajoutez-la à votre liste déroulante. Vous pouvez facilement créer des rapports sur les éléments d’une liste déroulante et vous pouvez les regrouper sur ce champ (vous ne pouvez pas les regrouper dans des cases à cocher ou une liste déroulante à sélection multiple).
 
-Juste un autre commentaire à ce sujet. Vous pouvez ne pas inclure tous les projets dans vos rapports Velocity. Si vous réparez des bogues ou si vous &quot;allez où personne n’est allé auparavant&quot;, vous ne prenez probablement pas le même engagement à une date d’achèvement que si vous construisez une maison que vous avez construite plusieurs fois auparavant.
+Juste un autre commentaire à ce sujet. Vous pouvez ne pas inclure tous les projets dans vos rapports Velocity. Si vous réparez des insectes ou &quot;en allant où personne n&#39;est allé auparavant&quot;, vous ne prenez probablement pas le même engagement à une date d&#39;achèvement que si vous construisiez une maison que vous avez construite plusieurs fois auparavant.
 
 Veillez donc à concentrer vos rapports de vitesse sur les endroits où ils peuvent vous aider à atteindre vos objectifs.
 
@@ -407,7 +408,7 @@ Oui. Vous devez créer un rapport Document . Il semble que vous souhaitiez attri
 
 **Question**
 
-Dans les rapports, pourquoi les valeurs sont-elles disponibles en colonne, mais pas en sélection ou regroupement ? Par exemple : Source du problème.
+Dans les rapports, pourquoi les valeurs sont-elles disponibles en colonne, mais pas en sélection ou regroupement ? Par exemple : source du problème.
 
 **Réponse**
 
@@ -441,19 +442,19 @@ La fonctionnalité Analytics de Workfront vous permet d’afficher facilement le
 
 Vous pouvez également obtenir des informations sur les modifications d’état à l’aide d’un rapport Remarque . Vous pouvez filtrer pour afficher les modifications d’état sur les projets si vous effectuez le suivi du champ État du projet .
 
-Pour commencer, accédez à Configuration > Interface > Mettre à jour les flux et assurez-vous que l’état du projet est l’un des champs intégrés qui est suivi. Si ce n’est pas le cas, vous devez l’ajouter.
+Pour commencer, accédez à Configuration > Interface > Mettre à jour les flux et assurez-vous que l’état du projet est l’un des champs intégrés qui est suivi. Si ce n&#39;est pas le cas, vous devez l&#39;ajouter.
 
 Créez maintenant un rapport Remarque et procédez comme suit :
 
 Dans l’onglet Colonnes (affichage) :
 
 * Remplacez la colonne &quot;Texte de la remarque&quot; pour &quot;Texte de l’audit&quot;. Cette opération affiche des informations sur le changement d’état de et de .
-* Laissez le &quot;Projet&quot; : Nom&quot; et les colonnes &quot;Date d’entrée&quot;
+* Laissez les colonnes &quot;Projet : Nom&quot; et &quot;Date d’entrée&quot;
 * Cliquez sur la colonne &quot;Date d’entrée&quot;, puis cochez l’option &quot;Trier par cette colonne&quot; dans le panneau Paramètres de colonne. Si vous souhaitez voir les modifications d’état les plus récentes en haut, triez-les par ordre décroissant.
 
 Dans l&#39;onglet Groupements :
 
-* Groupe par projet : Nom
+* Group by Project : Name
 
 Dans l’onglet Filtres , créez les règles de filtrage suivantes :
 
