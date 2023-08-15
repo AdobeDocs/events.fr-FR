@@ -5,11 +5,11 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
-last-substantial-update: 2023-08-14T00:00:00Z
+last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 7ed7887f-acc5-43dd-b0dc-e64341f969ca
-source-git-commit: e087e65f2ddea9bf9ca11a5ae7b3dae516402d8c
+source-git-commit: 5f6bb627a24b2b3018094ed31842c1e712785f48
 workflow-type: tm+mt
-source-wordcount: '3918'
+source-wordcount: '3958'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,11 @@ Découvrez comment mesurer et suivre la vitesse à l’aide de [!DNL Workfront] 
 ## Champs personnalisés utilisés dans la présentation
 
 Gagnez du temps en copiant et en collant les calculs ci-dessous.
+
+>[!NOTE]
+>
+>La syntaxe des calculs de champs personnalisés a changé depuis la présentation en 2019, mais les concepts et autres instructions de la présentation sont toujours exacts.
+>**Les calculs présentés ci-dessous ont été mis à jour pour prendre en compte les dernières règles de syntaxe.**
 
 **Date de première validation**
 
