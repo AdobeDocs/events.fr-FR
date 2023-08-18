@@ -3,9 +3,9 @@ title: Événements Adobe Experience League
 description: Ensemble d’enregistrements d’événement axés sur l’utilisation de produits d’entreprise d’Adobe
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
+source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '895'
 ht-degree: 9%
 
 ---
@@ -80,11 +80,11 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
       </a>
       <div>
          <a href="/help/aem-champion-office-hours/overview.md"><strong>Heures d’ouverture AEM Champion</strong></a>
-        <br/><em class="title is-size-7" style="color: #858585;">Adobe Experience Manager</em>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Commerce, Adobe Experience Manager, Adobe Campaign, Adobe Marketo, Adobe Target, Customer Journey Analytics, Real-Time CDP</em>
       </div>
       <p>
         <br/>
-         Si vous souhaitez approfondir vos connaissances et utiliser Adobe Experience Manager, interagir avec des leaders de pensée Experience Manager et gagner des échanges exclusifs, rejoignez dès aujourd’hui le groupe d’utilisateurs des Heures de bureau des champions AEM !
+         Si vous souhaitez approfondir vos connaissances et utiliser Adobe Experience Manager, interagir avec des leaders de pensée Experience Manager et gagner des échanges exclusifs, rejoignez dès aujourd’hui le groupe d’utilisateurs des heures de bureau d’AEM !
       </p>
     </td> 
    <td>
@@ -143,10 +143,10 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
     </td>
     <td>
       <a href="/help/deep-dives/overview.md">
-      <img style="width:100%" alt="Immersion" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
+      <img style="width:100%" alt="Deep Dives" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png"/>
       </a>
       <div>
-         <a href="/help/deep-dives/overview.md"><strong>Immersion</strong></a>
+         <a href="/help/deep-dives/overview.md"><strong>Deep Dives</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Marketo</em>
       </div>
       <p>
@@ -159,7 +159,7 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
       <img style="width:100%" alt="Experience League LIVE" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png"/>
       </a>
       <div>
-         <a href="/help/experience-league-live/overview.md"><strong>Experience League LIVE</strong></a>
+         <a href="/help/experience-league-live/overview.md"><strong>EXPERIENCE LEAGUE LIVE</strong></a>
         <br/><em class="title is-size-7" style="color: #858585;">Adobe Analytics, Adobe Audience Manager, Adobe Experience Manager, Adobe Experience Platform, Real-Time CDP, Adobe Journey Optimizer, Adobe Target </em>
       </div>
       <p>
@@ -177,7 +177,7 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
       </div>
       <p>
         <br/>
-         Techniques Adobe Experience Manager - plongées approfondies réalisées par des experts en Adobe. Cette série est un complément de la documentation du produit et de tous les autres canaux techniques relatifs à Adobe Experience Manager, qui permet aux développeurs de contacter et d’approfondir un sujet spécifique.
+         Envois profonds Adobe Experience Manager techniques réalisés par des experts en Adobe. Cette série est un complément de la documentation du produit et de tous les autres canaux techniques relatifs à Adobe Experience Manager, qui permet aux développeurs de contacter et d’approfondir un sujet spécifique.
       </p>
     </td>
     </tr>
@@ -221,6 +221,21 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
          Marketo et Mochas vous aideront à mieux comprendre comment utiliser Adobe Marketo pour soutenir votre entreprise.
       </p>
     </td>
+    </tr>
+    <tr>
+    <td>
+      <a href="/help/office-hours/overview.md">
+      <img style="width:100%" alt="Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
+      </a>
+      <div>
+         <a href="/help/mbi-webinars/overview.md"><strong>Heures d’ouverture</strong></a>
+        <br/><em class="title is-size-7" style="color: #858585;">Adobe Commerce</em>
+      </div>
+      <p>
+        <br/>
+         Office Hours est une approche proactive de la déviation des cas en offrant aux clients des webinaires spécifiques aux solutions. 
+      </p>
+    </td>
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="Webinaires MBI" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -234,8 +249,6 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
          La série de webinaires de l’IMS est un événement périodique pour les clients de l’IMS. Les webinaires couvrent un large éventail de sujets et de bonnes pratiques pour utiliser au maximum l'IMS.
       </p>
     </td>
-    </tr>
-    <tr> 
     <td>
       <a href="/help/skill-builder/overview.md">
       <img style="width:100%" alt="Générateur de compétences" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png"/>
@@ -249,6 +262,8 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
          Skill Builder est une série de webinaires conçus pour renforcer votre base de connaissances et optimiser votre investissement dans Adobe Experience Cloud.
       </p>
     </td>
+    </tr>
+    <tr>     
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo et Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
