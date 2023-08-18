@@ -3,7 +3,7 @@ title: Événements Adobe Experience League
 description: Ensemble d’enregistrements d’événement axés sur l’utilisation de produits d’entreprise d’Adobe
 mini-toc-levels: 0
 exl-id: 508c5b96-e874-4b5a-a773-9e3d714e9ee8
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+source-git-commit: 0babdbc3b4429b9a691e6436f0973adadc68d5b1
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 9%
@@ -221,8 +221,6 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
          Marketo et Mochas vous aideront à mieux comprendre comment utiliser Adobe Marketo pour soutenir votre entreprise.
       </p>
     </td>
-    </tr>
-    <tr>
     <td>
       <a href="/help/office-hours/overview.md">
       <img style="width:100%" alt="Office Hours" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-office-hours.png"/>
@@ -236,6 +234,8 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
          Office Hours est une approche proactive de la déviation des cas en offrant aux clients des webinaires spécifiques aux solutions. 
       </p>
     </td>
+    </tr>
+    <tr>    
     <td>
       <a href="/help/mbi-webinars/overview.md">
       <img style="width:100%" alt="Webinaires MBI" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-mbi-webinars.png"/>
@@ -261,9 +261,7 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
         <br/>
          Skill Builder est une série de webinaires conçus pour renforcer votre base de connaissances et optimiser votre investissement dans Adobe Experience Cloud.
       </p>
-    </td>
-    </tr>
-    <tr>     
+    </td>   
    <td>
       <a href="/help/skill-exchange/overview.md">
       <img style="width:100%" alt="Marketo et Mochas" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png"/>
@@ -276,7 +274,7 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
         <br/>
          Experience Makers The Skill Exchange est une série mondiale d’événements d’apprentissage client virtuels, axés sur l’exploration des solutions Adobe Experience Cloud. Ce programme offre l’occasion de découvrir des experts et des pairs experts d’Adobe en partageant les bonnes pratiques et les conseils et astuces.
       </p>
-    </td>
+    </td> 
     <td>
       <a href="/help/workfront/overview.md">
       <img style="width:100%" alt="Workfront" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png"/>
