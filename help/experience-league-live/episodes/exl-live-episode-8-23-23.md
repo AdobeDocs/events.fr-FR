@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=eC51g4bf81s
 event-cta-url-reg: null
 event-start-time: 2023-8-23 08:00-7
 event-guests: Siddharth Jain,Nikhil Sharma,Chetan Prasad
-source-git-commit: 6af7809c63f101356ddd8c5928ee8029abbc58e9
+source-git-commit: 3d4d837932a54e81ee7139d09a2e79f53472edb1
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -28,3 +28,4 @@ Lors de cette session en direct Experience League, des experts Adobes vous expli
 
 **Cliquez sur l&#39;image ci-dessus pour regarder le spectacle !**
 
+Poursuivez la discussion sur la [Publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
