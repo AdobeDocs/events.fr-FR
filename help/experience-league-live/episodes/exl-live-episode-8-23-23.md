@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=eC51g4bf81s
 event-cta-url-reg: null
 event-start-time: 2023-8-23 08:00-7
 event-guests: Siddharth Jain,Nikhil Sharma,Chetan Prasad
-source-git-commit: cddc44f0f5324150b28f6e564ca4aa80035a5774
+source-git-commit: 6682d7be406a8922067c520b7c21cd2da001fd80
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Découvrez comment utiliser les API REST pour les communications transactionnelles et marketing contextuelles, personnalisées et en temps réel.
 
-[![ExL LIVE 22 septembre 2023](../assets/Aug23_exl_live_banner_web_1920_WebBanner.jpg)](https://www.youtube.com/watch?v=eC51g4bf81s)
+>[!VIDEO](https://video.tv.adobe.com/v/331788/?learn=on)
 
 Bien que Adobe Journey Optimizer offre une interface et un workflow modernes et conviviaux pour créer et gérer des parcours client 1:1 personnalisés en temps réel, les entreprises doivent également communiquer des messages sensibles au temps et essentiels à la mission en fonction de signaux urgents et de créer des messages à l’intention des audiences sans créer de parcours. Ces messages peuvent inclure des réinitialisations de mot de passe, des codes ponctuels, ou même des mises à jour après jeu pour les abonnés de la base des fans sportifs.
 
@@ -26,4 +26,4 @@ Avec les campagnes déclenchées par l’API, les entreprises peuvent définir u
 
 Lors de cette session en direct Experience League, des experts Adobes vous expliqueront comment exécuter des cas d’utilisation transactionnelle et marketing avec les fonctionnalités de messagerie déclenchée de l’API dans AJO.
 
-**Cliquez sur l’image ci-dessus pour définir un rappel pour le programme.**
+**Cliquez sur l&#39;image ci-dessus pour regarder le spectacle !**
