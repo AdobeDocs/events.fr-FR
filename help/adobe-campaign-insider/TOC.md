@@ -4,9 +4,9 @@ user-guide-breadcrumb: "[!DNL Campaign] Insider Events"
 user-guide-description: Conseils et astuces et inspiration pour l’Adobe [!DNL Campaign] les clients peuvent contribuer à l’évolution des stratégies marketing cross-canal, à l’amélioration des compétences des professionnels du marketing en équipe et à l’aide des entreprises à lancer des stratégies marketing cross-canal plus avancées.
 feature-set: Campaign
 solution: Campaign
-source-git-commit: 4dab34d66617ff8cc6f4a4daaea06badc3987962
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '79'
 ht-degree: 25%
 
 ---
@@ -23,3 +23,5 @@ ht-degree: 25%
    + [Optimisez votre marketing cross-canal avec [!DNL Campaign Classic]](2022/cross-channel.md)
    + [Équipe, compétences et conception organisationnelle requises pour prendre en charge le marketing cross-canal](2022/team-skills-org-design.md)
    + [Conseils pour gagner du temps d’un professionnel](2022/tips.md)
++ 2023 {#2023}
+   + [Points phares du client](2023/customer-spotlight-center-parcs.md)

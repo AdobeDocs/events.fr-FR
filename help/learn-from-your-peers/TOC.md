@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Collection d'enregistrements de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: e52d34d59b96fcde3e964733c3cfec49f0a46cff
+source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 21%
+source-wordcount: '97'
+ht-degree: 20%
 
 ---
 
@@ -15,6 +15,8 @@ ht-degree: 21%
 + [Experience Makers](overview.md)
 + Analytics {#analytics}
    + 2023 {#2023}
+      + Août {#aug2023}
+         + [Déverrouillage de la puissance des règles de traitement dans Adobe Analytics](analytics/aug2023/processing-rules.md)
       + Février {#feb2023}
          + [Création d’une culture basée sur les données](analytics/feb2023/data-driven-culture.md)
          + [Création d’un suivi de la culture piloté par les données](analytics/feb2023/data-driven-culture-q-and-a.md)
@@ -31,7 +33,7 @@ ht-degree: 21%
 + Experience Manager {#experience-manager}
    + Mai {#may2023}
       + [Masquage du contenu et des fragments d’expérience](experience-manager/may2023/mastering-content-and-experience-fragments.md)
-   + Juillet {#july2023}
+   + Juillet {#july2023}
       + [Stratégies de sécurité efficaces en Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
 + Marketo {#marketo}
    + Juin {#june2023}
