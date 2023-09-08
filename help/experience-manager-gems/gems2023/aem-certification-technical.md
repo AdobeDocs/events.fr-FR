@@ -11,17 +11,17 @@ doc-type: Event
 last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
-source-git-commit: bbbaa32a14c7da72225a94a6c15533aa0c3dd469
+source-git-commit: c475497b293909a5ea8365463a0d075bc34d4e01
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 0%
+source-wordcount: '350'
+ht-degree: 12%
 
 ---
 
 
-# Principal de la certification &quot;Art of Experience Manager&quot; : Préparez-vous, préparez-vous, soyez certifié !
+# Principal de la certification Art of Experience Manager : Préparez-vous, préparez-vous, obtenez une certification !
 
-Ce webinaire sera organisé sur **28 juin**, 2023 (8h00 PST). Veuillez vous inscrire via ce lien [lien de page d’événement](https://adobe.ly/3Ni6XeL).
+Ce webinaire a été organisé sur **28 juin**, 2023. Veuillez regarder l’enregistrement ci-dessous.
 
 ## Description de la session
 
@@ -37,3 +37,13 @@ Demandez votre place aujourd&#39;hui et commencez un parcours à de nouveaux hau
 
 * Ayana Nickerson, directrice du programme de certification des informations d’identification, Adobe
 * Payal Banerjee, Consultant En Solutions Sr, Adobe
+
+## Enregistrement du webinaire - 28/06/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3421028)
+
+>[!NOTE]
+>
+>* Pour plus d’interactions de la communauté Experience League spécifiques à une session, consultez ce [thread contextuel](https://adobe.ly/3p2CmbA).
+>
+>* Pour recevoir des notifications concernant les futurs webinaires, inscrivez-vous sur le [groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/).
