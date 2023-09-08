@@ -3,10 +3,10 @@ user-guide-title: Événements Gems Adobe Experience Manager
 user-guide-description: Découvrez AEM Gems, une série d’études approfondies réalisées par des experts d’Adobe Experience Manager sur certains de ses aspects techniques.
 breadcrumb-title: Événements AEM Gems
 feature-set: Experience Manager
-source-git-commit: 84bafc46f0d59774f89be5ccc5f030ef51e81e41
+source-git-commit: d66714c84c19ae2d34e61b4e8b221364e39f2774
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 99%
+source-wordcount: '648'
+ht-degree: 98%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 99%
 
 + [Vue d’ensemble](overview.md)
 + 2023 {#gems2023}
+   + [New Relic APM pour AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [Certification AEM - technique](gems2023/aem-certification-technical.md)
    + [Accélérer le développement d’Experience Manager as a Cloud Service avec les environnements de développement rapide](/help/experience-manager-gems/gems2023/rapid-development-environments.md)
    + [AEM Best Practices Analyzer pour les environnements On-Premise et AMS](gems2023/aem-best-practices-analyzer.md)
