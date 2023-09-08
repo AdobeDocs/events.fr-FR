@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Collection d'enregistrements de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '104'
 ht-degree: 20%
 
 ---
@@ -36,6 +36,8 @@ ht-degree: 20%
    + Juillet {#july2023}
       + [Stratégies de sécurité efficaces en Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
 + Marketo {#marketo}
+   + Septembre {#sept2023}
+      + [Amélioration de la délivrabilité des emails avec Marketo Engage](marketo/sept2023/email-deliverability.md)
    + Juin {#june2023}
       + [Suivi, analyse et optimisation de vos campagnes marketing](marketo/june2023/marketing-campaigns.md)
    + Mai {#may2023}
