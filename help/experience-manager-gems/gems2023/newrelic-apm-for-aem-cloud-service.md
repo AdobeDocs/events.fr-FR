@@ -1,6 +1,6 @@
 ---
 title: nouvelle apm pour aem cloud service
-description: "Rejoignez-nous et participez à notre session au cours de laquelle nous vous guiderons pour reconnaître et résoudre les défis qui affectent vos clients finaux, en assurant une expérience exceptionnelle en améliorant l’efficacité de votre projet as a Cloud Service AEM, en mesurant l’influence des services externes sur votre système as a Cloud Service AEM et en tirant parti des vues personnalisées et personnalisées. Découvrez le processus d’accès à New Relic, une fonctionnalité incluse par défaut avec AEM as a Cloud Service. N'hésitez pas à répondre à vos questions."
+description: Rejoignez-nous et participez à notre session au cours de laquelle nous vous guiderons pour reconnaître et résoudre les défis qui affectent vos clients finaux, en assurant une expérience exceptionnelle en améliorant l’efficacité de votre projet as a Cloud Service AEM, en mesurant l’influence des services externes sur votre système as a Cloud Service AEM et en tirant parti des vues personnalisées et personnalisées. Découvrez le processus d’accès à New Relic, une fonctionnalité incluse par défaut avec AEM as a Cloud Service. N'hésitez pas à répondre à vos questions.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 2bbbbeee2332f7353a6fe527fdc83718030ce23a
+source-git-commit: ac72726b967b526018640f76de930a4abb1e6b59
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 6%
@@ -35,7 +35,9 @@ Rejoignez-nous au cours de notre session où nous vous guiderons pour reconnaît
 
 * Amélioration de l’efficacité de votre projet as a Cloud Service AEM
 * Mesure de l’influence des services externes sur votre système as a Cloud Service AEM
-* Tirer le meilleur parti des vues personnalisées et personnalisées Découvrez le processus d’accès à New Relic, une fonctionnalité incluse par défaut avec AEM as a Cloud Service. N&#39;hésitez pas à répondre à vos questions.
+* Tirer le meilleur parti des vues personnalisées et personnalisées
+
+Découvrez le processus d’accès à New Relic, une fonctionnalité incluse par défaut avec AEM as a Cloud Service. N&#39;hésitez pas à répondre à vos questions.
 
 ## Présentateurs et présentatrices
 
