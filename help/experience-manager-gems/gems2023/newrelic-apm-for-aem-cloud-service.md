@@ -11,7 +11,7 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 51133c6630872a8da35522544e7184884905d2a0
+source-git-commit: 3f90292238ae559361bf6ca3736e30742044a5b0
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 6%
@@ -23,7 +23,7 @@ ht-degree: 6%
 
 Optimisez les performances et accélérez la résolution des problèmes.
 
-Ce webinaire aura lieu du 20 septembre à 17h (CEST). | 8h PDT | 20 h 30 heure locale
+Ce webinaire aura lieu du 20 septembre à 17h CEST \| 8h PDT \| 20h30 IST
 
 ## Enregistrement
 
