@@ -3,7 +3,7 @@ user-guide-title: Événements Gems Adobe Experience Manager
 user-guide-description: Découvrez AEM Gems, une série d’études approfondies réalisées par des experts d’Adobe Experience Manager sur certains de ses aspects techniques.
 breadcrumb-title: Événements AEM Gems
 feature-set: Experience Manager
-source-git-commit: d66714c84c19ae2d34e61b4e8b221364e39f2774
+source-git-commit: 2bbbbeee2332f7353a6fe527fdc83718030ce23a
 workflow-type: tm+mt
 source-wordcount: '648'
 ht-degree: 98%
@@ -203,7 +203,7 @@ ht-degree: 98%
     + [AEM 6.1 Translation Integration & Best Practices](archive/aem-6-1-translation-integration-and-best-practices.md)
     + [Managing your content with the template editor of Adobe Experience Manager](archive/aem-managing-content-with-template-editor.md)
     + [SPA Editor SDK Deep Dive - Part 2 - Angular](archive/spa-editor-sdk-deep-dive-angular.md)
-    + [Sonar – A key element to improve product quality](archive/aem-sonar-a-key-element-to-improve-product-quality.md)
+    + [Sonar - A key element to improve product quality](archive/aem-sonar-a-key-element-to-improve-product-quality.md)
     + [AEM 6.3 Ready for the World - Translation Integration & Best Practices](archive/aem-translation-best-practices.md)
     + [AEM 5.6 upgrade mechanisms ](archive/aem-upgrade-mechanisms.md)
     + [Track quality metrics of your Javascript project](archive/aem-track-quality-metrics-of-your-javascript-project.md)
