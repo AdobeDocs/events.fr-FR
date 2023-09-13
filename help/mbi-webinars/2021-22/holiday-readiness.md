@@ -1,5 +1,5 @@
 ---
-title: Préparation des vacances avec MBI
+title: Préparation des vacances avec Commerce Intelligence
 description: Regardez ce webinaire pour savoir comment utiliser vos données eCommerce pour réussir pendant la période des fêtes.
 landing-page-description: Regardez ce webinaire enregistré pour savoir comment utiliser vos données eCommerce pour réussir pendant la période des fêtes.
 short-description: Regardez ce webinaire enregistré pour savoir comment utiliser vos données eCommerce pour réussir pendant la période des fêtes.
@@ -9,16 +9,20 @@ role: Leader, User, Data Architect
 level: Intermediate
 thumbnail: 342496.jpeg
 exl-id: 958d2e09-e4bd-4f6c-91d8-3aa83368013f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 7%
+source-wordcount: '210'
+ht-degree: 3%
 
 ---
 
-# Préparation des vacances avec MBI
+# Préparation des vacances avec Commerce Intelligence
 
-Utilisez vos données eCommerce pour réussir pendant la période des fêtes. Ce webinaire met en évidence certains cas d’utilisation et méthodes d’analyse saisonnière courants pour les traiter à l’aide de fonctionnalités IMS clés, notamment :
+>[!NOTE]
+>
+>Adobe Commerce Intelligence était auparavant connu sous le nom de [!DNL Magento Business Intelligence (MBI)]. Les enregistrements pour les événements passés reflètent le nom précédent.
+
+Utilisez vos données eCommerce pour réussir pendant les vacances. Ce webinaire met en évidence certains cas d’utilisation et méthodes d’analyse saisonnière courants pour les traiter à l’aide de fonctionnalités IMS clés, notamment :
 
 - Évitez les stocks en créant un nouveau rapport de suivi des stocks et en envoyant des mises à jour quotidiennes par l’intermédiaire de la synthèse des emails
 - Déterminez l’impact des ajustements de votre stratégie de vente cette année en créant un rapport sur les performances d’une année à l’autre autour d’une date clé (Noël, par exemple), à l’aide de colonnes calculées.
@@ -35,9 +39,5 @@ Utilisez vos données eCommerce pour réussir pendant la période des fêtes. Ce
 
 ## Ressources utiles
 
->[!TIP]
->
->Si vous découvrez l’IMS, la variable [Série de vidéos Prise en main](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) offre un aperçu complet pour obtenir de meilleures informations et de meilleurs résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
-
-[Guide de l’utilisateur MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=fr)
-[Prise en charge de MBI](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Guide de l’utilisateur de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=fr)
+[Prise en charge des informations commerciales](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

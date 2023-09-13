@@ -1,26 +1,26 @@
 ---
-user-guide-title: Événements MBI
-breadcrumb-title: Événements MBI
-user-guide-description: MBI Events est une bibliothèque de vidéos où experts et pairs partagent leurs opinions sur Adobe Commerce.
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+user-guide-title: Événements Commerce Intelligence
+breadcrumb-title: Événements Commerce Intelligence
+user-guide-description: Commerce Intelligence Events est une bibliothèque de vidéos dans laquelle des experts et des pairs partagent leurs réflexions et idées sur Adobe Commerce Intelligence.
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 37%
+source-wordcount: '65'
+ht-degree: 4%
 
 ---
 
 
-# Événements MBI  {#mbi-webinars-recordings}
+# Événements Commerce Intelligence  {#commerce-intelligence-webinar-recordings}
 
-+ [Présentation](overview.md)
++ [Vue d’ensemble](overview.md)
 + 2023 {#2023}
-   + [Gestion des jeux de données dans l’IMS](2023/manage-data-sets.md)
+   + [Gestion des jeux de données dans Commerce Intelligence](2023/manage-data-sets.md)
 + 2021 {#2021}
-   + [Prise en main de MBI](2021-22/getting-started.md)
-   + [Optimisation de votre entrepôt de données MBI](2021-22/optimize-data-warehouse.md)
-   + [Exploration approfondie des tableaux de bord de l&#39;IMS](2021-22/dashboards-deep-dive.md)
-   + [Préparation des vacances avec MBI](2021-22/holiday-readiness.md)
-   + [MBI - Demander à un expert](2021-22/ask-expert.md)
+   + [Prise en main de Commerce Intelligence](2021-22/getting-started.md)
+   + [Optimisation de votre Data Warehouse Commerce Intelligence](2021-22/optimize-data-warehouse.md)
+   + [Exploration approfondie des tableaux de bord de commerce Intelligence](2021-22/dashboards-deep-dive.md)
+   + [Préparation des vacances avec Commerce Intelligence](2021-22/holiday-readiness.md)
+   + [Renseignements sur le commerce - Demander à un expert](2021-22/ask-expert.md)
 
 <!--+ Commerce Events {#commerce-events}
   + [Overview](commerce-events/overview.md)

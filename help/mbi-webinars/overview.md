@@ -1,19 +1,23 @@
 ---
-title: Événements MBI
-description: Explorez les webinaires enregistrés sur l’IMS, qui couvrent un large éventail de sujets et de bonnes pratiques pour utiliser l’IMS à son plein potentiel.
+title: Webinaires sur Commerce Intelligence
+description: Explorez les webinaires enregistrés de Commerce Intelligence, qui abordent un large éventail de sujets et de bonnes pratiques pour utiliser pleinement Commerce Intelligence.
 exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 30%
+source-wordcount: '303'
+ht-degree: 19%
 
 ---
 
-# Webinaires MBI
+# Webinaires Adobe Commerce Intelligence
 
-La série de webinaires de l’IMS est un événement périodique pour les clients de l’IMS. Les webinaires couvrent un large éventail de sujets et de bonnes pratiques pour utiliser au maximum l&#39;IMS.
+>[!NOTE]
+>
+>Adobe Commerce Intelligence était auparavant connu sous le nom de [!DNL Magento Business Intelligence (MBI)]. Les enregistrements pour les événements passés reflètent le nom précédent.
 
-Les participants de tous les pays peuvent participer aux événements en direct pour mieux comprendre le produit et obtenir une réponse directe à leurs questions sur la fonctionnalité de l’IMS.
+La série de webinaires Intelligence de Commerce est un événement périodique pour les clients de l’IMS. Les webinaires abordent un large éventail de sujets et de bonnes pratiques concernant l’utilisation de l’intelligence de commerce à son plein potentiel.
+
+Les participants de tous les pays peuvent participer aux événements en direct pour mieux comprendre le produit et obtenir une réponse directe à leurs questions sur la fonctionnalité de renseignements sur le commerce.
 
 Les rubriques sont répétées occasionnellement pour répondre à toutes les nouvelles questions que les clients peuvent poser.
 
@@ -31,16 +35,16 @@ Les rubriques sont répétées occasionnellement pour répondre à toutes les no
       </a>
     </div>
     <p>
-    <em>Découvrez les principales fonctionnalités de MBI directement auprès de l’équipe Produit de Commerce, avec des informations détaillées sur les tableaux de bord préconfigurés et les options de personnalisation disponibles.</em>
+    <em>Découvrez les principales fonctionnalités de Commerce Intelligence directement au sein de l’équipe produit, avec des informations détaillées sur les tableaux de bord préconfigurés et les options de personnalisation disponibles.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
-      <img alt="Gestion des jeux de données dans l’IMS" src="./assets/managing-data-sets-mbi.png" />
+      <img alt="Gestion des jeux de données dans MBI" src="./assets/managing-data-sets-mbi.png" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/2023/manage-data-sets.html">
-        <strong>Gestion des jeux de données dans l’IMS</strong>
+        <strong>Gestion des jeux de données dans MBI</strong>
       </a>
     </div>
     <p>
@@ -65,9 +69,9 @@ Les rubriques sont répétées occasionnellement pour répondre à toutes les no
 
 >[!TIP]
 >
->**Tous les webinaires enregistrés sont répertoriés dans le volet de navigation de gauche.**.
+>**Tous les webinaires enregistrés sont répertoriés dans la navigation de gauche.**.
 
 ## Ressources utiles
 
-- [Vidéos et tutoriels sur l’IMS](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
-- [Guide de l’utilisateur MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=fr)
+- [Vidéos et tutoriels sur Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/filter-sets.html)
+- [Guide de l’utilisateur de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=fr)
