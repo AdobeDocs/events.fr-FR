@@ -1,7 +1,7 @@
 ---
 title: Préparation de la saison du pic
 description: Corey Gelato plonge profondément dans les bonnes pratiques et les stratégies de pointe de la saison, apprend à promouvoir avec succès et efficacité vos biens et/ou services sur votre ou vos sites et reste compétitif pendant la haute saison à tout moment de l’année. À la suite d’une démonstration de fonctionnalités, notamment l’évaluation et l’aperçu du contenu, les promotions, les règles de prix du catalogue et du panier, etc., Corey répond aux questions lors d’une session de questions-réponses en direct.
-solution: Adobe Commerce
+solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
 role: Admin, Leader, User
@@ -10,7 +10,7 @@ doc-type: Event
 last-substantial-update: 2023-09-20T00:00:00Z
 jira: KT-13992
 thumbnail: 3424390.jpeg
-source-git-commit: dd032d0b6f0fef7a5939ef78837d0450c0741544
+source-git-commit: 8f73eadc11a0906ffc987aa2fe5bd83755245b19
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
