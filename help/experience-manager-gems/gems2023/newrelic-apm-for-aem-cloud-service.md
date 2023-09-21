@@ -11,10 +11,10 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: ac72726b967b526018640f76de930a4abb1e6b59
+source-git-commit: 845008d5f0024ed3a6af4cfad0ebdd53ff713a93
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 6%
+source-wordcount: '282'
+ht-degree: 9%
 
 ---
 
@@ -23,11 +23,7 @@ ht-degree: 6%
 
 Optimisez les performances et accélérez la résolution des problèmes.
 
-Ce webinaire aura lieu du 20 septembre à 17h00 CEST - 8h00 PDT - 20h30 IST
-
-## Enregistrement
-
-[Veuillez vous inscrire via AEM groupe d’utilisateurs pour participer à cette session.](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-rapid-issue-fix/)
+Ce webinaire a été organisé sur **20 septembre**, 2023. Veuillez regarder l’enregistrement ci-dessous.
 
 ## Description de la session
 
@@ -47,8 +43,12 @@ Découvrez le processus d’accès à New Relic, une fonctionnalité incluse par
 * Luciana Surdoiu, responsable de Cloud Automation, Adobe
 * Michael Campbell, ingénieur principal AEM de fiabilité du site, Adobe
 
+## Enregistrement du webinaire - 20/09/2023
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424439/)
+
 >[!NOTE]
 >
->* Pour les interactions de communauté spécifiques à une session sur Experience League, un lien sera publié prochainement.
+>* Pour connaître les interactions de communauté spécifiques à une session sur Experience League, consultez notre [thread contextuel](https://adobe.ly/3sV67N5).
 >
 >* Pour recevoir des notifications concernant les futurs webinaires, inscrivez-vous sur le [groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/).
