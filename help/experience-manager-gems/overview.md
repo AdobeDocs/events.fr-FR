@@ -11,7 +11,7 @@ level: Intermediate
 type: Event
 user-guide-description: Sessions AEM Gems
 exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: 9156b59b2cf55116f1599400a04244f3423b4492
+source-git-commit: d61918b5cd5f0e0aba1b223359f4cc69ab7110c9
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 83%
@@ -44,7 +44,7 @@ ht-degree: 83%
 </table>
 
 -->
-Notre dernier webinaire sur les GEM AEM **Libération du potentiel de New Relic APM pour AEM as a Cloud Service. Optimisez les performances et accélérez la résolution des problèmes.** a été conduit sur *20 septembre 2023*.
+Notre dernier webinaire sur les GEM AEM **Libération du potentiel de New Relic APM pour AEM as a Cloud Service. Optimisation des performances et résolution rapide des problèmes** a été conduit sur *20 septembre 2023*.
 La variable **enregistrement** se trouve ici : [New Relic APM pour Adobe Experience Manager as a Cloud Service](/help/experience-manager-gems/gems2023/newrelic-apm-for-aem-cloud-service.md)
 
 >[!NOTE]
