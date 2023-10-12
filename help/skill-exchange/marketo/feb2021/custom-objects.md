@@ -6,8 +6,8 @@ role: Developer
 level: Beginner
 kt: 9708
 thumbnail: 340313.jpeg
-exl-id: d84c53e1-40a4-4172-a173-73ebde451edd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 573d9faa-8259-451a-b729-6714f4172780
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Une corde de pointe plongée dans des objets personnalisés et une vitesse
 
-des données relationnelles de type &quot;un à plusieurs&quot; et un moteur de modèle éprouvé ; l’équipe de balises parfaite pour le contenu d’email avancé. Découvrez les tactiques de conception de schémas CO; trier, filtrer et agréger les enregistrements CO ; la détection des mises à jour des enregistrements ; et intégration de pseudo-CO à l’aide de JSON. Nous allons également couvrir les demandes générales de Velocity comme la localisation des dates, heures et devises.
+Des données relationnelles de type &quot;un à plusieurs&quot;, ainsi qu’un moteur de modèle éprouvé, constituent l’équipe de balises idéale pour le contenu d’email avancé. Découvrez les tactiques de conception de schémas de CO, de tri, de filtrage et d’agrégation des enregistrements de CO, de détection des mises à jour d’enregistrements et d’intégration de pseudo-CO à l’aide de JSON. Nous allons également couvrir les demandes générales de Velocity comme la localisation des dates, heures et devises.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340313/?quality=12&learn=on)

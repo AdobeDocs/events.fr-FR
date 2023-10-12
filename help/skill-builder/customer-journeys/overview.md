@@ -1,8 +1,8 @@
 ---
 title: Skill Builder - Parcours client
 description: Série de webinaires enregistrés pour vous aider à développer des profils client en temps réel en extrayant des données de toutes les sources pour créer des parcours personnalisés sur plusieurs canaux.
-exl-id: 0ea7bc07-8b82-4aba-abaa-78ac7f4c8ce2
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: a77be055-e53b-4062-9e02-ee589c0b0f4d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 9%
@@ -61,4 +61,4 @@ Développez des profils client en temps réel en extrayant des données de toute
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans le volet de navigation de gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.

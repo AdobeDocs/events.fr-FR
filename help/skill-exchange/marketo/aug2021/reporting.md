@@ -1,13 +1,13 @@
 ---
 title: Reporting dans [!DNL Marketo Engage]
-description: Cette session passera en revue tous les outils de création de rapports disponibles dans [!DNL Marketo Engage] Inclusion des informations sur les emails des analyseurs de listes dynamiques dans les rapports
+description: Cette session examinera tous les outils de création de rapports disponibles dans [!DNL Marketo Engage] Inclusion des informations sur les emails des analyseurs de listes dynamiques dans les rapports
 solution: Marketo Engage
 role: User
 level: Beginner
 kt: 10325
 thumbnail: 342557.jpeg
-exl-id: fc869a40-a170-4eaa-a94a-cd5d206e2aaa
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: be7ce77f-d4e0-47fa-b811-f1792ef76be6
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 1%
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 # Reporting dans [!DNL Marketo Engage]
 
-Cette session passera en revue tous les outils de création de rapports disponibles dans [!DNL Marketo Engage] notamment :
+Cette session examinera tous les outils de création de rapports disponibles dans [!DNL Marketo Engage] notamment :
 
 * Rapports
 * Listes dynamiques
@@ -31,6 +31,6 @@ Cette session passera en revue tous les outils de création de rapports disponib
 
 Cette session vous permettra de découvrir les fonctionnalités de reporting de haut niveau de [!DNL Marketo Engage], puis approfondir l’analyse des rapports et des listes dynamiques.
 
-Une séance de questions-réponses en direct à la fin de cette session répondra à l’une de vos questions en suspens.
+Une séance de questions-réponses en direct à la fin de cette session répondra à toutes vos questions en suspens.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342557/?quality=12&learn=on)

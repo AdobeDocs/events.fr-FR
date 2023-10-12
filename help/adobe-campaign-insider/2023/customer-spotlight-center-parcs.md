@@ -5,7 +5,8 @@ version: Classic v7
 solution: Campaign
 kt: 10502
 thumbnail: 343521.jpeg
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+exl-id: 47208f37-f346-4cc5-8fc4-016cd6a4fe33
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 15%

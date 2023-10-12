@@ -4,8 +4,8 @@ description: Méthodologie d’intégration de l’analyse SonarQube aux projets
 uuid: 72507d44-fc08-4be5-a91b-a6c05709fe35
 discoiquuid: 6511d4b9-302a-453a-a6b0-8eea40769b20
 targetaudience: target-audience advanced
-exl-id: 32050ae8-fbbe-4275-a4bd-3a87af6f5d7b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 0fa00df5-af2c-4e08-9160-dee6ecc33c2b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%

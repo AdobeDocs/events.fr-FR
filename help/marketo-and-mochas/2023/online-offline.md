@@ -8,13 +8,13 @@ doc-type: Event
 last-substantial-update: 2023-08-07T00:00:00Z
 jira: KT-13750
 thumbnail: 3422363.jpeg
-source-git-commit: 95a4f33eb72b0feb1d15875b04ee67d7256d1bd6
+exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # Canaux en ligne ou hors ligne
 

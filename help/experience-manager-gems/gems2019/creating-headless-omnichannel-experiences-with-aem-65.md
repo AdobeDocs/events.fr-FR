@@ -4,8 +4,8 @@ description: Il vous faut passer au niveau supérieur en matière de fluidité d
 uuid: 126e5518-b8c0-41e7-9b99-78d9d80b18b0
 discoiquuid: 77929dd9-2a0b-45e2-bffb-7a6e6ac1d9bd
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: 2b326d24-e734-4f19-b4dd-9e538f80497a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b4c08f4a-1315-4eeb-82bf-7af525eff62d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 100%

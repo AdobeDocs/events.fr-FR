@@ -4,8 +4,8 @@ description: Tout commence avec Adobe Experience Platform. Découvrez la mani�
 uuid: 502196b9-9cfb-4652-83a4-9156434370a1
 discoiquuid: 6e050ad4-1b0c-46d0-b588-6402102f0263
 targetaudience: target-audience advanced
-exl-id: c9c4ee67-0a97-4839-b1a9-8a94e216fe0a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: fcea7000-dbd2-47d3-af68-0a210901efa4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 100%

@@ -1,5 +1,5 @@
 ---
-title: Déplacement d’Adobe Experience Manager vers le cloud - Défis, histoires, solutions
+title: Déplacement de Adobe Experience Manager vers le cloud - Défis, histoires, solutions
 description: Une table ronde avec Ian Boston, Tomek Rekawek et Carlos Sanchez, sur la manière dont nous avons migré Adobe Experience Manager vers le cloud. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
 solution: Experience Manager
 product: experience manager
@@ -11,15 +11,15 @@ version: Cloud Service
 kt: 7173
 type: Event
 thumbnail: 331739.jpg
-exl-id: 089d3908-49c4-47c1-8941-c59ba3befcd1
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 31ab1743-9e0e-42db-94e0-1d630680c96f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# Déplacement d’Adobe Experience Manager vers le cloud - Défis, histoires, solutions
+# Déplacement de Adobe Experience Manager vers le cloud - Défis, histoires, solutions
 
 Une table ronde avec Ian Boston, Tomek Rekawek et Carlos Sanchez, sur la manière dont nous avons migré Adobe Experience Manager vers le cloud.
 

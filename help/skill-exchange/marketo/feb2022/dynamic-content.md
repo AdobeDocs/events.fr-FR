@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
-exl-id: e39b9f63-d5b2-4211-8fa9-6aebbbf8bbf8
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: f96fb348-ff59-4dac-ad7d-048a2ba96afc
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 2%

@@ -6,8 +6,8 @@ content-type: troubleshooting
 topic-tags: troubleshoot
 discoiquuid: 563fbea0-fad3-45da-8d38-5ee736bd3588
 targetaudience: target-audience new;target-audience ongoing
-exl-id: 57ec5972-cf2a-4655-89f1-4d65efc0717b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 0d8338e3-bf83-450b-a7e1-7091ea10f436
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
@@ -39,5 +39,4 @@ La réplication est une fonctionnalité centrale d’AEM, car elle permet de pub
 >
 >* [Indexation AEM et requête JCR](aem-indexing-jcr-query.md)
 >* [Dépannage de la réplication AEM](aem-troubleshooting-aem-replication.md)
-
 <!-- >>* [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html) -->

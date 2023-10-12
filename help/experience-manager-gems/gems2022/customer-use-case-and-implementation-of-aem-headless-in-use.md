@@ -8,8 +8,8 @@ feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-exl-id: 5f75ebf2-1a15-4d1d-b233-6de1cfecd11f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6e35763d-d18a-468c-9b34-df14da7c7e2f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%
@@ -55,4 +55,3 @@ Cela évite d’exiger de l’API qu’elle fournisse de nombreux points d’ent
 >
 >* Pour plus d’interactions de la communauté Experience League spécifiques à une session, consultez ce [thread contextuel](https://adobe.ly/3r6P4nr).
 >* Pour recevoir des notifications automatiques concernant les webinaires, inscrivez-vous à l’adresse [Groupe d’utilisateurs d’Adobe AEM](https://aem-augs.adobe.com/).
-

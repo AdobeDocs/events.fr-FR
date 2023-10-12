@@ -4,8 +4,8 @@ description: Cette Gem AEM explique comment exécuter AEM sur MongoDB dans une 
 uuid: 8ca5b7d0-b71e-481c-961c-c91ee987f374
 discoiquuid: 198f9f6e-4156-468a-88d7-6902f51dd6c1
 targetaudience: target-audience advanced
-exl-id: a730275f-cfc9-4fbe-aa7b-d0a5220a8417
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 1dc74724-9781-477b-a05b-e25ef9f5e15b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 63%
@@ -34,7 +34,7 @@ Cette Gem AEM explique comment exécuter AEM sur MongoDB dans une configuration
 >
 >AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
 >
->En ce qui concerne cette session, veuillez consulter *Requêtes et indexation Oak : AEM avec MongoDB* dans la documentation AEM 6.1.
+>En ce qui concerne cette session, veuillez consulter *Requêtes Oak et indexation : AEM avec MongoDB* dans la documentation d’AEM 6.1.
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

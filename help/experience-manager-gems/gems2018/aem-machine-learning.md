@@ -5,8 +5,8 @@ uuid: 23acfe70-e441-414b-905d-376a4d98f0fa
 topic-tags: smart-tags
 discoiquuid: c0b3b1f6-5765-44f7-ba12-e17267e1c89e
 targetaudience: target-audience advanced
-exl-id: f4f8de53-a22c-42e8-80d5-fc308a6af5a8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 4e6496fc-4389-4cfa-8921-a23736f23e13
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
@@ -38,4 +38,3 @@ Jonas Dahl, chef de produit, Adobe
 >[!MORELIKETHIS]
 >
 >* [Machine learning dans AEM : balises intelligentes améliorées, mise en page intelligente et plus](aem-machine-learning.md)
-

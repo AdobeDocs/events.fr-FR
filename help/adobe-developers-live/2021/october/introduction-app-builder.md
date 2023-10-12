@@ -1,14 +1,14 @@
 ---
 title: 'Présentation d’App Builder : tout ce dont vous avez besoin pour créer une application cloud personnalisée pour répondre aux besoins de votre entreprise'
-description: Découvrez les possibilités offertes par App Builder et demandez-nous tout ce que vous souhaitez savoir. Rejoignez-nous pour en savoir plus sur la manière dont App Builder vous permet de créer des applications natives pour le cloud afin d’étendre les fonctionnalités prêtes à l’emploi d’Adobe Experience Manager et d’autres produits Adobe. Vous découvrirez les cas d’utilisation courants et découvrirez comment commencer à créer avec App Builder.
+description: Découvrez les possibilités offertes par App Builder et demandez-nous tout ce que vous souhaitez savoir. Rejoignez-nous pour en savoir plus sur la manière dont App Builder vous permet de créer des applications natives cloud pour étendre les fonctionnalités prêtes à l’emploi de Adobe Experience Manager et d’autres produits Adobe. Vous découvrirez les cas d’utilisation courants et découvrirez comment commencer à créer avec App Builder.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
 kt: 9214
 type: Event
-exl-id: a2d4018b-1571-48c7-ae9b-f816c0564ede
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3b8d4aa4-5b2b-43b2-8cb4-3b01e2fb6e74
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 15%
@@ -17,7 +17,7 @@ ht-degree: 15%
 
 # Présentation d’App Builder : tout ce dont vous avez besoin pour créer une application cloud personnalisée pour répondre aux besoins de votre entreprise
 
-Découvrez les possibilités offertes par App Builder et demandez-nous tout ce que vous souhaitez savoir. Rejoignez-nous pour en savoir plus sur la manière dont App Builder vous permet de créer des applications natives pour le cloud afin d’étendre les fonctionnalités prêtes à l’emploi d’Adobe Experience Manager et d’autres produits Adobe. Vous découvrirez les cas d’utilisation courants et découvrirez comment commencer à créer avec App Builder.
+Découvrez les possibilités offertes par App Builder et demandez-nous tout ce que vous souhaitez savoir. Rejoignez-nous pour en savoir plus sur la manière dont App Builder vous permet de créer des applications natives cloud pour étendre les fonctionnalités prêtes à l’emploi de Adobe Experience Manager et d’autres produits Adobe. Vous découvrirez les cas d’utilisation courants et découvrirez comment commencer à créer avec App Builder.
 
 Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3AYeJlv)**.
 

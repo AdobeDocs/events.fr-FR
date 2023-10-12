@@ -7,8 +7,8 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 kt: 10633
 thumbnail: 344312.jpeg
-exl-id: 87bed2ec-5ad6-4eab-bf68-30275aaea2db
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 434fd1c4-e7f1-40a8-bf61-4b5a72ce3091
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 1%
@@ -24,5 +24,5 @@ Avec tout le bruit sur le marché des CDP, il est difficile de savoir où se con
 ## Informations supplémentaires 
 
 *[Bonnes pratiques relatives aux personnes et aux processus pour la gestion des données client](people-and-process.md)
-*[Créer des expériences superbes avec vos données propriétaires](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
+*[Création d’expériences superbes avec vos données propriétaires](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
 *[Étude de cas : banques du BST sur la personnalisation des données en temps réel pour chaque client.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)

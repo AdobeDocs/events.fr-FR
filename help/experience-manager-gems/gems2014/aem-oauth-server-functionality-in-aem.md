@@ -4,8 +4,8 @@ description: Découvrez le framework OAuth 2 et la fonction de serveur OAuth Gr
 uuid: 5fa01808-033f-456d-a024-c28f60e1e4b7
 discoiquuid: b53df422-3625-40f4-b7fe-9945f2ec71f6
 targetaudience: target-audience advanced
-exl-id: 8ab5d16c-22fc-4210-87b3-16dacb9f5254
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e0797cec-a27b-4790-9281-a8b1d6e9b10c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 100%

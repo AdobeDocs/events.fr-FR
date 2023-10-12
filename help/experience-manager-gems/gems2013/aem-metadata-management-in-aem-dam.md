@@ -4,8 +4,8 @@ description: Découvrez comment la gestion des ressources numériques AEM permet
 uuid: 09bce4bb-8880-41ae-b95c-1f36407191ff
 discoiquuid: 0e2538bc-7a1a-41ce-8fed-64805ca1bb89
 targetaudience: target-audience advanced
-exl-id: 0c60cfae-aa7c-4dbc-ba56-9d0b7063770a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 11302a97-d19e-4572-99f3-6315d0bd936e
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%

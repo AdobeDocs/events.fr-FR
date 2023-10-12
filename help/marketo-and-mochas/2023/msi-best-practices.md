@@ -9,13 +9,13 @@ doc-type: Event
 last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13806
 thumbnail: KT-13806.jpeg
-source-git-commit: debf0572678929709fdddb8ce098a34673fe3e7a
+exl-id: cfbd847f-4693-45f9-b9a1-f1b5db67a98b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
 
 ---
-
 
 # Marketo et Mochas - Bonnes pratiques et optimisation MSI
 

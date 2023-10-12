@@ -4,8 +4,8 @@ description: Rejoignez Sham Hassan Chikkegowda, ingénieur CS, et Timothée Mare
 uuid: 1fef0c03-50fc-4874-aab3-6b8908a91938
 discoiquuid: eec3e83c-b167-457e-8db7-41dfebb3b406
 targetaudience: target-audience advanced
-exl-id: 03f14808-7906-4e02-97bc-2da2273df817
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3631e05d-633f-42ef-a950-92f039081ced
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 100%

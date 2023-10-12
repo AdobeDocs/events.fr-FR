@@ -4,8 +4,8 @@ description: Même si vous n’êtes pas en mesure de migrer complètement vers 
 uuid: debfe153-74e7-4e52-9fec-494e7ca6c780
 discoiquuid: 4e22b290-b352-4371-a734-fdbed3d25838
 targetaudience: target-audience advanced
-exl-id: 9f7d017c-acf7-4f0b-87a5-14370ae7bb84
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: cb343695-80ec-4781-92c2-5dba32e71a09
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 100%

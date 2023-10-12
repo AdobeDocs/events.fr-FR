@@ -8,13 +8,13 @@ last-substantial-update: 2023-06-30T00:00:00Z
 jira: KT-13564
 thumbnail: 3421021.jpeg
 event-start-time: 2023-6-30 08:30-8
-source-git-commit: ce580d05a3de350517960eba121dd5b739028643
+exl-id: 531d690e-8bb1-49eb-aafa-bc5db88baea7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # Suivi, analyse et optimisation de vos campagnes marketing avec Marketo Engage
 

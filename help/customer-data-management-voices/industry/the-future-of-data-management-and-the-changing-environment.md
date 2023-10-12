@@ -9,8 +9,8 @@ doc-type: Event
 thumbnail: 332077.jpg
 kt: 7333
 type: Event
-exl-id: b3821cbf-b11d-4524-bf05-4e2c77300e30
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 9562892a-e6f4-45b5-a8e7-8aa162e8899d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 62%

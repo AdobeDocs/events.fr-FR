@@ -1,7 +1,8 @@
 ---
 title: Heures d’ouverture d’Adobe
 description: Office Hours est une approche proactive de la déviation des cas en offrant aux clients des webinaires spécifiques aux solutions.
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%

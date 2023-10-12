@@ -10,8 +10,8 @@ role: User
 level: Intermediate
 kt: 11630
 event-start-time: 2023-1-18 08:30-8
-exl-id: 04b5d071-18a4-44e3-af7b-6a4db594cacb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 9e952d3a-aec8-41f7-a9bc-19e187276af0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 100%
@@ -43,4 +43,3 @@ Notez que qu’AEM Best Practices Analyzer n’est pas applicable aux environnem
 >
 >* Pour plus d’interactions de la communauté Experience League spécifiques à une session, consultez ce [thread contextuel](https://bit.ly/3Z6AyM1).
 >* Pour recevoir des notifications automatiques concernant les webinaires, inscrivez-vous à l’adresse [Groupe d’utilisateurs d’Adobe AEM](https://aem-augs.adobe.com/).
-

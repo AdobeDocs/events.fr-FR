@@ -4,8 +4,8 @@ description: Découvrez pourquoi il est essentiel à l’efficacité de votre é
 uuid: 445d4ead-8055-4624-a618-edd67ee3ec2d
 discoiquuid: 8c411732-3462-4ea1-9bca-e3e1cd6ac3f0
 targetaudience: target-audience advanced
-exl-id: dc5d1693-8d4e-4a2f-9baf-9b5ca2a3931a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6cffa7ca-4b83-4564-8674-51ec7d2d734c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 100%

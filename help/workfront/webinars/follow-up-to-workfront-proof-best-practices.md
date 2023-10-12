@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
-exl-id: 19d73416-80b3-41b3-98ac-6065975ed6bb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1638'
 ht-degree: 2%
@@ -55,11 +55,11 @@ Je recommande que le Créateur/Propriétaire du BAT soit défini sur &quot;Déci
 
 **Question**
 
-Pouvez-vous changer le propriétaire du BAT qui est informé lorsque les décisions sont prises ? Nous avons essayé d&#39;utiliser l&#39;outil de vérification, mais nous n&#39;avons pas pu changer le propriétaire du document de la personne qui a téléchargé le document d&#39;origine. Exemple : Un responsable marketing a téléchargé le document d’origine, mais il s’agissait d’un spécialiste du marketing qui, en fin de compte, était responsable de la prise de décisions et de la prise de modifications.
+Pouvez-vous changer le propriétaire du BAT qui est informé lorsque les décisions sont prises ? Nous avons essayé d&#39;utiliser l&#39;outil de vérification, mais nous n&#39;avons pas pu changer le propriétaire du document de la personne qui a téléchargé le document d&#39;origine. Exemple : un responsable marketing a téléchargé le document d’origine, mais il s’agissait d’un spécialiste du marketing qui, en fin de compte, était chargé d’obtenir des décisions et d’apporter des modifications.
 
 **Réponse**
 
-Pour changer le propriétaire du BAT, vous devez suivre ce chemin : Documents > Sélectionnez le Bon à tirer > Cliquez sur &quot;Détails du bon à tirer&quot; > Dans la fenêtre des détails du bon à tirer, localisez le destinataire que vous souhaitez faire appartenir au propriétaire du BAT > Cliquez sur le bouton Éliminations pour ce destinataire et sélectionnez &quot;Rendre propriétaire&quot;.
+Pour changer le propriétaire du BAT, vous devez suivre le chemin suivant : Documents > Sélectionnez le BAT > Cliquez sur &quot;Détails du BAT&quot; > Dans la fenêtre des détails du BAT, localisez le destinataire que vous souhaitez faire passer au propriétaire du BAT > Cliquez sur le bouton Éliminations pour ce destinataire et sélectionnez &quot;Rendre propriétaire&quot;.
 
 **Question**
 
@@ -71,11 +71,11 @@ En règle générale, les séries de révisions correspondent au nombre de versi
 
 **Question**
 
-Une personne peut-elle être dans plus d&#39;une scène ? En d&#39;autres termes, si nous avons un gestionnaire dans un cycle de révision précoce qui a une révision finale à une étape ultérieure, comment pourrions-nous configurer cela ?
+Est-ce qu&#39;une personne peut être dans plus d&#39;une scène ? En d&#39;autres termes, si nous avons un gestionnaire dans un cycle de révision précoce qui a une révision finale à une étape ultérieure, comment pourrions-nous configurer cela ?
 
 **Réponse**
 
-Bien que vous ne puissiez pas ajouter un destinataire de BAT à plusieurs étapes de révision sur un BAT, une fois l’étape de révision dans laquelle il se trouve activée, il sera activé jusqu’aux étapes restantes pour cette version. Cela leur permettrait de continuer à commenter et répondre aux commentaires, même si d&#39;autres étapes ont commencé. Pour vous assurer que cela fonctionne, assurez-vous que vous n’avez pas de cadenas de scènes lorsque la nouvelle étape démarre.
+Bien que vous ne puissiez pas ajouter un destinataire de BAT à plusieurs étapes de révision sur un BAT, une fois l’étape de révision dans laquelle il se trouve activée, il sera activé jusqu’aux étapes restantes pour cette version. Cela leur permettrait de continuer à commenter et répondre aux commentaires, même si d&#39;autres étapes ont commencé. La clé pour vous assurer que cela fonctionne est de vous assurer que vous n’avez pas de cadenas de scènes lorsque la nouvelle étape démarre.
 
 **Question**
 
@@ -83,7 +83,7 @@ Pouvez-vous modifier des workflows existants ?
 
 **Réponse**
 
-Oui, vous souhaiterez accéder au BAT Workfront, puis sélectionner Workflows dans le menu de gauche. Vous pouvez y modifier des étapes, ajouter des utilisateurs, supprimer des utilisateurs, ajouter des étapes, etc.
+Oui, vous souhaiterez accéder au Bon à tirer de Workfront, puis sélectionner Workflows dans le menu de gauche. Vous pouvez y modifier des étapes, ajouter des utilisateurs, supprimer des utilisateurs, ajouter des étapes, etc.
 
 **Question**
 
@@ -91,7 +91,7 @@ Le workflow de validation d&#39;un document sur le BAT et non la tâche présent
 
 **Réponse**
 
-Dans le cas de la validation, vous gérez le processus de validation à l&#39;aide du moteur de workflow de BAT. Vous pouvez ainsi utiliser l’outil de révision collaborative des BAT pour recueillir commentaires, commentaires, annotations, décisions et étapes. Vous aurez la possibilité d’utiliser plusieurs déclencheurs de workflow pour acheminer le BAT et vous pourrez utiliser des paramètres propres aux scènes de BAT, tels que le verrouillage, les scènes privées et les décideurs Principal. Vous avez également la possibilité d’affecter des rôles de BAT uniques et des notifications électroniques de BAT uniques. De plus, vous avez la possibilité de vérifier le contenu aussi varié que les BAT statiques, vidéo et interactifs (environ 150 types de fichiers différents).
+Dans le cas de la validation, vous gérez le processus de validation à l&#39;aide du moteur de workflow de BAT. Vous pouvez ainsi utiliser l’outil de révision collaborative des BAT pour recueillir commentaires, commentaires, annotations, décisions et étapes. Vous aurez la possibilité d’utiliser plusieurs déclencheurs de workflow pour acheminer le BAT et vous pourrez utiliser des paramètres propres aux phases de BAT, tels que le verrouillage, les phases privées et les décideurs de Principal. Vous avez également la possibilité d’affecter des rôles de BAT uniques et des notifications électroniques de BAT uniques. De plus, vous avez la possibilité de vérifier le contenu aussi varié que les BAT statiques, vidéo et interactifs (environ 150 types de fichiers différents).
 
 **Question**
 
@@ -147,15 +147,15 @@ Plusieurs personnes peuvent-elles télécharger une nouvelle version ? par exemp
 
 **Réponse**
 
-Les destinataires du BAT peuvent créer de nouvelles versions de BAT s’ils répondent aux critères suivants : 1) Ils sont propriétaires du BAT - ou 2) Ils sont définis avec le rôle d’auteur ou de modérateur du BAT - ou 3) Ils sont configurés avec le Niveau d’autorisation de BAT du superviseur ou de l’administrateur.
+Les destinataires du BAT peuvent créer de nouvelles versions de BAT s’ils répondent aux critères suivants : 1) ils sont propriétaires du BAT ; ou 2) ils sont définis avec le rôle de BAT de l’auteur ou du modérateur sur le BAT ; ou 3) ils sont configurés avec le Niveau d’autorisation du superviseur de BAT.
 
 **Question**
 
-Comment gérer plusieurs bons à tirer (par exemple, A, B et C) avec le workflow automatisé. Tu recommences ?
+Comment gérer plusieurs bons à tirer (par exemple, A, B et C) avec le workflow automatisé. Commencez-vous à nouveau ?
 
 **Réponse**
 
-Vous pouvez appliquer un modèle de workflow automatisé à plusieurs BAT au moment de la création de la version initiale des BAT. Pour ce faire, suivez ce chemin : Documents > Ajouter nouveau > Bon à tirer. Sur la page Nouveau bon à tirer , sélectionnez plusieurs fichiers à charger, appliquez le modèle de workflow automatisé et créez les bons à tirer.
+Vous pouvez appliquer un modèle de workflow automatisé à plusieurs BAT au moment de la création de la version initiale des BAT. Pour cela, suivez ce chemin : Documents > Ajouter nouveau > Bon à tirer. Sur la page Nouveau bon à tirer , sélectionnez plusieurs fichiers à charger, appliquez le modèle de workflow automatisé et créez les bons à tirer.
 
 **Question**
 
@@ -171,7 +171,7 @@ Où puis-je voir les paramètres du BAT ?
 
 **Réponse**
 
-Pour afficher les paramètres du BAT sur un BAT existant, vous devez suivre ce chemin : Onglet Documents > Sélectionnez le Bon à tirer > Cliquez sur &quot;Détails du bon à tirer&quot; > Depuis la fenêtre Détails du bon à tirer qui s’ouvre, vous souhaiterez développer la zone &quot;Paramètres&quot;.
+Pour afficher les paramètres du BAT sur un BAT existant, vous devez suivre le chemin suivant : Onglet Documents > Sélectionnez le BAT > Cliquez sur &quot;Détails du BAT&quot; > Depuis la fenêtre Détails du BAT qui s’ouvre, vous souhaiterez développer la zone &quot;Paramètres&quot;.
 
 **Question**
 
@@ -187,7 +187,7 @@ Une fois une étape activée, pouvez-vous la désactiver ?
 
 **Réponse**
 
-Vous ne pourrez toutefois pas désactiver une étape principale, mais vous pouvez &quot;verrouiller&quot; la scène qui empêchera les personnes de l’étape de faire des commentaires et de prendre des décisions.
+Vous ne pourrez pas désactiver une étape active, mais vous pouvez &quot;verrouiller&quot; la scène, ce qui empêchera les personnes de l’étape de faire des commentaires et de prendre des décisions.
 
 **Question**
 

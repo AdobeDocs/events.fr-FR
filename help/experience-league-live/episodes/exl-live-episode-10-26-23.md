@@ -7,7 +7,8 @@ event-cta-url-live: https://www.youtube.com/watch?v=dvCuSQfMTZg
 event-cta-url-reg: null
 event-start-time: 2023-10-26 09:00-7
 event-guests: Betsey West,Ben Robbins,Jamie Smith
-source-git-commit: df3f164bb409e17962654ce8a3533c510a369852
+exl-id: f36c96ce-d889-4549-8595-a43d815dd9af
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%

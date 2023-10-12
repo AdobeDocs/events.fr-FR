@@ -1,14 +1,14 @@
 ---
 title: Bonnes pratiques et stratégies de diffusion efficaces
-description: De nombreuses heures sont consacrées à la planification et à la production des campagnes par e-mail. Si les emails rebondissent ou finissent par atterrir dans le dossier de spam de vos abonnés, ils... (Les descriptions doivent comporter entre 60 et 160 caractères)
+description: De nombreuses heures sont consacrées à la planification et à la production des campagnes par e-mail. Si les emails rebondissent ou finissent par atterrir dans le dossier de spam de vos abonnés, ils le feront... (Les descriptions doivent comporter entre 60 et 160 caractères).
 version: Classic v7
 solution: Campaign
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
 kt: 10507
 thumbnail: 343872.jpeg
-exl-id: 87f6d0b4-1501-4182-8b4f-bf146de1d60d
-source-git-commit: 8c12f7012098ea201995fe0d8c680b62a4124364
+exl-id: 6faeec55-17d0-471b-8289-6cfb05cc4ee3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 34%

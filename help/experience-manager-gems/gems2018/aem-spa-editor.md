@@ -4,8 +4,8 @@ description: À mesure que les applications d’une seule page (SPA) rendent l�
 uuid: d61f7398-c3e8-475a-a3c3-f71a8106c8f4
 discoiquuid: 8c6673c0-635e-453d-abf0-5d0db313329a
 targetaudience: target-audience advanced
-exl-id: 8c96fc76-2a09-4b06-a146-ce0fdf216ebf
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 99684051-9a66-4d33-8ed0-1362de6d2a04
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 100%

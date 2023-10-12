@@ -4,8 +4,8 @@ description: Découvrez le top des conseils et astuces concernant l’interface 
 uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
-exl-id: 0952e105-d33f-4dcf-9932-e93e1091db86
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e5575c26-8725-4857-973f-b0991d48497b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%

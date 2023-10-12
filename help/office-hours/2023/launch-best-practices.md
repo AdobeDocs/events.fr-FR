@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13820
 thumbnail: 3422528.jpeg
-source-git-commit: ce580d05a3de350517960eba121dd5b739028643
+exl-id: 5b235517-efe6-4826-b51f-166a88d5bf64
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Analytics : Bonnes pratiques relatives au lancement
 

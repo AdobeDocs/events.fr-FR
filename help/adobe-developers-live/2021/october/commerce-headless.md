@@ -1,14 +1,14 @@
 ---
 title: Dimensionnement de Adobe Commerce Cloud pour un grand nombre de requêtes d’API dans une mise en oeuvre sans interface utilisateur
-description: Adobe Commerce Cloud est utilisée comme plateforme de commerce électronique pour l’Australie 7-Eleven sur plusieurs canaux. Dans cette présentation, nous partagerons l’expérience d’utilisation de Adobe Commerce Cloud avec un grand nombre d’interactions API gourmandes en ressources, basées sur l’exemple des offres personnalisées utilisant une combinaison d’Adobe Campaign et d’Adobe Commerce. Nous partagerons notre expérience sur l’estimation et le dimensionnement de l’infrastructure en fonction de la demande attendue, des approches de test et de l’interprétation des données de surveillance disponibles.
+description: Adobe Commerce Cloud est utilisée comme plateforme de commerce électronique pour l’Australie 7-Eleven sur plusieurs canaux. Dans cette présentation, nous partagerons l’expérience d’utilisation de Adobe Commerce Cloud avec un grand nombre d’interactions API gourmandes en ressources, basées sur l’exemple des offres personnalisées, en combinant Adobe Campaign et Adobe Commerce. Nous partagerons notre expérience sur l’estimation et le dimensionnement de l’infrastructure en fonction de la demande attendue, des approches de test et de l’interprétation des données de surveillance disponibles.
 solution: Commerce
 feature: Developer Tools
 role: Developer, Architect
 level: Experienced
 kt: 9200
 type: Event
-exl-id: 3cbbaaf4-bc98-499b-a20c-0e9b2d9ac83d
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 82229f38-cd4d-4595-b348-168f9c6109c7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 14%
@@ -17,7 +17,7 @@ ht-degree: 14%
 
 # Dimensionnement de Adobe Commerce Cloud pour un grand nombre de requêtes d’API dans une mise en oeuvre sans interface utilisateur
 
-Adobe Commerce Cloud est utilisée comme plateforme de commerce électronique pour l’Australie 7-Eleven sur plusieurs canaux. Dans cette présentation, nous partagerons l’expérience d’utilisation de Adobe Commerce Cloud avec un grand nombre d’interactions API gourmandes en ressources, basées sur l’exemple des offres personnalisées utilisant une combinaison d’Adobe Campaign et d’Adobe Commerce. Nous partagerons l’expérience sur l’estimation et le dimensionnement de l’infrastructure en fonction de la demande attendue, des approches de test et de l’interprétation des données de surveillance disponibles.
+Adobe Commerce Cloud est utilisée comme plateforme de commerce électronique pour l’Australie 7-Eleven sur plusieurs canaux. Dans cette présentation, nous partagerons l’expérience d’utilisation de Adobe Commerce Cloud avec un grand nombre d’interactions API gourmandes en ressources, basées sur l’exemple des offres personnalisées, en combinant Adobe Campaign et Adobe Commerce. Nous partagerons l’expérience sur l’estimation et le dimensionnement de l’infrastructure en fonction de la demande attendue, des approches de test et de l’interprétation des données de surveillance disponibles.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337726/?quality=12&learn=on&hidetitle=true)
 

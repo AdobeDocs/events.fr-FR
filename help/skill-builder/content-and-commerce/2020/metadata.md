@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7339
-exl-id: c2c500bf-b060-4507-af61-4c5dd1c5a8ec
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: b988b7ca-316f-4a14-9ca1-a9dc6b24aa5d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 15%
@@ -22,7 +22,7 @@ ht-degree: 15%
 
 # Métadonnées - Série de ressources Adobe Experience Manager
 
-Utilisez cette série de webinaires en cinq parties pour créer votre base de connaissances et optimiser votre investissement dans Adobe Experience Manager Assets. Si vous êtes un spécialiste des ressources Adobe Experience Manager qui découvre les nouveautés d’ou que vous utilisez Adobe Experience Manager Assets depuis un certain temps et que vous cherchez à perfectionner vos compétences existantes, c’est la méthode idéale pour approfondir cinq des aspects les plus importants de la solution. Les experts d’Adobe passeront en revue les principes de base et vous donneront également des informations avancées qui vous permettront d’effectuer immédiatement les prochaines étapes.
+Utilisez cette série de webinaires en cinq parties pour créer votre base de connaissances et optimiser votre investissement dans Adobe Experience Manager Assets. Si vous êtes un spécialiste des ressources Adobe Experience Manager qui découvre les nouveautés de ou que vous utilisez Adobe Experience Manager Assets depuis un certain temps et que vous cherchez à perfectionner vos compétences existantes, c’est la méthode idéale pour approfondir cinq des aspects les plus importants de la solution. Les experts d’Adobe passeront en revue les principes de base et vous donneront également des informations avancées qui vous permettront d’effectuer immédiatement les prochaines étapes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 

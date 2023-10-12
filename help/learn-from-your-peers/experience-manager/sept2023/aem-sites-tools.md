@@ -9,13 +9,13 @@ doc-type: Event
 last-substantial-update: 2023-10-06T00:00:00Z
 jira: KT-14118
 thumbnail: 3424735.jpeg
-source-git-commit: 426722ebded091c3dc685b951b6823f432e58a4d
+exl-id: 337a19c3-2959-492a-b0c6-87d5a7731797
+source-git-commit: f12fd8431c9e52e21c8937ee006d2f5295d328f6
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # Exploration approfondie des outils pour AEM Sites
 

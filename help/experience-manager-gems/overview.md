@@ -10,8 +10,8 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: Sessions AEM Gems
-exl-id: 595f6977-935a-4859-9cfd-161d45847f85
-source-git-commit: d61918b5cd5f0e0aba1b223359f4cc69ab7110c9
+exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 83%

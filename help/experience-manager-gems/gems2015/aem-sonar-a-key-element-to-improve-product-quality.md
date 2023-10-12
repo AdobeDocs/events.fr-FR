@@ -4,8 +4,8 @@ description: Découvrez comment utiliser Sonar pour améliorer la qualité du pr
 uuid: f193d261-0e70-4758-8b0f-47c7b288e9e9
 discoiquuid: e0a955be-47e1-4d78-ab20-c4747b06d094
 targetaudience: target-audience advanced
-exl-id: 76a7b594-788e-4b1a-9122-774c0ba0469e
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 2c9b6cdc-8595-404e-9d75-33483989c5b2
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%

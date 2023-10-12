@@ -11,8 +11,8 @@ last-substantial-update: 2023-05-03T00:00:00Z
 jira: KT-13194
 thumbnail: 3419107.jpeg
 event-start-time: 2023-5-2 08:30-8
-exl-id: 7fd383ac-e7d1-4d04-b990-70da851f802b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: f8493ac6-e218-4e86-b0a1-fe37ba548cdc
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%

@@ -1,13 +1,13 @@
 ---
 title: Le pouvoir de la réutilisation
-description: Nous discuterons de l’utilisation des fragments d’expérience pour stimuler la réutilisation et l’efficacité dans votre écosystème.  Cela aura un impact sur le retour sur investissement et sur la vitesse de transmission.  Les participants comprendront comment positionner et utiliser les fragments d’expérience. Les participants. découvriront comment appliquer cette fonctionnalité pour accélérer l’utilisation de l’expérience numérique pour vos clients.
+description: Nous discuterons de la manière d’utiliser les fragments d’expérience pour stimuler la réutilisation et l’efficacité dans votre écosystème.  Cela aura un impact sur le retour sur investissement et sur la vitesse de transmission.  Les participants comprendront comment positionner et utiliser les fragments d’expérience. Les participants. découvriront comment appliquer cette fonctionnalité pour accélérer l’utilisation de l’expérience numérique pour vos clients.
 solution: Experience Manager
 role: User
 level: Beginner, Intermediate, Experienced
 kt: 10950
 thumbnail: 346387.jpeg
-exl-id: 5e6c4863-a700-4115-a6f9-81b64ca3591c
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: c4c1608b-5119-4060-b10d-9095a1d9adc6
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Le pouvoir de la réutilisation
 
-Nous discuterons de l’utilisation des fragments d’expérience pour stimuler la réutilisation et l’efficacité dans votre écosystème.  Cela aura un impact sur le retour sur investissement et sur la vitesse de transmission.  Les participants comprendront comment positionner et utiliser les fragments d’expérience. Les participants. découvriront comment appliquer cette fonctionnalité pour accélérer l’utilisation de l’expérience numérique pour vos clients.
+Nous discuterons de la manière d’utiliser les fragments d’expérience pour stimuler la réutilisation et l’efficacité dans votre écosystème.  Cela aura un impact sur le retour sur investissement et sur la vitesse de transmission.  Les participants comprendront comment positionner et utiliser les fragments d’expérience. Les participants. découvriront comment appliquer cette fonctionnalité pour accélérer l’utilisation de l’expérience numérique pour vos clients.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346387/?quality=12&learn=on)

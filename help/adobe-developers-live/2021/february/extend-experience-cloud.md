@@ -1,5 +1,5 @@
 ---
-title: Vous souhaitez étendre Adobe Experience Cloud.
+title: Vous souhaitez donc étendre Adobe Experience Cloud.
 description: Vous souhaitez étendre les solutions Adobe à l’aide d’une architecture moderne qui fonctionne pour plusieurs solutions ? Nous pensons que vous devriez essayer Adobe Developer App Builder. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
 solution: Experience Cloud
 topic: Development
@@ -8,8 +8,8 @@ level: Experienced
 kt: 7189
 type: Event
 thumbnail: 331852.jpg
-exl-id: fe442380-d52d-4718-84ff-fec4011ae8f2
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: d81729f3-be66-4f68-8f23-b9ca55c1154c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%

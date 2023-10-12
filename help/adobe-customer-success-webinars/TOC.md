@@ -5,7 +5,7 @@ user-guide-description: Adobe de webinaires axés sur le succès client, conçus
 source-git-commit: de72ca31699f62b6f3034ccb2fe161f78b1f39e8
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -21,5 +21,5 @@ ht-degree: 1%
    + [Stratégie de base pour Campaign Orchestration](2023/foundational-strategy-campaign.md)
    + [Hiérarchisation de l’intelligence et de la mesure](2023/intelligence-and-measurement.md)
    + [Préparation à la migration de la plateforme CDP en temps réel](2023/rtcdp-migration-readiness.md)
-   + [Définition d’une stratégie d’Audience Activation efficace](2023/audience-activation.md)
+   + [Définir une stratégie Audience Activation efficace](2023/audience-activation.md)
    + [Transition vers la plateforme de données clients en temps réel](2023/aam-to-rtcdp.md)

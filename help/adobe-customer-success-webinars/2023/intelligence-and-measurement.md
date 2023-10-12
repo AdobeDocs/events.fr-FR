@@ -8,13 +8,13 @@ doc-type: Event
 last-substantial-update: 2023-07-22T00:00:00Z
 jira: KT-13706
 thumbnail: 3421756.jpeg
-source-git-commit: 6ec7be7a69a315606e4c9aa11d700cca0f78b33f
+exl-id: 2e3aa238-6eec-4bcc-aba0-09a492c3f492
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # Hiérarchisation de l’intelligence et de la mesure
 

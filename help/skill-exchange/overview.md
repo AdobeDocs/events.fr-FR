@@ -1,23 +1,23 @@
 ---
-title: L'Échange De Compétences Est Le Maître De L'Expérience
+title: L'Échange De Compétences Est Le Réalisateur De L'Expérience
 description: Experience Makers The Skill Exchange est une série mondiale d’événements d’apprentissage client virtuels, axés sur l’exploration des solutions Adobe Experience Cloud.
-exl-id: 90283549-2f9d-4d05-9d76-9252bcff1c9a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# L&#39;Échange De Compétences Est Le Maître De L&#39;Expérience {#overview}
+# L&#39;Échange De Compétences Est Le Réalisateur De L&#39;Expérience {#overview}
 
-<img alt="L'Échange De Compétences Est Le Maître De L'Expérience" src="./assets/skill-exchange.png" />
+<img alt="L&apos;Échange De Compétences Est Le Réalisateur De L&apos;Expérience" src="./assets/skill-exchange.png" />
 
 Experience Makers The Skill Exchange est une série mondiale d’événements d’apprentissage client virtuels, axés sur l’exploration des solutions Adobe Experience Cloud. Ce programme offre l’occasion de découvrir des experts et des pairs experts d’Adobe en partageant les bonnes pratiques et les conseils et astuces.
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans le volet de navigation de gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

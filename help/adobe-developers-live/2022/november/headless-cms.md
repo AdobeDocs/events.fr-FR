@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live - NOV 22 - Adobe Experience Manager as a Headless CMS - Où/Quand/Pourquoi ?
-description: 'Adobe Experience Manager as a Headless CMS - Où/Quand/Pourquoi ? Au cours de cette session, vous allez découvrir de nombreuses façons comment mettre en oeuvre un CMS sans interface via Adobe Experience Manager. Cette session couvre les éléments suivants : Content Services via l’exportateur/les servlets Fragment de contenu via l’API de ressource (démonstration) Fragment de contenu via Graphql (démonstration) Certains cas pratiques en temps réel concernant l’utilisation de fragments de contenu et leurs approches SPA apprenants de l’éditeur (certaines approches de solution sur le moment de choisir) (démonstration)'
+description: 'Adobe Experience Manager as a Headless CMS - Où/Quand/Pourquoi ? Au cours de cette session, vous allez apprendre à mettre en oeuvre un CMS sans interface via Adobe Experience Manager de nombreuses façons. Cette session couvre les éléments suivants : Content Services via l’exportateur/les servlets Fragment de contenu via l’API de ressource (démonstration) Fragment de contenu via Graphql (démonstration) Certains cas pratiques en temps réel concernant l’utilisation de fragments de contenu et leurs approches SPA apprenants de l’éditeur (certaines approches de solution sur le moment de choisir) (démonstration)'
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -11,15 +11,15 @@ doc-type: Event
 last-substantial-update: 2022-11-15T00:00:00Z
 kt: 11475
 thumbnail: 3411299.jpeg
-exl-id: 04540d26-1719-4d98-9ef4-6a1988918db2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 5280276d-ce7d-401d-bc7a-3e37698b678d
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 21%
 
 ---
 
-# Adobe Experience Manager as a Headless CMS - Où/Quand/Pourquoi ?
+# Adobe Experience Manager en tant que CMS sans affichage - Où/Quand/Pourquoi ?
 
 Au cours de cette session, vous apprendrez à implémenter un CMS sans interface via Adobe Experience Manager de plusieurs manières. Cette session traitera des sujets suivants :
 

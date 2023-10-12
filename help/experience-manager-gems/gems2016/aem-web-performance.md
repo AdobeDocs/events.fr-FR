@@ -4,8 +4,8 @@ description: Diffuser rapidement des expériences web complexes est un art. Dans
 uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
-exl-id: 8a66cda4-c856-415f-a1fd-cafc6909b7ee
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: dfb6708b-0b2e-4ee1-8983-014d1f3bc708
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 76%

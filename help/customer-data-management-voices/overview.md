@@ -1,15 +1,15 @@
 ---
 title: Voix de gestion des données clients
 description: Votre destination en tant que responsable et spécialiste des pratiques techniques et marketing de la gestion des données client.  Cette page est votre guichet unique pour obtenir des nouvelles de vos pairs, vous inspirer et découvrir les développements dans le domaine du marketing.
-exl-id: 44e1b706-d216-4ffe-8cbf-b352fc34de54
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 18%
+ht-degree: 19%
 
 ---
 
-# Gestion des données client - Voix {#overview}
+# Gestion des données client – Voix {#overview}
 
 <img alt="Voix de gestion des données clients" src="./assets/cdp-voices-banner.png" />
 
@@ -17,7 +17,7 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans le volet de navigation de gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
 
 ## Blocs de création de la gestion des données client
 
@@ -131,10 +131,10 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
   <tr>
      <td>
       <a href="./industry/build-superb-experiences-with-your-first-party-data.md">
-      <img alt="Créer des expériences superbes avec vos données propriétaires" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
+      <img alt="Création d’expériences superbes avec vos données propriétaires" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
       </a>
       <div>
-         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Créer des expériences superbes avec vos données propriétaires</strong></a>
+         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Création d’expériences superbes avec vos données propriétaires</strong></a>
       </div>
       <p>
       </p>

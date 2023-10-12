@@ -1,12 +1,12 @@
 ---
 title: Mettre tout ensemble
-description: Comment Adobe Analytics effectue le suivi des données de site web, comment enregistrer, partager et collaborer
+description: Suivi des données de site web par Adobe Analytics, enregistrement, partage et collaboration
 role: User
 level: Beginner
 kt: 10466
 thumbnail: 343331.jpeg
-exl-id: 86366616-50be-4a14-8e2a-4203f2f2ef35
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: ad39247d-7484-47e5-a4c7-c96d0bbee3e2
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%

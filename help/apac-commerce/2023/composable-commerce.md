@@ -10,13 +10,13 @@ last-substantial-update: 2023-06-19T00:00:00Z
 jira: KT-13510
 thumbnail: 3420655.jpeg
 event-start-time: 2023-6-18 09:00-8
-source-git-commit: a5958d739ab6dbbc97626a8f95be6d46ee85cfbd
+exl-id: 86cfdee6-d041-4098-b768-70fde9388a8f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
-
 
 # Stratégies commerciales composables pour le commerce électronique évolutif et agile
 

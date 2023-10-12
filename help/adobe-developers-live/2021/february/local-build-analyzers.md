@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7406
 type: Event
 thumbnail: 332307.jpg
-exl-id: e8bcfcde-7173-4c99-9857-bd5da4333953
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 42685f49-e67d-470a-918d-3895d723f06f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Analyseurs de génération locaux avec Adobe Experience Manager as a Cloud Service
 
-Comprendre l’API orientée événement d’ACDL. Un exemple Commerce montre comment les composants principaux l’hydratent et les interfaces de l’extension Launch avec AA et AT.
+Comprendre l’API pilotée par les événements par ACDL. Un exemple Commerce montre comment les composants principaux l’hydratent et les interfaces de l’extension Launch avec AA et AT.
 
 Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
 

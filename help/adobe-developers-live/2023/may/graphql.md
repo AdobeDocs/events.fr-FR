@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-05-27T00:00:00Z
 jira: KT-13362
 thumbnail: 3419948.jpeg
-source-git-commit: c0ac31a014d3361c109278723baf5da013566ae2
+exl-id: 47e32914-4899-48f5-91e7-598788adf361
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Présentation des options de performances de l’API GraphQL et des optimisations des requêtes
 

@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-09-20T00:00:00Z
 jira: KT-13992
 thumbnail: 3424390.jpeg
-source-git-commit: 8f73eadc11a0906ffc987aa2fe5bd83755245b19
+exl-id: 48986967-b794-4dc9-8a17-d38800ae90aa
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
-
 
 # Préparation de la saison du pic
 

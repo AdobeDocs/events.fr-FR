@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9914
-exl-id: 50dbcdf4-2e5d-420b-975e-1e3e683356fd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 76a8e418-71c7-414a-9938-e64e4e73c184
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1211'
 ht-degree: 1%
@@ -33,11 +33,11 @@ Vous pouvez filtrer par cases à cocher, et les afficher, vous ne pouvez simplem
 
 **Question**
 
-Dans l&#39;exemple d&#39;itération sur les rôles de tâche, puis-je afficher le Principal en gras ?
+Dans l&#39;exemple d&#39;itération sur les rôles de tâche, puis-je afficher le rôle principal en gras ?
 
 **Réponse**
 
-Dans l’itération, nous pouvons identifier le rôle Principal de la tâche. Nous devons le faire dans une expression de valeur, mais les codes de HTML ne sont pas reconnus dans une expression de valeur. Nous devons donc trouver une autre façon d&#39;identifier le rôle comme étant le Principal. J’ai placé &quot;**&quot; avant et après le nom Principal du rôle dans ce code. Essayez-le et voyez comment vous l’aimez :
+Dans l’itération, nous pouvons identifier le rôle de la tâche principale. Nous devons le faire dans une expression de valeur, mais les codes de HTML ne sont pas reconnus dans une expression de valeur. Nous devons donc trouver une autre façon d&#39;identifier le rôle comme étant la principale. J’ai placé &quot;**&quot; avant et après le nom du rôle principal dans ce code. Essayez-le et voyez comment vous l’aimez :
 
 ```
 displayname=All Job Roles 
@@ -57,7 +57,7 @@ QA Engineer
 **Designer**
 ```
 
-Où Designer est le rôle Principal de cet utilisateur.
+Où Designer est le rôle principal de cet utilisateur.
 
 **Question**
 
@@ -73,7 +73,7 @@ Est-il possible de combiner les informations de BAT avec les informations de pro
 
 **Réponse**
 
-Si vous avez créé un rapport Validation du BAT, les informations du projet peuvent être regroupées en colonnes à l’aide du mode texte. Par exemple, si vous souhaitez référencer le nom du projet dans une colonne, vous pouvez utiliser les éléments suivants :
+Si vous avez créé un rapport d’approbation de BAT, les informations du projet peuvent être regroupées en colonnes à l’aide du mode texte. Par exemple, si vous souhaitez référencer le nom du projet dans une colonne, vous pouvez utiliser les éléments suivants :
 
 ```
 displayname=Project Name
@@ -114,7 +114,7 @@ Vous pouvez également filtrer selon les files d’attente de requête. Vous pou
 
 **Question**
 
-Les premiers rapports étaient basés sur le nom des projets/projets. Cela peut-il également être fait sur les tâches et, si c’est le cas, quelle est la meilleure façon de les regrouper, car le nom de la tâche serait peut-être différent le plus souvent...merci !
+Les premiers rapports étaient basés sur le nom des projets/projets. Cela peut-il être fait sur les tâches également et si c’est le cas, quel est le meilleur moyen de les regrouper, car le nom de la tâche serait peut-être différent le plus souvent...merci !
 
 **Réponse**
 

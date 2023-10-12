@@ -4,8 +4,8 @@ description: Découvrez toute la fluidité des expériences et de leur applicati
 uuid: b7ee2de4-385a-486f-80e4-741e3965ed28
 discoiquuid: 0a81aa6a-94f6-4e38-98fb-c48809899a24
 targetaudience: target-audience advanced
-exl-id: 0172cee5-fe07-499c-a6cb-3a8f6e402539
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 5ab507d1-5099-4eb4-af2a-7bc312f115af
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 100%

@@ -12,8 +12,8 @@ level: Beginner
 version: Cloud Service
 type: Event
 kt: 7340
-exl-id: f1b3db2f-8533-4f80-83ca-38b4380d7642
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 89f30cda-c166-4c61-9840-f104b8e62ac4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 15%
@@ -22,7 +22,7 @@ ht-degree: 15%
 
 # Brand Portal - Série de ressources Adobe Experience Manager
 
-Utilisez cette série de webinaires en cinq parties pour créer votre base de connaissances et optimiser votre investissement dans Adobe Experience Manager Assets. Si vous êtes un spécialiste des ressources Adobe Experience Manager qui découvre les nouveautés d’ou que vous utilisez Adobe Experience Manager Assets depuis un certain temps et que vous cherchez à perfectionner vos compétences existantes, c’est la méthode idéale pour approfondir cinq des aspects les plus importants de la solution. Les experts d’Adobe passeront en revue les principes de base et vous donneront également des informations avancées qui vous permettront d’effectuer immédiatement les prochaines étapes.
+Utilisez cette série de webinaires en cinq parties pour créer votre base de connaissances et optimiser votre investissement dans Adobe Experience Manager Assets. Si vous êtes un spécialiste des ressources Adobe Experience Manager qui découvre les nouveautés de ou que vous utilisez Adobe Experience Manager Assets depuis un certain temps et que vous cherchez à perfectionner vos compétences existantes, c’est la méthode idéale pour approfondir cinq des aspects les plus importants de la solution. Les experts d’Adobe passeront en revue les principes de base et vous donneront également des informations avancées qui vous permettront d’effectuer immédiatement les prochaines étapes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
 

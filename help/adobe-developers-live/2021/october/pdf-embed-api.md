@@ -1,6 +1,6 @@
 ---
 title: Des PDF maladroits sur le web comme un pro
-description: Un coup d’oeil à l’utilisation de l’API intégrée gratuite d’Adobe PDF facilite l’utilisation des PDF sur votre site web. Je vais vous montrer comment l’utiliser, les différentes manières de contrôler l’interface utilisateur du PDF, et comment écouter les événements afin de pouvoir suivre l’utilisation et d’autres analyses pour les PDF.
+description: Un coup d’oeil à l’utilisation de l’API intégrée gratuite d’Adobe PDF facilite l’utilisation des PDF sur votre site web. Je vais vous montrer comment l’utiliser, les différentes façons dont vous pouvez contrôler l’interface utilisateur du PDF, et comment écouter les événements afin de pouvoir suivre l’utilisation et d’autres analyses pour les PDF.
 solution: Acrobat Services
 feature: Developer Tools
 topic: Development
@@ -8,8 +8,8 @@ role: Developer, Architect
 level: Experienced
 kt: 9149
 type: Event
-exl-id: a5e6fcf7-b743-4cb9-ade7-66b088f52fd9
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 1df3b772-2599-4ab9-842e-2d3c0346fc95
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 20%
@@ -18,7 +18,7 @@ ht-degree: 20%
 
 # Des PDF maladroits sur le web comme un pro
 
-Un coup d’oeil à l’utilisation de l’API intégrée gratuite d’Adobe PDF facilite l’utilisation des PDF sur votre site web. Je vais vous montrer comment l’utiliser, les différentes manières de contrôler l’interface utilisateur du PDF, et comment écouter les événements afin de pouvoir suivre l’utilisation et d’autres analyses pour les PDF.
+Un coup d’oeil à l’utilisation de l’API intégrée gratuite d’Adobe PDF facilite l’utilisation des PDF sur votre site web. Je vais vous montrer comment l’utiliser, les différentes façons dont vous pouvez contrôler l’interface utilisateur du PDF, et comment écouter les événements afin de pouvoir suivre l’utilisation et d’autres analyses pour les PDF.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/337602/?quality=12&learn=on&hidetitle=true)

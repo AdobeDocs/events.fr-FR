@@ -4,8 +4,8 @@ description: Découvrez comment AEM et Microsoft Traduction proposent un servic
 uuid: c25c9806-560c-46ef-b9c0-ffe0af296ed9
 discoiquuid: c976c008-4f51-4146-8c34-265e9707be6a
 targetaudience: target-audience advanced
-exl-id: babdfd59-ec80-47ba-a369-8461bbdb9b8f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: e4f4d4ec-f702-4958-913e-fb3d34421855
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 100%

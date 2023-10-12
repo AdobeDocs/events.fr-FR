@@ -5,8 +5,8 @@ uuid: 69df8fcb-4713-42a9-a986-a4ad9d4e36c6
 topic-tags: analytics
 discoiquuid: 0982386a-a34c-4401-a6d5-7aeabe7eb50c
 targetaudience: target-audience advanced
-exl-id: 3a4078d0-2e25-47c2-bb8b-fe0278b93ff7
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 870620f5-60dd-43b0-86ed-b2bb82779531
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
@@ -37,7 +37,6 @@ Sarah Xu, développeuse évangéliste, Adobe
 >
 >* [Solr comme index Oak pour AEM](solr-as-an-oak-index-for-aem.md)
 >* [Obtenir des capacités d’analyse de ressources plus puissantes grâce à AEM 6.4](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
-
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 
 -->

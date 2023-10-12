@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-09-07T00:00:00Z
 jira: KT-13911
 thumbnail: 3423966.jpeg
-source-git-commit: ce580d05a3de350517960eba121dd5b739028643
+exl-id: c6b9cb51-fb81-41e7-b100-9cb2029c43dc
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # Amélioration de la délivrabilité des emails avec Marketo Engage
 

@@ -1,6 +1,6 @@
 ---
 title: Contenu et commerce avec Adobe Experience Manager as a Cloud Service
-description: Cette session permet aux développeurs de commencer à utiliser Commerce on Adobe Experience Manager as a Cloud Service, depuis la configuration locale du SDK Adobe Experience Manager + Commerce Integration Framework jusqu’à Adobe Experience Manager et Magento dans le cloud. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
+description: Cette session permet aux développeurs de commencer à utiliser Commerce on Adobe Experience Manager as a Cloud Service, depuis la configuration locale du SDK Adobe Experience Manager + Commerce integration framework jusqu’à Adobe Experience Manager & Magento dans le cloud. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
 solution: Experience Manager,Experience Manager Sites, Commerce
 product: experience manager
 sub-product: sites
@@ -12,8 +12,8 @@ version: Cloud Service
 kt: 7188
 type: Event
 thumbnail: 331851.jpg
-exl-id: 3c0af2d0-c672-4f69-b5c7-9467661fc15e
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 1326926c-1bb4-4d05-ab08-a8f60701bd1a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Contenu et commerce avec Adobe Experience Manager as a Cloud Service
 
-Cette session permet aux développeurs de commencer à utiliser Commerce on Adobe Experience Manager as a Cloud Service, depuis la configuration locale du SDK Adobe Experience Manager + Commerce Integration Framework jusqu’à Adobe Experience Manager et Magento dans le cloud.
+Cette session permet aux développeurs de commencer à utiliser Commerce on Adobe Experience Manager as a Cloud Service, depuis la configuration locale du SDK Adobe Experience Manager + Commerce integration framework jusqu’à Adobe Experience Manager &amp; Magento dans le cloud.
 
 Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
 

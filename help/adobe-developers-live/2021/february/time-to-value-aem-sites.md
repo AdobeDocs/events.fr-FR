@@ -1,5 +1,5 @@
 ---
-title: Valeur rapide avec Adobe Experience Manager Sites
+title: Rapide accès à la valeur avec Adobe Experience Manager Sites
 description: Découvrez comment le framework Blueprint de Digital Foundation vous permet de mettre en oeuvre rapidement une conception avec des fonctionnalités prêtes à l’emploi et une personnalisation minimale. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
@@ -12,15 +12,15 @@ version: Cloud Service
 kt: 7170
 type: Event
 thumbnail: 331735.jpg
-exl-id: 87c64749-6f4a-4143-9c06-d0441776f304
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 722ca68e-a74c-4040-b047-ac153739a7a7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# Valeur rapide avec Adobe Experience Manager Sites
+# Rapide accès à la valeur avec Adobe Experience Manager Sites
 
 Découvrez comment le framework Blueprint de Digital Foundation vous permet de mettre en oeuvre rapidement une conception avec des fonctionnalités prêtes à l’emploi et une personnalisation minimale.
 

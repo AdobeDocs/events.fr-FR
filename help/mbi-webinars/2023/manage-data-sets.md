@@ -8,8 +8,8 @@ solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 344680.jpeg
-exl-id: fa45b78f-9dc6-4466-a7d1-0deeb08c4d2c
-source-git-commit: c0382de473c121272f48d89170c887ae65bd60cf
+exl-id: 657dfb41-0364-4f45-86f7-2e09897860c7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 20%

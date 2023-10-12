@@ -4,8 +4,8 @@ description: Au cours de cette session, nous présenterons les fonctionnalités 
 uuid: 19ef8f6e-90ab-4724-9cc3-febe30543f00
 discoiquuid: 6a78c294-abc1-4ebb-bd9d-f9abe214ad98
 targetaudience: target-audience advanced
-exl-id: b68fee5a-1dac-4488-8725-ec6ef73db549
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: af514fa9-91c7-4bbc-9e67-4803148e7997
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 70%

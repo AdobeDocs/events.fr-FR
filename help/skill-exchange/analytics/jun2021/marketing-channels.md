@@ -6,8 +6,8 @@ role: User
 level: Intermediate, Experienced
 kt: 10322
 thumbnail: 342532.jpeg
-exl-id: ed305d50-8cb1-45ab-9980-dc32eaef5d30
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 858fbd40-c520-4974-a6f1-2d573b0a1bf6
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 Découvrez l’impact de chaque point de contact de votre marque sur le parcours de vos clients avec les canaux marketing et les modèles d’attribution.
 
-Au cours de cette session, vous apprendrez :
+Au cours de cette session, vous allez apprendre :
 
 * Configuration des canaux marketing
 * Maintenance des canaux marketing
-* Sélection de l’attribution Principal
+* Sélection de l’attribution du Principal
 * Campagnes par rapport aux canaux marketing
 
 >[!VIDEO](https://video.tv.adobe.com/v/342532/?quality=12&learn=on)

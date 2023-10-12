@@ -1,8 +1,8 @@
 ---
 title: Série de webinaires sur le commerce APAC
 description: La Série de webinaires sur le commerce APAC est une cadence mensuelle d’ateliers pour les clients Adobe Commerce qui couvre un large éventail de sujets, des bonnes pratiques aux feuilles de route des produits en passant par les tendances du secteur.
-exl-id: 35d78d88-38ef-486a-8e34-8bce0da673ca
-source-git-commit: 147a7e327b387d0b02e4110e1405c1f8b6f3c883
+exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -61,4 +61,4 @@ La Série de webinaires sur le commerce APAC est une cadence mensuelle d’ateli
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans le volet de navigation de gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.

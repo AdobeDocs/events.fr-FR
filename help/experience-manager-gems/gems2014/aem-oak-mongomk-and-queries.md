@@ -4,8 +4,8 @@ description: Découvrez le moteur de requête d’Oak et ses différences avec J
 uuid: 110e7e51-6e0c-4eae-9bc3-063e16b0ec92
 discoiquuid: 51d59018-e137-4370-8530-9c38dca34343
 targetaudience: target-audience advanced
-exl-id: ab0851fb-7271-49c5-9f11-81ea7c7c0d47
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: dea6d73e-0659-4b9a-b338-ee5eac0bc342
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%

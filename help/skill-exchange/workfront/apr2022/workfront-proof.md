@@ -6,8 +6,8 @@ role: User
 level: Intermediate, Experienced
 kt: 10315
 thumbnail: 342525.jpeg
-exl-id: 0dd2956c-2938-437b-877b-c53c297e93dd
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 351b1ed4-ec55-43b0-9498-02da440ba593
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Utilisez-vous le Bon à tirer Workfront pour les processus de révision et d’approbation au sein de votre entreprise ? Vous êtes curieux de savoir comment tirer le meilleur parti de cet outil et de ce que nous avons prévu pour l&#39;avenir ? Caroline Ossmann, chef de produit chez Adobe Workfront for Proof, partage :
 
-* Les innovations récentes
+* Tirer parti des innovations récentes
 * Exemples de la manière dont nous voyons nos clients tirer parti de BAT
 * Idées pour améliorer votre processus général de révision et d’approbation
 * Ce qui se trouve sur la feuille de route pour l’année prochaine (et au-delà)

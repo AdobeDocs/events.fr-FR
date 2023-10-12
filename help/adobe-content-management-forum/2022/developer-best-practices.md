@@ -8,14 +8,13 @@ role: Architect, Developer
 level: Intermediate, Experienced
 kt: 10791
 thumbnail: 345381.png
-exl-id: 87511f79-d1dd-417f-8be5-6c688ea25883
-source-git-commit: 461a06f25e46d1bdb250f71bbcebdd7fdadee847
+exl-id: 6a4d9c5e-7e09-46d5-af9f-306012701301
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 10%
 
 ---
-
 
 # Bonnes pratiques pour les développeurs pour accélérer la mise sur le marché à l’aide d’AEM Sites
 

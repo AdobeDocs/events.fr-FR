@@ -4,8 +4,8 @@ description: Découvrez tout ce qu’il faut savoir sur les composants principau
 uuid: 8bfd82ac-b61d-4ff2-9251-3664456e6b41
 discoiquuid: b7e90b65-d6e9-49f5-b43c-3c47cf6aeae8
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: 8433df98-80ec-4d29-9656-633a639c62e8
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 097253e8-bfc7-4de3-8571-b6b012a27f89
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%

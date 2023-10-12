@@ -6,8 +6,8 @@ role: Admin, Architect, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10562
 thumbnail: 343814.jpeg
-exl-id: 28f3208d-1e27-42cc-a4ba-e57e20dbee1c
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: dbbf34be-3009-4559-b347-ba8012323afa
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

@@ -7,8 +7,8 @@ feature: Cloud Manager
 topics: Development
 type: Event
 audience: developer
-exl-id: c7317bf7-d328-4e0e-b250-cbcf550ddd57
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 697f9c88-1a1b-407c-9fe4-d48e74b46e20
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '29'
 ht-degree: 6%

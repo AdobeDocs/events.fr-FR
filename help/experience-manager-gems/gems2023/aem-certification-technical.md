@@ -11,13 +11,13 @@ doc-type: Event
 last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
-source-git-commit: c475497b293909a5ea8365463a0d075bc34d4e01
+exl-id: 9af6a4e5-d090-4c49-a972-6a3d164b8315
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 12%
 
 ---
-
 
 # Principal de la certification Art of Experience Manager : Préparez-vous, préparez-vous, obtenez une certification !
 

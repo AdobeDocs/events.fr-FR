@@ -1,6 +1,6 @@
 ---
-title: Mises à jour d’Adobe Experience Manager
-description: Rejoignez Gabriel Walt, chef de produit chez Experience Manager, pour obtenir une vue d’ensemble des grands thèmes qui animent la feuille de route d’Adobe Experience Manager et les relations entre les sessions. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
+title: Mises à jour de Adobe Experience Manager
+description: Rejoignez Gabriel Walt, chef de produit chez Experience Manager, pour obtenir un aperçu des grands thèmes qui animent la feuille de route de Adobe Experience Manager et les relations entre les sessions. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
 solution: Experience Manager
 product: experience manager
 feature: Developer Tools
@@ -11,17 +11,17 @@ version: Cloud Service
 kt: 7165
 type: Event
 thumbnail: 331279.jpg
-exl-id: e1c21502-0fa5-4514-b6a5-dcc04842b114
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 667512a8-5fdf-4f1a-8082-7d765100b6b3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-# Mises à jour d’Adobe Experience Manager
+# Mises à jour de Adobe Experience Manager
 
-Rejoignez Gabriel Walt, chef de produit chez Experience Manager, pour obtenir une vue d’ensemble des grands thèmes qui animent la feuille de route d’Adobe Experience Manager et les relations entre les sessions.
+Rejoignez Gabriel Walt, chef de produit chez Experience Manager, pour obtenir un aperçu des grands thèmes qui animent la feuille de route de Adobe Experience Manager et les relations entre les sessions.
 
 Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
 

@@ -9,13 +9,13 @@ doc-type: Event
 last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13802
 thumbnail: 3422690.jpeg
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+exl-id: 14a2e3c9-b9c9-4d30-a579-9ab3ffaed3ea
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
-
 
 # Déverrouillage de la puissance des règles de traitement dans Adobe Analytics
 

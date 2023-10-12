@@ -2,8 +2,8 @@
 title: Adobe Developers Live, novembre 2022
 description: Ensemble de vidéos et de tutoriels pour Adobe Experience Manager Sites distribués dans le cadre de l’événement Adobe Developers Live.
 sub-product: sites, content-services
-exl-id: 726dae1b-dc6c-4187-90ec-389520d32da2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: ccb76ddd-f751-4e15-af09-b7b031e12134
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 2%
@@ -14,11 +14,11 @@ ht-degree: 2%
 
 <img alt="Adobe Developers Live" src="./../../assets/adl.png" />
 
-Adobe Developers Live : Headless réunit des développeurs front-end de différents horizons et ayant un objectif unique, afin de créer des expériences de bout en bout incroyables dans Adobe Experience Manager avec des fonctionnalités sans interface.
+Adobe Developers Live : Headless réunit des développeurs front-end d’horizons divers et un objectif unique, afin de créer des expériences de bout en bout incroyables dans Adobe Experience Manager avec des fonctionnalités sans interface.
 
-Il s’agissait d’une conférence virtuelle d’une journée organisée en novembre 2022. Elle comportait des sessions en direct comprenant des mises à jour importantes pour les développeurs d’Adobe Experience Manager, telles que Headless et GraphQL, Adobe Experience Manager as a Cloud Service, des sessions techniques et des opportunités de mise en réseau communautaire.
+Il s’agissait d’une conférence virtuelle d’une journée organisée en novembre 2022. Elle comportait des sessions en direct comprenant des mises à jour importantes pour les développeurs de Adobe Experience Manager, telles que Headless et GraphQL, Adobe Experience Manager as a Cloud Service, des sessions techniques et des opportunités de mise en réseau communautaire.
 
-Restez en contact avec les intervenants et les sessions après l&#39;événement dans notre [threads contextuels de la communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-aem-headless-2022-complete-session-list/td-p/553511).
+Restez en contact avec les intervenants et les sessions après l&#39;événement dans notre [threads contextuels communautaires](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-aem-headless-2022-complete-session-list/td-p/553511).
 
 <!-- 
 ## Highlights

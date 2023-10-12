@@ -11,13 +11,13 @@ doc-type: Event
 last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
-source-git-commit: 845008d5f0024ed3a6af4cfad0ebdd53ff713a93
+exl-id: 874cb607-f622-4ef0-9835-13b640fe57f6
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '282'
-ht-degree: 9%
+ht-degree: 10%
 
 ---
-
 
 # Libération du potentiel de New Relic APM pour AEM as a Cloud Service
 

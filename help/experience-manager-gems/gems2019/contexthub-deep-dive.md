@@ -4,8 +4,8 @@ description: Ces sessions Gems sont dédiées à un examen plus approfondi des d
 uuid: 5e8f86e2-269e-4fb8-b899-5be7ef2c977a
 discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: bded0c45-3d71-4bae-bc31-dc8d90255a7a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: c56b8724-a97e-4671-a1ad-0a87a9260ed6
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%

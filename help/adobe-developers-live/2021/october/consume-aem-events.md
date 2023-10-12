@@ -1,6 +1,6 @@
 ---
 title: Création d’une application qui consomme des événements Adobe Experience Manager
-description: Découvrez POURQUOI il est préférable de créer des applications pilotées par un événement et comment les créer facilement à l’aide du générateur d’applications. Cette session couvre tous les éléments dont vous avez besoin pour commencer à créer des applications basées sur des événements qui répondent aux événements des produits Adobe. Démonstration en direct de la création d’une application App Builder répondant aux événements Adobe Experience Manager. Présentation des composants du générateur d’applications - Événements d’Adobe I/O et Runtime I/O. Soyons équipés pour offrir une expérience client attrayante !
+description: 'Découvrez POURQUOI il est préférable de créer des applications pilotées par un événement et comment les créer facilement à l’aide du générateur d’applications. Cette session couvre tous les éléments dont vous avez besoin pour commencer à créer des applications basées sur des événements qui répondent aux événements des produits Adobe. Démonstration en direct de la création d’une application App Builder répondant aux événements Adobe Experience Manager. Présentation des composants du générateur d’applications : événements d’Adobe I/O et Runtime I/O. Soyons équipés pour offrir une expérience client attrayante !'
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -9,8 +9,8 @@ level: Beginner, Intermediate, Experienced
 version: Cloud Service
 kt: 9122
 type: Event
-exl-id: 3d05c830-6471-4306-9b2a-5c9513153fc3
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 5eea7354-481b-4162-96aa-964b04da576c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 14%
@@ -19,7 +19,7 @@ ht-degree: 14%
 
 # Création d’une application qui consomme des événements Adobe Experience Manager
 
-Découvrez POURQUOI il est préférable de créer des applications pilotées par un événement et comment les créer facilement à l’aide du générateur d’applications. Cette session traite des sujets suivants : Tout ce que vous devez savoir pour commencer à créer des applications basées sur des événements qui répondent aux événements des produits Adobe. Démonstration en direct de la création d’une application App Builder répondant aux événements Adobe Experience Manager. Présentation des composants du générateur d’applications - Événements d’Adobe I/O et Runtime I/O. Soyons équipés pour offrir une expérience client attrayante !
+Découvrez POURQUOI il est préférable de créer des applications pilotées par un événement et comment les créer facilement à l’aide du générateur d’applications. Cette session couvre : tout ce que vous devez savoir pour commencer à créer des applications pilotées par des événements qui répondent aux événements des produits Adobe. Démonstration en direct de la création d’une application App Builder répondant aux événements Adobe Experience Manager. Présentation des composants du générateur d’applications : événements d’Adobe I/O et Runtime I/O. Soyons équipés pour offrir une expérience client attrayante !
 
 Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3ipjs8p)**.
 

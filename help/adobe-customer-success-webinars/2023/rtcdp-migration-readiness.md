@@ -8,13 +8,13 @@ doc-type: Event
 last-substantial-update: 2023-09-07T00:00:00Z
 jira: KT-13899
 thumbnail: 3423829.jpeg
-source-git-commit: aa5a4e33d739dc33f17c6d5627552df5e0e772c1
+exl-id: 26b27608-f2e8-4452-9258-92353dfd2ec5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
 
 ---
-
 
 # Préparation à la migration de la plateforme CDP en temps réel
 

@@ -1,8 +1,8 @@
 ---
 title: Forum sur la gestion de contenu Adobe
 description: Ensemble d’enregistrements de session du forum de gestion de contenu Adobe
-exl-id: 8c882248-0790-4a50-bf8f-55dce1f68b6b
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: 935600fa-4fbc-4569-a3cd-f8b25c205df4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Forum sur la gestion de contenu Adobe {#overview}
 
-Apprenez des experts d’Adobe qui discutent de l’état actuel et futur de la stratégie de gestion de contenu, des livrables, des défis et des exigences techniques. Cet événement virtuel comprend un discours-programme spécial de Kurt Benkert, du quarterback de la NFL et de son consultant en affaires, et de Haresh Kumar, Director of Strategy and Product Marketing, car ils discutent de la manière dont la mise en place des outils adéquats peut vous aider à accéder aux ressources créatives et à simplifier les tâches quotidiennes, afin de déverrouiller la vitesse du contenu.
+Apprenez des experts d’Adobe qui discutent de l’état actuel et futur de la stratégie de gestion de contenu, des livrables, des défis et des exigences techniques. Cet événement virtuel comprend une note d’orientation spéciale de Kurt Benkert, un quarterback de la NFL et un consultant en affaires, ainsi que Haresh Kumar, Director of Strategy and Product Marketing, puisqu’ils discutent de la manière dont la mise en place des outils adéquats peut vous aider à accéder aux ressources créatives et à simplifier les tâches quotidiennes, afin de déverrouiller la puissance de la vélocité du contenu.
 
 Rejoignez les sessions ci-dessous pour apprendre :
 
@@ -19,12 +19,12 @@ Rejoignez les sessions ci-dessous pour apprendre :
 * Comment créer une chaîne d’approvisionnement de contenu qui s’adapte à la personnalisation
 * Comment accélérer le délai de mise sur le marché pour la création de sites et réduire la dépendance aux ressources techniques
 * Les dernières innovations pour [!DNL Experience Manager] proposé en tant que service natif cloud et comment vous adapter aux attentes du marché en constante évolution tout en restant en avance
-* Comment créer des sites plus rapidement avec Adobe [!DNL Experience Manager] en tant que CMS sans affichage, à l’aide de GraphQL et de fragments de contenu
+* Comment créer des sites plus rapidement avec Adobe [!DNL Experience Manager] comme CMS sans affichage, à l’aide de GraphQL et de fragments de contenu
 * Bonnes pratiques pour les développeurs pour accélérer la mise sur le marché d’Adobe Experience Manager Sites
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans le volet de navigation de gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
 
 <table>
   <tr>
@@ -51,7 +51,7 @@ Rejoignez les sessions ci-dessous pour apprendre :
       </div>
       <p>
         <br/>
-          En savoir plus sur la manière [!DNL Assets Essentials] est la nouvelle [!DNL Digital Asset Management] système pour les départements et les moyennes entreprises.
+          Découvrez comment [!DNL Assets Essentials] est la nouvelle [!DNL Digital Asset Management] système pour les départements et les moyennes entreprises.
       </p>
    </td>
    <td>

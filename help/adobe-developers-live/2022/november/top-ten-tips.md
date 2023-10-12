@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - 22 NOV - 10 premiers conseils pour accélérer votre site Adobe Experience Manager
-description: 10 premiers conseils pour accélérer votre site Adobe Experience Manager Les performances de l’expérience sont essentielles au succès de l’expérience. Au cours de cette session, nous partagerons avec vous nos 10 meilleures pratiques pour aider vos développeurs à rendre vos sites web Adobe Experience Manager plus rapides.
+title: Adobe Developers Live - 22 NOVEMBRE - 10 premiers conseils pour accélérer votre site Adobe Experience Manager
+description: 10 premiers conseils pour accélérer votre site Adobe Experience Manager Les performances exceptionnelles sont essentielles au succès de l’expérience. Au cours de cette session, nous partagerons avec vous nos 10 meilleures pratiques pour aider vos développeurs à rendre vos sites web Adobe Experience Manager plus rapides.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -11,8 +11,8 @@ doc-type: Event
 last-substantial-update: 2022-11-15T00:00:00Z
 kt: 11476
 thumbnail: 3411300.jpeg
-exl-id: e0c082d4-d35b-4653-9deb-d8b647add3b3
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 1281fada-aea9-41b0-a368-27e0483e974c
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%

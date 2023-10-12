@@ -4,8 +4,8 @@ description: Cette présentation couvre l’architecture ContextHub de haut nive
 uuid: f8789846-ff15-4cd5-9102-3b7394da5958
 discoiquuid: e714ec87-355c-4373-b547-98d544d73c9e
 targetaudience: target-audience advanced
-exl-id: b9942c91-e5e0-4d65-832f-dd96883cf569
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: a415f41b-03b9-4a41-8b70-5d81ac8fc456
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%

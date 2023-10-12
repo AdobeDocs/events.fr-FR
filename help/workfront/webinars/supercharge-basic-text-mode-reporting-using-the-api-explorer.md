@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
-exl-id: ea4716c9-2c61-4c44-9d2a-cbd4f07699d5
-source-git-commit: 5952a51bcc4ec25d14cf5527ec1af218ebc0ae11
+exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '1662'
 ht-degree: 2%
@@ -143,11 +143,11 @@ valuefield=opTask:name
 
 **Question**
 
-Je cherche à créer un rapport qui présente pour chaque projet la ou les principales tâches en cours de traitement. Comment ferais-je le mieux ? J’imagine qu’il s’agirait d’un rapport de tâche auquel des colonnes d’informations sur le projet ont également été ajoutées ?
+Je cherche à créer un rapport qui affiche pour chaque projet la ou les tâches actives en cours de traitement. Comment ferais-je le mieux ? J’imagine qu’il s’agirait d’un rapport de tâche auquel des colonnes d’informations sur le projet ont également été ajoutées ?
 
 **Réponse**
 
-C&#39;est exact. Un rapport de tâche serait le mieux pour cela. Vous devez définir des &quot;Principales tâches&quot;. Si vous utilisez des prédécesseurs, il s’agit de tâches prêtes. Vous pouvez donc filtrer par Ready = True. Cela entraînerait toutes les tâches qui sont prêtes à démarrer. Je vous recommande ensuite de regrouper par nom de projet, de cette manière vos tâches sont toutes regroupées et vous pouvez voir en un coup d’oeil quelles tâches appartiennent au projet concerné.
+C&#39;est exact. Un rapport de tâche serait le mieux pour cela. Vous devez définir &quot;Tâches actives&quot;. Si vous utilisez des prédécesseurs, il s’agit de tâches prêtes. Vous pouvez donc filtrer par Ready = True. Cela entraînerait toutes les tâches qui sont prêtes à démarrer. Je vous recommande ensuite de regrouper par nom de projet, de cette manière vos tâches sont toutes regroupées et vous pouvez voir en un coup d’oeil quelles tâches appartiennent au projet concerné.
 
 **Question**
 

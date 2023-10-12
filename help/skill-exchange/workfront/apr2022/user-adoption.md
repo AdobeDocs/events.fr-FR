@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 10311
 thumbnail: 342522.jpeg
-exl-id: b7231e62-e252-41d6-a5f6-41e1edd83eb2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 6f77698c-9955-4555-a293-3dcd43de285f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 L’adoption d’une solution de gestion du travail comme Workfront comporte de nombreuses facettes, mais l’une des plus fondamentales est de comprendre qui dans votre organisation va l’utiliser et comment les aider à comprendre ce qu’il y a dedans pour eux.
 
-Au cours de cette session, nous allons examiner de plus près qui est au centre de nos efforts d’adoption (c.-à-d. &quot;le qui&quot;) et identifier et examiner les obstacles courants auxquels les organisations sont confrontées quant au &quot;pourquoi&quot; de l&#39;adoption.
+Au cours de cette session, nous examinerons de plus près qui est au centre de nos efforts d’adoption (c’est-à-dire &quot;qui&quot;) et nous identifierons et examinerons les obstacles courants auxquels les organisations sont confrontées pour déterminer &quot;pourquoi&quot; de l’adoption.
 
 Nous allons couvrir :
 

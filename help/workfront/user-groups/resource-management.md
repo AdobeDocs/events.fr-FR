@@ -1,12 +1,12 @@
 ---
 title: Gestion des ressources (18 mai 2021)
-description: Listen to Samantha Isin partage ce qu'elle fait à Melaleuca avec Workfront qui  des outils de gestion des ressources et de reporting. Vous pouvez également écouter Aaron Behr, de VaynerMedia, ... (Les descriptions doivent être comprises entre 60 et 160 caractères).
+description: Listen to Samantha Isin partage ce qu'elle fait à Melaleuca avec Workfront qui  des outils de gestion des ressources et de reporting. également écouter Aaron Behr, de VaynerMedia, ... (Les descriptions doivent être comprises entre 60 et 160 caractères).
 role: Admin, User
 level: Intermediate, Experienced
 kt: 10008
 thumbnail: 341226.jpeg
-exl-id: 8ca41260-d9e3-4e57-ad3b-f3329576dd2c
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: fd13b975-1ea2-463a-bb1f-afc6bf4e97ab
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

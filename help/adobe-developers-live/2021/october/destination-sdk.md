@@ -1,5 +1,5 @@
 ---
-title: Présentation de l'Adobe Experience Platform Destination SDK
+title: Présentation du Adobe Experience Platform Destination SDK
 description: Au cours de cette session, nous vous présenterons Destination SDK, une nouvelle fonctionnalité de Adobe Experience Platform qui permet aux partenaires et aux clients de créer des destinations dans Adobe Experience Platform et Real-time Customer Data Platform. Vous apprendrez comment configurer une nouvelle intégration de destination et comment elle bénéficie à votre organisation et à nos clients mutuels.
 solution: Real-Time Customer Data Platform
 feature: Destinations
@@ -8,15 +8,15 @@ role: Developer, Architect
 level: Experienced
 kt: 9146
 type: Event
-exl-id: 2355378d-9d5b-4143-97d5-d5a79b7ff2e9
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 23cc8860-c1e3-4e9a-96ff-8d3c39de749e
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 21%
 
 ---
 
-# Présentation de l&#39;Adobe Experience Platform Destination SDK
+# Présentation du Adobe Experience Platform Destination SDK
 
 Au cours de cette session, nous vous présenterons Destination SDK, une nouvelle fonctionnalité de Adobe Experience Platform qui permet aux partenaires et aux clients de créer des destinations dans Adobe Experience Platform et Real-time Customer Data Platform. Vous apprendrez comment configurer une nouvelle intégration de destination et comment elle bénéficie à votre organisation et à nos clients mutuels.
 

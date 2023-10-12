@@ -4,8 +4,8 @@ description: Rejoignez Cynthia Tillo, cheffe principale de produit du départeme
 uuid: 66934879-1d50-49bd-879a-463f59657b6a
 discoiquuid: e9e8768d-25a8-4b20-b129-1b1e1732dbb9
 targetaudience: target-audience advanced
-exl-id: e2039012-97a0-4a56-ae6d-b946e8c94075
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 69d32951-430a-4d30-b59c-73b9aa151ac5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%

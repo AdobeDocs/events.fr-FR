@@ -9,13 +9,13 @@ doc-type: Event
 last-substantial-update: 2023-09-15T00:00:00Z
 jira: KT-13928
 thumbnail: 3424021.jpeg
-source-git-commit: de72ca31699f62b6f3034ccb2fe161f78b1f39e8
+exl-id: 365dab7c-ffd4-4788-a3aa-80cbfde68d09
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
-
 
 # Contenu et expériences : le coeur battant de la personnalisation
 

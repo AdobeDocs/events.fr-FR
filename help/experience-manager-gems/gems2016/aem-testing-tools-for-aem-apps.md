@@ -4,8 +4,8 @@ description: Des tests unitaires aux tests d’intégration d’Experience Mana
 uuid: beb88371-ac62-4c94-9115-886455778a38
 discoiquuid: 5a831981-2313-45d6-8d5e-996fc88debb2
 targetaudience: target-audience advanced
-exl-id: ab3b5924-4079-40c9-afef-5e9ea3fb7d32
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 5d84328d-f4da-4420-962e-86713d2230b5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 100%

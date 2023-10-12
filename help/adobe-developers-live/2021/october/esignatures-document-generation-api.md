@@ -8,8 +8,8 @@ role: Developer, Architect
 level: Experienced
 kt: 9210
 type: Event
-exl-id: e1189b02-92f4-495a-9192-9f4002fb13b7
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: ea4d1db5-b1d1-4e5b-ba16-db9bd493e150
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 20%

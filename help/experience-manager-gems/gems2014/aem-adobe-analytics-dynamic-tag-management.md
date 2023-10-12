@@ -5,8 +5,8 @@ uuid: 0af8b03b-18dc-4701-93c6-65acdc85b6a2
 topic-tags: Dynamictagmanagement
 discoiquuid: a91aeec3-337f-4cfd-850d-6ece0041e550
 targetaudience: target-audience advanced
-exl-id: 852e578e-0594-4482-9ee8-a4b30248f99a
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 94f6fe0f-b6cd-4484-bd1d-92fa31be4e17
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 100%
@@ -44,4 +44,3 @@ Sandro Looser, architecte de solution, Adobe
 >[!MORELIKETHIS]
 >
 >* [Déploiement d’Adobe Analytics sur une instance AEM locale à l’aide du service cloud de gestion dynamique des balises](aem-adobe-analytics-dynamic-tag-management.md)
-

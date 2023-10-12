@@ -8,8 +8,8 @@ level: Beginner, Intermediate, Experienced
 type: Event
 thumbnail: 337665.jpg
 kt: 9145
-exl-id: 4381a5c0-4f74-4828-bd06-4dc2c5ef3bc6
-source-git-commit: bd648ac5c46c4cd2939f86944afcf97b74b82d14
+exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 33%

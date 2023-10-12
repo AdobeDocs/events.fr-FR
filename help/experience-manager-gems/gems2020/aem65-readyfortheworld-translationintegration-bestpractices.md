@@ -4,8 +4,8 @@ description: Découvrez les fonctionnalités et les bonnes pratiques AEM actuell
 uuid: 50db5f3d-2bd0-4366-8c26-b11c4aa6a23c
 discoiquuid: 0c24228b-b674-47a7-9892-45bb26684ad1
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: 4678fa19-9e21-40ed-b450-7f3006ed0992
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3d12fd42-8b35-4c6d-b1ab-2a0c38f3ca12
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%

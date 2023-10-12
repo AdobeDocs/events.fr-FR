@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
-exl-id: c7333635-834d-4d78-9dea-f64e3205c78a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '5566'
 ht-degree: 2%
@@ -27,7 +27,7 @@ Actuellement, pour donner à un destinataire la possibilité de partager un BAT 
 
 **Réponse**
 
-Cela peut être activé/désactivé par défaut pour les utilisateurs individuels par un administrateur en suivant ce chemin : Connexion via le protocole PHQ > Paramètres du compte > Utilisateurs > Cliquez sur dans le nom de l’utilisateur > Paramètres de bon à tirer par défaut.
+Cela peut être activé/désactivé par défaut pour les utilisateurs individuels par un administrateur en suivant ce chemin : connexion PHQ > Paramètres du compte > Utilisateurs > Clic dans le nom de l’utilisateur > Paramètres de BAT par défaut.
 
 **Question**
 
@@ -67,7 +67,7 @@ Comment créer un modèle de BAT ?
 
 **Réponse**
 
-En tant qu’administrateur, vous souhaitez suivre ce chemin : Connexion au QSP > Workflows > Nouveau > Nouveau modèle.
+En tant qu’administrateur, vous souhaiterez suivre ce chemin : Connexion PHQ > Workflows > Nouveau > Nouveau modèle.
 
 **Question**
 
@@ -75,7 +75,7 @@ Cette fonctionnalité de partage de modèles permet-elle le partage avec des gro
 
 **Réponse**
 
-Actuellement, vous ne pouvez pas partager de modèles de workflow avec des groupes Workfront, des équipes, des rôles de tâche ou des entreprises. Vous pouvez toutefois les partager avec des individus et les partager avec des groupes de BAT. Pour créer un groupe de BAT, procédez comme suit : Connexion au QSP > Groupes > Nouveau groupe.
+Actuellement, vous ne pouvez pas partager de modèles de workflow avec des groupes Workfront, des équipes, des rôles de tâche ou des entreprises. Vous pouvez toutefois les partager avec des individus et les partager avec des groupes de BAT. Pour créer un groupe de BAT, suivez ce chemin : Connexion PHQ > Groupes > Nouveau groupe.
 
 **Question**
 
@@ -83,7 +83,7 @@ Lors de l’envoi d’un BAT, sous Organisation, est-il possible de nettoyer les
 
 **Réponse**
 
-Cette question est liée à Workfront Proof Standalone. Dans le BAT Workfront autonome, vous pouvez utiliser des dossiers privés afin de masquer des dossiers d’utilisateurs spécifiques. Cela permet une liste plus rationalisée de dossiers parmi lesquels choisir. Notez que vous pouvez également utiliser une logique de type anticipé pour localiser le dossier auquel vous souhaitez ajouter un BAT.
+Cette question est liée à Workfront Proof Standalone. Dans le BAT Workfront autonome, vous pouvez utiliser des dossiers privés afin de masquer des dossiers d’utilisateurs spécifiques. Cela permet de disposer d’une liste plus rationalisée de dossiers parmi lesquels choisir. Notez que vous pouvez également utiliser une logique de type anticipé pour localiser le dossier auquel vous souhaitez ajouter un BAT.
 
 **Question**
 
@@ -109,7 +109,7 @@ Si les réviseurs sont définis sur &quot;désactivé&quot;, comment sauront-ils
 
 **Réponse**
 
-Les alertes par e-mail sont indépendantes du nouvel e-mail de BAT, du nouvel e-mail de version, de l’e-mail à risque, de l’e-mail en retard et de l’e-mail @Mentions. Si vous choisissez &quot;Désactivé&quot; comme alerte email, vous ne pourrez que désactiver les notifications sur les activités telles que les commentaires, les réponses et les décisions sur le BAT (à l’exception des @Mention emails provenant des commentaires).
+Les alertes par e-mail sont indépendantes du nouvel e-mail de BAT, du nouvel e-mail de version, de l’e-mail à risque, de l’e-mail en retard et de l’e-mail @Mentions. Si vous choisissez &quot;Désactivé&quot; comme alerte par email, vous ne pourrez que désactiver les notifications sur les activités telles que les commentaires, les réponses et les décisions sur le BAT (à l’exception des @Mention emails provenant des commentaires).
 
 **Question**
 
@@ -189,7 +189,7 @@ Pourquoi utiliser l’approbation de document plutôt que l’approbation de BAT
 
 **Réponse**
 
-L’approbation de document peut être utilisée pour un document qui ne nécessite pas de commentaires et d’annotations conformes au document en cours d’approbation. Par exemple, il suffit que vous regardiez ce document et que vous l&#39;approuviez ou le rejetiez. Le BAT autorise les commentaires et les annotations dans le document dans l’outil Visionneuse de BAT. Par exemple, vous devez examiner ce BAT, ajouter des commentaires, ajouter des annotations et prendre une décision. À l’avenir, le projet vise à unifier les deux fonctionnalités, car elles sont très similaires.
+L’approbation de document peut être utilisée pour un document qui ne nécessite pas de commentaires et d’annotations en accord avec le document en cours d’approbation. Par exemple, il suffit que vous regardiez ce document et que vous l&#39;approuviez ou le rejetiez. Le BAT autorise les commentaires et les annotations dans le document dans l’outil Visionneuse de BAT. Par exemple, vous devez examiner ce BAT, ajouter des commentaires, ajouter des annotations et prendre une décision. À l’avenir, le projet vise à unifier les deux fonctionnalités, car elles sont très similaires.
 
 **Question**
 
@@ -213,11 +213,11 @@ Nous avons essayé de baliser les utilisateurs dans un bon à tirer, mais ils ne
 
 **Réponse**
 
-Je vous recommande de vérifier Filtres d&#39;email / Dossier de spam pour voir si les notifications y sont allées, puis d&#39;effectuer les réglages nécessaires dans l&#39;application de messagerie pour placer sur la liste autorisée ces emails. Vous pouvez également contacter notre équipe d’assistance pour obtenir de l’aide à ce sujet.
+Je vous recommande de vérifier Filtres d&#39;email / Dossier de spam pour voir si les notifications y sont allées, puis d&#39;effectuer les réglages nécessaires dans l&#39;application de messagerie pour mettre ces emails sur liste blanche. Vous pouvez également contacter notre équipe d’assistance pour obtenir de l’aide à ce sujet.
 
 **Question**
 
-Vous ne pouvez @ quelqu&#39;un que s&#39;il a une licence de preuve, n&#39;est-ce pas ? Comme dans, cette personne n&#39;a jamais été dans le BAT et vous voulez les marquer (@).
+Vous ne pouvez @ quelqu&#39;un que s&#39;il a une licence de BAT, n&#39;est-ce pas ? Comme dans, cette personne n&#39;a jamais été dans le BAT et vous voulez les marquer (@).
 
 **Réponse**
 
@@ -225,11 +225,11 @@ Si vous êtes un utilisateur invité ou Workfront disposant d’une licence de v
 
 **Question**
 
-Problème le plus important ici : adresse électronique %2B (adresses électroniques en double). Pourquoi et comment cela se produit-il et comment peut-on y remédier ?
+Problème le plus important ici : adresse email %2B (adresses email en double). Pourquoi et comment cela se produit-il et comment peut-on y remédier ?
 
 **Réponse**
 
-Cela peut se produire si quelqu’un ajoute manuellement une personne à un BAT en utilisant la mauvaise adresse électronique. Si vous rencontrez ce problème, un administrateur peut supprimer une adresse email incorrecte du compte BAT en suivant le chemin suivant : PHQ Login > Contacts > Sélectionner l&#39;email / l&#39;instance d&#39;invité incorrecte > Supprimer. Si vous rencontrez des problèmes lors de l’ajout d’utilisateurs avec des adresses électroniques en double, contactez notre équipe d’assistance pour obtenir de l’aide.
+Cela peut se produire si quelqu’un ajoute manuellement une personne à un BAT en utilisant la mauvaise adresse électronique. Si vous rencontrez ce problème, un administrateur peut retirer l&#39;adresse email incorrecte du compte BAT en suivant le chemin : Connexion PHQ > Contacts > Sélectionner l&#39;adresse email / instance d&#39;invité incorrecte > Supprimer. Si vous rencontrez des problèmes lors de l’ajout d’utilisateurs avec des adresses électroniques en double, contactez notre équipe d’assistance pour obtenir de l’aide.
 
 **Question**
 
@@ -237,7 +237,7 @@ Une fois qu’une décision a été prise, vous devez remettre le BAT en product
 
 **Réponse**
 
-Si un BAT est verrouillé, vous devez déverrouiller le BAT pour que les personnes puissent envoyer des commentaires d’action ou des réponses aux commentaires. Les personnes disposant des autorisations suivantes peuvent déverrouiller le BAT : Propriétaire du BAT, utilisateurs Workfront disposant d’un niveau de licence de vérification de l’administrateur ou du responsable.
+Si un BAT est verrouillé, vous devez déverrouiller le BAT pour que les personnes puissent envoyer des commentaires d’action ou des réponses aux commentaires. Les personnes disposant des autorisations suivantes peuvent déverrouiller le BAT : le propriétaire du BAT, les utilisateurs Workfront disposant d’un niveau de licence de vérification de l’administrateur ou du superviseur.
 
 **Question**
 
@@ -277,11 +277,11 @@ Comment ajouter des personnes comme nouveaux rôles sur un BAT déjà créé ?
 
 **Réponse**
 
-Pour ajouter des destinataires du BAT et sélectionner leur rôle de BAT sur un BAT existant, vous devez suivre le chemin suivant : Sélectionnez le BAT dans l&#39;onglet Documents > puis cliquez sur Détails du BAT. Lorsque la fenêtre des détails du BAT s&#39;ouvre, cliquez sur le bouton Éligibilité en haut à droite de l&#39;étape et sélectionnez &quot;Partager&quot;. Vous pourrez ensuite ajouter les destinataires et sélectionner leur rôle de BAT et leur alerte par email.
+Pour ajouter des destinataires du BAT et sélectionner leur rôle de BAT sur un BAT existant, vous devez suivre ce chemin : sélectionnez le BAT dans l&#39;onglet Documents > puis cliquez dans Détails du BAT. Lorsque la fenêtre des détails du BAT s&#39;ouvre, cliquez sur le bouton Éligibilité en haut à droite de l&#39;étape et sélectionnez &quot;Partager&quot;. Vous pourrez ensuite ajouter les destinataires et sélectionner leur rôle de BAT et leur alerte par email.
 
 **Question**
 
-Si nous accordons l’accès à Bon à tirer HQ aux responsables/créateurs de BAT, sommes-nous capables de bloquer les zones d’administration telles que les workflows, les groupes, etc. ?
+Si nous accordons l’accès au QG du Bon à tirer aux gestionnaires/créateurs de BAT, sommes-nous capables de bloquer les zones d’administration telles que les workflows, les groupes, etc. ?
 
 **Réponse**
 
@@ -325,7 +325,7 @@ Pourquoi lorsque je coche &quot;Demander l’approbation&quot; lorsque j’envoi
 
 **Réponse**
 
-Lors de l’utilisation de la fonction &quot;Demander l’approbation&quot;, vous travaillez avec la fonctionnalité Approbation du document qui sera indépendante de la vérification et de la barre de progression de SOCD. Si vous devez mettre à jour le rôle de BAT d’un destinataire de BAT, vous devez suivre ce chemin : Dans l&#39;onglet Documents, sélectionnez le BAT, puis cliquez sur Détails du BAT. Lorsque la fenêtre des détails du BAT s&#39;ouvre, la liste des destinataires et l&#39;option du rôle du BAT (ainsi que l&#39;option Alerte email) peuvent être ajustées en ligne. Cela vous permet (par exemple) de remplacer le rôle de BAT de Réviseur par Réviseur et Approbateur.
+Lors de l’utilisation de la fonction &quot;Demander l’approbation&quot;, vous travaillez avec la fonctionnalité Approbation du document qui sera indépendante de la vérification et de la barre de progression de SOCD. Si vous devez mettre à jour le rôle du BAT d&#39;un destinataire de BAT, vous devez suivre le chemin suivant : depuis l&#39;onglet Documents , sélectionnez le BAT > puis cliquez sur Détails du BAT. Lorsque la fenêtre des détails du BAT s&#39;ouvre, la liste des destinataires et l&#39;option du rôle du BAT (ainsi que l&#39;option Alerte email) peuvent être ajustées en ligne. Cela vous permet (par exemple) de changer le rôle de BAT de Réviseur à Réviseur et Approbateur.
 
 **Question**
 
@@ -333,7 +333,7 @@ Est-il possible de s’assurer que les approbateurs finaux n’ont pas accès au
 
 **Réponse**
 
-Dans les Paramètres du compte au sein du BAT, vous pouvez contrôler le partage/l’accès à la visibilité de vos BAT. Pour mettre à jour ce paramètre afin que les destinataires du BAT ne voient que les versions de BAT que vous désignez (au lieu de voir toutes les versions du BAT), vous devez suivre ce chemin : PHQ Login > Paramètres du compte > Partage > Les destinataires peuvent afficher toutes les versions = Désactivé.
+Dans les Paramètres du compte au sein du BAT, vous pouvez contrôler le partage/l’accès à la visibilité de vos BAT. Pour mettre à jour ce paramètre afin que les destinataires du BAT ne voient que les versions de BAT que vous désignez (au lieu de voir toutes les versions du BAT), vous devez suivre ce chemin : Connexion PHQ > Paramètres du compte > Paramètres > Partage > Les destinataires peuvent afficher toutes les versions = Désactivé.
 
 **Question**
 
@@ -353,7 +353,7 @@ C&#39;est exact. Bien que vous puissiez soumettre un cas d’assistance avec Wor
 
 **Question**
 
-Bonjour, une question sur la flexibilité de la propriété des BAT : Si un nouveau téléchargement de version de Bon à tirer est requis en l’absence du propriétaire d’origine, est-il recommandé pour eux d’ajouter un collègue au workflow en tant qu’auteur et ils décideront &quot;Non pertinent&quot; ? (La délégation de la propriété ne semble fonctionner que pour une seule version).
+Bonjour, une question sur la flexibilité de la propriété du BAT : si un nouveau téléchargement de version de BAT est requis en l’absence du propriétaire d’origine, est-il la bonne pratique pour qu’il ajoute un collègue au workflow en tant qu’auteur et qu’il décide &quot;Non pertinent&quot; ? (La délégation de la propriété ne semble fonctionner que pour une seule version).
 
 **Réponse**
 
@@ -369,7 +369,7 @@ Bien que vous ne puissiez pas ajouter un destinataire de BAT à plusieurs étape
 
 **Question**
 
-Pouvez-vous expliquer le routage des BAT entre les étapes ? Comment fermer l’un d’eux et passer à l’étape suivante ?
+Pouvez-vous expliquer le routage des BAT entre les étapes ? Comment puis-tu en fermer un et passer à l’étape suivante ?
 
 **Réponse**
 
@@ -381,7 +381,7 @@ Pouvez-vous supprimer un BAT d’un document généré automatiquement, mais vou
 
 **Réponse**
 
-Si le paramètre &quot;Générer automatiquement les bons à tirer lors du téléchargement des documents&quot; est activé, vous ne pourrez pas supprimer un bon à tirer d’un document. Vous souhaiterez le télécharger à nouveau via le bouton Ajouter > Documents .
+Si le paramètre &quot;Générer automatiquement les bons à tirer lors du téléchargement des documents&quot; est activé, vous ne pourrez pas supprimer un bon à tirer d’un document. Vous souhaiterez plutôt le télécharger à nouveau via le bouton Ajouter > Documents .
 
 **Question**
 
@@ -389,7 +389,7 @@ Un utilisateur peut-il indiquer à l’étape 3 du flux du BAT qu’il ajoute un
 
 **Réponse**
 
-Si cet utilisateur dispose des droits d’édition sur le BAT, il peut le faire. Les personnes disposant de droits de modification seront : Propriétaire du BAT, destinataires du BAT ajoutés au BAT avec le rôle de BAT de l’auteur ou du modérateur, utilisateurs de la licence du BAT avec le niveau d’autorisation du superviseur Niveau d’autorisation du BAT.
+Si cet utilisateur dispose des droits d’édition sur le BAT, il peut le faire. Les personnes disposant de droits d’édition seront : le propriétaire du BAT, les destinataires du BAT ajoutés au BAT avec le rôle de BAT de l’auteur ou du modérateur, les utilisateurs sous licence de BAT avec le niveau d’autorisation du superviseur ou de l’administrateur du BAT.
 
 **Question**
 
@@ -417,7 +417,7 @@ Les notifications d’alerte par courrier électronique de décision ne sont env
 
 **Question**
 
-En ce qui concerne le transfert des emails, vous connectez-vous en tant que propriétaire de l&#39;email ? Et cela se produirait-il avec des environnements verrouillés ? Cela se produirait-il avec un environnement d&#39;authentification unique ?
+En ce qui concerne le transfert des emails, vous connectez-vous en tant que propriétaire de l&#39;email ? Et cela se produirait-il avec des environnements verrouillés ? Cela se produirait-il avec un environnement d’authentification unique ?
 
 **Réponse**
 
@@ -445,7 +445,7 @@ Comment changer de propriétaire de BAT ?
 
 **Réponse**
 
-Pour changer de propriétaire d’un BAT, vous devez suivre le chemin suivant : Dans l&#39;onglet Documents, sélectionnez le BAT et cliquez sur &quot;Détails du BAT&quot;. L’onglet Détails du BAT s’ouvre. Si la personne que vous souhaitez rendre propriétaire du BAT ne figure pas encore sur le BAT, vous souhaiterez l’ajouter en tant que destinataire en cliquant sur le bouton Élipses et en sélectionnant Partager. Une fois la personne ajoutée au BAT (ou si elle est déjà sur le BAT), vous allez sélectionner le bouton Élipements correspondant pour sélectionner &quot;Rendre propriétaire&quot;. Ils seront désormais propriétaires du BAT.
+Pour changer de propriétaire d&#39;un BAT, vous devez suivre ce chemin : dans l&#39;onglet Documents , sélectionnez le BAT et cliquez sur &quot;Détails du BAT&quot;. L’onglet Détails du BAT s’ouvre. Si la personne que vous souhaitez rendre propriétaire du BAT ne figure pas encore sur le BAT, vous souhaiterez l’ajouter en tant que destinataire en cliquant sur le bouton Élipses et en sélectionnant Partager. Une fois la personne ajoutée au BAT (ou si elle est déjà sur le BAT), vous allez sélectionner le bouton Élipements correspondant pour sélectionner &quot;Rendre propriétaire&quot;. Ils seront désormais propriétaires du BAT.
 
 **Question**
 
@@ -453,7 +453,7 @@ En termes de nouvelles versions de BAT... la seule façon pour moi de le faire e
 
 **Réponse**
 
-Je vous recommande de créer de nouvelles versions de la manière suivante : sélectionnez le BAT dans l&#39;onglet Documents , puis cliquez sur le bouton Plus , choisissez Nouvelle version > Bon à tirer . Vous accédez alors à la page Nouvelle version qui transfère le workflow et vous permet d’effectuer les ajustements nécessaires avant de router la nouvelle version.
+Je vous recommande de créer de nouvelles versions de cette manière : sélectionnez le BAT dans l&#39;onglet Documents, puis cliquez sur le bouton Plus, choisissez Nouvelle version > Bon à tirer. Vous accédez alors à la page Nouvelle version qui transfère le workflow et vous permet d’effectuer les ajustements nécessaires avant de router la nouvelle version.
 
 **Question**
 
@@ -483,7 +483,7 @@ Le problème est qu’il semble qu’une seule décision peut être prise sur le
 
 **Réponse**
 
-Plusieurs décisions peuvent être prises sur un BAT, mais il n’y aura qu’un seul statut global sur un BAT qui viendra du scénario le plus mauvais de la décision sur le BAT, ou de la décision prise par un décideur Principal.
+Il est possible de prendre plusieurs décisions sur un BAT, mais il n’y aura qu’un seul statut global sur un BAT qui proviendra de la décision du scénario le plus défavorable sur le BAT, ou de la décision prise par un décideur Principal.
 
 En raison de vos exigences de création de rapports, je vous recommande de faire en sorte que tous les membres du BAT utilisent les mêmes options de décision (Approuvé, Approuvé avec des modifications, Modifications requises), puis utilisent les Rapports dans le tableau de bord du BAT (Connexion PHQ > Rapports) et appliquent l’option de filtrage par destinataires (inclure les destinataires du service juridique extérieur dans le filtre), afin de pouvoir voir le temps de rotation moyen sur leurs BAT.
 
@@ -497,7 +497,7 @@ Lorsque vous faites glisser un document comme nouvelle version, vous avez raison
 
 **Question**
 
-Scénario - Transfert de BAT : Un client externe qui examine un BAT peut vouloir circuler en interne dans son organisation avant d’approuver notre BAT. Les autres révisions ne seront pas nécessairement dans le système, donc il ne semble pas @ dans les commentaires fonctionneraient. Comment doivent-ils partager au mieux : transférer l&#39;email et indiquer au destinataire que les commentaires n&#39;apparaîtront pas comme leur nom ?
+Scénario - Transfert de bons à tirer : un client externe qui examine un bon à tirer peut vouloir circuler en interne dans son organisation avant d’approuver notre bon à tirer. Les autres révisions ne seront pas nécessairement dans le système, donc il ne semble pas @ dans les commentaires fonctionneraient. Comment doivent-ils partager au mieux : transférer l&#39;email et indiquer au destinataire que les commentaires n&#39;apparaîtront pas comme leur nom ?
 
 **Réponse**
 
@@ -509,7 +509,7 @@ Quelle est la bonne pratique pour utiliser des dossiers dans des documents ?
 
 **Réponse**
 
-Cela dépendra de la nature du projet, mais vous pouvez considérer un dossier BAT Principal qui contient tous les bons à tirer/versions activement routés et un dossier BAT approuvé contenant tous les bons à tirer finalisés et approuvés. Une fois qu&#39;un BAT est entièrement validé, vous le déplacez du dossier BAT Principal vers le dossier Bons à tirer approuvés.
+Cela dépendra de la nature du projet, mais vous pouvez considérer qu’il s’agit d’un dossier BAT actif qui contient tous les bons à tirer/versions activement routés et d’un dossier BAT approuvé contenant tous les bons à tirer finalisés et approuvés. Une fois qu&#39;un BAT est entièrement approuvé, vous le déplacez du dossier BAT actif vers le dossier Bons à tirer approuvés.
 
 **Question**
 
@@ -541,7 +541,7 @@ Où pouvons-nous voir une liste de toutes les personnes qui ont examiné et/ou a
 
 **Réponse**
 
-Pour afficher une liste d’activités, telle que le moment où des commentaires et des décisions ont été pris, vous souhaiterez cliquer sur dans l’ historique des activités dans les détails du BAT. Pour y accéder, suivez ce chemin : Sélectionnez le Bon à tirer dans l&#39;onglet Documents > Cliquez sur Détails du bon à tirer > Développez la section Activité . Si vous souhaitez afficher ces informations au niveau de la version, suivez ce chemin : Sélectionnez le Bon à tirer dans l’onglet Documents > Cliquez sur l’onglet Détails > Une section Versions s’affiche en bas de l’écran. Vous pouvez y accéder aux détails du BAT au niveau de la version.
+Pour afficher une liste d’activités, telle que le moment où des commentaires et des décisions ont été pris, vous souhaiterez cliquer sur dans l’ historique des activités dans les détails du BAT. Pour y accéder, suivez ce chemin : sélectionnez le Bon à tirer dans l&#39;onglet Documents > Cliquez sur Détails du bon à tirer > Développez la section Activité . Si vous souhaitez voir ces informations au niveau de la version, suivez ce chemin : sélectionnez le Bon à tirer dans l&#39;onglet Documents > Cliquez sur l&#39;onglet Détails > En bas de l&#39;écran, une section Versions s&#39;affiche. Vous pouvez y accéder aux détails du BAT au niveau de la version.
 
 **Question**
 

@@ -7,9 +7,9 @@ doc-type: Event
 last-substantial-update: 2023-01-06T00:00:00Z
 kt: 11655
 thumbnail: 3412722.jpeg
-exl-id: 39affe8c-cb03-4161-8a1d-6ce3e8c0aaad
+exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
-source-git-commit: b32c10575f90d02829889d9eae876b2c922915bb
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%

@@ -4,8 +4,8 @@ description: AEM Screens est la nouvelle solution de signalétique numérique i
 uuid: a6c42610-4a3d-4575-ac27-fc154d58c13d
 discoiquuid: c3001249-b443-420d-924c-b52e515026ef
 targetaudience: target-audience advanced
-exl-id: 1beeb807-c3b3-425c-8053-06cd2d359c35
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 212a9f72-e5ed-4010-992b-b3a7a9c0d7b7
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 78%
@@ -40,5 +40,4 @@ Exemple de projet
 >
 >AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
 >
->En ce qui concerne cette session, veuillez consulter *Déploiement de Screens* et *Concept Screens* dans la documentation d’AEM 6.2.
-
+>En ce qui concerne cette session, veuillez consulter *Déploiement d’Screens* et *Concept Screens* dans la documentation d’AEM 6.2.

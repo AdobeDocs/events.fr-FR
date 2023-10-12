@@ -4,8 +4,8 @@ description: Découvrez à quel point il est facile de développer des offres gr
 uuid: 175dd285-ee5c-45b1-8dd5-2fc4f5964dc5
 discoiquuid: 1814b885-2832-4fda-bb36-467f77b88c7a
 targetaudience: target-audience advanced
-exl-id: 4baf91ab-3282-4432-8db4-003918deac10
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 821b72b1-de34-45aa-9722-3041aabc774b
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%

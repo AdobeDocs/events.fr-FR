@@ -4,8 +4,8 @@ description: Découvrez comment tirer parti de la puissante interface de créati
 uuid: 5b685948-697f-4095-85ad-f62db189bb30
 discoiquuid: 62b6b8d4-b763-4801-9918-447a2c5deb01
 targetaudience: target-audience advanced
-exl-id: a36621d4-2c80-4a45-aa71-cd31fffb56fc
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 86ceb0d8-b8ce-4ab9-8b54-68ac3dfeea95
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 100%

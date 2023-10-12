@@ -4,8 +4,8 @@ description: Il s’agit d’une suite de la session de l’an dernier intitulé
 uuid: da172124-bef7-45b8-91f4-86fc37d03f5d
 discoiquuid: 7d95cb2b-9fc4-4d0e-8a70-a751f4487f77
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: 01d8eb23-1dc2-4040-8576-daa52bf58783
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 18c67108-c642-43dd-a177-b441f03a83bb
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%

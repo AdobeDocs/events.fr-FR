@@ -4,8 +4,8 @@ description: Explorez en détail le développement d’applications d’une seul
 uuid: 4ac2d85b-63f9-4d74-a8c0-7857be6b3d84
 discoiquuid: 3b050b88-e1c3-4a42-81ce-bd1b321a01e7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-exl-id: 003c4eb7-814a-4ab3-bd31-0030366b5bcb
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: da77b44b-5bf2-43de-bf72-9f302398decf
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 100%

@@ -1,8 +1,8 @@
 ---
 title: Webinaires sur Commerce Intelligence
 description: Explorez les webinaires enregistrés de Commerce Intelligence, qui abordent un large éventail de sujets et de bonnes pratiques pour utiliser pleinement Commerce Intelligence.
-exl-id: ebc973b9-a7e0-42a7-968b-17d077b67af4
-source-git-commit: 0111bb0f6e21580fc444dea64462347cf785f8ec
+exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 19%

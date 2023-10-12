@@ -10,13 +10,13 @@ doc-type: Event
 last-substantial-update: 2023-07-22T00:00:00Z
 jira: KT-13689
 thumbnail: 3421282.jpeg
-source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
+exl-id: 731c827e-fb10-48da-a85a-ee73a5d273e3
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # Optimisation de la valeur avec Adobe Audience Manager | Navigation dans les modifications du secteur et transition vers la plateforme de données clients en temps réel
 

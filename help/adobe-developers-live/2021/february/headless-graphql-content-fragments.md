@@ -11,15 +11,15 @@ version: Cloud Service
 kt: 7171
 type: Event
 thumbnail: 331280.jpg
-exl-id: a545a81e-efa5-485f-a653-6cee86e29065
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: 4e43d3d4-db29-45a2-9979-59f562e427e0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-# Headless: GraphQL avec des fragments de contenu
+# Sans affichage : GraphQL avec des fragments de contenu
 
 Découvrez les nouvelles fonctionnalités sans interface avec les dernières améliorations apportées aux fragments de contenu. Cette session se concentrera sur l’API GraphQL pour Adobe Experience Manager Cloud Service.
 

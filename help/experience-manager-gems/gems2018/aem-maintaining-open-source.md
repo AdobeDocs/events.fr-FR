@@ -4,8 +4,8 @@ description: Maintenir des projets open source peut être difficile. La réussit
 uuid: 94e91950-d915-4659-985a-f496e47e8963
 discoiquuid: f52fef4b-b8ba-45f6-897c-814a7367994e
 targetaudience: target-audience advanced
-exl-id: ff855f03-eb10-4e44-b604-2dd056d7ab0f
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: c9fddf02-73ec-44d9-be07-3f7fdcd62f70
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 100%

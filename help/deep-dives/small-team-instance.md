@@ -1,14 +1,14 @@
 ---
 title: Découvrez comment une petite équipe optimise son Adobe [!DNL Marketo Engage] instance
-description: Discuter de la prise en charge des instances d’Adobe [!DNL Marketo Engage] avec une petite équipe ou une équipe d'une personne.
+description: Découvrir comment prendre en charge les instances d’Adobe [!DNL Marketo Engage] avec une petite équipe ou une équipe d'une personne.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 last-substantial-update: 2023-03-31T00:00:00Z
 jira: KT-13023
 thumbnail: 3417670.jpeg
-exl-id: a3315544-217b-4247-8544-a3db0b740e60
-source-git-commit: 3ae20f0861a3a97e40276d8b20d858cbfa238698
+exl-id: bcba7f0e-8de0-47b3-adfc-75eb5b756031
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

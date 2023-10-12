@@ -5,8 +5,8 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9913
-exl-id: 5993c6c3-0583-4d1c-94aa-2e64a699e7f1
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 49cce53f-457b-4973-a0d9-1b5ce2272884
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '2224'
 ht-degree: 1%
@@ -49,7 +49,7 @@ Quelques idées sont mentionnées dans le webinaire pour des invites personnalis
 
 **Question**
 
-Si je dispose de 4 catégories, puis-je créer un objectif pour chacune d’elles, puis générer un rapport sur les différences entre les prévisions et les plans et les faits ? (4 catégories : Campaign, unité opérationnelle, web et produit). Nous avons les catégories au niveau du projet dans un ou plusieurs champs personnalisés. L’objectif serait de créer une prévision trimestrielle (budget/prévision), puis de suivre les heures prévues jusqu’à ce niveau et, finalement, les chiffres réels.
+Si je dispose de 4 catégories, puis-je créer un objectif pour chacune d’elles, puis générer un rapport sur les différences entre les prévisions et les plans et les faits ? (4 catégories : Campaign, unité opérationnelle, web et produit). Nous avons les catégories au niveau du projet dans un ou plusieurs champs personnalisés. L’objectif serait de créer une prévision trimestrielle (budget/prévision), puis de suivre les heures prévues jusqu’à ce niveau et, au final, les chiffres réels.
 
 **Réponse**
 
@@ -136,7 +136,7 @@ Plutôt que de saisir 2 heures par jour pour vérifier les courriers électroniq
 
 **Réponse**
 
-Oui, si vous définissez l’éditeur de texte enrichi sur 0,75, qui affiche un utilisateur disponible 6 heures par jour dans le planificateur de ressources. Ce sera leur disponibilité quotidienne. Si vous souhaitez les afficher comme indisponibles pour différentes périodes selon la date, par exemple si vous ne les affichez pas le dernier jour de chaque trimestre, une surcharge est la façon de procéder.
+Oui, si vous définissez l’éditeur de texte enrichi sur 0,75, qui affiche un utilisateur disponible 6 heures par jour dans le planificateur de ressources. Ce sera leur disponibilité quotidienne. Si vous souhaitez les afficher comme non disponibles pour différentes périodes selon la date, par exemple si vous n’êtes pas disponible le dernier jour de chaque trimestre, une surcharge est la méthode pour cela.
 
 Certaines personnes préfèrent les projets de frais généraux parce qu’elles peuvent les construire par elles-mêmes et les modifier quand elles le souhaitent, alors qu’elles peuvent ne pas avoir les droits de modifier leur propre éditeur de texte enrichi.
 
@@ -168,7 +168,7 @@ valueformat=HTML
 
 **Question**
 
-Je voudrais un rapport/tableau de bord qui incorpore le fonctionnement de mon équipe. En particulier, les scénarios suivants : - Projets que je possède / Projets créés pour moi / Tâches que j’ai assignées à d’autres / Tâches qui m’ont été assignées
+Je voudrais un rapport/tableau de bord qui incorpore le fonctionnement de mon équipe. En particulier, les scénarios suivants : - Projets dont je suis propriétaire / Projets créés pour moi / Tâches que j’ai assignées à d’autres / Tâches qui m’ont été assignées
 
 **Réponse**
 
@@ -266,7 +266,7 @@ Comment modifier l’ordre décroissant d’une colonne en mode texte (dans un g
 
 **Réponse**
 
-Vous pouvez choisir de trier la plupart des colonnes dans l’onglet Colonnes (vues) lors de la création d’un rapport. Si vous n’avez aucun groupe, le rapport de la liste complète sera trié. Si vous avez des groupements, ils seront triés en fonction de ce choix au sein de chaque groupement.
+Lorsque vous créez un rapport, vous pouvez choisir de trier la plupart des colonnes dans l’onglet Colonnes (vues) . Si vous n’avez aucun groupe, le rapport de la liste complète sera trié. Si vous avez des groupements, ils seront triés en fonction de ce choix au sein de chaque groupement.
 
 **Question**
 

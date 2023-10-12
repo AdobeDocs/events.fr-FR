@@ -6,8 +6,8 @@ role: User
 level: Beginner, Intermediate, Experienced
 kt: 10949
 thumbnail: 346386.jpeg
-exl-id: a71e98a7-5536-4bb3-83da-c2e92525c4e3
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: fe61ae67-f57b-4937-8155-c9c34dfa949f
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Lorsque vous créez ou reconstruisez votre site web, de nombreuses décisions professionnelles doivent être prises, qui ont des répercussions sur la manière dont le site est techniquement mis en oeuvre. Les stratégies et les décisions prises avant même de commencer la conception de l’expérience utilisateur peuvent avoir un effet profond sur le succès de votre site web en tant que canal marketing et commercial.  Activez vos marketeurs, déployez les sites plus rapidement et améliorez continuellement vos expériences.
 
-Au cours de cette session, vous apprendrez :
+Au cours de cette session, vous allez apprendre :
 
 * Les différents modèles de gestion de site web et leurs avantages
 * Comment mettre en oeuvre un modèle de gouvernance adapté à votre entreprise

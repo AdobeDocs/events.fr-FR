@@ -9,8 +9,8 @@ topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-exl-id: 970e633b-251a-438a-aaf1-159571fa36d2
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 100%
@@ -30,7 +30,6 @@ Ce webinaire a été organisé le 27 avril 2022 et présenté par Kunal Gaba e
 >* [Page Événement de groupe d’utilisateurs Adobe Experience Manager correspondant](https://adobe.ly/3O0uXl5/)
 >* [Thread contextuel correspondant](https://adobe.ly/3jorz5r)
 >* Inscrivez-vous au [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/) pour être averti des webinaires à venir.
-
 
 **Programme de haut niveau :**
 

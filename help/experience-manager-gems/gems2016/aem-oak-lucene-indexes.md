@@ -4,8 +4,8 @@ description: Nous décrivons les fonctionnalités des index Oak Lucene et leur u
 uuid: 7664c6b2-3f09-4de4-9ade-b934465ac829
 discoiquuid: f69d9c38-a316-4409-94b3-5ff576034bf3
 targetaudience: target-audience advanced
-exl-id: 671b41ee-851b-460b-86d9-8b3a24587408
-source-git-commit: e401bf0b5ac1e7f06a4576e36887358bed352162
+exl-id: ed0e32b3-44bc-4e45-a80e-f9cfd0688e80
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 70%
@@ -39,6 +39,6 @@ Nous décrivons les fonctionnalités des index Oak Lucene et leur utilisation po
 >
 >AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
 >
->En ce qui concerne cette session, veuillez consulter *Requêtes et indexation Oak* dans la documentation AEM 6.1.
+>En ce qui concerne cette session, veuillez consulter *Requêtes et indexation Oak* dans la documentation d’AEM 6.1.
 
 * [Documentation Oak : index Lucene](https://jackrabbit.apache.org/oak/docs/query/lucene.html)

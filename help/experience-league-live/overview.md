@@ -6,8 +6,8 @@ feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
-exl-id: 80de5748-89c2-4680-8978-21aff75d5e32
-source-git-commit: aa5d4f36b22a0a069accc635f3d82d5ed6f871cc
+exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 49%

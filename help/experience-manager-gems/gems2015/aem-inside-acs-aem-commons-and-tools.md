@@ -4,8 +4,8 @@ description: Au cours de cette session, Justin Edelson, évangéliste global pou
 uuid: aef962ac-5e21-4582-9da2-cdfa6f5f18ff
 discoiquuid: 3210944a-4a03-495a-b652-3c9e54ecbc22
 targetaudience: target-audience advanced
-exl-id: 7bd87758-ba62-44d8-b2d1-a8bb7225a42a
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 44aa2e08-f792-4b46-b7ff-c3a54c5a6bf0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%

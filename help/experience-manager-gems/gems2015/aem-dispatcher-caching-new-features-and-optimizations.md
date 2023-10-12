@@ -4,8 +4,8 @@ description: Découvrez comment affiner les réglages de votre cache du Dispatch
 uuid: eb15e787-4487-4c0e-aa16-b9685bb580e8
 discoiquuid: 0d0eb59a-cc06-4b0e-960b-c82aa229f382
 targetaudience: target-audience advanced
-exl-id: d8c79afe-5a39-4e1b-9413-fec80bd4ff9b
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 36d0784e-ab04-4af4-8308-eb62a51e36ac
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%

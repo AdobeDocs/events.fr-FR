@@ -7,13 +7,13 @@ doc-type: Event
 last-substantial-update: 2023-08-17T00:00:00Z
 jira: KT-13818
 thumbnail: 3422529.jpeg
-source-git-commit: e6b314b48137e9d3ee7d389977843f10cb6927f3
+exl-id: 920c48e0-a808-4c99-a977-35bf06e0fbc0
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
 
 ---
-
 
 # Outil d’analyse à l’échelle du site
 

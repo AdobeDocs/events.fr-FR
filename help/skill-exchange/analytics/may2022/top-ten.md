@@ -1,12 +1,12 @@
 ---
 title: Les 10 meilleures doctrines Digital Analytics à utiliser
-description: 10 Adobes les stratégies de gestion d’/Digital Analytics et discutez de l’énoncé du problème, des pratiques courantes et fournissez une solution efficace pour chacun d’eux.
+description: 10 Adobe les stratégies de gestion d’/Digital Analytics et discutez de l’énoncé du problème, des pratiques courantes et fournissez une solution efficace pour chacun d’eux.
 role: User
 level: Intermediate, Experienced
 kt: 10468
 thumbnail: 343334.jpeg
-exl-id: 5155fa40-5170-42b7-abb1-d33bd53e7d56
-source-git-commit: ca06e5a8b1602a7bcfb83a43f529680a5a96bacf
+exl-id: 29e4ba8c-0072-4758-b60e-5e34f6176300
+source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
