@@ -4,14 +4,14 @@ description: Apprenez des clients Workfront sur la façon dont New Home fonction
 kt: KT-14069
 thumbnail: https://video.tv.adobe.com/v/3424606?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=dvCuSQfMTZg
-event-cta-url-reg: null
+event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231026.html
 event-start-time: 2023-10-26 09:00-7
 event-guests: Betsey West,Ben Robbins,Jamie Smith
 exl-id: f36c96ce-d889-4549-8595-a43d815dd9af
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: cdf440d1b1b0957986cfed4565e1af61dcd90693
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 0%
+source-wordcount: '209'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Apprenez des clients Workfront sur la façon dont New Home fonctionne pour eux et leurs utilisateurs. Découvrez les nouvelles fonctions d’accueil proposées en août et les nouvelles commandes de mise en page destinées aux administrateurs. Et découvrez ce qu&#39;il y aura ensuite pour Home en 2024.
 
-[![ExL LIVE 22 septembre 2023](../assets/Oct26_exl_live_WebBanner.png)](https://www.youtube.com/watch?v=dvCuSQfMTZg)
+[![ExL LIVE 22 septembre 2023](../assets/Oct26_exl_live_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-231026.html)
 
 La page d’accueil entièrement repensée de Workfront est devenue un moteur de productivité. Grâce à ses widgets personnalisables, vous pouvez rationaliser votre workflow et parcourir en toute transparence les projets, tâches, problèmes, requêtes et mentions, en veillant à ce que rien ne tombe dans les mailles du filet. La flexibilité d’affiner la page d’accueil en fonction de vos besoins uniques vous permet de créer votre propre hub Workfront centralisé.
 
@@ -27,4 +27,4 @@ Lors de cette session en direct Experience League, l’expert produit Ben Robbin
 
 Comme toujours, cette session en direct permet de poser des questions dans la conversation et d&#39;obtenir les réponses des experts.
 
-**Cliquez sur l&#39;image ci-dessus pour définir un rappel !**
+**Cliquez sur l’image ci-dessus pour vous inscrire à l’événement livestream .**
