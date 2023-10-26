@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=xQ-yydkLeHc
 event-cta-url-reg: null
 event-start-time: 2023-11-14 09:00-7
 event-guests: Daniel Wright,Lory Mishra,Rachit Gupta
-source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
+source-git-commit: 8410a6480a055c0a3ab858a005eb98a7456bcad2
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Découvrez comment créer des agrégats de données d’événement avec des attributs calculés afin d’améliorer la segmentation, la personnalisation et les parcours.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425196/?learn=on)
+[![ExL LIVE 22 septembre 2023](assets/Nov14_2023_exl_live_WebBanner.jpg)](https://www.youtube.com/watch?v=xQ-yydkLeHc)
 
 Les données comportementales sont un élément clé de la diffusion d’expériences client personnalisées, mais il peut s’avérer difficile d’exploiter pleinement ces données. Aujourd’hui, vous pouvez vous fier à des systèmes, des technologues et des ingénieurs de données distincts pour créer des agrégats significatifs de données comportementales afin de fournir des expériences remarquables.
 
