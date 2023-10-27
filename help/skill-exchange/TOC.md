@@ -3,9 +3,9 @@ user-guide-title: L’échange de compétences
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Collection d'enregistrements d'Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: b16db3497f0e9801b71294bcaa66ae3cd9a2eb5c
+source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '416'
 ht-degree: 11%
 
 ---
@@ -67,6 +67,15 @@ ht-degree: 11%
       + [Canaux marketing, Utilisez De Manière Responsable](analytics/jun2021/marketing-channels.md)
       + [Rejoindre tout](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + Août 2023 {#aug2023}
+      + Suivi des développeurs {#developer-track}
+         + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
+         + [Construire un système de style efficace et évolutif](aem/aug2023/scalable-style-system.md)
+         + [Migration vers AEM Cloud Service](aem/aug2023/migrate-to-aemcs.md)
+      + Suivi web {#webtrack}
+         + [Prise en main d’AEM Assets](aem/aug2023/getting-started-aem-assets.md)
+         + [Utilisation d’une gestion des actifs numériques collaborative](aem/aug2023/collaborative-dam.md)
+         + [Échelle de préparation à l&#39;IA](aem/aug2023/metadata.md)
    + Août 2022 {#aug2022}
       + Suivi des développeurs {#developer-track}
          + [Points phares des créateurs d’expérience](aem/aug2022/spotlight.md)
@@ -101,6 +110,8 @@ ht-degree: 11%
       + [Reporting dans [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Conseils Et Astuces Ultimes Pour Votre Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Août 2023 {#aug2023}
+      + [Resource Management Foundation](workfront/aug2023/resource-management.md)
    + Avril 2022 {#apr2022}
       + [10 conseils pour surfer votre Workfront](workfront/apr2022/ten-tips.md)
       + [Champs calculés que tout le monde doit connaître](workfront/apr2022/calculated-fields.md)
@@ -111,6 +122,6 @@ ht-degree: 11%
       + [Masquage des dates et calendriers des projets](workfront/apr2022/projects-dates-timelines.md)
       + [Présentation des objets dans Workfront](workfront/apr2022/understanding-objects.md)
 + Bits numériques {#digital-bites}
-   + [Déverrouiller l&#39;efficacité opérationnelle à l&#39;aide d&#39;un modèle opérationnel haut de gamme](digital-bites/operational-model.md)
+   + [Déverrouiller l&#39;efficacité opérationnelle avec un modèle opérationnel de grande qualité](digital-bites/operational-model.md)
    + [Une feuille de route pour le mappage de valeurs et la réalisation de valeurs](digital-bites/roadmap.md)
    + [Comment déverrouiller la valeur commerciale sur le parcours client](digital-bites/business-value.md)
