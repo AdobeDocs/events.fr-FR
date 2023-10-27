@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 595fb971e2d7a3d8bdd4ea8608e896f187fd185e
+source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
 workflow-type: tm+mt
-source-wordcount: '33'
-ht-degree: 9%
+source-wordcount: '37'
+ht-degree: 8%
 
 ---
 
@@ -28,3 +28,4 @@ ht-degree: 9%
    + [Modélisation du cycle de vie](2023/lifecycle-modeling.md)
    + [Bonnes pratiques et optimisation MSI](2023/msi-best-practices.md)
    + [Canaux en ligne ou hors ligne](2023/online-offline.md)
+   + [Bonnes pratiques relatives à la gestion des programmes](2023/program-management.md)

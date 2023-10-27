@@ -1,6 +1,7 @@
 ---
 title: Bonnes pratiques et optimisation MSI
 description: Avez-vous entendu parler de Marketo Sales Insights ou de MSI ? Vous avez peut-être une licence mais ne savez pas ce que c'est ou comment l'utiliser. Lors de ce webinaire, Cynthia Chang, conseillère technique en automatisation du marketing de l’Adobe, et James Leece, conseiller technique client de Marketo, discutent de la manière d’assurer l’utilisation complète de l’outil et des bonnes pratiques pour la mise en oeuvre, le lancement et bien plus encore. Cynthia et James se penchent sur les fonctionnalités de MSI, notamment sur les moments intéressants et les meilleurs paris. Ils expliquent comment il s’intègre à Salesforce, la gestion des licences et les stratégies pour optimiser votre efficacité opérationnelle au sein des équipes de vente et de marketing. Nous terminons par une séance de questions-réponses en direct des participants.
+solution: Marketo
 feature-set: Marketo Engage
 feature: Marketo Sales Insights
 role: Admin, Leader, User
@@ -10,7 +11,7 @@ last-substantial-update: 2023-08-25T00:00:00Z
 jira: KT-13806
 thumbnail: KT-13806.jpeg
 exl-id: cfbd847f-4693-45f9-b9a1-f1b5db67a98b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
