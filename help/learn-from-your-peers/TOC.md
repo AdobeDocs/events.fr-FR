@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Collection d'enregistrements de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 3ae2f5392dbf58f63f9b2ef1dcaef6ff6f5134d4
+source-git-commit: 86b05faa7b00386ddb76930d9b3432b52a49d4a2
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '119'
 ht-degree: 19%
 
 ---
@@ -38,6 +38,8 @@ ht-degree: 19%
    + Mai {#may2023}
       + [Masquage du contenu et des fragments d’expérience](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + Novembre {#nov2023}
+      + [Marketo Engage et Dynamic Chat](marketo/nov2023/dynamic-chat.md)
    + Septembre {#sept2023}
       + [Amélioration de la délivrabilité des emails avec Marketo Engage](marketo/sept2023/email-deliverability.md)
    + Juin {#june2023}
