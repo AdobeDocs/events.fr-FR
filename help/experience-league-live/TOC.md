@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 9dcc4e29440db713e82718beca9d5cf08f9c1c94
+source-git-commit: 14a1df2b02b0eab4c86073c82627507106011a86
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '306'
 ht-degree: 7%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 7%
 
 + [Vue d’ensemble](overview.md)
 + Episodes {#episodes}
+   + [Ep. 30 : Compte à rebours jusqu’en 2024 avec les 5 premières nouvelles fonctionnalités d’Adobe Real-Time CDP](episodes/exl-live-episode-12-14-23.md)
    + [Ep. 29 : Tirez le meilleur parti de vos données d’événement comportemental dans Real-Time CDP et AJO](episodes/exl-live-episode-11-14-23.md)
    + [Ep. 28 : Workfront Release Deep Dive - New Workfront Home](episodes/exl-live-episode-10-26-23.md)
    + [Ep. 27 : API Triggered Messaging dans Adobe Journey Optimizer](episodes/exl-live-episode-8-23-23.md)
