@@ -3,7 +3,7 @@ user-guide-title: Événements Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Collection d’enregistrements de l’événement Adobe Developers Live Content
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+source-git-commit: 543ecb57f8864ef5fa052f61a01029496f45495e
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 9%
@@ -17,20 +17,20 @@ ht-degree: 9%
 + 2023 {#2023}
    + Novembre {#nov2023}
       + [Clé d’ouverture](2023/november/keynote.md)
-      + Edge Delivery Services
+      + Edge Delivery Services {#nov-edgedeliveryservices}
          + [Création d’un site web](2023/november/edge-breakout-1.md)
          + [Performances du site web](2023/november/edge-breakout-2.md)
          + [Déploiement client](2023/november/edge-breakout-3.md)
          + [Création basée sur des documents](2023/november/deep-dive.md)
-      +  Headless
+      +  Headless{#nov-headless}
          + [API sans affichage](2023/november/headless-breakout-1.md)
          + [Éditeur universel](2023/november/headless-breakout-2.md)
          + [Sources de données externes](2023/november/headless-breakout-3.md)
-      + Commerce
-         + [Services de catalogue](2023/novemnber/commerce-breakout-1.md)
-         + [Intégration avec Amazon Sales Channel](2023/novemnber/commerce-breakout-2.md)
-         + [Extensibilité pilotée par un événement](2023/novemnber/commerce-breakout-3.md)
-         + [Mesh de l’API](2023/novemnber/commerce-breakout-4.md)
+      + Commerce {#nov-commerce}
+         + [Services de catalogue](2023/november/commerce-breakout-1.md)
+         + [Intégration avec Amazon Sales Channel](2023/november/commerce-breakout-2.md)
+         + [Extensibilité pilotée par un événement](2023/november/commerce-breakout-3.md)
+         + [Mesh de l’API](2023/november/commerce-breakout-4.md)
    + Mai {#may2023}
       + [Clé d’ouverture](2023/may/keynote.md)
       + [Visite API](2023/may/new-apis.md)
