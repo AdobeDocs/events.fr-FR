@@ -7,10 +7,10 @@ type: Event
 mini-toc-levels: 2
 feature-set: Commerce
 event-series: Adobe Commerce Product Updates
-source-git-commit: 297506bdd6d1bb73335f8e4054f4aeb3b4c5d2d8
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
-source-wordcount: '29'
-ht-degree: 10%
+source-wordcount: '30'
+ht-degree: 13%
 
 ---
 
@@ -19,4 +19,5 @@ ht-degree: 10%
 
 + [Vue d’ensemble](overview.md)
 + 2023 {#2023}
+   + [Novembre 2023](2023/nov2023.md)
    + [Juillet 2023](2023/july2023.md)

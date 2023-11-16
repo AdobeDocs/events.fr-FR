@@ -3,10 +3,10 @@ title: Mises à jour du produit Adobe Commerce
 description: Les dernières innovations produit dans Adobe Commerce, présentées par l’équipe produit Adobe Commerce.
 user-guide-breadcrumb: Adobe Commerce Release Updates
 exl-id: 838b1ed9-eb45-4818-9a8e-807b557d0bce
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 16%
+source-wordcount: '88'
+ht-degree: 25%
 
 ---
 
@@ -19,8 +19,30 @@ Rejoignez le webinaire sur la mise à jour des produits Adobe Commerce pour déc
 <table style="max-width: 50%;">
   <tr>
     <td>
+      <a href="2023/nov2023.md">
+        <img alt="Version 2023.11.0" src="https://video.tv.adobe.com/v/3425732/?format=jpeg" />
+      </a>
+      <div>
+        <a href="2023/nov2023.md">
+          <strong>Novembre 2023</strong>
+          <br/>
+        </a>
+          <!-- <em>Release date June 2023 </em> -->
+      </div>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr">Notes de mise à jour</a>
+      <p>
+    </td>
+  </tr>  
+</table>
+
+## Mises à jour précédentes
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
       <a href="2023/july2023.md">
-        <img alt="Version 2023.6.0" src="https://video.tv.adobe.com/v/3422012?format=jpeg" />
+        <img alt="Version 2023.6.0" src="https://video.tv.adobe.com/v/3422012?format=jpeg" />
       </a>
       <div>
         <a href="2023/july2023.md">

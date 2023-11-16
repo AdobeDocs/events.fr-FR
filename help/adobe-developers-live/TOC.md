@@ -3,22 +3,38 @@ user-guide-title: Événements Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Collection d’enregistrements de l’événement Adobe Developers Live Content
 feature-set: Experience Manager, Experience Manager Sites, Experience Manager Assets, Experience Manager Cloud Manager, Experience Platform
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
 workflow-type: tm+mt
-source-wordcount: '663'
-ht-degree: 7%
+source-wordcount: '700'
+ht-degree: 9%
 
 ---
 
 
 # Événements Adobe Developers Live {#adobe-developers-live-recordings}
 
-+ [Présentation](overview.md)
++ [Vue d’ensemble](overview.md)
 + 2023 {#2023}
+   + Novembre {#nov2023}
+      + [Clé d’ouverture](2023/november/keynote.md)
+      + Edge Delivery Services
+         + [Création d’un site web](2023/november/edge-breakout-1.md)
+         + [Performances du site web](2023/november/edge-breakout-2.md)
+         + [Déploiement client](2023/november/edge-breakout-3.md)
+         + [Création basée sur des documents](2023/november/deep-dive.md)
+      +  Headless
+         + [API sans affichage](2023/november/headless-breakout-1.md)
+         + [Éditeur universel](2023/november/headless-breakout-2.md)
+         + [Sources de données externes](2023/november/headless-breakout-3.md)
+      + Commerce
+         + [Services de catalogue](2023/novemnber/commerce-breakout-1.md)
+         + [Intégration avec Amazon Sales Channel](2023/novemnber/commerce-breakout-2.md)
+         + [Extensibilité pilotée par un événement](2023/novemnber/commerce-breakout-3.md)
+         + [Mesh de l’API](2023/novemnber/commerce-breakout-4.md)
    + Mai {#may2023}
       + [Clé d’ouverture](2023/may/keynote.md)
       + [Visite API](2023/may/new-apis.md)
-      + [Explorez en détail les composants principaux d’AEM pour le courrier électronique et Forms](2023/may/core-components.md)
+      + [Explorez en détail les composants principaux d’AEM pour les courriers électroniques et Forms](2023/may/core-components.md)
       + [Incorporer le sélecteur de ressources](2023/may/asset-picker.md)
       + [Modification avec Microsoft 365/Google Workspace](2023/may/microsoft-365.md)
       + [Déploiements plus rapides](2023/may/workflows.md)
@@ -29,7 +45,7 @@ ht-degree: 7%
       + [Éditeur universel](2023/may/universal-editor.md)
 + 2022 {#2022}
    + Février - Commerce {#feb2022}
-      + [Présentation](2022/february/overview.md)
+      + [Vue d’ensemble](2022/february/overview.md)
       + [Clé d’ouverture](2022/february/opening-keynote.md)
       + [Santé et performances de votre plateforme Adobe Commerce](2022/february/visibility-health-performance.md)
       + [Simplification des mises à niveau et de l’outil de compatibilité de mise à niveau](2022/february/upgrades.md)
@@ -38,7 +54,7 @@ ht-degree: 7%
       + [Aperçu du kit d’outils d’un développeur de commerce](2022/february/developers-toolkit.md)
       + [Remarques de clôture](2022/february/closing-remarks.md)
    + Novembre - Sans tête {#nov2022}
-      + [Présentation](2022/november/overview.md)
+      + [Vue d’ensemble](2022/november/overview.md)
       + [Adobe Experience Manager en tant que CMS sans affichage](2022/november/headless-cms.md)
       + [AEM Rockstar Headless](2022/november/rockstar.md)
       + [Amener la création In-Context et sans affichage à votre application Next.JS](2022/november/next-js.md)
@@ -53,7 +69,7 @@ ht-degree: 7%
       + [Utilisation du générateur d’applications et du maillage d’API](2022/november/api-mesh.md)
 + 2021 {#2021}
    + Février - Contenu {#feb2021}
-      + [Présentation](2021/february/overview.md)
+      + [Vue d’ensemble](2021/february/overview.md)
       + [Adobe Client Data Layer (ACDL) ](2021/february/adobe-client-data-layer.md)
       + [SDK Adobe Experience Platform](2021/february/experience-platform-sdk-launch.md)
       + [Authentification de l’API avec Experience Manager Cloud Service](2021/february/api-authentication.md)
@@ -72,7 +88,7 @@ ht-degree: 7%
       + [Mises à jour du Experience Manager](2021/february/experience-manager-updates.md)
       + [Démonstration Experience Platform Launch](2021/february/experience-platform-launch-demo.md)
       + [Étendre l’Experience Cloud](2021/february/extend-experience-cloud.md)
-      + [Valeur rapide avec Experience Manager Sites](2021/february/time-to-value-aem-sites.md)
+      + [Délai de valeur rapide avec Experience Manager Sites](2021/february/time-to-value-aem-sites.md)
       + [GraphQL avec des fragments de contenu](2021/february/headless-graphql-content-fragments.md)
       + [HTTP - Démarrage](2021/february/http-how-started-going.md)
       + [Analyseurs de génération locaux](2021/february/local-build-analyzers.md)
@@ -84,7 +100,7 @@ ht-degree: 7%
       + [SPA Editor 2.0](2021/february/spa-editor-2-0.md)
       + [Transformer n’importe quel site en application web progressive](2021/february/any-site-into-pwa.md)
    + Octobre {#oct2021}
-      + [Présentation](2021/october/overview.md)
+      + [Vue d’ensemble](2021/october/overview.md)
       + [Clé d’ouverture](2021/october/keynote.md)
       + [Accélération de la transition vers Experience Manager CS](2021/october/accelerate-transistion.md)
       + [Adobe [!DNL Analytics] API que vous devez connaître en 2021](2021/october/analytics-api.md)
@@ -99,7 +115,7 @@ ht-degree: 7%
       + [Architecture du générateur d’applications et exploration approfondie technique](2021/october/app-builder-architecture.md)
       + [Automatiser la création et la manipulation de PDF à l’aide de l’API PDF Services](2021/october/automate-pdf-services-api.md)
       + [Bonnes pratiques pour le développement de scripts de composant](2021/october/component-script-development.md)
-      + [Création de modules externes de Creative Cloud](2021/october/cc-extensibility.md)
+      + [Création de modules externes Creative Cloud](2021/october/cc-extensibility.md)
       + [Consommer des événements Experience Manager](2021/october/consume-aem-events.md)
       + [Maintenance du contenu](2021/october/content-upkeep.md)
       + [Extensibilité native du cloud pour Experience Manager](2021/october/aem-cloud-native.md)
