@@ -2,8 +2,7 @@
 user-guide-title: Voix de gestion des données clients
 user-guide-breadcrumb: Customer Data Management Voices
 user-guide-description: Destination de gestion des données client pour le responsable et spécialiste des pratiques techniques et marketing
-feature-set: Experience Platform
-source-git-commit: 17070f55bae19ef0751a2c7c536af7758e31affc
+source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 21%
@@ -13,7 +12,7 @@ ht-degree: 21%
 
 # Voix de gestion des données clients {#customer-data-management-voices-recordings}
 
-+ [Présentation](overview.md)
++ [Vue d’ensemble](overview.md)
 + Blocs de création de la gestion des données client {#cdm}
    + [Rationalisation de votre premier fichier de gestion des données](cdm/first-mile.md)
    + [Sélection d’une plateforme de données client pour une réussite](cdm/cdp-success.md)
@@ -26,7 +25,7 @@ ht-degree: 21%
    + [Élever le rôle du marketeur en tant que responsable des données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
    + [Gouvernance et confidentialité des données du profil d’audience](governance/healthcare-shield.md)
 + Discussions sur le secteur {#industry}
-   + [Créer des expériences superbes avec vos données propriétaires](industry/build-superb-experiences-with-your-first-party-data.md)
+   + [Création d’expériences superbes avec vos données propriétaires](industry/build-superb-experiences-with-your-first-party-data.md)
    + [Collaboration en matière de données dans le contexte des données propriétaires](industry/data-collaboration-in-the-first-party-data-context.md)
    + [L’avenir de la gestion des données et les changements d’environnement](industry/the-future-of-data-management-and-the-changing-environment.md)
    + [A Tale of Two Perceptions - Brands vs. Consumers (Double perception - Marques contre Consommateurs)](industry/brands-vs-consumers.md)
