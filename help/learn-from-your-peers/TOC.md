@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Collection d'enregistrements de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
+source-git-commit: 4bb7c7746e39cd29c1f02c2b9797eaa609ba53c1
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 18%
+source-wordcount: '126'
+ht-degree: 19%
 
 ---
 
@@ -31,9 +31,10 @@ ht-degree: 18%
       + Mars {#mar2022}
          + [Affichage d’articles pertinents avec des données](analytics/mar2022/stories-with-data.md)
 + Experience Manager {#experience-manager}
+   + Novembre {#nov2023}
+      + [Excellence des développeurs avec les composants principaux AEM](experience-manager/sept2023/core-components.md)
    + Septembre {#sept2023}
       + [Exploration approfondie des outils pour AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
-      + [Excellence des développeurs avec les composants principaux AEM](experience-manager/sept2023/core-components.md)
    + Juillet {#july2023}
       + [Stratégies de sécurité efficaces en Cloud Service](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + Mai {#may2023}
