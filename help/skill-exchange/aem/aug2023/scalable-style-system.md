@@ -11,7 +11,8 @@ doc-type: Event
 last-substantial-update: 2023-10-27T00:00:00Z
 jira: KT-14150
 thumbnail: 3424019.jpeg
-source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
+exl-id: 4b420f9e-bf6d-469c-9b43-0a25151f46c5
+source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
