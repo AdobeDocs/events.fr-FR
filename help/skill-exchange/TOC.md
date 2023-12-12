@@ -3,7 +3,7 @@ user-guide-title: L’échange de compétences
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Collection d'enregistrements d'Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 9%
@@ -18,7 +18,7 @@ ht-degree: 9%
    + Août 2023 {#aug2023}
       + [À propos des segments](analytics/aug2023/spotlight-segments.md)
       + [Analyser les données](analytics/aug2023/analyze-the-data.md)
-      + [Formation de l’utilisateur de l’espace de travail informel](analytics/aug2023/spotlight.md)
+      + [Formation de l’utilisateur de l’espace de travail informel](analytics/aug2023/spotlight-workspace-user.md)
       + [Correction de votre navigation](analytics/aug2023/fix-navigation.md)
       + [Quatre sous-fonctionnalités utilisées](analytics/aug2023/data-analysis.md)
       + [Prise en main](analytics/aug2023/getting-started.md)
