@@ -8,9 +8,9 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231214.html
 event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
-source-git-commit: 0352149767e9366a1a125d3afbc632aa320b6f37
+source-git-commit: 9a3018b3e8ded0ded37a5c97f536db2eaa93416b
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 Découvrez comment les nouvelles fonctionnalités publiées en 2023 peuvent vous aider à activer les audiences plus efficacement pour une personnalisation impactée.
 
-[![ExL LIVE 14 décembre 2023](assets/Dec14_exl_live_banner_web_1920_WebBanner.png)](https://engage.adobe.com/ExpLeagueLive-231214.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
-**Cliquez sur l&#39;image ci-dessus pour vous inscrire au programme !**.
+**Regardez la relecture ci-dessus. Vous pouvez également poursuivre la discussion au sujet de cette session sur la [Discussions de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14)**.
 
 **Détails :**
 Êtes-vous actuellement praticien de Real-Time CDP et à la recherche d’informations sur les nouveautés du produit, les raisons de son importance et la manière dont l’Adobe peut vous aider à améliorer vos stratégies de gestion des données client ? Ne cherchez pas plus loin - vous êtes au bon endroit ! Dans cette série, nous allons approfondir ce qui a été récemment lancé dans Real-Time CDP afin que vous puissiez tirer parti des nouveautés et avoir un impact sur votre organisation.
@@ -41,6 +41,5 @@ Au cours de cette session, nous aborderons et présenterons cinq nouvelles fonct
 * Pouvoir commencer à exploiter ces nouvelles fonctionnalités dès aujourd’hui
 * Améliorez dès aujourd’hui vos efforts de personnalisation client !
 
-Comme toujours, cette session en direct permet de poser des questions dans la conversation et d&#39;obtenir les réponses des experts.
 
 
