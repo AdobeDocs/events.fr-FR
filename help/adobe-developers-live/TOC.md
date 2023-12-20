@@ -2,10 +2,10 @@
 user-guide-title: Événements Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Collection d’enregistrements de l’événement Adobe Developers Live Content
-source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
+source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
 workflow-type: tm+mt
-source-wordcount: '718'
-ht-degree: 8%
+source-wordcount: '777'
+ht-degree: 7%
 
 ---
 
@@ -14,26 +14,37 @@ ht-degree: 8%
 
 + [Vue d’ensemble](overview.md)
 + 2023 {#2023}
-   + Novembre {#nov2023}
+   + Novembre {#nov2023}
       + [Clé d’ouverture](2023/november/keynote.md)
+      + [Clé d’ouverture (APAC)](2023/november/keynote-apac.md)
+      + [Automatisation des workflows de contenu avec App Builder](2023/november/content-workflows.md)
+      + [Retour au développement et au déploiement des composants principaux](2023/november/component-development.md)
+      + [Diffusion de contenu omnicanal](2023/november/omnichannel.md)
       + Edge Delivery Services {#nov-edgedeliveryservices}
          + [Création d’un site web](2023/november/edge-breakout-1.md)
          + [Performances du site web](2023/november/edge-breakout-2.md)
          + [Déploiement client](2023/november/edge-breakout-3.md)
          + [Création basée sur des documents](2023/november/deep-dive.md)
-      +  Headless{#nov-headless}
+         + [Présentation technique des Edge Delivery Services](2023/november/edge-delivery-services-tech-overview.md)
+      + Découplé {#nov-headless}
          + [API sans affichage](2023/november/headless-breakout-1.md)
+         + [Présentation de l’éditeur universel](2023/november/intro-universal-editor.md)
+         + [Présentation de Forms sans affichage](2023/november/headless-forms.md)
          + [Éditeur universel](2023/november/headless-breakout-2.md)
          + [Sources de données externes](2023/november/headless-breakout-3.md)
       + Commerce {#nov-commerce}
          + [Adobe App Builder, E/S d’Adobe, webhooks et SDK de l’interface utilisateur d’administration](2023/november/app-builder-web-hooks-admin-ui-sdk.md)
          + [Mesh de l’API](2023/november/commerce-breakout-4.md)
          + [Services de catalogue](2023/november/commerce-breakout-1.md)
+         + [Diffuser les performances de Commerce par le biais de la plateforme](2023/november/commerce-performance.md)
          + [Extensibilité pilotée par un événement](2023/november/commerce-breakout-3.md)
+         + [L&#39;avenir du commerce](2023/november/future-of-commerce.md)
          + [Intégration avec Amazon Sales Channel](2023/november/commerce-breakout-2.md)
          + [Présentation d’Adobe Commerce](2023/november/intro-to-adobe-commerce.md)
          + [Service de recherche et de catalogue](2023/november/commerce-search-and-catalog-service.md)
-   + Mai {#may2023}
+         + [Stratégies pour optimiser les performances de votre site Commerce](2023/november/commerce-site-performance.md)
+         + [Suivi des modifications sur Adobe Commerce Cloud](2023/november/commerce-cloud-track-changes.md)
+   + Mai {#may2023}
       + [Clé d’ouverture](2023/may/keynote.md)
       + [Visite API](2023/may/new-apis.md)
       + [Explorez en détail les composants principaux d’AEM pour les courriers électroniques et Forms](2023/may/core-components.md)
@@ -72,8 +83,8 @@ ht-degree: 8%
 + 2021 {#2021}
    + Février - Contenu {#feb2021}
       + [Vue d’ensemble](2021/february/overview.md)
-      + [Adobe Client Data Layer (ACDL) ](2021/february/adobe-client-data-layer.md)
-      + [SDK Adobe Experience Platform](2021/february/experience-platform-sdk-launch.md)
+      + [Couche de données client Adobe](2021/february/adobe-client-data-layer.md)
+      + [SDK ADOBE EXPERIENCE PLATFORM](2021/february/experience-platform-sdk-launch.md)
       + [Authentification de l’API avec Experience Manager Cloud Service](2021/february/api-authentication.md)
       + [Ingestion en bloc de ressources](2021/february/asset-bulk-ingestion.md)
       + [Extensibilité du service Asset compute](2021/february/asset-compute-service-extensibility.md)
@@ -101,12 +112,12 @@ ht-degree: 8%
       + [Développement rapide des frontières](2021/february/rapid-frontend-devlopment.md)
       + [SPA Editor 2.0](2021/february/spa-editor-2-0.md)
       + [Transformer n’importe quel site en application web progressive](2021/february/any-site-into-pwa.md)
-   + Octobre {#oct2021}
+   + octobre {#oct2021}
       + [Vue d’ensemble](2021/october/overview.md)
       + [Clé d’ouverture](2021/october/keynote.md)
       + [Accélération de la transition vers Experience Manager CS](2021/october/accelerate-transistion.md)
       + [Adobe [!DNL Analytics] API que vous devez connaître en 2021](2021/october/analytics-api.md)
-      + [Adobe Client Data Layer (ACDL) ](2021/october/adobe-client-data-layer.md)
+      + [Couche de données client Adobe](2021/october/adobe-client-data-layer.md)
       + [Adobe Commerce et modèle de contribution de la communauté](2021/october/community-contribution-model.md)
       + [Résultats de la recherche en direct Adobe Commerce](2021/october/adobe-commerce-search.md)
       + [Adobe Exchange - marketplace pour les développeurs tiers](2021/october/app-builder-exchange.md)
