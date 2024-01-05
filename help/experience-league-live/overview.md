@@ -7,16 +7,16 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: 14a1df2b02b0eab4c86073c82627507106011a86
+source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 47%
+source-wordcount: '170'
+ht-degree: 44%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE est une émission produite par l’équipe d’Experience League et diffusée en direct.  Elle vous offre la possibilité d’entrer en contact avec des experts en produits Adobe et de découvrir des conseils pratiques, des astuces et des stratégies à mettre en pratique avec les applications Adobe Experience Cloud.
+Experience League LIVE est une émission produite par l’équipe d’Experience League et diffusée en direct.  Elle vous offre la possibilité d’entrer en contact avec des experts en produits Adobe et de découvrir des conseils pratiques, des astuces et des stratégies à mettre en pratique avec les applications Adobe Experience Cloud.
 
 <div id="upcoming-events">
 
@@ -24,15 +24,15 @@ Experience League LIVE est une émission produite par l’équipe d’Experien
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-14-23.md">
-      <img alt="Experience League LIVE Apr 21" src="episodes/assets/Dec14_exl_live_banner_web_1920_WebBanner.png">
+  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-17-24.md">
+      <img alt="Experience League LIVE Apr 21" src="episodes/assets/Jan17_2024_WebBanner.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-12-14-23.md">
-        <strong>Compte à rebours jusqu’en 2024 avec les 5 premières nouvelles fonctionnalités d’Adobe Real-Time CDP</strong>
+      <a href="episodes/exl-live-episode-01-17-24.md">
+        <strong>Intégration des données et analyses Adobe Analytics dans Customer Journey Analytics</strong>
       </a>
-      <br/><em>avec Doug Moore, Nina Caruso et Rudi Shumpert</em>
-      <br/><em>14 décembre 2023</em>
+      <br/><em>avec Doug Moore, Eric Matisoff et Bryan Skelton</em>
+      <br/><em>17 janvier 2024 à 10h00 (heure du Pacifique)</em>
     </div>
   </td>
 </tr>
