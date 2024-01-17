@@ -2,10 +2,10 @@
 user-guide-title: Événements Workfront
 breadcrumb-title: Événements Workfront
 user-guide-description: Événements Workfront
-source-git-commit: 0dc027b6c267c52b961b641d838571fc2d0a9fd6
+source-git-commit: 258dad6728f49c093121b6f7a8b49db5778d18fe
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -46,5 +46,6 @@ ht-degree: 0%
    + [Utilisation du BAT Workfront](user-groups/leveraging-workfront-proof.md)
 + Files d’attente des demandes et ingestion {#request-queues-and-intake}
    + [Files d’attente de requête et ingestion de Forms](user-groups/request-queues-and-intake-forms.md)
-+ Versions de 2024
-   + [Version 24.1](webinars/24-1-release-webinar.md)
++ Mises à jour {#releases}
+   + 2024 {#2024-releases}
+      + [Version 24.1](webinars/24-1-release-webinar.md)
