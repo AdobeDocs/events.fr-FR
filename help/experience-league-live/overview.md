@@ -7,10 +7,10 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
-source-git-commit: ba2c392cef2c5bd49eeaeb9241396c9b13389fdb
+source-git-commit: e4d280f98bf46b0f2c663e85bedd1fed4f85cafe
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 44%
+source-wordcount: '159'
+ht-degree: 47%
 
 ---
 
@@ -24,16 +24,8 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-17-24.md">
-      <img alt="Experience League LIVE Apr 21" src="episodes/assets/Jan17_2024_WebBanner.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-01-17-24.md">
-        <strong>Intégration des données et analyses Adobe Analytics dans Customer Journey Analytics</strong>
-      </a>
-      <br/><em>avec Doug Moore, Eric Matisoff et Bryan Skelton</em>
-      <br/><em>17 janvier 2024 à 10h00 (heure du Pacifique)</em>
-    </div>
+  <td style="vertical-align: top;">
+    Revenez à cette page bientôt pour obtenir des informations sur notre émission qui sera publiée le 8 février 2024 !
   </td>
 </tr>
 </table>
