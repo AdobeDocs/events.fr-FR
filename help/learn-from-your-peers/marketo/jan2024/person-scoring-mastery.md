@@ -9,9 +9,9 @@ duration: 2373
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: 06f787d8dd891e1afe3b8eda58c4790542a3a082
+source-git-commit: febc091c03cf8f11590de7dec9545e67b68e5eff
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,9 @@ Dans ce webinaire, vous apprendrez :
 
 ## Ressources partagées dans le webinaire
 
-* Webinaire de la communauté de la nation marketing - [Discussions](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864)
-&lt;— [Feuille de calcul] Score personne/chef avec exercice d’influence local : [LIEN À AJOUTER] —>
-* La grande liste des règles de score de piste - [Feuille de calcul](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf)
-* Bibliothèque d’importation des programmes Marketo Engage - [Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html)
-* Score de piste à connaître sur le processus avant, pendant et après - [Webinaire à la demande](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html)
-* La victoire des champions sur la notation - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849)
+* Webinaire de la communauté de la nation marketing - [Discussions](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
+* Score personne/chef avec exercice d’influence local : [Feuille de calcul](../../assets/marketo/[Worksheet]%20Build%20Scoring%20Model%20and%20Local%20Flexibility%20Scoring.docx){target="_blank"}
+* La grande liste des règles de score de piste - [Feuille de calcul](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
+* Bibliothèque d’importation des programmes Marketo Engage - [Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* Score de piste à connaître sur le processus avant, pendant et après - [Webinaire à la demande](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* La victoire des champions sur la notation - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
