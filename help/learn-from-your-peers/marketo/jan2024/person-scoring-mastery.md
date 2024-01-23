@@ -9,7 +9,7 @@ duration: 2373
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: febc091c03cf8f11590de7dec9545e67b68e5eff
+source-git-commit: 76114d714811f932ee6a30a4f0da77fedc9e136c
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Dans ce webinaire, vous apprendrez :
 ## Ressources partagées dans le webinaire
 
 * Webinaire de la communauté de la nation marketing - [Discussions](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
-* Score personne/chef avec exercice d’influence local : [Feuille de calcul](../../assets/marketo/[Worksheet]%20Build%20Scoring%20Model%20and%20Local%20Flexibility%20Scoring.docx){target="_blank"}
+* Score personne/chef avec exercice d’influence local : [Feuille de calcul](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * La grande liste des règles de score de piste - [Feuille de calcul](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
 * Bibliothèque d’importation des programmes Marketo Engage - [Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
 * Score de piste à connaître sur le processus avant, pendant et après - [Webinaire à la demande](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
