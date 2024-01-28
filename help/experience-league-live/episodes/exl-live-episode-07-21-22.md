@@ -9,14 +9,15 @@ event-cta-url: https://experienceleague.adobe.com/docs/experience-league-live-ev
 event-start-time: 2022-07-21 09:00-7
 event-guests: Rudi Shumpert, Jeff Chasin, Eric Matisoff
 exl-id: ab5121f7-3e92-48a7-8bcc-a4456a4eab6e
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3825
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
-# Demandez aux experts : Flux de données et préparation des données
+# Demandez aux experts : Enchères de données et préparation des données
 
 Au cours de cette session concernant la collecte de données pour Adobe Experience Cloud, nos experts vous donneront un aperçu plus détaillé des fonctionnalités avancées de collecte de données d’Adobe, y compris des fonctions telles que la préparation de données pour la collecte de données. À la fin de cette session, les participants auront confiance dans les dernières fonctionnalités puissantes de collecte de données issues d’expériences numériques.
 

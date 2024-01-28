@@ -1,11 +1,11 @@
 ---
 title: Diffusion de contenu géré vers vos applications natives
 description: Même si vous n’êtes pas en mesure de migrer complètement vers l’utilisation des technologies web et le développement multi-plateformes fourni par PhoneGap Enterprise, il est toujours possible d’exploiter la puissance d’AEM en ajoutant du contenu web directement dans vos applications natives existantes. Cette session présente en détail la manière dont le contenu créé avec les applications AEM peut ensuite être intégré à une application Android existante. Une fois intégré à l’application native, le contenu AEM peut être mis à jour sans qu’aucun autre développement natif ne soit nécessaire et il peut communiquer avec le reste de l’application native.
-uuid: debfe153-74e7-4e52-9fec-494e7ca6c780
 discoiquuid: 4e22b290-b352-4371-a734-fdbed3d25838
 targetaudience: target-audience advanced
 exl-id: cb343695-80ec-4781-92c2-5dba32e71a09
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2658
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 100%

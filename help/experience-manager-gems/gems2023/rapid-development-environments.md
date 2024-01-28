@@ -14,9 +14,10 @@ kt: 11797
 thumbnail: kt-11797.jpeg
 event-start-time: 2023-2-22 08:30-8
 exl-id: 365c9641-66f9-4e94-aa84-ad7c894959fe
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3387
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '235'
 ht-degree: 100%
 
 ---

@@ -7,7 +7,8 @@ kt: 11122
 thumbnail: 3409235.jpeg
 hidefromtoc: true
 exl-id: 53a4231c-a387-49b2-b79a-a8b8124ff0f2
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1800
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%

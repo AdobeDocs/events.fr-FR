@@ -8,7 +8,8 @@ topic: Personalization
 kt: 10948
 thumbnail: 346384.jpeg
 exl-id: 8bbd96e2-5a74-46a7-a622-b8f3f1a85e5f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2309
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

@@ -1,11 +1,11 @@
 ---
 title: Ask the Expert - Modern Work Governance for the Enterprise
 description: Découvrez comment développer le cadre de votre Centre d’excellence pour garantir le succès. Ce webinaire a été enregistré le 5 août 2020.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9915
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+duration: 3698
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

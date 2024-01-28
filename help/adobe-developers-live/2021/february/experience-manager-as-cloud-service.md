@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Manager as a Cloud Service
+title: Adobe Experience Manager as a Cloud Service
 description: Un coup d’oeil en coulisses pour partager des informations sur la stratégie et l’innovation autour de Adobe Experience Manager dans le cloud tout en décrivant les changements majeurs qui nous mènent à la situation actuelle. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
 solution: Experience Manager
 product: experience manager
@@ -12,14 +12,15 @@ kt: 7163
 type: Event
 thumbnail: 331278.jpg
 exl-id: f5ae88b3-d42c-4b40-9d70-e2dbb254e070
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 15
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 13%
+source-wordcount: '98'
+ht-degree: 14%
 
 ---
 
-# Adobe Experience Manager as a Cloud Service
+# Adobe Experience Manager as a Cloud Service
 
 Un coup d’oeil en coulisses pour partager des informations sur la stratégie et l’innovation autour de Adobe Experience Manager dans le cloud tout en décrivant les changements majeurs qui nous mènent à la situation actuelle.
 

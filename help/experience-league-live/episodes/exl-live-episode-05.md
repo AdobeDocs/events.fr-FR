@@ -7,11 +7,11 @@ solution: Experience Manager
 sub-product: Experience Manager Sites
 kt: 9397
 thumbnail: https://video.tv.adobe.com/v/338798?format=jpeg
-event-cta-url: null
 event-start-time: 2021-11-18 09:00-8
 event-guests: Danny Gordon,Shankari Panchapakesan,Gabriel Walt
 exl-id: 2760b900-44b0-49bc-9d63-39a459c338f1
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3869
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 29%

@@ -10,13 +10,14 @@ doc-type: Event
 last-substantial-update: 2023-11-27T00:00:00Z
 jira: KT-14562
 thumbnail: 3425794.jpeg
-source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
+exl-id: 57571a6c-9679-4c33-b791-d6f28841d63f
+duration: 2397
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
-
 
 # Guide du débutant pour les intégrations natives
 

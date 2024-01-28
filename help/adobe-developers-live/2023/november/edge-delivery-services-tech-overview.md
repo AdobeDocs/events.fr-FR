@@ -9,17 +9,17 @@ topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Event
-duration: 1635
+duration: 1645
 last-substantial-update: 2023-12-20T00:00:00Z
 jira: KT-14680
 thumbnail: 3426339.jpeg
-source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
+exl-id: 66a5edd2-a023-49ae-8cfa-edb6738d52ec
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 5%
 
 ---
-
 
 # Présentation technique des Edge Delivery Services
 

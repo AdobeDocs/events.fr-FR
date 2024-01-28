@@ -1,14 +1,14 @@
 ---
 title: Gestion de votre contenu à l’aide de l’éditeur de modèles d’Adobe Experience Manager
 description: Adobe Experience Manager 6.2 introduit un nouvel éditeur de modèles pour fournir de nouvelles méthodes puissantes pour créer, structurer et configurer des propriétés numériques. Explorez cette fonctionnalité du point de vue du super-auteur pour comprendre comment elle permet de composer différents modèles de page et de contrôler exactement ce que les auteurs de contenu sont autorisés à faire sur les pages correspondantes. Finalement, soulevez le capot pour tout comprendre de la mécanique interne.
-uuid: fd01fb68-9c5d-4cc3-b8f9-2e18a473734d
 discoiquuid: e6166640-d30b-4ba5-a7cb-c96a657229d0
 targetaudience: target-audience advanced
 exl-id: 0f447b26-e145-48ea-8b75-a9c03b047da9
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2962
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 78%
+source-wordcount: '263'
+ht-degree: 77%
 
 ---
 

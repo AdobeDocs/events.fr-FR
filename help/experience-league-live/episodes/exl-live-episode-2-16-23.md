@@ -9,7 +9,8 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230216.html
 event-start-time: 2023-02-16 14:00-8
 event-guests: Mark Szulc,Cedric Huesler
 exl-id: 533ee6bb-d3ba-4c2b-8018-f265adbdc9b0
-source-git-commit: af23ea73c76387f9e7be277227fd786d7ce9b02c
+duration: 2962
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%

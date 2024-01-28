@@ -10,13 +10,14 @@ doc-type: Event
 last-substantial-update: 2023-10-27T00:00:00Z
 jira: KT-14226
 thumbnail: 3425070.jpeg
-source-git-commit: f0a805efa9e6599df4aefa87f6de048bca9a5661
+exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
+duration: 3501
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
-
 
 # Marketo et Mochas - Bonnes pratiques de gestion de programme
 

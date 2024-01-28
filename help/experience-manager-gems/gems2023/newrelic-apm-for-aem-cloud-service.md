@@ -12,10 +12,11 @@ last-substantial-update: 2023-09-08T00:00:00Z
 jira: KT-13920
 thumbnail: KT-13920.jpeg
 exl-id: 874cb607-f622-4ef0-9835-13b640fe57f6
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3385
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 10%
+source-wordcount: '280'
+ht-degree: 9%
 
 ---
 

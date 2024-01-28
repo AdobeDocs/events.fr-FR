@@ -9,10 +9,11 @@ level: Experienced
 kt: 9140
 type: Event
 exl-id: 1ddec597-5475-41f8-9750-8c74f8f94884
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1591
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 22%
+source-wordcount: '129'
+ht-degree: 10%
 
 ---
 
@@ -24,6 +25,6 @@ Les expériences numériques sur le Web et sur mobile évoluent rapidement, tout
 
 ## Ressources supplémentaires
 
-- [Documentation Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr)
+- [Documentation Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr)
 - [Présentation d’Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=fr)
 - [Tutoriels Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=fr)

@@ -2,10 +2,11 @@
 title: Adobe [!DNL Campaign] Série Insider
 description: Conseils et astuces et inspiration pour l’Adobe [!DNL Campaign] les clients peuvent contribuer à l’évolution des stratégies marketing cross-canal, à l’amélioration des compétences des professionnels du marketing en équipe et à l’aide des entreprises à lancer des stratégies marketing cross-canal plus avancées.
 exl-id: 414b8d81-ff05-47ed-b572-fb655d3dd231
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 36
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 5%
+ht-degree: 0%
 
 ---
 
@@ -35,7 +36,7 @@ Conseils et astuces et inspiration pour l’Adobe [!DNL Campaign] les clients pe
       <img alt="Adobe [!DNL Campaign] intégrations à un écosystème marketing" src="assets/integrations.png"/>
       </a>
       <div>
-         <a href="./2022/integrations.md"><strong>[!DNL Campaign]Intégrations d’Adobe à un écosystème marketing</strong></a>
+         <a href="./2022/integrations.md"><strong>Adobe [!DNL Campaign] intégrations à un écosystème marketing</strong></a>
          <br/>
       </div>
    </td>

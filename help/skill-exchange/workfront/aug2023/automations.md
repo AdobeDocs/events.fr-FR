@@ -9,13 +9,14 @@ doc-type: Event
 last-substantial-update: 2023-11-27T00:00:00Z
 jira: KT-14573
 thumbnail: 3425812.jpeg
-source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
+exl-id: 9c0ebb6b-ec36-4ff2-af03-2cc9f6e7ca91
+duration: 2581
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
-
 
 # Automatisations pilotées par les objectifs
 

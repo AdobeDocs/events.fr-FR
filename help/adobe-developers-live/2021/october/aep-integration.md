@@ -9,10 +9,11 @@ level: Experienced
 kt: 9222
 type: Event
 exl-id: d1e9a0ba-e446-44ad-a137-4bbfbc7f9100
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2578
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 31%
+source-wordcount: '87'
+ht-degree: 14%
 
 ---
 
@@ -25,6 +26,6 @@ Cette session vous donnera une vue d’ensemble des différentes façons dont Ad
 
 ## Ressources supplémentaires
 
-- [Documentation Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr)
+- [Documentation Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr)
 - [Présentation d’Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=fr)
 - [Tutoriels Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=fr)

@@ -9,7 +9,8 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230720.html
 event-start-time: 2023-07-20 09:00-7
 event-guests: Aaron Shields,Kim Whatcott,Andres Monroy
 exl-id: 175fb0a1-a283-46fd-8fbf-25ba83014eab
-source-git-commit: af23ea73c76387f9e7be277227fd786d7ce9b02c
+duration: 3740
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%

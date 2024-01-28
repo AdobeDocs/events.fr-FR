@@ -8,7 +8,8 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231214.html
 event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
-source-git-commit: 9a3018b3e8ded0ded37a5c97f536db2eaa93416b
+duration: 3701
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%

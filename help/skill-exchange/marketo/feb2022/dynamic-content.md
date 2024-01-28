@@ -7,10 +7,11 @@ level: Beginner
 kt: 9766
 thumbnail: 340597.jpeg
 exl-id: f96fb348-ff59-4dac-ad7d-048a2ba96afc
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2343
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -18,7 +19,7 @@ ht-degree: 2%
 
 Au cours de cette session, apprenez à tirer parti du contenu dynamique pour envoyer du contenu plus ciblé et pertinent à votre base de données.
 
-**Points clés**
+**Principales mesures à prendre**
 
 * Rationalisez votre [!DNL Marketo Engage] création de programmes et gain de temps grâce à l’utilisation du contenu dynamique
 * Découvrez comment segmenter votre base de données pour alimenter votre contenu dynamique

@@ -7,13 +7,14 @@ doc-type: Event
 last-substantial-update: 2023-11-30T00:00:00Z
 jira: KT-14610
 thumbnail: 3425894.jpeg
-source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
+exl-id: 6d840275-3f12-4480-b442-93b0a4dab153
+duration: 694
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
-
 
 # Clé d’ouverture Workfront d’août 2023
 

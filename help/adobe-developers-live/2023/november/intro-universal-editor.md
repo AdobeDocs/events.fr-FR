@@ -8,17 +8,17 @@ topic: Development, Headless
 role: Developer, User
 level: Beginner, Intermediate
 doc-type: Event
-duration: 1831
+duration: 1848
 last-substantial-update: 2023-12-20T00:00:00Z
 jira: KT-14682
 thumbnail: 3426341.jpeg
-source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
+exl-id: 68d1e4bc-7f1a-40af-82bd-eb9b8f12ae44
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Présentation d’AEM Universal Editor
 

@@ -8,7 +8,8 @@ level: Beginner
 kt: 10710
 thumbnail: 347334.jpeg
 exl-id: 920ad08d-5005-4275-9ba8-8eeb979b4e2c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2483
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%

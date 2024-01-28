@@ -12,13 +12,14 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14420
 thumbnail: 3425622.jpeg
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+exl-id: c9f694de-d684-43ec-a5ae-570d738b4bb0
+duration: 2881
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
-
 
 # Présentation approfondie de la diffusion Edge Adobe Developers Live et de la création basée sur les documents - Novembre 2023
 

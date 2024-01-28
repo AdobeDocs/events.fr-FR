@@ -8,10 +8,11 @@ level: Experienced
 kt: 9199
 type: Event
 exl-id: 516ea10a-8783-4ddf-bed1-2415b38177cb
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1989
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 21%
+source-wordcount: '131'
+ht-degree: 9%
 
 ---
 
@@ -25,6 +26,6 @@ Rejoignez-nous pour obtenir des exemples et des démonstrations afin de voir à 
 
 ## Ressources supplémentaires
 
-- [Documentation Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr)
+- [Documentation Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr)
 - [Présentation d’Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=fr)
 - [Tutoriels Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=fr)

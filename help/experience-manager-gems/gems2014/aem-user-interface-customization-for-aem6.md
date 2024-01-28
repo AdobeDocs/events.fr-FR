@@ -1,14 +1,14 @@
 ---
 title: Personnalisation de l’interface utilisateur pour AEM 6
 description: Découvrez comment optimiser l’interface utilisateur d’AEM 6.0. Grâce à la nouvelle fusion de ressources, il est possible de modifier chaque console d’administration par le biais d’un recouvrement pour modifier, supprimer ou ajouter n’importe quel nœud ou n’importe quelle propriété.
-uuid: 2937bc6f-9ae8-4acf-a965-a16ef6e56a16
 discoiquuid: b1c4e69a-bc0e-445c-8e3e-c03ead18e76e
 targetaudience: target-audience advanced
 exl-id: c73a94ba-a21b-4dd4-90e1-334b91616a46
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3601
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 83%
+source-wordcount: '165'
+ht-degree: 97%
 
 ---
 

@@ -5,17 +5,17 @@ solution: Data Collection,Experience Platform
 kt: 10528
 thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
-event-cta-url: null
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
-source-git-commit: 3d2289642f4164bf82dc1c8a42c5798e9183188b
+duration: 3833
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
 
-# Demandez aux experts : Extensions utiles dans les balises (Launch) pour augmenter la charge du SDK Web
+# Demandez aux experts : Extensions utiles dans les balises (Launch) pour aider à surcharger le SDK Web
 
 Pensez-vous à migrer votre mise en oeuvre vers le nouveau SDK Web Adobe ?  Nous allons parcourir certaines de nos extensions préférées dans la bibliothèque de balises d’Adobe qui vous aideront à passer votre collecte de données au niveau suivant.
 
@@ -36,7 +36,7 @@ Pensez-vous à migrer votre mise en oeuvre vers le nouveau SDK Web Adobe ?  Nous
 
 **Réponse :** L’ECID d’Adobe n’est pas capturé dans cette extension. Cette extension est destinée à créer des identifiants anonymes supplémentaires (entre autres).
 
-**Réponse :** L’Adobe ECID peut être capturé de différentes manières. Nous le partagerons via les Notes ExL et Twitter car nous ne pouvons pas partager les liens dans la conversation ici.
+**Réponse :** L’Adobe ECID peut être capturé de différentes manières. Nous le partagerons via les notes ExL et le Twitter car nous ne pouvons pas partager les liens du chat ici.
 
 <br> 
 
@@ -84,7 +84,7 @@ Pensez-vous à migrer votre mise en oeuvre vers le nouveau SDK Web Adobe ?  Nous
 
 <br> 
 
-**Commentaire :** Appel rapide pour l’une de mes extensions préférées : Il existe une extension de table de mappage où vous pouvez lire un tableau pour un élément de données qui &quot;si cette valeur est définie comme telle, définissez-le comme tel.&quot;
+**Commentaire :** Appel rapide pour l’une de mes extensions préférées : il existe une extension de table de mappage où vous pouvez lire un tableau pour un élément de données qui &quot;si cette valeur est alors défini comme cela&quot;.
 
 **Répondre :** La flexibilité qu&#39;ils offrent est impressionnante. Notez également que les entreprises peuvent également créer leurs propres extensions privées si elles le souhaitent.
 

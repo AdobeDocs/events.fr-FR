@@ -11,13 +11,14 @@ doc-type: Event
 last-substantial-update: 2023-10-27T00:00:00Z
 jira: KT-14143
 thumbnail: 3424012.jpeg
-source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
+exl-id: 2ab8f8c7-bb0b-47cc-ac35-ebd3ff767c17
+duration: 2018
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
-
 
 # Evénement d&#39;échange de compétences Août 2022 - Suivi web AEM - Prise en main d&#39;AEM Assets
 

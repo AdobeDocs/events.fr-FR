@@ -1,5 +1,5 @@
 ---
-title: A Tale of Two Perceptions - Brands vs. Consumers (Double perception - Marques contre Consommateurs)
+title: 'Un tableau de deux perceptions : les marques et les consommateurs'
 description: Adobe décompresse le niveau de compréhension et de préparation des publicitaires et des éditeurs pour un avenir sans cookie, l’impact sur leurs cas d’utilisation et leur perception de l’écosystème au sens large.
 solution: Real-Time Customer Data Platform
 feature: Identities
@@ -10,10 +10,11 @@ thumbnail: 332060.jpg
 kt: 7335
 type: Event
 exl-id: 9736dd6f-ff33-41b5-80d6-1bb981bfc0b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2404
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 16%
+source-wordcount: '128'
+ht-degree: 10%
 
 ---
 

@@ -10,13 +10,14 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14429
 thumbnail: 3425633.jpeg
-source-git-commit: 97266ccd0a43b20448a5546b92f590f547058907
+exl-id: 8a13c750-9d74-4b79-b406-47625377a722
+duration: 1663
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Developers Live Commerce Breakout 3 - Novembre 2023
 

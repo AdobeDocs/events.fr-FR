@@ -6,17 +6,17 @@ topic: Development
 role: Admin, Developer
 level: Beginner
 doc-type: Event
-duration: 5306
+duration: 5319
 last-substantial-update: 2023-12-20T00:00:00Z
 jira: KT-14683
 thumbnail: 3426342.jpeg
-source-git-commit: ee582f1bc2ff95cb8292b149e76641c8b5229f7b
+exl-id: 3b9e92ad-e16d-40fa-9b05-804201328137
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
-
 
 # Clé d’ouverture Adobe Developers Live (APAC) - Novembre 2023
 

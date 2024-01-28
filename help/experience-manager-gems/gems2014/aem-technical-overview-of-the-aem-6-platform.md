@@ -1,14 +1,14 @@
 ---
 title: Présentation technique de la plateforme AEM 6
 description: Au cours de cette session, Peter Klassen, chef de produit, se penche sur le nouveau référentiel JCR, sur certaines améliorations de ses performances et sur de nouvelles options d’évolutivité.
-uuid: 53be1e40-6fe9-44b5-a015-ba7ad7801d7c
 discoiquuid: f4f6e2b0-7910-4d1d-a024-583ef17ffcda
 targetaudience: target-audience advanced
 exl-id: 505430d5-0d85-423d-83f5-59eb4deff427
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4329
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 83%
+source-wordcount: '117'
+ht-degree: 97%
 
 ---
 

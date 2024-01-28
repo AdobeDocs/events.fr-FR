@@ -1,13 +1,13 @@
 ---
 title: Utilisation d’OSGi R7 dans AEM
 description: La version OSGi R7 représente de nombreux et importants changements en termes de fonctionnalités et de capacités et offre une approche ouverte et normalisée pour un certain nombre de technologies modernes, utiles et simples à utiliser, importantes pour les développeurs Java.
-uuid: a173cd38-d646-4748-b8d0-8a726f1c3be8
 discoiquuid: da05c4fb-e8b7-4f01-b588-dea904eaddf9
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: 35368abf-05fb-44ff-b40e-ef4f236a327d
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2785
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '163'
 ht-degree: 100%
 
 ---

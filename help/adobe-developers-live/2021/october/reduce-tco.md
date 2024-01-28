@@ -8,10 +8,11 @@ level: Experienced
 kt: 9198
 type: Event
 exl-id: f7407854-aa76-4006-b4fd-b271e52e63aa
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1695
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 15%
+source-wordcount: '197'
+ht-degree: 6%
 
 ---
 
@@ -23,6 +24,6 @@ La mise à jour de votre plateforme Adobe Commerce est essentielle pour la maint
 
 ## Ressources supplémentaires
 
-- [Documentation Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr)
+- [Documentation Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr)
 - [Présentation d’Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=fr)
 - [Tutoriels Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=fr)

@@ -2,7 +2,8 @@
 title: Commerce et café
 description: La série Adobe Commerce and Coffee (et café) est axée sur les stratégies et tactiques commerciales, soutenues par des statistiques reflétant le sujet de l’événement.
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 81
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%

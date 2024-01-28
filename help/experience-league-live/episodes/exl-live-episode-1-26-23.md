@@ -9,7 +9,8 @@ event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-230126.html
 event-start-time: 2023-01-26 09:00-8
 event-guests: Rudi Shumpert,Mitch Rice,Doug Moore
 exl-id: f2552b21-3b1e-4538-bfe4-a37f4225c4d0
-source-git-commit: af23ea73c76387f9e7be277227fd786d7ce9b02c
+duration: 3909
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 17%

@@ -9,7 +9,8 @@ jira: KT-13564
 thumbnail: 3421021.jpeg
 event-start-time: 2023-6-30 08:30-8
 exl-id: 531d690e-8bb1-49eb-aafa-bc5db88baea7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3444
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%

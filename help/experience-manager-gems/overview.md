@@ -11,10 +11,11 @@ level: Intermediate
 type: Event
 user-guide-description: Sessions AEM Gems
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 89
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 83%
+source-wordcount: '288'
+ht-degree: 82%
 
 ---
 

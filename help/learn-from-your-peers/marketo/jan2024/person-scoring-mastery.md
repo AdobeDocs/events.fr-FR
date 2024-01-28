@@ -5,11 +5,11 @@ feature: Person Scoring
 role: Admin
 level: Intermediate
 doc-type: Event
-duration: 2373
+duration: 2428
 last-substantial-update: 2024-01-22T00:00:00Z
 jira: KT-14816
 thumbnail: 3426914.jpeg
-source-git-commit: c2801af2ad596fca76eb920a4fce06811124f359
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%

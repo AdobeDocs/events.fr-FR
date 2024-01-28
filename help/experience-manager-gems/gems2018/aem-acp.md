@@ -1,13 +1,13 @@
 ---
 title: Adobe Experience Platform – Le cœur d’Experience Cloud
 description: Tout commence avec Adobe Experience Platform. Découvrez la manière dont cette plateforme joue un rôle sur le marché de l’expérience, et identifiez, comprenez et impliquez vos clients pour leur offrir des expériences homogènes, continues et attrayantes qui les raviront à tout moment.
-uuid: 502196b9-9cfb-4652-83a4-9156434370a1
 discoiquuid: 6e050ad4-1b0c-46d0-b588-6402102f0263
 targetaudience: target-audience advanced
 exl-id: fcea7000-dbd2-47d3-af68-0a210901efa4
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2975
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '215'
 ht-degree: 100%
 
 ---

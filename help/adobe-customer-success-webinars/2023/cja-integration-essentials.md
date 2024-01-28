@@ -11,13 +11,14 @@ doc-type: Event
 last-substantial-update: 2023-11-08T00:00:00Z
 jira: KT-14353
 thumbnail: 3425521.jpeg
-source-git-commit: 900cc9e1d3b0f0ab268d4ad864f7c663018cf833
+exl-id: 5be2852e-ee52-4f1e-95f2-6cd3ca62a57c
+duration: 3236
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
-
 
 # Notions fondamentales sur l’intégration des Customer Journey Analytics
 

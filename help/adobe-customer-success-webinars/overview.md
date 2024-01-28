@@ -2,7 +2,8 @@
 title: Adobe de webinaires sur le succès client
 description: Adobe de webinaires axés sur le succès client, conçus pour vous permettre d’optimiser votre investissement dans l’Experience Cloud d’Adobe. Obtenez des informations précieuses pour maximiser la valeur et augmenter l’adoption de solutions d’Adobe.
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 42
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%

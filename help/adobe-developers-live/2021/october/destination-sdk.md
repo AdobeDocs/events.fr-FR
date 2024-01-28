@@ -9,10 +9,11 @@ level: Experienced
 kt: 9146
 type: Event
 exl-id: 23cc8860-c1e3-4e9a-96ff-8d3c39de749e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1582
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 21%
+source-wordcount: '137'
+ht-degree: 9%
 
 ---
 
@@ -25,6 +26,6 @@ Au cours de cette session, nous vous présenterons Destination SDK, une nouvelle
 
 ## Ressources supplémentaires
 
-- [Documentation Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr)
+- [Documentation Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr)
 - [Présentation d’Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=fr)
 - [Tutoriels Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=fr)

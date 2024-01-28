@@ -1,15 +1,15 @@
 ---
 title: Demander à l’expert - Mesurer la vitesse
 description: Découvrez comment mesurer et suivre la vitesse à l’aide de [!DNL Workfront] création de rapports. Cet atelier a été enregistré le 14 août 2019.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
 last-substantial-update: 2023-08-15T00:00:00Z
 exl-id: 83053de2-e386-4243-a9c8-a2ad9d51790f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4630
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '3958'
+source-wordcount: '3967'
 ht-degree: 1%
 
 ---
@@ -108,7 +108,7 @@ Voici la procédure à suivre :
 1. Cliquez sur le bouton Modifier situé au-dessus de la liste des rapports.
 1. Définir le type de condition sur Manuel
 1. Définissez le champ Condition sur En problème .
-1. Cliquez sur Enregistrer les modifications
+1. Cliquez sur Enregistrer les modifications .
 
 
 **Question**
@@ -473,4 +473,4 @@ En tant que planificateur, pouvez-vous extraire des rapports pour d’autres uti
 
 **Réponse**
 
-Un planificateur peut créer des rapports et les partager avec n’importe quel utilisateur, même avec des personnes qui ne sont pas des utilisateurs. Lors de l’affichage du rapport, accédez à Actions de rapport > Partage, puis cliquez sur l’icône en forme d’engrenage en haut à droite de la zone Accès aux rapports . Sélectionnez &quot;Rendre ceci public aux utilisateurs externes&quot;. option. Vous pouvez copier le lien fourni et l’envoyer à n’importe qui. Le rapport s’affichera en temps réel dans leur navigateur.
+Un planificateur peut créer des rapports et les partager avec n’importe quel utilisateur, même avec des personnes qui ne sont pas des utilisateurs. Lors de l’affichage du rapport, accédez à Actions de rapport > Partage, puis cliquez sur l’icône en forme d’engrenage en haut à droite de la zone Accès aux rapports . Sélectionnez &quot;Rendre ceci public aux utilisateurs externes&quot;. . Vous pouvez copier le lien fourni et l’envoyer à n’importe qui. Le rapport s’affichera en temps réel dans leur navigateur.

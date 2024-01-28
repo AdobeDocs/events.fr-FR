@@ -11,13 +11,14 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14426
 thumbnail: 3425626.jpeg
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+exl-id: ab6122f0-91d6-4aee-84fa-95f8c3610cfe
+duration: 1820
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # Ventilation sans affichage Adobe Developers Live 3 - Novembre 2023
 

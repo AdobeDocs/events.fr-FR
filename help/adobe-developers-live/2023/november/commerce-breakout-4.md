@@ -10,13 +10,14 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14430
 thumbnail: 3425628.jpeg
-source-git-commit: 97266ccd0a43b20448a5546b92f590f547058907
+exl-id: 895a6a45-381f-4653-9957-0f127fc529e1
+duration: 1909
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # Ventilation commerciale de Adobe Developers Live 4 - Novembre 2023
 

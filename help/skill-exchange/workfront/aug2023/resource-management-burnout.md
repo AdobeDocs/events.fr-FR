@@ -9,13 +9,14 @@ doc-type: Event
 last-substantial-update: 2023-11-27T00:00:00Z
 jira: KT-14572
 thumbnail: 3425811.jpeg
-source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
+exl-id: 84de9fed-07db-4c67-829a-dd770a710922
+duration: 2301
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Gestion des ressources : comment gérer la charge
 

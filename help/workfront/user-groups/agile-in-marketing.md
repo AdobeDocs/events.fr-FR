@@ -6,10 +6,11 @@ level: Intermediate
 kt: 9989
 thumbnail: 341224.jpeg
 exl-id: bd7f1007-dff2-4966-b1cc-ed358ceb2366
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2456
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 9%
+source-wordcount: '37'
+ht-degree: 13%
 
 ---
 

@@ -12,10 +12,11 @@ last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
 exl-id: 9af6a4e5-d090-4c49-a972-6a3d164b8315
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3332
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 12%
+source-wordcount: '348'
+ht-degree: 11%
 
 ---
 

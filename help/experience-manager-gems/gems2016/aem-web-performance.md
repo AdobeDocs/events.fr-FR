@@ -1,14 +1,14 @@
 ---
 title: Performances web AEM
 description: Diffuser rapidement des expériences web complexes est un art. Dans cette conférence, Joel mettra en lumière certains des écueils les plus courants. Cette session comprendra des théories, des exemples, des bonnes pratiques ainsi que des démonstrations d’outils.
-uuid: f6338645-e05f-4b57-b576-65645d9220ed
 discoiquuid: cad28317-da2a-4aa0-a7f1-549f19ca4de1
 targetaudience: target-audience advanced
 exl-id: dfb6708b-0b2e-4ee1-8983-014d1f3bc708
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3831
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 76%
+source-wordcount: '184'
+ht-degree: 75%
 
 ---
 
@@ -34,21 +34,21 @@ Diffuser rapidement des expériences web complexes est un art. Dans cette confé
 >
 >AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
 
-Apache:\
+Apache :\
 [https://httpd.apache.org/docs/trunk/mod/mod_http2.html](https://httpd.apache.org/docs/trunk/mod/mod_http2.html)
 
 Normes web :\
 [https://www.w3.org/TR/preload/](https://www.w3.org/TR/preload/)\
 [https://www.w3.org/TR/resource-hints/](https://www.w3.org/TR/resource-hints/)
 
-AEM:\
+AEM :\
 [https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/configuring/configuring-performance.html)
 
 Composants AEM :\
 [https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components](https://github.com/Adobe-Marketing-Cloud/aem-core-wcm-components)\
 [https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html](https://adobe-consulting-services.github.io/acs-aem-commons/features/named-image-transform.html)
 
-Troisième niveau:\
+Tiers :\
 [https://www.ampproject.org/docs/reference/amp-img.html](https://www.ampproject.org/docs/reference/amp-img.html)\
 [https://www.appelsiini.net/projects/lazyload](https://www.appelsiini.net/projects/lazyload)
 

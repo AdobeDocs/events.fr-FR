@@ -9,13 +9,14 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14419
 thumbnail: 3425637.jpeg
-source-git-commit: ee784fa4421919f0af180a36eca30644d27de7a1
+exl-id: c69e338a-fb6e-4bcc-bd8e-6aaea33e1837
+duration: 3691
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
-
 
 # Clé d’ouverture Adobe Developers Live - Novembre 2023
 

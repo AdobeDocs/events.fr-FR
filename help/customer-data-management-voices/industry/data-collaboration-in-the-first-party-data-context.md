@@ -1,5 +1,5 @@
 ---
-title: Collaboration en matière de données dans le contexte des données propriétaires
+title: Collaboration des données dans le contexte des données propriétaires
 description: Ce webinaire contribuera à libérer les opportunités de collaboration des données dans un avenir sans cookies tiers.
 solution: Real-Time Customer Data Platform
 feature: Data Management
@@ -9,20 +9,21 @@ type: Event
 thumbnail: 337665.jpg
 kt: 9145
 exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2560
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 33%
+source-wordcount: '118'
+ht-degree: 19%
 
 ---
 
-# Collaboration en matière de données dans le contexte des données propriétaires
+# Collaboration des données dans le contexte des données propriétaires
 
 Tenez votre engagement en matière dʼexpérience, avec un accès à moins de données. Que vous soyez annonceur, éditeur ou agence, ce webinaire vous aidera à libérer les opportunités de collaboration en matière de données dans un avenir sans cookies tiers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337665/?quality=12&learn=on)
 
-## Points clés:
+## Points à retenir :
 
 * Comment incorporer des modèles de collaboration de données dans le contexte de données propriétaires, avec le consentement des consommateurs.
 * Création de partenariats de marque à marque et de direction d’éditeur qui offrent la promesse d’expérience.

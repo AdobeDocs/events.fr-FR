@@ -9,9 +9,10 @@ kt: 11764
 thumbnail: 3413506.jpeg
 event-start-time: 2023-1-24 08:30-8
 exl-id: 6f3b1c89-0176-4495-8e28-c265da3581d5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3493
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---

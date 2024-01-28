@@ -11,9 +11,10 @@ level: Intermediate
 kt: 11630
 event-start-time: 2023-1-18 08:30-8
 exl-id: 9e952d3a-aec8-41f7-a9bc-19e187276af0
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3896
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 100%
 
 ---

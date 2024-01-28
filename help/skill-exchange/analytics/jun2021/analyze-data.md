@@ -10,7 +10,8 @@ doc-type: Event
 kt: 10318
 thumbnail: 342528.jpeg
 exl-id: ae642fee-4daa-42de-988d-4d6c0070701a
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1845
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%

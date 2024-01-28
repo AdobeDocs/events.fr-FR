@@ -9,13 +9,14 @@ doc-type: Event
 last-substantial-update: 2023-11-27T00:00:00Z
 jira: KT-14560
 thumbnail: 3425791.jpeg
-source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
+exl-id: 2e7a541a-e98f-4d0b-bfa1-cb5d929dedfa
+duration: 2314
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
-
 
 # Présentation des panoramas
 

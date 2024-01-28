@@ -1,13 +1,13 @@
 ---
 title: Paramètres et configuration de Dynamic Media AEM
 description: Dynamic Media AEM permet aux clients de diffuser des expériences multimédias enrichies attrayantes, de manière évolutive et économique, sur tous les écrans et points de contact clients, le tout à partir d’une seule image principale ou d’une seule vidéo.  Au cours de cette session, nous vous fournirons tout ce que vous devez savoir pour réussir l’implémentation des clients sur Dynamic Media, notamment une vue d’ensemble des cas d’utilisation, de l’architecture technique et des étapes de configuration.
-uuid: 7074c98e-f9d1-4c15-b9db-dae3efda0ea0
 discoiquuid: c58473c1-d8d8-44a7-ac40-65843c77c937
 targetaudience: target-audience advanced
 exl-id: 93ae20fb-d6fe-4275-9692-93c25edba0ef
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3537
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '162'
 ht-degree: 100%
 
 ---

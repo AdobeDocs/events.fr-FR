@@ -13,13 +13,14 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14422
 thumbnail: 3425625.jpeg
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+exl-id: b0f8768d-acf4-4e89-a6c7-cb9526cbd664
+duration: 2123
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Developers Live Edge Delivery Services Breakout 2 - Novembre 2023
 

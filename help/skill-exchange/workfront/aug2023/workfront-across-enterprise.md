@@ -10,13 +10,14 @@ doc-type: Event
 last-substantial-update: 2023-11-27T00:00:00Z
 jira: KT-14571
 thumbnail: 3425810.jpeg
-source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
+exl-id: 883e61bf-ac20-445a-ba8d-387eec647743
+duration: 2127
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # Atteindre Workfront dans toute l’entreprise
 

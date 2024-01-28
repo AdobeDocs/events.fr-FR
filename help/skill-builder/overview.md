@@ -2,10 +2,11 @@
 title: Présentation de Skill Builder
 description: Série de webinaires enregistrés pour créer votre base de connaissances et optimiser votre investissement dans Adobe Experience Cloud.
 exl-id: 48b7a0ea-2fcf-4387-8f9e-0405d59acd7f
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 48
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 3%
+source-wordcount: '141'
+ht-degree: 4%
 
 ---
 

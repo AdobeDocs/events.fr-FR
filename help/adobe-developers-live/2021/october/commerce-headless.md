@@ -8,10 +8,11 @@ level: Experienced
 kt: 9200
 type: Event
 exl-id: 82229f38-cd4d-4595-b348-168f9c6109c7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 1718
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 14%
+source-wordcount: '207'
+ht-degree: 6%
 
 ---
 
@@ -23,6 +24,6 @@ Adobe Commerce Cloud est utilisée comme plateforme de commerce électronique po
 
 ## Ressources supplémentaires
 
-- [Documentation Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr)
+- [Documentation Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform.html?lang=fr)
 - [Présentation d’Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=fr)
 - [Tutoriels Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=fr)

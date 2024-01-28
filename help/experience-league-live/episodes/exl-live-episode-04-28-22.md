@@ -1,21 +1,21 @@
 ---
-title: Comment gérer toutes ces audiences ?
+title: Comment gérer toutes ces audiences ?
 description: Rejoignez l'hôte Doug Moore et les invités Nick Cammuso et Jackie Chevallier en regardant comment utiliser à la fois Audience Manager (AAM) et Real-time Customer Data Platform ... (Les descriptions doivent être comprises entre 60 et 160 caractères)
 solution: Audience Manager, Real-Time Customer Data Platform
 kt: 10358
 thumbnail: https://video.tv.adobe.com/v/342611?format=jpeg
-event-cta-url: null
 event-start-time: 2022-04-28 09:00-7
 event-guests: Nick Cammuso,Jackie Chevallier
 exl-id: a1262eef-da2b-4e79-92d8-73819bc47744
-source-git-commit: 0d4c3913e2db031097c1a3a3a7555ab4c4227181
+duration: 3812
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 9%
+source-wordcount: '141'
+ht-degree: 0%
 
 ---
 
-# Comment gérer toutes ces audiences ?
+# Comment gérer toutes ces audiences ?
 
 Rejoignez l’hôte Doug Moore et les invités Nick Cammuso et Jackie Chevallier qui étudient comment utiliser à la fois l’Audience Manager (AAM) et Real-time Customer Data Platform (RTCDP) pour vous aider à atteindre vos stratégies d’audience clés et vos cas d’utilisation. Ils vous montreront également comment utiliser les segments d’audience clés d’AAM et les envoyer à la plateforme RTCDP pour une flexibilité et un ciblage accrus.
 

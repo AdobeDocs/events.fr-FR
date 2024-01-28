@@ -9,13 +9,14 @@ doc-type: Event
 last-substantial-update: 2023-11-27T00:00:00Z
 jira: KT-14574
 thumbnail: 3425813.jpeg
-source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
+exl-id: fd18358c-1027-42b9-a9da-c8b7af2b6820
+duration: 3081
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
-
 
 # Points phares des Experience Makers - Préparation à la croissance et efficacité continue
 

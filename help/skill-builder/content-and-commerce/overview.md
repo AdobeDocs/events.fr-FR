@@ -2,10 +2,11 @@
 title: Skill Builder - Contenu et commerce
 description: Série de webinaires enregistrés pour créer votre base de connaissances et maximiser votre investissement dans les solutions de contenu et de commerce Adobe
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 58
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 46%
+source-wordcount: '198'
+ht-degree: 2%
 
 ---
 
@@ -19,28 +20,28 @@ Créez et gérez un large éventail de sites web, d’applications mobiles et de
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-      <img alt="Proposer des expériences headless avec Adobe Experience Manager" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
+      <img alt="Diffusion d’expériences sans affichage avec Adobe Experience Manager" src="https://video.tv.adobe.com/v/343816?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-        <strong>Proposer des expériences headless avec Adobe Experience Manager</strong>
+        <strong>Diffusion d’expériences sans affichage avec Adobe Experience Manager</strong>
       </a>
     </div>
     <p>
-    <em>Découvrez la gestion de l’expérience headless en utilisant les dernières améliorations du Fragment de contenu d’Experience Manager et la nouvelle API GraphQL pour la diffusion de contenu headless.</em>
+    <em>Découvrez la gestion de l’expérience sans interface à l’aide des dernières améliorations apportées au fragment de contenu du Experience Manager et de la nouvelle API GraphQL pour la diffusion de contenu sans interface.</em>
     <p>
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-      <img alt="Mettez les métadonnées au service de votre entreprise dans Adobe Experience Manager Assets" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
+      <img alt="Faire en sorte que les métadonnées fonctionnent pour votre entreprise dans Adobe Experience Manager Assets" src="https://video.tv.adobe.com/v/343815?format=jpeg" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html">
-        <strong>Mettez les métadonnées au service de votre entreprise dans Adobe Experience Manager Assets</strong>
+        <strong>Faire en sorte que les métadonnées fonctionnent pour votre entreprise dans Adobe Experience Manager Assets</strong>
       </a>
     </div>
     <p>
-    <em>Découvrez comment tirer le meilleur parti de vos métadonnées dans AEM Assets en réduisant la charge de travail pour baliser les ressources et en facilitant leur consultation.</em>
+    <em>Découvrez comment tirer le meilleur parti de vos métadonnées dans AEM Assets en réduisant la charge de travail pour baliser les ressources et en rendant vos ressources plus consultables.</em>
     <p>
   </td>  
   <td>

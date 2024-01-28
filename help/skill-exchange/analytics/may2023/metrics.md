@@ -12,9 +12,10 @@ jira: KT-13551
 thumbnail: 3420944.jpeg
 event-start-time: 2023-5-1 08:30-8
 exl-id: 666ea2a9-12b1-4ecf-828c-fdc4ad554c63
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2183
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---

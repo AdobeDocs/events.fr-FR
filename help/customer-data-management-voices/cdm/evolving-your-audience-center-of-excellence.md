@@ -9,7 +9,8 @@ thumbnail: 336938.jpg
 kt: 8864
 type: Event
 exl-id: 7383654b-96ed-41d7-ac24-9e8b290d1206
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2368
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%

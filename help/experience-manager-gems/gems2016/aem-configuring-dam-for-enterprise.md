@@ -1,15 +1,15 @@
 ---
 title: Configuration de la gestion des ressources numériques pour les clients Grands comptes
 description: Cette session a été conçue pour aider les utilisateurs à tirer un meilleur parti d’AEM Assets. Arnold Espos se concentrera sur les cas d’utilisation réels de clients Grands comptes de la gestion des ressources numériques, leurs défis et les solutions qui ont été créées pour les aider à améliorer leurs résultats d’utilisation de la gestion des ressources numériques.   Les participants pourront mieux comprendre comment utiliser la gestion des ressources numériques dans leurs environnements. Grâce à des études de cas réels de clients, les participants qui travaillent avec des clients réels de la gestion des ressources numériques pourront comprendre les nouvelles solutions offertes par cette offre, qui peut aider leurs workflows existants et leur compréhension de cette technologie.
-uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
 exl-id: 6c87ff99-3c15-4e15-a0b5-d9f72ff641c5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3576
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 81%
+source-wordcount: '288'
+ht-degree: 80%
 
 ---
 

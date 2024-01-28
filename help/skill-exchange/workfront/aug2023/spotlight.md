@@ -10,13 +10,14 @@ doc-type: Event
 last-substantial-update: 2023-11-27T00:00:00Z
 jira: KT-14570
 thumbnail: 3425809.jpeg
-source-git-commit: 2bd88fa38c2db1cafe843c19d74c810a9ce91dd6
+exl-id: 7637ba37-0be8-4d99-b58b-3b9095a05dcf
+duration: 2850
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
-
 
 # Points phares des créateurs d’expérience
 

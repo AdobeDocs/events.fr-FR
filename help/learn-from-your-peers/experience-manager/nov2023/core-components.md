@@ -10,13 +10,14 @@ doc-type: Event
 last-substantial-update: 2023-11-27T00:00:00Z
 jira: KT-14590
 thumbnail: 3425841.jpeg
-source-git-commit: 4bb7c7746e39cd29c1f02c2b9797eaa609ba53c1
+exl-id: 5efcf8ea-8b80-40cb-a55f-bac4d5bdaf5e
+duration: 2826
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # Optimisation de l’excellence des développeurs avec les composants principaux AEM
 

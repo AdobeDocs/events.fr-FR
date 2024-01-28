@@ -11,13 +11,14 @@ doc-type: Event
 last-substantial-update: 2023-11-27T00:00:00Z
 jira: KT-14566
 thumbnail: 3425806.jpeg
-source-git-commit: 5b2aa61b9c4d5c046ba40c741017259677af7c11
+exl-id: ecf6a036-8740-4615-adcd-48edd6ba5e15
+duration: 1218
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # En savoir plus sur les offres Adobe Commerce SaaS - Service de recherche et de catalogue
 

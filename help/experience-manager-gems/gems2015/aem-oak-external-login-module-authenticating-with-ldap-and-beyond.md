@@ -1,11 +1,11 @@
 ---
 title: Module de connexion externe d’Oak – Authentification avec le protocole LDAP et plus
 description: Découvrez le nouveau module de connexion externe d’Apache Jackrabbit Oak. Découvrez les détails et l’interaction du module de connexion, du gestionnaire de synchronisation et du fournisseur d’identité. Obtenez une démo de la configuration requise pour que les utilisateurs du protocole LDAP puissent être automatiquement importés dans AEM à des fins d’authentification. Découvrez des conseils et des astuces sur la façon de déboguer le système si les choses ne fonctionnent pas immédiatement.
-uuid: 97f60619-50fd-4f6d-ad77-3afb5951846c
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
 exl-id: 31d8076c-b61e-4d3d-bc92-0cee1852d026
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3236
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%

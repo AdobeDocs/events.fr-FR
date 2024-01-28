@@ -1,14 +1,14 @@
 ---
 title: Formulaires de recherche simplifiés avec QueryBuilder d’AEM
 description: Cette session explique les principes sous-jacents de QueryBuilder par rapport aux autres langages de requête de la pile JCR. Il montre comment l’utiliser pour créer facilement des formulaires de recherche modifiables, comment créer des recherches efficaces, comment déboguer des requêtes et comment l’optimiser.
-uuid: 867545ac-e175-4bd8-9d17-b5423f29031f
 discoiquuid: c7e8b80f-1eb3-4fa7-9d36-c76b493bd351
 targetaudience: target-audience advanced
 exl-id: 38cea360-b900-44e3-b565-b7c493fa6822
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3652
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 77%
+source-wordcount: '218'
+ht-degree: 75%
 
 ---
 
@@ -32,7 +32,7 @@ Démonstration
 
 * [QueryBuilder AEM](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), présenté par Alexander Klimetschek
 
- Documentation d’AEM 
+Documentation AEM
 
 >[!WARNING]
 >

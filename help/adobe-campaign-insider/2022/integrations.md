@@ -1,15 +1,16 @@
 ---
 title: Intégrations d’Adobe Campaign à un écosystème marketing
-description: Les solutions marketing cross-canal telles qu’Adobe Campaign ne doivent pas être isolées des autres technologies ou équipes.
+description: Les solutions marketing cross-canal telles qu’Adobe Campaign ne doivent pas rester isolées des autres technologies ou équipes.
 version: Classic v7
 solution: Campaign
 kt: 10508
 thumbnail: 343525.jpeg
 exl-id: 5a8473ac-01e6-42e4-95c6-2825378b7a1c
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3717
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 51%
+ht-degree: 17%
 
 ---
 

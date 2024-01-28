@@ -11,13 +11,14 @@ doc-type: Event
 last-substantial-update: 2023-10-27T00:00:00Z
 jira: KT-14145
 thumbnail: 3424013.jpeg
-source-git-commit: 92d4404a950f68a4cdc675b52c8623cfdd54c9e6
+exl-id: 177a8015-6a62-462c-8f3e-7619980d3dac
+duration: 2254
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
-
 
 # Evénement d&#39;échange de compétences Août 2022 - AEM Web Track - Échelle de préparation à l&#39;IA
 

@@ -9,14 +9,15 @@ role: Leader,User,Data Architect
 level: Beginner,Intermediate
 thumbnail: 342409.jpeg
 exl-id: a8676c0c-ba3b-4543-87f5-edd57ec6aeeb
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 6683
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 2%
+source-wordcount: '171'
+ht-degree: 0%
 
 ---
 
-# MBI - Demander à un expert
+# IMS - Demander à un expert
 
 >[!NOTE]
 >

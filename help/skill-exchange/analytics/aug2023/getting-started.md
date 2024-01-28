@@ -5,17 +5,17 @@ feature: Analytics Basics, Workspace Basics
 role: User
 level: Beginner
 doc-type: Event
-duration: 2453
+duration: 2119
 last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14652
 thumbnail: 3425985.jpeg
-source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
+exl-id: d9801df3-33e2-4d5a-b332-d0583becf4b1
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # Événement d’échange de compétences Août 2023 - Formation - Prise en main d’Adobe Analytics
 

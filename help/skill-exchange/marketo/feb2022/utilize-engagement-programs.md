@@ -7,10 +7,11 @@ level: Beginner
 kt: 9768
 thumbnail: 340595.jpeg
 exl-id: e809d8b2-37b0-4daf-8cb7-becefa24100b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2603
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 2%
+source-wordcount: '90'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +19,7 @@ ht-degree: 2%
 
 Découvrez les principes de base des programmes d’engagement au sein de [!DNL Marketo Engage] y compris des exemples de cas d’utilisation, des conseils et des astuces.
 
-**Points clés**
+**Principales mesures à prendre**
 
 * mieux comprendre les programmes d’engagement Marketo et leurs fonctionnalités uniques ;
 * Découvrez la configuration du programme et les bonnes pratiques et comment elles s’appliquent aux cas pratiques réels.

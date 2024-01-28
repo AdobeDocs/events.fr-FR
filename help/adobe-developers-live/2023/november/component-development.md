@@ -9,17 +9,17 @@ topic: Development
 role: Developer
 level: Beginner
 doc-type: Event
-duration: 1865
+duration: 1878
 last-substantial-update: 2023-12-20T00:00:00Z
 jira: KT-14679
 thumbnail: 3426338.jpeg
-source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
+exl-id: 7dc8eaaf-ba30-4f18-9526-65f90a6434b6
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # Retour au développement et au déploiement des composants principaux
 

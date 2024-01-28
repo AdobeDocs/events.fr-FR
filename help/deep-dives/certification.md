@@ -8,7 +8,8 @@ last-substantial-update: 2023-03-16T00:00:00Z
 jira: KT-12941
 thumbnail: 3416760.jpeg
 exl-id: aea1f3e5-3b28-432f-95df-a4eb300830c8
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3331
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

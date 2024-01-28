@@ -1,11 +1,11 @@
 ---
 title: Conseils et astuces concernant l’interface utilisateur tactile d’AEM Sites
 description: Découvrez le top des conseils et astuces concernant l’interface utilisateur tactile d’ [!DNL AEM Sites] . Découvrez des fonctionnalités de l’interface utilisateur tactile, dont certaines que vous connaîtrez peut-être déjà, qui vous permettent d’être plus efficace et plus rapide. Que vous soyez un spécialiste de la stratégie ou du marketing du contenu, vous découvrirez quelques-uns des avantages méconnus de l’interface utilisateur tactile qui vous rendront plus efficace et plus productif.
-uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
 exl-id: e5575c26-8725-4857-973f-b0991d48497b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3140
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%

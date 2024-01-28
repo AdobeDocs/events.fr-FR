@@ -9,9 +9,10 @@ role: Leader, User, Data Architect
 level: Beginner
 thumbnail: 342501.jpeg
 exl-id: ac932e1b-ae0a-40a3-b7dd-948d88ded358
-source-git-commit: 5d2f0e8e5e75221d9250d45327a8fed66244785b
+duration: 3221
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '153'
 ht-degree: 1%
 
 ---

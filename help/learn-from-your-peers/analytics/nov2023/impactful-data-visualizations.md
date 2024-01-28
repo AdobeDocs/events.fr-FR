@@ -5,17 +5,17 @@ feature: Visualizations, Analysis Workspace
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
-duration: 3629
+duration: 3656
 last-substantial-update: 2023-12-08T00:00:00Z
 jira: KT-14618
 thumbnail: 3425943.jpeg
-source-git-commit: 787fd78cb2ceb61f296bfe63c5b4e6cf71712abf
+exl-id: 55966d3c-1527-4691-8683-1a65b40cd327
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
-
 
 # L’art et la science des visualisations des données d’impact dans Adobe Analytics
 

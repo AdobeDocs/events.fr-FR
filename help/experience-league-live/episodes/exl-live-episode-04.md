@@ -6,11 +6,11 @@ short-description: Découvrez comment utiliser les classifications avec le Activ
 solution: Analytics
 kt: 9255
 thumbnail: https://video.tv.adobe.com/v/338108?format=jpeg
-event-cta-url: null
 event-start-time: 2021-10-21 09:00-7
 event-guests: Jenn Kunz,Adam Klintworth
 exl-id: b601414e-7892-452e-8dd3-e9d917bd9b3e
-source-git-commit: e7e3172bb80aab23550aab7720e7554beedfd269
+duration: 3697
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 7%

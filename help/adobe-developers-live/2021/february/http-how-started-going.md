@@ -1,5 +1,5 @@
 ---
-title: HTTP? Comment ça a commencé, comment ça se passe
+title: HTTP ? Comment ça a commencé, comment ça se passe
 description: Interview de Roy Fielding, co-auteur du protocole HTTP et inventeur de REST, sur l'évolution du HTTP des premiers jours vers les travaux actuels sur QUIC et HTTP/3. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
 feature: Developer Tools
 topic: Development
@@ -9,14 +9,15 @@ kt: 7172
 type: Event
 thumbnail: 331738.jpg
 exl-id: 1621c837-6c27-4411-9747-41d9aceb3c1e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 13
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 2%
+source-wordcount: '92'
+ht-degree: 0%
 
 ---
 
-# HTTP? Comment ça a commencé, comment ça se passe
+# HTTP ? Comment ça a commencé, comment ça se passe
 
 Interview de Roy Fielding, co-auteur du protocole HTTP et inventeur de REST, sur l&#39;évolution du HTTP des premiers jours vers les travaux actuels sur QUIC et HTTP/3.
 

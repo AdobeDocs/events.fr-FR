@@ -13,16 +13,17 @@ version: Cloud Service
 type: Event
 kt: 7341
 exl-id: 01149450-8d92-4ea8-a048-86559dd323b7
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3081
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 6%
+source-wordcount: '164'
+ht-degree: 5%
 
 ---
 
 # Série de ressources Dynamic Media - Adobe Experience Manager
 
-Utilisez cette série de webinaires en cinq parties pour créer votre base de connaissances et optimiser votre investissement dans Adobe Experience Manager Assets. Si vous êtes un spécialiste des ressources Adobe Experience Manager qui découvre les nouveautés de ou que vous utilisez Adobe Experience Manager Assets depuis un certain temps et que vous cherchez à perfectionner vos compétences existantes, c’est la méthode idéale pour approfondir cinq des aspects les plus importants de la solution. Les experts d’Adobe passeront en revue les principes de base et vous donneront également des informations avancées qui vous permettront d’effectuer immédiatement les prochaines étapes.
+Utilisez cette série de webinaires en cinq parties pour créer votre base de connaissances et optimiser votre investissement dans Adobe Experience Manager Assets. Si vous êtes un praticien qui débute dans Adobe Experience Manager Assets ou qui utilise Adobe Experience Manager Assets depuis un certain temps et que vous cherchez à perfectionner vos compétences existantes, c’est le moyen idéal de vous plonger en profondeur dans cinq des domaines les plus importants de la solution. Les experts d’Adobe passeront en revue les principes de base et vous donneront également des informations avancées qui vous permettront d’effectuer immédiatement les prochaines étapes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332132/?quality=12&learn=on&hidetitle=true)
 
@@ -37,7 +38,7 @@ Automatisez la sortie des ressources pour tous les canaux et écrans avec Dynami
 
 ## Enregistrements de séries
 
-* [Lien d’actif](asset-link.md)
-* [Brand Portal ](brand-portal.md)
+* [Asset Link](asset-link.md)
+* [Brand Portal](brand-portal.md)
 * [Structure de dossiers et recherche](folder-structure-search.md)
 * [Métadonnées](metadata.md)

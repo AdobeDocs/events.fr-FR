@@ -2,10 +2,11 @@
 title: Voix de gestion des données clients
 description: Votre destination en tant que responsable et spécialiste des pratiques techniques et marketing de la gestion des données client.  Cette page est votre guichet unique pour obtenir des nouvelles de vos pairs, vous inspirer et découvrir les développements dans le domaine du marketing.
 exl-id: 09f13bff-9f62-4146-a400-cc1d6f952eee
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 117
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 19%
+source-wordcount: '306'
+ht-degree: 4%
 
 ---
 
@@ -101,10 +102,10 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
    </td> 
    <td>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html">
-      <img alt="10 considérations à prendre en compte pour une gestion des données client responsable" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
+      <img alt="10 considérations relatives à une gestion responsable des données clients" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 considérations à prendre en compte pour une gestion des données client responsable</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 considérations relatives à une gestion responsable des données clients</strong></a>
          <br/>
       </div>
       <p>
@@ -141,17 +142,17 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="Collaboration en matière de données dans le contexte des données propriétaires" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="Collaboration des données dans le contexte des données propriétaires" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Collaboration en matière de données dans le contexte des données propriétaires</strong></a>
+         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Collaboration des données dans le contexte des données propriétaires</strong></a>
       </div>
       <p>
       </p>
     </td>
      <td>
       <a href="./industry/the-future-of-data-management-and-the-changing-environment.md">
-      <img alt="L’avenir de la gestion des données et les changements d’environnement" src="./assets/the-future-of-data-management-and-the-changing-environment.png"/>
+      <img alt="L’avenir de la gestion des données et l’environnement en mutation" src="./assets/the-future-of-data-management-and-the-changing-environment.png"/>
       </a>
       <div>
          <a href="./industry/the-future-of-data-management-and-the-changing-environment.md"><strong>L’avenir de la gestion des données et les changements d’environnement</strong></a>
@@ -161,10 +162,11 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
     </td>
    <td>
       <a href="./industry/brands-vs-consumers.md">
-      <img alt="A Tale of Two Perceptions - Brands vs. Consumers (Double perception - Marques contre Consommateurs)" src="./assets/brands-vs-consumers.png"/>
+      <img alt="Un tableau de deux perceptions : les marques et les consommateurs" src="./assets/brands-vs-consumers.png"/>
       </a>
       <div>
-         <a href="./industry/brands-vs-consumers.md"><strong>A Tale of Two Perceptions - Brands vs. Consumers (Double perception - Marques contre Consommateurs)</strong></a><br/>
+         <a href="./industry/brands-vs-consumers.md"><strong>Un tableau de deux perceptions : les marques et les consommateurs</strong></a>
+         <br/>
       </div>
     </td>
   </tr>

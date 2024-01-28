@@ -8,13 +8,14 @@ doc-type: Event
 last-substantial-update: 2023-11-30T00:00:00Z
 jira: KT-14612
 thumbnail: 3425896.jpeg
-source-git-commit: 0fee35240f4f19707da7a222680858ccf89d0377
+exl-id: 17d0bc2e-2f17-4f91-8a8f-3a07038368ed
+duration: 2370
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # Événement d’échange de compétences Août 2023 - Suivi web AEM - Points phares des créateurs d’expérience
 

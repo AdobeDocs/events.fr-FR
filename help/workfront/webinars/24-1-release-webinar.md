@@ -4,17 +4,17 @@ description: Le webinaire s'est tenu le 11 janvier avec 931 participants en dire
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
-duration: 2660
+duration: 2675
 last-substantial-update: 2024-01-17T00:00:00Z
 jira: KT-14792
 thumbnail: 3426854.jpeg
-source-git-commit: 56e1174530942b06759910ec3ad601344e072528
+exl-id: d665f2fb-113f-49bb-9f66-baab0453cf4b
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # Webinaire sur la version Adobe Workfront 24.1
 

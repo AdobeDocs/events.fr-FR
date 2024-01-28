@@ -10,13 +10,14 @@ doc-type: Event
 last-substantial-update: 2023-11-27T00:00:00Z
 jira: KT-14561
 thumbnail: 3425792.jpeg
-source-git-commit: 82fca0bce961c208c41f5e7135bd4b9d9ec92f89
+exl-id: 4b828419-0f3e-46f5-8a89-8b0fb02227b9
+duration: 2184
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # Votre kit de démarrage de gestion des ressources
 

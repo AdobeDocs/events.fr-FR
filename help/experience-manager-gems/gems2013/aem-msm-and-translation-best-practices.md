@@ -1,12 +1,12 @@
 ---
 title: Gestion multisite et traduction – Bonnes pratiques
 description: Ce webinaire examine le point de rencontre entre la gestion multisite et la traduction pour les sites web multilingues. Nous couvrirons les difficultés spécifiques introduites par la traduction, les recommandations pour la structure du site et un bref comparatif des connecteurs et des outils de traduction pour divers cas d’utilisation.
-uuid: e03f11cc-f16e-428b-91b7-dad22b1f2969
 discoiquuid: 4dc97a95-c401-499c-b5f6-8ffc6f464468
 targetaudience: target-audience advanced
-source-git-commit: edd0bdb28a9b3d065a64a95af6a216b747577c77
+duration: 29
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '141'
 ht-degree: 100%
 
 ---

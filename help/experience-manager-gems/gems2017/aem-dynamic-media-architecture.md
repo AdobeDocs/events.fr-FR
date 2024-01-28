@@ -1,13 +1,13 @@
 ---
 title: Architecture d’AEM Dynamic Media 6.3
 description: Rejoignez Cynthia Tillo, cheffe principale de produit du département de marketing digital d’Adobe pour en savoir plus sur la version 6.3 de Dynamic Media.
-uuid: 66934879-1d50-49bd-879a-463f59657b6a
 discoiquuid: e9e8768d-25a8-4b20-b129-1b1e1732dbb9
 targetaudience: target-audience advanced
 exl-id: 69d32951-430a-4d30-b59c-73b9aa151ac5
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4076
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---

@@ -8,17 +8,17 @@ topic: Performance, Integrations
 role: Admin, Developer
 level: Beginner
 doc-type: Event
-duration: 1659
+duration: 1672
 last-substantial-update: 2023-12-20T00:00:00Z
 jira: KT-14671
 thumbnail: 3426311.jpeg
-source-git-commit: c50f4241e22bc858473156a3e7cd32052177a5e1
+exl-id: 918632aa-f315-4d55-8f92-c5e48c5d6221
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
-
 
 # Diffuser les performances de Commerce par le biais de la plateforme
 

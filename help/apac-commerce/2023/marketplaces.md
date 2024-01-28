@@ -11,13 +11,14 @@ doc-type: Event
 last-substantial-update: 2023-10-27T00:00:00Z
 jira: KT-14256
 thumbnail: KT-14256.jpeg
-source-git-commit: 171bb6168f2ed8769c947b97a5722e2347232789
+exl-id: 1e50f9b2-eefb-4c37-a4b2-e0300a634fa6
+duration: 3493
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
-
 
 # Osez-vous grandir ? Les marchés de Mirakl comme force de croissance
 

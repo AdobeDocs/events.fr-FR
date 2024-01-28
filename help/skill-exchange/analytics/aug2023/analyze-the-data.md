@@ -6,17 +6,17 @@ feature: Freeform Tables, Metrics
 role: User
 level: Beginner
 doc-type: Event
-duration: 2496
+duration: 2521
 last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14653
 thumbnail: 3425987.jpeg
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+exl-id: 548d16b0-0f13-479b-ac99-69f94c6f9c0a
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # Evénement d&#39;échange de compétences Août 2023 - En savoir plus - Adobe Analytics : analyse des données
 

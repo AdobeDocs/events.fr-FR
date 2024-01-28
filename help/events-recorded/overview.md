@@ -3,10 +3,11 @@ title: Événements Adobe Experience League
 description: Ensemble d’enregistrements d’événement axés sur l’utilisation de produits d’entreprise d’Adobe
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 334
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '915'
-ht-degree: 9%
+source-wordcount: '912'
+ht-degree: 5%
 
 ---
 
@@ -164,7 +165,7 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
       </div>
       <p>
         <br/>
-         Experience League LIVE est une émission produite par l’équipe d’Experience League et diffusée en direct. Elle vous offre la possibilité d’entrer en contact avec des experts en produits Adobe et de découvrir des conseils pratiques, des astuces et des stratégies à mettre en pratique avec les applications Adobe Experience Cloud.
+         Experience League LIVE est une émission en streaming produite par l'équipe Experience League. Elle vous offre la possibilité d’entrer en contact avec des experts en produits Adobe et de découvrir des conseils pratiques, des astuces et des stratégies à mettre en pratique avec les applications Adobe Experience Cloud.
       </p>
     </td>
    <td>
@@ -192,7 +193,7 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
       </div>
       <p>
         <br/>
-         Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manager as a Cloud Service. Ces courtes vidéos d’environ 10 minutes sont diffusées par l’équipe produit d’AEM pour partager les principales caractéristiques de la dernière mise à jour.
+         Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manager as a Cloud Service. Ces courtes vidéos d’environ 10 minutes sont diffusées par l’équipe produit d’AEM pour partager les principales caractéristiques de la dernière mise à jour.
       </p>
     </td>
     <td>

@@ -1,13 +1,13 @@
 ---
 title: Comment tirer le meilleur parti de votre pack de fonctionnalités de gestion des actifs numériques
 description: Découvrez le FP2 de gestion des ressources numériques pour AEM 5.6.1. Ce pack de fonctionnalités se concentre sur l’utilisation de la fonctionnalité Projets créatifs pour vous offrir un moyen unique de gérer l’approvisionnement des ressources. Cette session détaillera le fonctionnement étape par étape d’un workflow de projet créatif pour créer, modifier et charger une liste de plans, et pour charger des ressources liées à cette liste de plans. Elle présentera également les processus de révision et d’approbation des ressources chargées. Vous découvrirez en outre les capacités de configuration de la surface de tâche, les Modèles de workflow de projet personnalisé et la création de hiérarchies de produits.
-uuid: 027cce69-9bd8-46f7-b581-85169c261baa
 discoiquuid: b5983511-3a13-4b31-aa22-738b85709b79
 targetaudience: target-audience advanced
 exl-id: 13067227-3006-407d-9450-c976cd6c8805
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2919
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '189'
 ht-degree: 100%
 
 ---

@@ -1,13 +1,13 @@
 ---
 title: Gestion des métadonnées dans la gestion des ressources numériques AEM
 description: Découvrez comment la gestion des ressources numériques AEM permet de gérer les métadonnées des ressources. Découvrez la norme XMP et comment la gestion des ressources numériques l’utilise, comment utiliser les métadonnées dans les recherches et comment optimiser les schémas de métadonnées intégrés. Vous découvrirez également le nouvel éditeur de schéma de métadonnées, qui a été introduit dans le dernier pack de fonctionnalités de la gestion des actifs numériques.
-uuid: 09bce4bb-8880-41ae-b95c-1f36407191ff
 discoiquuid: 0e2538bc-7a1a-41ce-8fed-64805ca1bb89
 targetaudience: target-audience advanced
 exl-id: 11302a97-d19e-4572-99f3-6315d0bd936e
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2907
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '135'
 ht-degree: 100%
 
 ---

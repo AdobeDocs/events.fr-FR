@@ -11,9 +11,10 @@ event-cta-url: https://www.youtube.com/watch?v=f1T9XU9TCJU
 event-start-time: 2022-10-25 09:00-7
 event-guests: Sandra Hausmann,Ben Tepfer,Brandon Poyfair,Jason Hickey
 exl-id: 468f1e46-7b69-41c3-8c49-948aaf2e92a3
-source-git-commit: 26cd8c02afc6f8cf506d82b363ccfd0482c3bafd
+duration: 3666
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---

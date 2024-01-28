@@ -1,11 +1,11 @@
 ---
 title: Tough Day 2 – La nouvelle version améliorée de l’outil de test de stress et d’évaluation des performances
 description: « Tough Day » était un outil de test qui simulait les pire cas de charge quotidienne, avec l’exécution de toutes les opérations en même temps. Nous avons rassemblé les commentaires de nos utilisateurs au fil des ans et décidé de refondre l’outil pour répondre aux demandes.
-uuid: 6bf40482-6152-421b-bdfe-9a50176b98b7
 discoiquuid: d60dbb18-7938-4446-9928-7f5f5d1f83a1
 targetaudience: target-audience advanced
 exl-id: 5e6541c4-83e3-4505-b827-407f112f2437
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 3141
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 100%

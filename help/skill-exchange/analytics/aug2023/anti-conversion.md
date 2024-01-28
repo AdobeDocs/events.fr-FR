@@ -6,17 +6,17 @@ feature: Metrics
 role: User
 level: Intermediate, Experienced
 doc-type: Event
-duration: 2448
+duration: 2476
 last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14657
 thumbnail: 3425991.jpeg
-source-git-commit: a7785ee8dcac6fd30a9526e4e202ee0780ea0e1a
+exl-id: 13b7b639-c833-4f3e-b4f9-ec9e2cee2505
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
-
 
 # Événement d’échange de compétences Août 2023 - Suivi de croissance - Analyse des facteurs anti-conversion pour améliorer votre expérience client
 

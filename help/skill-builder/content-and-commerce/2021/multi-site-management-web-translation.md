@@ -13,14 +13,15 @@ version: Cloud Service
 type: Event
 kt: 8936
 exl-id: 8b54f2ed-621f-4cdb-a8d5-de58108059b3
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4098
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
-# Notions de base sur Adobe Experience Manager Sites
+# Principes de base d’Adobe Experience Manager Sites
 
 Découvrez comment créer des expériences client riches et attrayantes dans Adobe Experience Manager dans cette série de webinaires en 5 parties. Nous allons commencer par les blocs de création de contenu tout en vous présentant les concepts et les opérations fondamentaux. Cela inclut les fonctionnalités d’administration de sites et les principes de base de la gestion des ressources numériques dans AEM. Dans la partie ultérieure de la série, découvrez des fonctionnalités qui peuvent vous aider à gagner du temps et à être plus efficaces en réutilisant le contenu et en le diffusant sur plusieurs canaux.
 

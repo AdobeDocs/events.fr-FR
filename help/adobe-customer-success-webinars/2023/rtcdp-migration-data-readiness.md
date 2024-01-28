@@ -8,13 +8,14 @@ doc-type: Event
 last-substantial-update: 2023-11-15T00:00:00Z
 jira: KT-14386
 thumbnail: 3425603.jpeg
-source-git-commit: 613a25eb1dda2076ff87dc03f0680f1193490f4f
+exl-id: 9d2ff27d-4ab3-4963-8e0c-dd452483f0bc
+duration: 2234
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # Préparation des données CDP en temps réel
 

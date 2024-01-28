@@ -1,15 +1,15 @@
 ---
 title: Demander à l’expert - Suivi des bonnes pratiques en matière de BAT pour Workfront
 description: Découvrez pourquoi vous devez utiliser des modèles de workflow automatisés, comment les créer et comment ajuster les paramètres de BAT pour garantir la confidentialité. Ce webinaire a été enregistré le 4 mars 2020.
-activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
 exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 4083
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '1638'
-ht-degree: 2%
+source-wordcount: '1649'
+ht-degree: 1%
 
 ---
 

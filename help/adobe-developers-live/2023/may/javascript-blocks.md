@@ -11,7 +11,8 @@ last-substantial-update: 2023-05-27T00:00:00Z
 jira: KT-13355
 thumbnail: 3419944.jpeg
 exl-id: ba3cc23a-9179-486e-ad13-ac896fdab268
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 2294
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%

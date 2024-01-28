@@ -12,9 +12,10 @@ kt: 7167
 type: Event
 thumbnail: 331768.jpg
 exl-id: 0f0c18f7-d4ef-4391-a9f8-5a3c38d779c6
-source-git-commit: 1792dc318643aec2c12613f621361d72a7a918b1
+duration: 16
+source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
