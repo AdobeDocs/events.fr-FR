@@ -8,10 +8,11 @@ type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/events.fr-FR
 index: true
-source-git-commit: 93ecb00dde2ad0cd9bdc93e861cac82e7da07f49
+auto-video-transcripts: true
+source-git-commit: d631928904e464b78a6ab3ad5f9aeee266e2ab88
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 83%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
