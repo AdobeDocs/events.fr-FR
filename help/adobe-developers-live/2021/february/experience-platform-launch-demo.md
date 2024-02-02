@@ -11,8 +11,8 @@ level: Experienced
 kt: 7166
 thumbnail: 331734.jpg
 exl-id: 4bf107fe-f34a-407f-9cec-fc94f7496130
-duration: 13
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+duration: 2697
+source-git-commit: 07a0a88da92652a6f07f65ba369e17cfe85fdafd
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
