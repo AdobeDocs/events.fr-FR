@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: ec7e7cd800b0e3c78c259de4211190a090009c4d
+source-git-commit: a842ec8d316968db5331e97ec8c66f8c048a9cfd
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 9%
+source-wordcount: '38'
+ht-degree: 7%
 
 ---
 
@@ -27,3 +27,4 @@ ht-degree: 9%
    + [Héritage d’une instance](inheriting-an-instance.md)
    + [Cycle de vie des pistes](lead-lifecycles.md)
    + [Maximiser votre instance avec une petite équipe](small-team-instance.md)
+   + [Notification des processus complexes dans le journal d’activité](activity-log.md)
