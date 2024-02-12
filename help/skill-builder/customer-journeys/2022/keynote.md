@@ -1,14 +1,14 @@
 ---
 title: Keynote - Tendances et innovation du Parcours client sur B2B et B2C
 description: découvrez les dernières tendances de la gestion des Parcours client sur B2B et B2C
-solution: Marketo, [!DNL Campaign Classic] v7, Campaign v8
+solution: Marketo, Campaign Classic v7, Campaign v8
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 kt: 10572
 thumbnail: 343822.jpeg
 exl-id: 1495128e-d1f2-4ae3-8598-beed95684ed3
 duration: 1819
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 75de748e06a167d24c3c13cc327a63ea18e72232
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
