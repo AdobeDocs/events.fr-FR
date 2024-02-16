@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: d63e2bf6b09c8db5c0833ac449f10d47103cc6a7
+source-git-commit: bc8a97db6ab36aed939dcf51962f172958ac1d07
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 44%
@@ -26,7 +26,7 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 <table>
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-29-24.md">
-      <img alt="Experience League LIVE Feb 29" src="assets/Feb29_2024_WebBanner.png">
+      <img alt="Experience League LIVE Feb 29" src="assets/exl-live-episode-02-29-24-web-banner.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-29-24.md">
