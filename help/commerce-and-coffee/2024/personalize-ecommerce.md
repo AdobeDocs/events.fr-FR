@@ -11,7 +11,7 @@ duration: 3632
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14970
 thumbnail: 3427355.jpeg
-source-git-commit: d50bee76b17c486088ea62619b3331906a68be80
+source-git-commit: de1dbd19647f523ba96bf9e94ab2a15f2f4bc710
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 0%
@@ -25,4 +25,4 @@ Lors de cette session de Commerce &amp; Café, Corey Gelato, consultant en strat
 
 Corey met également en évidence la manière dont l’IA peut contribuer à concevoir des campagnes marketing ciblées qui interagissent avec des clients individuels par le biais de descriptions de produit personnalisées, d’e-mails et de bannières de site web. Aussi important que soit l’analyse des données antérieures, la prédiction du comportement futur des clients peut avoir un impact tout aussi important. Grâce à l’analyse prédictive, les utilisateurs peuvent prédire les tendances d’achat futures de leurs clients, créant ainsi l’opportunité d’offres personnalisées proactives. Corey explique comment créer une expérience d’achat plus personnalisée grâce aux fonctionnalités de recherche en direct et de chatbot. Il partage ensuite une démonstration en direct de Recommendations de produits, de marchandisage par catégorie et de recherche en direct. Comme toujours, nous répondons aux questions des clients en direct pendant les questions et réponses !
 
->[!VIDEO](https://video.tv.adobe.com/v/3427355/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427493/?learn=on)
