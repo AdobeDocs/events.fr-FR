@@ -1,15 +1,15 @@
 ---
 title: Amélioration de l’interface utilisateur web d’Adobe Campaign
-description: Rejoignez-nous le 29 février pour découvrir comment planifier, lancer et mesurer des stratégies cross-canal à l’aide de la nouvelle interface utilisateur web d’Adobe Campaign, y compris les fonctionnalités d’IA générique en version bêta.
+description: Rejoignez-nous le 29 février pour découvrir comment planifier, lancer et mesurer des stratégies cross-canal à l’aide de la nouvelle interface utilisateur web d’Adobe Campaign.
 kt: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
 event-cta-url-live: https://www.youtube.com/watch?v=ESgehCRcSgQ
 event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
-source-git-commit: 46cb6d3ed306f7f03116124912bcbdb0a5f24529
+source-git-commit: ebfe862ab1219b40a957f4cf5db552ff09292bef
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
