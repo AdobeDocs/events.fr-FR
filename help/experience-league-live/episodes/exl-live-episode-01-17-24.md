@@ -9,7 +9,7 @@ event-start-time: 2024-01-17 10:00-7
 event-guests: Doug Moore,Eric Matisoff,Bryan Skelton
 exl-id: 2c2136a9-0b40-4a0a-907d-5af181568073
 duration: 3655
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 604f85ddc402ed248678782412efe4f2e5988ab4
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Rejoignez Bryan, Eric et Doug alors qu&#39;ils discutent de la façon de se rapp
 
 >[!BEGINSHADEBOX &quot;Vous avez des questions ?&quot;]
 
-**Poursuivez la discussion sur la [Forum de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582)**.
+Poursuivez la discussion sur la [Forum de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
 
 >[!ENDSHADEBOX]
 

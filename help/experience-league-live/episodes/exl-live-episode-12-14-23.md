@@ -9,10 +9,10 @@ event-start-time: 2023-12-14 09:00-7
 event-guests: Doug Moore,Nina Caruso,Rudi Shumpert
 exl-id: c2c2c560-adc1-45f4-b235-0307923cc9a8
 duration: 3701
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 604f85ddc402ed248678782412efe4f2e5988ab4
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 0%
+source-wordcount: '236'
+ht-degree: 2%
 
 ---
 
@@ -22,10 +22,17 @@ Découvrez comment les nouvelles fonctionnalités publiées en 2023 peuvent vous
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425754/?quality=12&learn=on)
 
-**Regardez la relecture ci-dessus. Vous pouvez également poursuivre la discussion au sujet de cette session sur la [Discussions de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14)**.
+>[!BEGINSHADEBOX &quot;Vous avez des questions ?&quot;]
 
-**Détails :**
+Poursuivre la discussion sur ce sujet sur Adobe Experience League [Publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"}.
+
+>[!ENDSHADEBOX]
+
+## Résumé
+
 Êtes-vous actuellement praticien de Real-Time CDP et à la recherche d’informations sur les nouveautés du produit, les raisons de son importance et la manière dont l’Adobe peut vous aider à améliorer vos stratégies de gestion des données client ? Ne cherchez pas plus loin - vous êtes au bon endroit ! Dans cette série, nous allons approfondir ce qui a été récemment lancé dans Real-Time CDP afin que vous puissiez tirer parti des nouveautés et avoir un impact sur votre organisation.
+
+# Principaux points à retenir
 
 Au cours de cette session, nous aborderons et présenterons cinq nouvelles fonctionnalités qui ont été lancées au cours des derniers mois :
 
