@@ -2,7 +2,7 @@
 user-guide-title: Adobe de webinaires sur le succès client
 breadcrumb-title: Adobe de webinaires sur le succès client
 user-guide-description: Adobe de webinaires axés sur le succès client, conçus pour vous permettre d’optimiser votre investissement dans l’Experience Cloud d’Adobe. Obtenez des informations précieuses pour maximiser la valeur et augmenter l’adoption de solutions d’Adobe.
-source-git-commit: 2489f9e31da2de8e7955843baed3ff05d5cc7b64
+source-git-commit: b023ed45c159d848f28f159348a21763d4c539f5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 1%
@@ -15,7 +15,7 @@ ht-degree: 1%
 + [Adobe de webinaires sur le succès client](overview.md)
 + 2024 {#2024}
    + [Hiérarchisation des flux de données](2024/data-stream-prioritization.md)
-   + [Donner les moyens aux équipes Leah](2024/empowering-lean-teams.md)
+   + [Donner les moyens aux équipes légères](2024/empowering-lean-teams.md)
    + [Le leadership stratégique](2024/strategic-leadership.md)
 + 2023 {#2023}
    + [Création de la base de la personnalisation à grande échelle](2023/personalization-at-scale.md)
