@@ -1,7 +1,7 @@
 ---
 title: Prise en main de la création AEM et des Edge Delivery Services
 description: Ce webinaire GEM AEM comprend une présentation et une démonstration pour vous montrer comment AEM création fonctionne avec les Edge Delivery Services. Nous vous guiderons tout au long du processus de création d’un nouveau projet Edge Delivery Services, qui pourra être utilisé pour la création AEM avec AEM Cloud Service comme source de contenu. Nous vous montrerons comment vous pouvez bénéficier de l’expérience de développement rapide et agile qui accompagne les Edge Delivery Services tout en préservant une expérience de création WYSIWYG pour le praticien.
-version: Cloud Service
+version: Experience Manager:Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -11,7 +11,7 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 92e19dbdd92d8d901a48edff751487b42a5d9f2c
+source-git-commit: 661e34e66c089caab712585fba6e3066426e55f1
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
