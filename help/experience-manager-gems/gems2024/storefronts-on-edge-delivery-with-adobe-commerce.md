@@ -11,18 +11,18 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15066
 thumbnail: KT-15066.jpeg
-source-git-commit: 0d2af4fa23c16fc5407b224a715510c957b2e4b5
+source-git-commit: 92e19dbdd92d8d901a48edff751487b42a5d9f2c
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 0%
+source-wordcount: '276'
+ht-degree: 2%
 
 ---
 
+# Date du séminaire : 6 mars 2024
 
-# Date du séminaire : 13 mars 2024
-Heure : 17h CET / 9h PDT / 21h30 IST Veuillez vous inscrire via le lien de la page de l&#39;événement ci-dessous.
+Heure : 17h CET / 9h PDT / 21h30 IST Ce webinaire a été terminé. Veuillez regarder l’enregistrement ci-dessous.
 
-# Création de vitrines sur des Edge Delivery Services avec Adobe Commerce
+## Création de vitrines sur des Edge Delivery Services avec Adobe Commerce
 
 Ce webinaire AEM GEM vous apprendra à créer une vitrine de haute performance sur les Edge Delivery Services pour Adobe Commerce. Nous vous guiderons tout au long du processus de configuration de votre projet avec le standard Commerce et nous vous expliquerons comment le connecter aux nouveaux services SaaS de Commerce pour une intégration rapide et améliorée du catalogue de produits dans l’interface utilisateur de Sensei. Nous introduisons des composants d’entrée, un ensemble de composants d’entrée personnalisables qui accélèrent le développement du storefront. Vous découvrirez les bonnes pratiques pour les étendre et les mettre en forme. Enfin, nous mettrons en évidence les nouvelles fonctionnalités de création de diffusions Edge pour enrichir vos expériences commerciales avec du contenu créé.
 
@@ -33,9 +33,9 @@ Ce webinaire AEM GEM vous apprendra à créer une vitrine de haute performance s
 
 ## Enregistrement de webinaire
 
+>[!VIDEO](https://video.tv.adobe.com/v/3427729)
+
 >[!NOTE]
->
->* Veuillez vous inscrire à ce webinaire via [Page Événement](https://adobe.ly/48cmKCV).
 > 
 >* Pour connaître les interactions de communauté spécifiques à une session sur Experience League, consultez notre [thread contextuel](https://adobe.ly/48m4dEm).
 >
