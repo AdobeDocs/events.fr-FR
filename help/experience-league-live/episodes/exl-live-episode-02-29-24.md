@@ -1,5 +1,5 @@
 ---
-title: Amélioration de l’efficacité du marketing sur les médias sociaux grâce à la nouvelle interface utilisateur web d’Adobe Campaign
+title: Amélioration de l’interface utilisateur web d’Adobe Campaign
 description: Apprenez à être plus efficace en matière de planification, de lancement et de mesure des stratégies marketing cross-canal, y compris le marketing par e-mail et le marketing sur les médias sociaux à l’aide de la nouvelle interface utilisateur web d’Adobe Campaign.
 jira: KT-14433
 thumbnail: https://video.tv.adobe.com/v/3427258?format=jpeg
@@ -8,9 +8,9 @@ event-start-time: 2024-02-29 08:00-7
 event-guests: Sandra Hausmann,Eric Perrin,Gaël Mouëllo,Bruce Swann
 duration: 25
 exl-id: 636d8bf5-80d9-406b-ab1e-3d5c4b1c8b8f
-source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
+source-git-commit: 8872c95059c96fc4b565563add254f3b359ea216
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
