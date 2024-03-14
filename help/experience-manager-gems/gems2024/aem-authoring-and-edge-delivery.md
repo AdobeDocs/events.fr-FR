@@ -12,16 +12,16 @@ duration: 3600
 last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
-source-git-commit: 0534647ce6335dd9988451de2629bee65b4603e5
+source-git-commit: c3256d974364fa0b1615b470aa703d6b9a8e1956
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 # Date du séminaire : 13 mars 2024
 
-Heure : 17h CET / 8h PST / 21h30 IST Veuillez vous inscrire via le lien de la page de l&#39;événement ci-dessous.
+Ce webinaire a été terminé - veuillez regarder l&#39;enregistrement ci-dessous.
 
 ## Prise en main de la création AEM et des Edge Delivery Services
 
@@ -33,9 +33,9 @@ Ce webinaire GEM AEM comprend une présentation et une démonstration pour vous 
 
 ## Enregistrement de webinaire
 
+>[!VIDEO](https://video.tv.adobe.com/v/3427919/)
+
 >[!NOTE]
->
->* Veuillez vous inscrire/vous inscrire à ce webinaire via [Page Événement](https://adobe.ly/4bz9T0H).
 > 
 >* Pour connaître les interactions de communauté spécifiques à une session sur Experience League, consultez notre [thread contextuel](https://adobe.ly/3uIj6D7).
 >
