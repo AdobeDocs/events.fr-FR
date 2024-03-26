@@ -5,7 +5,7 @@ discoiquuid: 77331d10-2e87-4cc8-8557-23e983d98a72
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
 exl-id: c56b8724-a97e-4671-a1ad-0a87a9260ed6
 duration: 3199
-source-git-commit: bc69fa95cfc24710f3e80a30a133fbf7be76f043
+source-git-commit: 2d34720ff7bf878a6aa2af82ab3908e67f7bcb54
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 93%
@@ -28,6 +28,6 @@ Diapositives du présentateur, date : 20/03/2019
 
 Exemple de package ContextHub :
 
-L’exemple de package ContextHub mentionné par Artur est disponible sous la forme d’un fichier zip :
+Le module d’exemple ContextHub mentionné d’Artur sera de nouveau disponible sous forme de fichier zip sous peu.
 
-[Obtention d’un fichier zip](/assets/contexthub-gems-deep-dive-1.0.zip)
+
