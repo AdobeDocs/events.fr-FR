@@ -2,10 +2,10 @@
 user-guide-title: Événements Gems Adobe Experience Manager
 user-guide-description: Découvrez AEM Gems, une série d’études approfondies réalisées par des experts d’Adobe Experience Manager sur certains de ses aspects techniques.
 breadcrumb-title: Événements AEM Gems
-source-git-commit: 1bef27ae79d023817407b9ac838fae2505116c4c
+source-git-commit: 3e548378b0a3c35d435e2d67d4857200cf45bd37
 workflow-type: tm+mt
-source-wordcount: '696'
-ht-degree: 95%
+source-wordcount: '705'
+ht-degree: 94%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 95%
 
 + [Vue d’ensemble](overview.md)
 + 2024 {#gems2024}
+   + [Prise en main des Edge Delivery Services pour AEM Forms](/gems2024/edge-delivery-for-aem-forms.md)
    + [Prise en main de la création AEM et des Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
    + [Création de vitrines sur des Edge Delivery Services sur Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
