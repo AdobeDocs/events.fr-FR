@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Collection d'enregistrements de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 8f572e77a739bdf15824c890acda22fe4029661f
+source-git-commit: a8ae18af0407dd9a1f28a80b2f665ec6d4a446de
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '153'
 ht-degree: 6%
 
 ---
@@ -57,3 +57,4 @@ ht-degree: 6%
       + [Suivi de la personnalisation à l’aide du code d’échelle [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
    + Mars {#mar2023}
       + [Comment créer votre [!DNL Adobe Marketo Engage] Contenu évolutif](marketo/mar2023/templates-tokens-teamwork.md)
++ [Découvrez comment envoyer une application championne d’Adobe standard](./adobe-champion-application.md)
