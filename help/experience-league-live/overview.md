@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 858f7011039c59a4bb34860d05904f03131d2dc4
+source-git-commit: 4b83bd595f69eafd7dd8074917eee9c9645f2e22
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 41%
+source-wordcount: '162'
+ht-degree: 46%
 
 ---
 
@@ -25,18 +25,8 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 <table>
 <tr>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-18-24.md">
-      <img alt="Experience League LIVE Apr 21" src="episodes/assets/WebBanner-April18-2024.jpg">
-    </a>
-    <div>
-      <a href="/help/experience-league-live/episodes/exl-live-episode-04-18-24.md">
-        <strong>Marketo Measure - Nouveaux tableaux de bord Discover</strong>
-      </a>
-      <br/><em>avec Ian Michels, Kate Colbert et James LeFreedom</em>
-      <br/><em>18 avril 2024</em>
-    </div>
-  </td>
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
+
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-24-24.md">
       <img alt="Experience League LIVE Apr 21" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>

@@ -7,9 +7,10 @@ event-cta-url-live: https://www.youtube.com/watch?v=UI-P0ezCHqA
 event-start-time: 2024-04-18 09:00-7
 event-guests: Ian Michels,Kate Colbert,James Leedom
 duration: 25
-source-git-commit: d222484d9678454f3e74b5ab09e877685ad898f2
+exl-id: 4f3dcc03-307e-48fe-9bf2-e0a15e40bf6a
+source-git-commit: 44b97fea8d73859bbdbccadfb66543a531f25401
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,14 @@ ht-degree: 0%
 
 Marketo Measure a complètement repensé les tableaux de bord de Discover . Il ne s’agit pas seulement de petites améliorations et ajouts ; il s’agit d’une refonte complète. Les conseils ont été repensés et surtout simplifiés. Ces nouveaux panoramas sont beaucoup plus intuitifs et conviviaux pour vous procurer les données dont vous avez besoin, rapidement et facilement !
 
-[![ExL LIVE 17 janvier 2024](assets/WebBanner-April18-2024.jpg)](https://engage.adobe.com/ExpLeagueLive-240418.html)
+>[!VIDEO](https://video.tv.adobe.com/v/3428093/?quality=12&learn=on)
 
-**[Inscrivez-vous maintenant](https://engage.adobe.com/ExpLeagueLive-240418.html) pour l&#39;événement !**
+Sujets abordés :
 
+* Philosophie d’attribution dans un monde marketing B2B
+* Déplacement de votre état d’esprit de création de rapports vers les recettes
+* Découvrez des conseils pratiques pour la segmentation et l’amélioration stratégiques des données
+* Découvrez comment résoudre les erreurs courantes
+* Quels nouveaux tableaux de bord prédéfinis sont disponibles et comment en tirer le meilleur parti ?
+* Nouvelles mesures disponibles et comment les utiliser pour améliorer les informations commerciales
+* Création et enregistrement de rapports personnalisés
