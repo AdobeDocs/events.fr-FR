@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Collection d'enregistrements de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: a8ae18af0407dd9a1f28a80b2f665ec6d4a446de
+source-git-commit: 28c2d6f249968bfe402dad24bf42fe7e3bfbdf4a
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 6%
+source-wordcount: '167'
+ht-degree: 7%
 
 ---
 
@@ -45,16 +45,18 @@ ht-degree: 6%
    + Mai {#may2023}
       + [Masquage du contenu et des fragments d’expérience](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
-   + Janvier {#jan2024}
+   + Avril {#april2024}
+      + [Applications pratiques de l’API REST du Marketo Engage](marketo/april2024/practical-applications-of-marketo-engage-rest-api.md)
+   + Janvier 2024 {#jan2024}
       + [Maîtrise de notation de personne avec Marketo Engage](marketo/jan2024/person-scoring-mastery.md)
-   + Novembre {#nov2023}
+   + Novembre 2023 {#nov2023}
       + [Marketo Engage et Dynamic Chat](marketo/nov2023/dynamic-chat.md)
-   + Septembre {#sept2023}
+   + Septembre 2023 {#sept2023}
       + [Amélioration de la délivrabilité des emails avec Marketo Engage](marketo/sept2023/email-deliverability.md)
-   + juin {#june2023}
+   + Juin 2023 {#june2023}
       + [Suivi, analyse et optimisation de vos campagnes marketing](marketo/june2023/marketing-campaigns.md)
-   + Mai {#may2023}
+   + Mai 2023 {#may2023}
       + [Suivi de la personnalisation à l’aide du code d’échelle [!DNL Marketo Engage]](marketo/may2023/personalization-at-scale.md)
-   + Mars {#mar2023}
+   + Mars 2023 {#mar2023}
       + [Comment créer votre [!DNL Adobe Marketo Engage] Contenu évolutif](marketo/mar2023/templates-tokens-teamwork.md)
 + [Découvrez comment envoyer une application championne d’Adobe standard](./adobe-champion-application.md)
