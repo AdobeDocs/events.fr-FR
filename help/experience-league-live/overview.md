@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 08b9921b35dcd8c6525edae5dcd1688aed1743f0
+source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 43%
+source-wordcount: '163'
+ht-degree: 46%
 
 ---
 
@@ -26,8 +26,16 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 <table>
 <tr>
 
-<td style="vertical-align: top;">
-    <strong>Revenez à cette page plus tard pour plus de détails sur notre émission du 16 mai. Alerte de spoiler - nous allons parler de la migration d’Analytics d’AppMeasurement vers le SDK Web.</strong>
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-05-16-24.md">
+      <img alt="Experience League LIVE 16 mai 2024" src="episodes/assets/WebBanner-May16-2024.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-05-16-24.md">
+        <strong>C’est la manière de...migrer Analytics vers le SDK Web</strong>
+      </a>
+      <br/><em>avec Doug Moore, Mitch Rice et Joe Khoury</em>
+      <br/><em>16 mai 2024</em>
+    </div>
   </td>
 </tr>
 </table>
