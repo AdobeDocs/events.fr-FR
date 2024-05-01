@@ -1,14 +1,14 @@
 ---
 title: Comment gérer toutes ces audiences ?
 description: Rejoignez l'hôte Doug Moore et les invités Nick Cammuso et Jackie Chevallier en regardant comment utiliser à la fois Audience Manager (AAM) et Real-time Customer Data Platform ... (Les descriptions doivent être comprises entre 60 et 160 caractères)
-solution: Audience Manager, Real-Time Customer Data Platform
+solution: Audience Manager, Real-Time Customer Data Platform, Experience Platform
+feature: Audiences
 kt: 10358
-thumbnail: https://video.tv.adobe.com/v/342611?format=jpeg
 event-start-time: 2022-04-28 09:00-7
 event-guests: Nick Cammuso,Jackie Chevallier
 exl-id: a1262eef-da2b-4e79-92d8-73819bc47744
 duration: 3812
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -22,3 +22,4 @@ Rejoignez l’hôte Doug Moore et les invités Nick Cammuso et Jackie Chevallier
 >[!VIDEO](https://video.tv.adobe.com/v/342611/?quality=12&learn=on)
 
 Pour poursuivre la conversation sur cette session, veuillez consulter la section [Publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), où nous répondrons également à des questions auxquelles nous n’avions pas le temps de répondre en direct lors de la session.
+

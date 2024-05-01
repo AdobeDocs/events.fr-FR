@@ -2,13 +2,14 @@
 title: Messagerie déclenchée par l’API dans Adobe Journey Optimizer
 description: Découvrez comment utiliser les API REST pour les communications transactionnelles et marketing contextuelles, personnalisées et en temps réel.
 kt: KT-13734
-thumbnail: https://video.tv.adobe.com/v/3422169?format=jpeg
+solution: Journey Optimizer
+feature: API
 event-cta-url-live: https://www.youtube.com/watch?v=eC51g4bf81s
 event-start-time: 2023-08-23 08:00-7
 event-guests: Siddharth Jain,Nikhil Sharma,Chetan Prasad
 exl-id: 4c3e2036-7afb-42f2-8071-17586b18aeec
 duration: 3637
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -30,3 +31,4 @@ Lors de cette session en direct Experience League, des experts Adobes vous expli
 **Cliquez sur l&#39;image ci-dessus pour regarder le spectacle !**
 
 Poursuivez la discussion sur la [Publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+

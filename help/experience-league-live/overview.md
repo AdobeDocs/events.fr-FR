@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 46%
@@ -39,7 +39,6 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
   </td>
 </tr>
 </table>
-
 
 </div>
 

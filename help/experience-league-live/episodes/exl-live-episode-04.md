@@ -4,13 +4,13 @@ description: Comprendre le parcours de votre client est tout. Et la création de
 landing-page-description: Découvrez comment utiliser les classifications avec le Activity Map pour mieux comprendre le comportement des utilisateurs et pour tracer les clics qui conduisent à des activités de site importantes.
 short-description: Découvrez comment utiliser les classifications avec le Activity Map pour mieux comprendre le comportement des utilisateurs et pour tracer les clics qui conduisent à des activités de site importantes.
 solution: Analytics
+feature: Activity Map, Classifications
 kt: 9255
-thumbnail: https://video.tv.adobe.com/v/338108?format=jpeg
 event-start-time: 2021-10-21 09:00-7
 event-guests: Jenn Kunz,Adam Klintworth
 exl-id: b601414e-7892-452e-8dd3-e9d917bd9b3e
 duration: 3697
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 7%
@@ -26,3 +26,4 @@ Et la création de rapports sur l’interaction de l’utilisateur avec votre pr
 Nous allons également vous présenter des conseils pour comprendre et exploiter les rapports d’attribution.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338108/?quality=12&learn=on)
+

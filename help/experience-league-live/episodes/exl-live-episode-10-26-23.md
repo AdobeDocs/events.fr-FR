@@ -2,14 +2,15 @@
 title: Workfront Release Deep Dive - New Workfront Home
 description: Apprenez des clients Workfront sur la façon dont New Home fonctionne pour eux et leurs utilisateurs.
 kt: KT-14069
-thumbnail: https://video.tv.adobe.com/v/3424606?format=jpeg
+solution: Workfront
+feature: Work Management
 event-cta-url-live: https://www.youtube.com/watch?v=dvCuSQfMTZg
 event-cta-url-reg: https://engage.adobe.com/ExpLeagueLive-231026.html
 event-start-time: 2023-10-26 09:00-7
 event-guests: Betsey West,Ben Robbins,Jamie Smith
 exl-id: f36c96ce-d889-4549-8595-a43d815dd9af
 duration: 3132
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -27,3 +28,4 @@ La page d’accueil entièrement repensée de Workfront est devenue un moteur de
 Lors de cette session en direct Experience League, l’expert produit Ben Robbins vous guidera tout au long de la nouvelle expérience d’accueil, y compris les nouvelles commandes de mise en page d’administration et les améliorations intéressantes de 2024. Et Jamie Smith, client de Workfront, partagera des informations sur la manière dont la nouvelle expérience personnelle stimule la productivité à AT&amp;T.
 
 **Pour poursuivre la discussion, veuillez consulter le [Experience League Community Post !](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+

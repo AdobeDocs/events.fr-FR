@@ -2,12 +2,14 @@
 title: C’est la manière de...migrer Analytics vers le SDK Web
 description: Découvrez la méthode la plus récente et la plus performante (NEW) pour migrer Adobe Analytics vers le SDK Web
 kt: KT-15382
-thumbnail: https://video.tv.adobe.com/v/3428791?format=jpeg
+solution: Analytics,Data Collection
+feature: Implementation Basics, Tags
 event-cta-url-live: https://www.youtube.com/watch?v=J4fuB2fki8o
 event-start-time: 2024-04-18 09:00-7
 event-guests: Doug Moore,Mitch Rice,Joe Khoury
 duration: 25
-source-git-commit: 4590f2cfc142bc5520b2c9cd12f7af1b6906b33b
+exl-id: c762dfe2-07b8-4eac-afa4-d94636d0b5b5
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%

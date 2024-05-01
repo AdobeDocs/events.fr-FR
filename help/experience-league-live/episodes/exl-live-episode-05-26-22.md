@@ -2,13 +2,13 @@
 title: Demandez aux experts - Principes de base du SDK Web
 description: Découvrez le SDK Web. Nous vous montrerons tous les principes de base du SDK Web, notamment son raisonnement, son fonctionnement et les cas d’utilisation importants qu’il alimente.
 solution: Data Collection,Experience Platform
+feature: Data Collection
 kt: 10412
-thumbnail: https://video.tv.adobe.com/v/343335?format=jpeg
 event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
 duration: 3863
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 1%
@@ -37,3 +37,4 @@ Dans cette première des trois sessions en direct concernant la collecte de donn
 * [Présentation et téléchargement des Adobes Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
 * [Documents SDK Mobile](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Informations sur la collection d’applications hybrides](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
+

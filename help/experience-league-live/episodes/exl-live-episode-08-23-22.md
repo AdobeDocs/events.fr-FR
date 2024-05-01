@@ -1,14 +1,14 @@
 ---
 title: Demandez aux experts - Extensions utiles dans les balises (Launch) pour aider à surcharger le SDK Web
 description: Pensez-vous à migrer votre mise en oeuvre vers le nouveau SDK Web Adobe ?  Nous allons parcourir certaines de nos extensions préférées dans la bibliothèque de balises d’Adobe qui vous aideront à passer votre collecte de données au niveau suivant.
-solution: Data Collection,Experience Platform
+solution: Data Collection, Experience Platform
+feature: Tags
 kt: 10528
-thumbnail: https://video.tv.adobe.com/v/346610?format=jpeg
 event-start-time: 2022-08-23 09:00-7
 event-guests: Rudi Shumpert,Jeff Chasin,Eric Matisoff
 exl-id: 5ef987f4-37f5-473f-b9f2-1598b7e655ba
 duration: 3833
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
 workflow-type: tm+mt
 source-wordcount: '675'
 ht-degree: 0%
@@ -104,3 +104,4 @@ Poursuivez la discussion sur ce sujet dans la section [Discussions de la communa
 * [Demandez aux experts - Principes de base du SDK Web](exl-live-episode-05-26-22.md)
 * [Demandez aux experts - Connexions RTCDP](exl-live-episode-06-23-22.md)
 * [Demandez aux experts - Enchères de données et préparation des données](exl-live-episode-07-21-22.md)
+
