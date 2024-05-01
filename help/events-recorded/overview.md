@@ -4,9 +4,9 @@ description: Ensemble d’enregistrements d’événement axés sur l’utilisat
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 3a1643f897e6bb54dac5d896a30d9f0a25e9dacd
+source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
 workflow-type: tm+mt
-source-wordcount: '997'
+source-wordcount: '1028'
 ht-degree: 10%
 
 ---
@@ -19,7 +19,30 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
 
 ## Série d’événements
 
-<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
+<div class="columns is-multiline"><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Acrobat Sign Webinars" tabIndex="0">
+  <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+    <div class="card-image">
+      <figure class="image x-is-16by9">
+        <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Série Adobe Campaign Insider" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Webinaires Acrobat Sign">
+        </a>
+      </figure>
+    </div>
+    <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+      <div class="top-card-content">
+          <p class="headline is-size-6 has-text-weight-bold">
+              <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" title="Webinaires Acrobat Sign">Webinaires Acrobat Sign</a>
+          </p>
+          <p class="is-size-6">
+         Découvrez par des experts d’Adobe comment maîtriser de nouveaux workflows de signature électronique dans Acrobat Sign.</p>
+      </div>
+      <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+        <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
+      </a>
+    </div>
+  </div>
+</div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Campaign Insider Series" tabIndex="0">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
@@ -41,7 +64,8 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
       </a>
     </div>
   </div>
-</div><div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
+</div>
+<div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Content Management Forum" tabIndex="1">
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
@@ -144,7 +168,7 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
               <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" title="Webinaires Adobe Commerce APAC">Webinaires Adobe Commerce APAC</a>
           </p>
           <p class="is-size-6">
-         La Série de webinaires sur le commerce APAC est une cadence mensuelle d’ateliers pour les clients Adobe Commerce qui couvre un large éventail de sujets, des bonnes pratiques aux feuilles de route des produits en passant par les tendances du secteur.</p>
+         La Série de webinaires Commerce APAC est une cadence mensuelle d’ateliers pour les clients Adobe Commerce qui couvre un large éventail de sujets, des bonnes pratiques aux feuilles de route des produits en passant par les tendances du secteur.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
@@ -188,7 +212,7 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
               <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" title="Commerce et café">Commerce et café</a>
           </p>
           <p class="is-size-6">
-         La série Commerce &amp; Café s’adresse aux clients Adobe Commerce existants de tous les niveaux de compétence et fonctionnalités, Corey Gelato, consultant en stratégie commerciale. La série se concentre sur les stratégies et tactiques commerciales, soutenues par des statistiques reflétant le sujet de l'événement.</p>
+         La série Commerce &amp; Coffee est destinée aux clients Adobe Commerce de tous les niveaux de compétence et fonctionnalités. Corey Gelato, consultant en stratégie pour Commerce. La série se concentre sur les stratégies et tactiques de Commerce, soutenues par des statistiques reflétant le sujet de l'événement.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
@@ -265,7 +289,7 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="Experience Manager GEMS" tabindex="-1">
+        <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=fr" title="Experience Manager GEMS" tabindex="-1">
           <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png" alt="Experience Manager GEMS">
         </a>
       </figure>
@@ -273,12 +297,12 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" title="Experience Manager GEMS">Experience Manager GEMS</a>
+              <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=fr" title="Experience Manager GEMS">Experience Manager GEMS</a>
           </p>
           <p class="is-size-6">
          Envois profonds Adobe Experience Manager techniques réalisés par des experts en Adobe. Cette série est un complément de la documentation du produit et de tous les autres canaux techniques relatifs à Adobe Experience Manager, qui permet aux développeurs de contacter et d’approfondir un sujet spécifique.</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=fr" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
       </a>
     </div>
@@ -419,7 +443,7 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Échange de compétences" tabindex="-1">
+        <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Exchange des compétences" tabindex="-1">
           <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png" alt="Marketo et Mochas">
         </a>
       </figure>
@@ -427,10 +451,10 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Échange de compétences">Échange de compétences</a>
+              <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" title="Exchange des compétences">Exchange des compétences</a>
           </p>
           <p class="is-size-6">
-         Experience Makers The Skill Exchange est une série mondiale d’événements d’apprentissage client virtuels, axés sur l’exploration des solutions Adobe Experience Cloud. Ce programme offre l’occasion de découvrir des experts et des pairs experts d’Adobe en partageant les bonnes pratiques et les conseils et astuces.</p>
+         Experience Makers L’Exchange de compétences est une série mondiale d’événements d’apprentissage client virtuels, axés sur l’exploration des solutions Adobe Experience Cloud. Ce programme offre l’occasion de découvrir des experts et des pairs experts d’Adobe en partageant les bonnes pratiques et les conseils et astuces.</p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>

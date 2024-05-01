@@ -4,7 +4,7 @@ description: Obtenez un aperçu rapide sur les dernières fonctionnalités d’A
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: 8fdbc89be6e17116ef4f3fe1c3a0465783fa63f4
+source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 55%
@@ -26,9 +26,8 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
       <div>
         <a href="2024/2024-3-0.md">
           <strong>Version | 2024.3.0</strong>
-          <br/>
         </a>
-          <em>Date de publication : avril 2024 </em>
+          <p><em>Date de publication : avril 2024 </em></p>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
