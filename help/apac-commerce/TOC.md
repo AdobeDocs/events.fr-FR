@@ -1,23 +1,25 @@
 ---
-user-guide-title: Événements de commerce APAC
-breadcrumb-title: Événements de commerce APAC
+user-guide-title: Événements Commerce APAC
+breadcrumb-title: Événements Commerce APAC
 user-guide-description: Adobe Commerce Events est une bibliothèque de vidéos où des experts et des pairs ont partagé leurs réflexions et idées sur l’utilisation d’Adobe Commerce.
-source-git-commit: 6a1868d01c63f6c56157663c41c834b312ddc5a7
+source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '97'
 ht-degree: 4%
 
 ---
 
 
-# Événements de commerce APAC {#apac-commerce-recordings}
+# Événements Commerce APAC {#apac-commerce-recordings}
 
 + [Vue d’ensemble](overview.md)
 + 2024 {#2024}
    + [Webinaire sur l’innovation](2024/innovation-spotlight.md)
+   + [Comment la pensée visionnaire transforme Commerce](2024/visionary-thinking.md)
+   + [7 manières de développer une activité d’e-commerce de manière organique](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
    + [Personnalisation optimisée par l’IA](2023/ai-personalisation.md)
-   + [Adobe dans le cloud de commerce](2023/adobes-paas-cloud-commerce.md)
+   + [Commerce cloud Adobe](2023/adobes-paas-cloud-commerce.md)
    + [Augmentation des conversions de commerce électronique](2023/ecommerce-conversions.md)
    + [Stratégies commerciales composites](2023/composable-commerce.md)
    + [Les marchés comme force de croissance](2023/marketplaces.md)
