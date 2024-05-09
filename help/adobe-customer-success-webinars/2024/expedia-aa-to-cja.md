@@ -4,14 +4,14 @@ description: découvrez l’évolution suivante des analyses, avec Jake Winter, 
 solution: Analytics, Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Adobe Analytics Integration
-topic: migration
+topic: Migration
 role: Architect, Developer
 level: Intermediate
 doc-type: Event
 duration: 3933
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15435
-source-git-commit: 2cf8e724088594be85182d65ac106e8118920474
+source-git-commit: cfb552d3b5dd56a0910db795bad9b6565c1e4095
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
