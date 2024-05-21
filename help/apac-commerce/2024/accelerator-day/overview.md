@@ -6,8 +6,8 @@ topic: Commerce
 last-update: May 2024
 jira: KT-15549
 mini-toc-levels: 2
-badgeEvent: label="Journée de l’accélérateur Adobe Commerce" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html"
-source-git-commit: 0c7d61cdf507dad87babbc0ce8e27889bac5714a
+badgeEvent: label="Journée de l’accélérateur Adobe Commerce" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
 workflow-type: tm+mt
 source-wordcount: '524'
 ht-degree: 0%

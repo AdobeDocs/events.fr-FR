@@ -9,10 +9,10 @@ duration: 1896
 last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15542
 hidefromtoc: true
-badgeEvent: label="Journée de l’accélérateur Adobe Commerce" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html"
-source-git-commit: 247be2d8bc1d93361d733150f525a6614c6df2e9
+badgeEvent: label="Journée de l’accélérateur Adobe Commerce" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -25,3 +25,5 @@ Présentation et démonstration de l’IA dans Commerce, la dernière IA génér
 + Présentée par Eroka O&#39;Connor, conseillère en solutions senior - Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
+
+[&lt; Retour à la journée de l’accélérateur Adobe Commerce](./overview.md)

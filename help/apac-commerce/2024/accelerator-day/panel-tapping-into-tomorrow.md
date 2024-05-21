@@ -10,10 +10,10 @@ duration: 1918
 last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15541
 hidefromtoc: true
-badgeEvent: label="Journée de l’accélérateur Adobe Commerce" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/accelerator-day/overview.html"
-source-git-commit: 4b65bfcf2f3025b1b5deddef7f8347000e0af2ce
+badgeEvent: label="Journée de l’accélérateur Adobe Commerce" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -30,3 +30,5 @@ Présentée par :
 + James Roberts, directeur général de la Fraude et de la Stratégie et de la Gouvernance en matière d&#39;escroquerie (AFC)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429268/?learn=on)
+
+[&lt; Retour à la journée de l’accélérateur Adobe Commerce](./overview.md)
