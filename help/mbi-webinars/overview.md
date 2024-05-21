@@ -1,9 +1,9 @@
 ---
-title: Webinaires sur Commerce Intelligence
-description: Explorez les webinaires enregistrés de Commerce Intelligence, qui abordent un large éventail de sujets et de bonnes pratiques pour utiliser pleinement Commerce Intelligence.
+title: Webinaires Commerce Intelligence
+description: Explorez les webinaires enregistrés sur Commerce Intelligence, qui abordent un large éventail de sujets et de bonnes pratiques pour utiliser au maximum Commerce Intelligence.
 exl-id: a1f2585f-5619-4f69-a7dc-75bc90aa3cd5
 duration: 77
-source-git-commit: 17a9052c99275eff0599c64be3d6872e60c52fe1
+source-git-commit: 78cb08c0aabfa98db97e1b7c1cee466e7c3578df
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 1%
@@ -16,9 +16,9 @@ ht-degree: 1%
 >
 >Adobe Commerce Intelligence était auparavant connu sous le nom de [!DNL Magento Business Intelligence (MBI)]. Les enregistrements pour les événements passés reflètent le nom précédent.
 
-La série de webinaires Intelligence de Commerce est un événement périodique pour les clients de l’intelligence de Commerce. Les webinaires abordent un large éventail de sujets et de bonnes pratiques concernant l’utilisation de l’intelligence de commerce à son plein potentiel.
+La série de webinaires Commerce Intelligence est un événement périodique pour les clients Commerce Intelligence. Les webinaires abordent un large éventail de sujets et de bonnes pratiques concernant l’utilisation optimale de Commerce Intelligence.
 
-Les participants de tous les pays peuvent participer aux événements en direct pour mieux comprendre le produit et obtenir une réponse directe à leurs questions sur la fonctionnalité de renseignements sur le commerce.
+Les participants de tous les pays peuvent participer aux événements en direct pour mieux comprendre le produit et obtenir une réponse directe à leurs questions sur la fonctionnalité Commerce Intelligence.
 
 Les rubriques sont répétées occasionnellement pour répondre à toutes les nouvelles questions que les clients peuvent poser.
 
@@ -40,16 +40,16 @@ Les rubriques sont répétées occasionnellement pour répondre à toutes les no
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+    <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
       <img alt="Gestion des jeux de données dans Adobe Commerce Intelligence" src="https://video.tv.adobe.com/v/3427547?format=jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.corp.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
+      <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/2024/manage-data-sets-adobe-commerce.html">
         <strong>Gestion des jeux de données dans Adobe Commerce Intelligence</strong>
       </a>
     </div>
     <p>
-    <em>Découvrez les puissantes fonctionnalités du Gestionnaire des Data Warehouse de l’intelligence de commerce directement depuis l’équipe produit.</em>
+    <em>Découvrez les puissantes fonctionnalités du Gestionnaire des Data Warehouse Commerce Intelligence directement depuis l’équipe produit.</em>
     <p>
   </td>
    <td>
