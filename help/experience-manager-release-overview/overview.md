@@ -1,21 +1,42 @@
 ---
-title: Présentation de cette version d’Adobe Experience Manager as a Cloud Service
-description: Obtenez un aperçu rapide sur les dernières fonctionnalités d’Adobe Experience Manager as a Cloud Service
+title: Présentation de la version Adobe Experience Manager as a Cloud Service
+description: Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: 0069aae41c06fc5618f8d9b6b8e4f1fb9170a2bd
+source-git-commit: cbf8d71cd9d7071ea70907e550ed3e602a026304
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 50%
+ht-degree: 14%
 
 ---
 
-# Mises à jour de la version d’Adobe Experience Manager as a Cloud Service
+# Mises à jour des versions d’Adobe Experience Manager as a Cloud Service
 
-Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manager as a Cloud Service. Ces courtes vidéos d’environ 10 minutes sont diffusées par l’équipe produit d’AEM pour partager les principales caractéristiques de la dernière mise à jour.
+Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manager as a Cloud Service. Il s’agit de vidéos courtes, d’environ 10 minutes, diffusées par l’équipe produit d’AEM qui partagent les points forts de la dernière version.
 
 ## Dernière mise à jour
+
+<table style="max-width: 50%;">
+  <tr>
+    <td>
+      <a href="2024/2024-5-0.md">
+        <img alt="Version 2024.5.0" src="2024/assets/2024-5-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2024/2024-5-0.md">
+          <strong>Version | 2024.5.0</strong>
+        </a>
+      </div>
+      <p><em>Date de publication mai 2024 </em></p>
+      <p>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
+      </p>
+    </td>
+  </tr>  
+</table>
+
+## Mises à jour précédentes
 
 <table style="max-width: 50%;">
   <tr>
@@ -33,13 +54,6 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
       </p>
     </td>
-  </tr>  
-</table>
-
-## Mises à jour précédentes
-
-<table style="max-width: 50%;">
-  <tr>
     <td>
       <a href="2024/2024-3-0.md">
         <img alt="Version 2024.3.0" src="2024/assets/2024-3-0-thumb.png" />
@@ -69,6 +83,8 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
       <p>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="2023/2023-11-0.md">
         <img alt="Version 2023.11.0" src="2023/assets/2023-11-0-thumb.png" />
@@ -84,8 +100,6 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
       <p>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="2023/2023-10-0.md">
         <img alt="Version 2023.10.0" src="2023/assets/2023-10-0-thumb.png" />
@@ -115,7 +129,9 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
       <p>
-    </td> 
+    </td>
+  </tr>
+  <tr>    
     <td>
       <a href="2023/2023-8-0.md">
         <img alt="Version 2023.8.0" src="2023/assets/2023-8-0-thumb.png" />
@@ -131,8 +147,6 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
       <p>
     </td>
-  </tr>
-  <tr>    
     <td>
       <a href="2023/2023-7-0.md">
         <img alt="Version 2023.7.0" src="2023/assets/2023-7-0-thumb.png" />
@@ -158,21 +172,6 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Man
           <br/>
         </a>
           <em>Date de publication : juin 2023 </em>
-      </div>
-      <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
-      <p>
-    </td>    
-    <td>
-      <a href="2023/2023-4-0.md">
-        <img alt="Version 2023.4.0" src="2023/assets/2023-4-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-4-0.md">
-          <strong>Version | 2023.4.0</strong>
-          <br/>
-        </a>
-          <em>Date de publication : avril 2023 </em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
