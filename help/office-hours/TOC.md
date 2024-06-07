@@ -2,10 +2,10 @@
 user-guide-title: Heures d’ouverture d’Adobe
 user-guide-breadcrumb: Adobe Office Hours
 user-guide-description: Office Hours est une approche proactive de la déviation des cas en offrant aux clients des webinaires spécifiques aux solutions.
-source-git-commit: 7378dc0e3e7caf4942e90e95668806bca03c1067
+source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 18%
+source-wordcount: '95'
+ht-degree: 14%
 
 ---
 
@@ -13,6 +13,9 @@ ht-degree: 18%
 # Heures d’ouverture d’Adobe {#office-hours}
 
 + [Heures d’ouverture d’Adobe](overview.md)
++ 2024 {#2024}
+   + Adobe Marketo {#adobe-marketo-office-hours-2024}
+      + [Heures de bureau des champions - Mai](2024/champion-office-hours.md)
 + 2023 {#2023}
    + Adobe Analytics {#adobe-analytics}
       + [Bonnes pratiques de Launch](2023/launch-best-practices.md)
