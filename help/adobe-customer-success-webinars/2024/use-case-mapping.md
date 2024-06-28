@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # Adobe de la plateforme des données clients en temps réel - Mappage des cas d’utilisation des fonctionnalités de solution
 
@@ -26,3 +26,31 @@ Ce webinaire explore les principaux moyens d’explorer les cas d’utilisation 
 
 * Cas d’utilisation La plateforme des données clients en temps réel résout les problèmes spécifiques aux résultats de l’entreprise et en établit la priorité.
 * Alignement des fonctionnalités de la plateforme CDP en temps réel sur les cas d’utilisation prioritaires
+
+## Résumé de la réunion
+
+**Les défis à relever par la plateforme de données clients en temps réel**
+
+* Outils marketing segmentés
+* Origines de données différées
+* Changement de réglementation de gouvernance
+
+**Impact de l’obsolescence des cookies tiers**
+
+* Effets sur les cas d’utilisation tels que le reciblage et la personnalisation de médias payants
+
+**Comparaison de la plateforme CDP en temps réel avec l’Audience Manager DMP**
+
+* Concentrez-vous sur l’ingestion de données, la gestion de l’audience et les structures de sortie des données.
+
+**Importance de l’alignement et de la hiérarchisation**
+
+* Alignement des fonctionnalités de la plateforme CDP avec les priorités stratégiques
+* Hiérarchisation des cas d’utilisation
+* Assurer une exécution efficace
+
+**Stratégies discutées**
+
+* Exploitation des fonctionnalités avancées de segmentation
+* Utilisation des fonctionnalités de partage de données
+* Utilisation de Customer Air pour des expériences client personnalisées et des stratégies de rétention

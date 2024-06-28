@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 8fdbc89be6e17116ef4f3fe1c3a0465783fa63f4
+source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 6%
+source-wordcount: '53'
+ht-degree: 5%
 
 ---
 
@@ -21,12 +21,14 @@ ht-degree: 6%
 
 + [Vue d’ensemble](overview.md)
 + Immersion dans Marketo {#deep-dives-marketo}
+   + [Migration des Admin Console](admin-console.md)
    + [API](api.md)
    + [Certification](certification.md)
    + [Email Nurture](email-nurture.md)
    + [Campagnes exécutables](executable-campaigns.md)
    + [Héritage d’une instance](inheriting-an-instance.md)
    + [Cycle de vie des pistes](lead-lifecycles.md)
+   + [Utilisation des champs PMCF pour une évolutivité](pmcf-fields.md)
    + [Maximiser votre instance avec une petite équipe](small-team-instance.md)
    + [Notification des processus complexes dans le journal d’activité](activity-log.md)
    + [Utilisation de webhooks pour transférer des données](webhooks.md)
