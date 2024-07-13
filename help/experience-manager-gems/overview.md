@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessions GEM AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 338f58a58dc88d72fc641eb51d87ca4bf410be02
+source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 <img alt="Expériences numériques" src="./assets/ADX_Gems.png"/>
 
-## Événement GEM AEM à venir
+## Webinaire GEM AEM à venir - Intégration de référentiels GitHub privés dans AEM Cloud Manager
 
-Les prochains webinaires seront annoncés en juillet 2024.
+Ce webinaire aura lieu le mercredi 31 juillet à 17h00 CEST / 8h00 PDT / 20h30 heure locale. Notez que seule l’inscription est requise pour ce webinaire : inscrivez [ici](https://adobe.ly/3LmXfGk).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -50,17 +50,17 @@ Les prochains webinaires seront annoncés en juillet 2024.
 
 ## Événement GEM AEM précédent
 
-Notre dernier webinaire sur les GEM AEM **Amélioration de l’expérience des développeurs pour AEM Assets avec nos nouvelles API et nos nouveaux événements** a été conduit sur *19 juin 2024*.
-La variable **enregistrement** se trouve ici :
+Notre dernier webinaire GEM AEM sur **Amélioration de l’expérience des développeurs pour AEM Assets avec nos nouvelles API et événements** a été organisé le *19 juin 2024*.
+L&#39; **enregistrement** se trouve ici :
 [Amélioration de l’expérience des développeurs pour AEM Assets avec nos nouvelles API et nos nouveaux événements](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
 
 >[!NOTE]
 >
-> Inscrivez-vous pour être averti des webinaires GEM AEM à venir et d’autres événements liés à AEM - [Groupe d’utilisateurs d’Adobe](https://aem-augs.adobe.com/).
+> Inscrivez-vous pour être averti des webinaires GEMs AEM à venir et d’autres événements liés à AEM - [Groupe d’utilisateurs de l’Adobe de l’ ](https://aem-augs.adobe.com/).
 
 ## AEM GEM - webinaires techniques autour d’AEM - pour les développeurs livrés par les développeurs
 
-Bienvenue dans **AEM GEM** - notre série de webinaires sur Adobe Experience Manager, organisés par des experts en Adobe. Cette série complète la documentation du produit et de tous les autres canaux techniques concernant Adobe Experience Manager, ce qui permet aux développeurs de communiquer et d’approfondir un sujet spécifique.
+Bienvenue à **AEM GEMs** - notre série de webinaires de séances approfondies sur Adobe Experience Manager, organisés par des experts en Adobe. Cette série complète la documentation du produit et de tous les autres canaux techniques concernant Adobe Experience Manager, ce qui permet aux développeurs de communiquer et d’approfondir un sujet spécifique.
 
 Les webinaires seront organisés régulièrement, notamment :
 
@@ -71,7 +71,7 @@ Les webinaires seront organisés régulièrement, notamment :
 
 ## Communauté Experience League
 
-Notre [Communauté Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr) jouer un rôle essentiel pour favoriser l’adoption des produits et le succès des clients.
+Notre [communauté Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr) joue un rôle essentiel dans la prise en charge de l’adoption des produits et du succès client.
 
 * Connexion : réseau avec des pairs et du personnel d’Adobe pour obtenir des conseils et des bonnes pratiques, de la mise en oeuvre à l’extension de l’utilisation des produits
 * Réponses rapides : vaste pool de réponses de cas d’utilisation du monde réel pour permettre une utilisation active réussie des solutions d’Adobe.
