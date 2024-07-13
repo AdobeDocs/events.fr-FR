@@ -2,9 +2,9 @@
 user-guide-title: Événements Adobe Experience Manager GEMS
 user-guide-description: Découvrez AEM Gems, une série de séances approfondies réalisées par des experts de Adobe Experience Manager.
 breadcrumb-title: AEM des événements GEM
-source-git-commit: d9fcab5e7cde89e24cb746bc4f24ab2edc41848c
+source-git-commit: 5ce016c300cbb576e55fb3b824a06b59091a7bd0
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: '726'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,11 @@ ht-degree: 1%
 
 + [Vue d’ensemble](overview.md)
 + 2024 {#gems2024}
+   + [Intégration de référentiels GitHub privés dans AEM Cloud Manager](gems2024/private-github-for-aem-cloud-manager.md)
    + [Amélioration de l’expérience des développeurs pour AEM Assets avec nos nouvelles API et nos nouveaux événements](gems2024/improving-dev-experience-for-aem-assets-with-new-apis-and-events.md)
    + [Prise en main des Edge Delivery Services pour AEM Forms](gems2024/edge-delivery-for-aem-forms.md)
    + [Prise en main de la création AEM et des Edge Delivery Services](/help/experience-manager-gems/gems2024/aem-authoring-and-edge-delivery.md)
-   + [Création de vitrines sur des Edge Delivery Services sur Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
+   + [Construire des vitrines sur des Edge Delivery Services sur Adobe Commerce](/help/experience-manager-gems/gems2024/storefronts-on-edge-delivery-with-adobe-commerce.md)
 + 2023 {#gems2023}
    + [New Relic APM pour AEM as a Cloud Service](gems2023/newrelic-apm-for-aem-cloud-service.md)
    + [Certification AEM - technique](gems2023/aem-certification-technical.md)
@@ -25,14 +26,14 @@ ht-degree: 1%
    + [AEM Analyseur des bonnes pratiques pour les environnements on-premise et AMS](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
    + [Cas d’utilisation client et implémentation d’AEM sans affichage en cours d’utilisation](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
-   + [Présentation de Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
+   + [Sous le capot - Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [Intégrer la structure AEM et CIF pour créer une expérience de commerce électronique riche et immersive](gems2022/aem-and-cif-framework-integration.md)
    + [Créer des sites web plus rapidement avec AEM sans affichage et App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
    + [Adobe Experience Manager as a Cloud Service : bilan 2021 et perspectives 2022](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
    + [AEM version 6.5 prête pour le monde - Intégration de traduction et bonnes pratiques](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 {#gems2019}
-   + [Nouveautés de Experience Manager 6.5 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
+   + [Nouveautés d’Experience Manager 6.5 [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [Séance approfondie de l’éditeur de texte enrichi AEM](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [Exploration approfondie des détails d’implémentation des magasins, modules et segments dans ContextHub](gems2019/contexthub-deep-dive.md)
    + [Création d’expériences omnicanal sans interface avec AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
@@ -45,13 +46,13 @@ ht-degree: 1%
    + [Événements Adobe Developer (IO) - Triggers Analytics](gems2018/aem-analytics-triggers.md)
    + [Expériences dans l’évolutivité de l’auteur AEM](gems2018/aem-author-scalability1.md)
    + [AEM composants principaux](gems2018/aem-core-components.md)
-   + [L’explosion et l’utilisation des ressources numériques [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
+   + [L’explosion des ressources numériques &amp; [!DNL AEM Assets]](gems2018/aem-digital-asset-explosion.md)
    + [Présentation de ContextHub dans AEM 6.4](gems2018/aem-intro-to-contexthub.md)
    + [Apprentissage automatique dans AEM : balises intelligentes améliorées, mise en page intelligente, etc.](gems2018/aem-machine-learning.md)
    + [Maintenir l&#39;open source tout en conservant votre intégrité](gems2018/aem-maintaining-open-source.md)
    + [Dépannage des requêtes et index AEM (suite)](gems2018/aem-query-and-index-troubleshooting2.md)
    + [AEM Éditeur SPA](gems2018/aem-spa-editor.md)
-   + [Solr comme index Oak pour AEM](gems2018/solr-as-an-oak-index-for-aem.md)
+   + [Solr en tant qu’index Oak pour AEM](gems2018/solr-as-an-oak-index-for-aem.md)
    + [Séance approfondie du SDK de l’éditeur SPA - partie 1 - réagir](gems2018/spa-editor-sdk-deep-dive-react.md)
    + [Séance approfondie sur le SDK de l’éditeur de SPA - Partie 2 - angular](gems2018/spa-editor-sdk-deep-dive-angular.md)
    + [Utilisation d’OSGi R7 dans AEM](gems2018/using-osgi-r7-in-aem.md)
@@ -88,13 +89,13 @@ ht-degree: 1%
    + [Personnalisation des champs de boîte de dialogue dans l’interface utilisateur tactile](gems2015/aem-customizing-dialog-fields-in-touch-ui.md)
    + [Exploration approfondie du processus de mise à niveau AEM](gems2015/aem-deep-dive-into-aem-upgrade-process.md)
    + [Mise en cache de Dispatcher - Nouvelles fonctionnalités et optimisations](gems2015/aem-dispatcher-caching-new-features-and-optimizations.md)
-   + [AEM [!DNL Forms] Introduction et exemples techniques du pack de fonctionnalités 1](gems2015/aem-forms-feature-pack-1-introduction-and-technical-samples.md)
+   + [AEM [!DNL Forms] présentation du Feature Pack 1 et exemples techniques](gems2015/aem-forms-feature-pack-1-introduction-and-technical-samples.md)
    + [Intégration d’IBM WebSphere Commerce pour AEM](gems2015/aem-ibm-websphere-commerce-integration-for-aem.md)
    + [Dans ACS AEM Commons et outils](gems2015/aem-inside-acs-aem-commons-and-tools.md)
-   + [Module de connexion externe d’Oak](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
+   + [Module de connexion externe Oak](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
    + [Sonar : élément clé pour améliorer la qualité du produit](gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
    + [AEM aperçu technique](gems2015/aem-tech-sneak-peek.md)
-   + [Conseils et astuces pour [!DNL AEM Sites] Interface utilisateur tactile](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
+   + [Conseils et astuces pour l’ [!DNL AEM Sites] interface utilisateur tactile](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [Suivi des mesures de qualité de votre projet JavaScript](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
 + 2014 {#gems2014}
    + [Déployez Adobe Analytics sur une instance d’AEM locale via le service cloud de la gestion dynamique des balises.](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
