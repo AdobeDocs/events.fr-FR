@@ -4,7 +4,7 @@ description: Découvrez rapidement les dernières fonctionnalités d’Adobe Exp
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: 497772e2f80ab6f1b240c10ab7fe7fa557cb00ea
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -20,15 +20,15 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manag
 <table style="max-width: 50%;">
   <tr>
     <td>
-      <a href="2024/2024-5-0.md">
-        <img alt="Version 2024.5.0" src="2024/assets/2024-5-0-thumb.png" />
+      <a href="2024/2024-6-0.md">
+        <img alt="Version 2024.6.0" src="https://video.tv.adobe.com/v/3430779?format=jpeg" />
       </a>
       <div>
-        <a href="2024/2024-5-0.md">
-          <strong>Version | 2024.5.0</strong>
+        <a href="2024/2024-6-0.md">
+          <strong> Version | 2024.6.0</strong>
         </a>
       </div>
-      <em>Date de publication mai 2024 </em>
+      <em>Date de publication juin 2024 </em>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Notes de mise à jour</a>
       </p>
@@ -40,17 +40,29 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manag
 
 <table style="max-width: 50%;">
   <tr>
+     <td>
+      <a href="2024/2024-5-0.md">
+        <img alt="Version 2024.5.0" src="2024/assets/2024-5-0-thumb.png" />
+      </a>
+      <div>
+        <a href="2024/2024-5-0.md">
+          <strong> Version | 2024.5.0</strong>
+          </br>
+        </a>
+      </div>
+      <em>Date de publication mai 2024 </em>
+    </td>
     <td>
       <a href="2024/2024-4-0.md">
         <img alt="Version 2024.4.0" src="2024/assets/2024-4-0-thumb.png" />
       </a>
       <div>
         <a href="2024/2024-4-0.md">
-          <strong>Version | 2024.4.0</strong>
+          <strong> Version | 2024.4.0</strong>
           </br>
         </a>
       </div>
-      <em>Date de publication : avril 2024 </em>
+      <em>Date de publication avril 2024 </em>
     </td>
     <td>
       <a href="2024/2024-3-0.md">
@@ -58,36 +70,36 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manag
       </a>
       <div>
         <a href="2024/2024-3-0.md">
-          <strong>Version | 2024.3.0</strong>
+          <strong> Version | 2024.3.0</strong>
           </br>
         </a>
       </div>
-      <em>Date de publication : avril 2024 </em>
-    </td>
+      <em>Date de publication avril 2024 </em>
+    </td>   
+  </tr>
+  <tr>    
     <td>
       <a href="2024/2024-1-0.md">
         <img alt="Version 2024.1.0" src="2024/assets/2024-1-0-thumb.png" />
       </a>
       <div>
         <a href="2024/2024-1-0.md">
-          <strong>Version | 2024.1.0</strong>
+          <strong> Version | 2024.1.0</strong>
           <br/>
         </a>
           <em>Date de publication : janvier 2024 </em>
       </div>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="2023/2023-11-0.md">
         <img alt="Version 2023.11.0" src="2023/assets/2023-11-0-thumb.png" />
       </a>
       <div>
         <a href="2023/2023-11-0.md">
-          <strong>Version | 2023.11.0</strong>
+          <strong> Version | 2023.11.0</strong>
           <br/>
         </a>
-          <em>Date de publication : novembre 2023 </em>
+          <em>Date de publication novembre 2023 </em>
       </div>
     </td>
     <td>
@@ -96,36 +108,36 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manag
       </a>
       <div>
         <a href="2023/2023-10-0.md">
-          <strong>Version | 2023.10.0</strong>
+          <strong> Version | 2023.10.0</strong>
           <br/>
         </a>
-          <em>Date de publication : octobre 2023 </em>
+          <em>Date de publication octobre 2023 </em>
       </div>
     </td>
+  </tr>
+  <tr>    
     <td>
       <a href="2023/2023-9-0.md">
         <img alt="Version 2023.9.0" src="2023/assets/2023-9-0-thumb.png" />
       </a>
       <div>
         <a href="2023/2023-9-0.md">
-          <strong>Version | 2023.9.0</strong>
+          <strong> Version | 2023.9.0</strong>
           <br/>
         </a>
           <em>Date de publication septembre 2023 </em>
       </div>
     </td>
-  </tr>
-  <tr>    
     <td>
       <a href="2023/2023-8-0.md">
         <img alt="Version 2023.8.0" src="2023/assets/2023-8-0-thumb.png" />
       </a>
       <div>
         <a href="2023/2023-8-0.md">
-          <strong>Version | 2023.8.0</strong>
+          <strong> Version | 2023.8.0</strong>
           <br/>
         </a>
-          <em>Date de publication août 2023 </em>
+          <em>Date de publication Août 2023 </em>
       </div>
     </td>
     <td>
@@ -134,23 +146,12 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manag
       </a>
       <div>
         <a href="2023/2023-7-0.md">
-          <strong>Version | 2023.7.0</strong>
+          <strong> Version | 2023.7.0</strong>
           <br/>
         </a>
-          <em>Date de publication : juillet 2023 </em>
-      </div>
-    </td>
-    <td>
-      <a href="2023/2023-6-0.md">
-        <img alt="Version 2023.6.0" src="2023/assets/2023-6-0-thumb.png" />
-      </a>
-      <div>
-        <a href="2023/2023-6-0.md">
-          <strong>Version | 2023.6.0</strong>
-          <br/>
-        </a>
-          <em>Date de publication : juin 2023 </em>
+          <em>Date de publication juillet 2023 </em>
       </div>
     </td>
   </tr>
+  <tr>    
 </table>
