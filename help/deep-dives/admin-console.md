@@ -1,6 +1,6 @@
 ---
-title: Migration Adobe Admin Console
-description: Formation exclusive sur le leader MUG sur la migration à venir de Adobe Admin Console. Cette réunion sera de type "Former le formateur" afin que vous puissiez prendre ce que vous apprenez et éduquer vos chapitres sur ce changement à venir.
+title: Préparation du Marketo Engage sur l’identité de l’Adobe
+description: Formation exclusive sur la migration à venir de Adobe Admin Console. Cette réunion sera de type "Former le formateur" afin que vous puissiez prendre ce que vous apprenez et éduquer vos chapitres sur ce changement à venir.
 solution: Marketo
 feature: Administration
 role: Admin, Developer, Leader, User
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3416
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15797
-source-git-commit: 7582ea084cdfe20cfc5bd4c62a5a1234b5c3bcac
+source-git-commit: 06283989c8d9da03fca8af3d8ceec65097732be4
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
 
-# Formation des leaders MUG : migration vers Adobe Admin Console
+# Préparation du Marketo Engage sur l’identité de l’Adobe
 
-Formation exclusive sur le leader MUG sur la migration à venir de Adobe Admin Console. Cette réunion sera de type &quot;Former le formateur&quot; afin que vous puissiez prendre ce que vous apprenez et éduquer vos chapitres sur ce changement à venir.
+Formation exclusive sur la migration à venir de Adobe Admin Console. Cette réunion sera de type &quot;Former le formateur&quot; afin que vous puissiez prendre ce que vous apprenez et éduquer vos chapitres sur ce changement à venir.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)
 
