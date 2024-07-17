@@ -26,5 +26,5 @@ Les données comportementales sont un élément clé de la diffusion d’expéri
 
 Au cours de cette session en direct Experience League, des experts en produits vous montreront comment les &quot;attributs calculés&quot; dans Real-Time CDP et Journey Optimizer peuvent vous aider à utiliser une interface utilisateur simple pour créer des agrégats comportementaux en tant qu’attributs de profil pouvant être utilisés pour une segmentation et une personnalisation améliorées.
 
-**Poursuivez la discussion sur ce sujet dans la rubrique [Publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}**.
+**Poursuivez la discussion sur ce sujet sur le [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-get-the-most-from/m-p/633722#M5){target="_blank"}** de l&#39;émission.
 

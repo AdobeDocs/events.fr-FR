@@ -1,5 +1,5 @@
 ---
-title: Conseils sur le développement du suivi des stars CH1 dans Adobe Analytics APAC de mai 2023
+title: Conseils sur les compétences Adobe Analytics APAC pour le développement des Exchanges CH1 Rockstar Track de mai 2023
 description: Ne pouvait-il pas venir à Las Vegas ? Et bien Vegas vient à toi ! Le Rockstar World Tour donne un coup de fouet au Champion de cette année en présentant un rappel des conseils qui ont été gagnés par le vote populaire lors de l'Adobe Summit de cette année à Las Vegas. Préparez-vous à faire du rock et à apprendre !
 solution: Analytics
 feature-set: Analytics
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Rockstar Tips - Mai 2023 Suivi de l’échange de compétences Adobe Analytics APAC
+# Astuces pour Rockstar - Mai 2023 Suivi de la croissance des Exchanges de compétences Adobe Analytics APAC
 
 Ne pouvait-il pas venir à Las Vegas ? Et bien Vegas vient à toi ! Le Rockstar World Tour donne un coup de fouet au Champion de cette année en présentant un rappel des conseils qui ont été gagnés par le vote populaire lors de l&#39;Adobe Summit de cette année à Las Vegas. Préparez-vous à faire du rock et à apprendre !
 

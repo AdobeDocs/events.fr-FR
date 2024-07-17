@@ -22,4 +22,4 @@ Le webinaire s&#39;est tenu le 11 janvier avec 931 participants en direct. L’�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426854/?learn=on)
 
-Posez vos questions sur la version et discutez de la version dans la section [Communautés Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=en).
+Posez vos questions sur la version à laquelle vous avez répondu et discutez de la version dans les [communautés Adobe Workfront](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-24-1-release-webinar/td-p/645442?profile.language=en).

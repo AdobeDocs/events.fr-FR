@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1273
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15301
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 4b21e52d-5ecb-4d82-b66b-784b51395bc2
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
 
 ---
-
 
 # Création et utilisation de workflows du début à la fin
 
@@ -40,4 +40,3 @@ Les sujets abordés lors de la session sont les suivants :
 * Interface de contrôle de l’étendue du workflow : l’interface permettant de définir quels utilisateurs peuvent accéder au workflow a été mise à jour, avec des modifications des libellés de texte et l’utilisation d’un menu déroulant de sélection unique pour sélectionner des groupes individuels.
 * Mise à jour des libellés de texte : les libellés textuels des options telles que l’inclusion de tous les utilisateurs de groupe dans le compte ont été modifiés pour s’assurer de la clarté.
 * Emplacement de signature défini par le modèle : cette fonctionnalité permet la construction d’un formulaire entièrement activé avec tous les champs de destinataire possibles définis, et l’index du signataire du destinataire tel que défini dans le concepteur du workflow est fortement appliqué, indépendamment des champs affectés aux destinataires facultatifs omis lors de l’envoi de l’accord.
-

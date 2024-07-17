@@ -22,7 +22,7 @@ ht-degree: 4%
 
 Cette session décrit les bonnes pratiques les plus récentes que les développeurs Adobe Experience Manager peuvent appliquer afin d’avoir des déploiements d’applications plus prévisibles. Introduit en tant que fonctionnalité Apache Sling en 2019 et utilisé dans AEMaaCS depuis 2020, les scripts précompilés offrent aux développeurs deux améliorations majeures par rapport à la méthode classique de déploiement des composants Adobe Experience Manager : 1. les scripts peuvent être versionnés et comporter des chaînes de dépendances explicites, comme toute API Java 2. la compilation du script peut désormais être effectuée pendant le processus de création de l’application, ce qui permet de détecter rapidement les erreurs potentielles (dépendances manquantes, utilisation incorrecte de l’API, etc.) Nous nous concentrerons sur la manière dont les développeurs peuvent configurer leurs projets pour fournir leurs scripts sous la forme de lots précompilés et utiliser les analyseurs de fonctionnalités Sling Adobe Experience Manager locaux pour vérifier que les exigences de l’API sont satisfaites, les aidant à détecter rapidement toute erreur potentielle.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3zJrS0f)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3zJrS0f)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337851/?quality=12&learn=on&hidetitle=true)
 

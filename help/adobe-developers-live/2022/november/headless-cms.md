@@ -16,7 +16,7 @@ duration: 2356
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 21%
+ht-degree: 0%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 21%
 
 Au cours de cette session, vous apprendrez à implémenter un CMS sans interface via Adobe Experience Manager de plusieurs manières. Cette session traitera des sujets suivants :
 
-* Services de contenu via l’exporteur/les servlets.
-* Fragment de contenu via l’API de ressource (démonstration).
+* Services de contenu via l’exportateur/les servlets
+* Fragment de contenu via l’API de ressource (démonstration)
 * Fragment de contenu via Graphql (demo)
-* Certains cas d’utilisation en temps réel concernant l’utilisation de fragments de contenu et leurs approches.
-* Apprentissage de l’éditeur de SPA (approche de solution pour le choix) (démonstration).
+* Certains cas d’utilisation en temps réel concernant l’utilisation de fragments de contenu et leurs approches
+* Apprentissage de l’éditeur SPA (approche de solution sur le moment de choisir) (démonstration)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411299/?quality=12&learn=on)

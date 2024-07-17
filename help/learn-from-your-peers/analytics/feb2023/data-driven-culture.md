@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Créer une culture basée sur les données'
-description: Joindre [!DNL Adobe Analytics] Le champion Gitai Ben-Ammi discute de ce à quoi ressemble une culture basée sur les données et partage ses stratégies d'utilisation [!DNL Adobe Analytics] pour en créer un.
+title: '[!DNL Adobe Analytics] Construire une culture basée sur les données'
+description: Rejoignez le  [!DNL Adobe Analytics] Champion Gitai Ben-Ammi qui parle de ce à quoi ressemble une culture basée sur les données et partage des stratégies pour utiliser [!DNL Adobe Analytics] pour en créer une.
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Création d’une culture basée sur les données
 
-Joindre [!DNL Adobe Analytics] Le champion Gitai Ben-Ammi discute de ce à quoi ressemble une culture basée sur les données et partage ses stratégies d&#39;utilisation [!DNL Adobe Analytics] pour en créer un.
+Rejoignez [!DNL Adobe Analytics] le champion Gitai Ben-Ammi en discutant de ce à quoi ressemble une culture basée sur les données et partage des stratégies pour utiliser [!DNL Adobe Analytics] pour en construire une.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414131/?quality=12&learn=on)

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Au cours de cette session de présentation, vous découvrirez les principales tendances en matière de D&amp;I. Rejoignez-nous pour explorer la manière dont vous pouvez utiliser vos données de manière pertinente en maximisant entièrement vos investissements Experience Cloud et en découvrant de nouvelles innovations.
 
-*Axel Schaefer* Responsable du marketing produit, Analytics EMEA / Adobe
+*Axel Schaefer* Chef du marketing produit, Analytics EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343818/?quality=12&learn=on)

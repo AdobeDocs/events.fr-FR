@@ -1,6 +1,6 @@
 ---
 title: Heures d’ouverture du Champion AEM - Édition d’avril
-description: Rejoignez-nous pour l’édition d’avril des Heures d’ouverture pour les champions de l’Adobe, en tant que panel de champions de Adobe Experience Manager discutent des bonnes pratiques, partagent des conseils et participent à une séance de questions-réponses en direct AEM as a Cloud Service. Que vous soyez novice en AEM, que vous ayez une question sur votre transition vers le Cloud Service ou que vous souhaitiez simplement comprendre comment la transition vers AEM as a Cloud Service peut répondre aux besoins de votre organisation, vous êtes certain d’obtenir des informations précieuses de la part de nos champions Adobe Experience Manager.
+description: Rejoignez-nous pour l’édition d’avril des Heures de bureau des champions de l’Adobe, en tant que panel de champions Adobe Experience Manager discutent des bonnes pratiques, partagent des conseils et participent à des questions-réponses en direct autour d’AEM as a Cloud Service. Que vous soyez novice en AEM, que vous ayez une question sur votre transition vers Cloud Service ou que vous souhaitiez simplement comprendre comment la transition vers AEM as a Cloud Service peut répondre aux besoins de votre organisation, vous êtes certain d’obtenir des informations précieuses de la part de nos champions Adobe Experience Manager.
 solution: Experience Manager
 feature-set: Experience Manager
 feature: Cloud Manager
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 # Heures d’ouverture du Champion AEM - Édition d’avril
 
-Rejoignez-nous pour l&#39;édition d&#39;avril des &quot;Heures de bureau du Champion&quot; de l&#39;Adobe, en tant que panel de [Champions Adobe Experience Manager |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]discuter des bonnes pratiques, partager des conseils et participer à des questions/réponses en direct sur AEM as a Cloud Service.
+Rejoignez-nous pour l&#39;édition d&#39;avril des Heures d&#39;ouverture pour les champions d&#39;Adobe, en tant que panel de [champions Adobe Experience Manager |https://business.adobe.com/blog/the-latest/introducing-the-very-first-adobe-experience-manager-champion-class]discutez des bonnes pratiques, partagez des conseils et prenez part à des questions/réponses en direct autour d’AEM as a Cloud Service.
 
-Que vous soyez novice en AEM, que vous ayez une question sur votre transition vers le Cloud Service ou que vous souhaitiez simplement comprendre comment la transition vers AEM as a Cloud Service peut répondre aux besoins de votre organisation, vous êtes certain d’obtenir des informations précieuses de la part de nos champions Adobe Experience Manager.
+Que vous soyez novice en AEM, que vous ayez une question sur votre transition vers Cloud Service ou que vous souhaitiez simplement comprendre comment la transition vers AEM as a Cloud Service peut répondre aux besoins de votre organisation, vous êtes certain d’obtenir des informations précieuses de la part de nos champions Adobe Experience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419001/?learn=on)

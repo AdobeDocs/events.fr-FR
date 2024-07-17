@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Événement d’échange de compétences Août 2023 - Clé d’ouverture
+# Événement d&#39;Exchange de compétences Août 2023 - Clé d&#39;ouverture
 
 Vous êtes curieux de savoir où se dirige Adobe Analytics ? Ben Gaines, Director de Gestion de produit pour Customer Journey Analytics et Adobe Analytics, vous dira un peu ce à quoi vous attendre.
 

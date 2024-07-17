@@ -7,13 +7,13 @@ duration: 105
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 7%
 
 ---
 
 # Mises à jour du produit Adobe Commerce
 
-Rejoignez le webinaire sur la mise à jour des produits Adobe Commerce pour découvrir comment nous transformons la plateforme avec de nombreuses nouvelles fonctionnalités intéressantes. Nous vous montrerons les dernières innovations en matière de commerce et comment elles vous aident à accroître vos ventes, à rationaliser votre développement et à améliorer vos performances.
+Rejoignez le webinaire sur la mise à jour des produits Adobe Commerce pour découvrir comment nous transformons la plateforme avec de nombreuses nouvelles fonctionnalités intéressantes. Nous présenterons les dernières innovations Commerce et leur manière d’augmenter les ventes, de rationaliser le développement et d’améliorer les performances.
 
 ## Dernière mise à jour
 

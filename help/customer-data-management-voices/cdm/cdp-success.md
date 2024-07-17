@@ -25,5 +25,5 @@ Avec tout le bruit sur le marché des CDP, il est difficile de savoir où se con
 ## Informations supplémentaires 
 
 *[Bonnes pratiques relatives aux personnes et aux processus pour la gestion des données client](people-and-process.md)
-*[Création d’expériences superbes avec vos données propriétaires](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
-*[Étude de cas : banques du BST sur la personnalisation des données en temps réel pour chaque client.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)
+*[Créer des expériences superbes avec vos données propriétaires](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/industry/build-superb-experiences-with-your-first-party-data.html)
+*[Étude de cas - banques du BST sur la personnalisation des données en temps réel pour chaque client.](https://business.adobe.com/customer-success-stories/tsb-case-study.html)

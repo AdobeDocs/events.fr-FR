@@ -28,5 +28,5 @@ Au cours de cette session concernant la collecte de données pour Adobe Experien
 * [Demandez aux experts - Principes de base du SDK Web](exl-live-episode-05-26-22.md)
 * [Demandez aux experts - Connexions RTCDP](exl-live-episode-06-23-22.md)
 
-Pour poursuivre la discussion sur ce sujet, veuillez consulter l’Experience League [Publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503).
+Pour poursuivre la discussion sur ce sujet, consultez l’ [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/aep-community-qna-coffee-break-7-21-22-10-30am-pt-adobe/td-p/461503) Experience League.
 

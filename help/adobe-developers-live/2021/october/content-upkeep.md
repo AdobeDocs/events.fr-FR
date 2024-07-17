@@ -20,7 +20,7 @@ ht-degree: 12%
 
 Démontrez les fonctionnalités disponibles dans la suite d’outils de modernisation de Adobe Experience Manager. Découvrez comment les équipes de développement peuvent l’utiliser pour consolider, convertir ou mettre à niveau du contenu afin de réduire la charge sur les auteurs à mesure que la bibliothèque de composants évolue.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3zJuUBH)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3zJuUBH)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337577/?quality=12&learn=on&hidetitle=true)
 

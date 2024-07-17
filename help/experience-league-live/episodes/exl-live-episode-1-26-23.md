@@ -19,7 +19,7 @@ ht-degree: 17%
 
 # Points forts de la collecte de données et feuille de route
 
-**Ce que nous avons publié et ce que nous allons apporter à la collecte de données d’Adobe**
+**Ce que nous avons publié et ce que nous fournissons avec la collecte de données d’Adobe**
 
 La collecte de données est très importante en Adobe ! Vous devez être en mesure de faire confiance aux données que vous utilisez. L&#39;année dernière, nous avons eu des évènements importants avec des sorties et de grandes choses arrivent.
 
@@ -27,5 +27,5 @@ La collecte de données est très importante en Adobe ! Vous devez être en mesu
 
 Regardez la vidéo ci-dessus pour visionner cet événement en direct, où des experts de la collecte de données d’Adobe ont dressé un bilan des récentes mises à jour importantes, ainsi qu’un aperçu des éléments à venir de la feuille de route.
 
-Vous avez des questions à ce sujet ? Poursuivre la discussion sur ce sujet sur Adobe Experience League [Publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316).
+Vous avez des questions à ce sujet ? Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-data-collection/m-p/569923#M316) de Adobe Experience League.
 

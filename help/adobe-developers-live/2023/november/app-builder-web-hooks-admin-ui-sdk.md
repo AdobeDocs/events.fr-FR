@@ -1,5 +1,5 @@
 ---
-title: En savoir plus sur Adobe App Builder, Adobe IO, Webhooks et le SDK de l’interface utilisateur d’administration
+title: En savoir plus sur Adobe App Builder, Adobe IO, Webhooks et Admin UI SDK
 description: Découvrez Adobe App Builder, Adobe IO, webhooks, Admin UI SDK.  Cette section présente chaque nouvelle fonctionnalité afin de vous aider à comprendre les cas d’utilisation courants.
 solution: Commerce
 feature: App Builder
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# En savoir plus sur Adobe App Builder, Adobe IO, Webhooks et le SDK de l’interface utilisateur d’administration
+# En savoir plus sur Adobe App Builder, Adobe IO, Webhooks et Admin UI SDK
 
 Découvrez Adobe App Builder, Adobe IO, webhooks, Admin UI SDK.  Cette section présente chaque nouvelle fonctionnalité afin de vous aider à comprendre les cas d’utilisation courants.
 

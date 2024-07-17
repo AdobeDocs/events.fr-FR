@@ -1,6 +1,6 @@
 ---
 title: Investir dans vous-même - Adobe [!DNL Marketo Engage] Certification
-description: Le processus de certification vous a-t-il intéressé et comment il peut vous aider dans votre carrière marketing ? Ou peut-être que vous êtes intéressé par le processus d'étude, de préparation et de prise de l'examen ? Rejoindre l’Adobe [!DNL Marketo Engage] Les champions discutent de leur parcours à devenir un expert ou un architecte certifié Marketo !
+description: Le processus de certification vous a-t-il intéressé et comment il peut vous aider dans votre carrière marketing ? Ou peut-être que vous êtes intéressé par le processus d'étude, de préparation et de prise de l'examen ? Rejoignez les champions de l'Adobe  [!DNL Marketo Engage] alors qu'ils discutent de leur parcours à devenir un expert ou un architecte certifié Marketo !
 role: Admin, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Investir dans vous-même - Adobe [!DNL Marketo Engage] Certification
 
-Le processus de certification vous a-t-il intéressé et comment il peut vous aider dans votre carrière marketing ? Ou peut-être que vous êtes intéressé par le processus d&#39;étude, de préparation et de prise de l&#39;examen ? Rejoindre l’Adobe [!DNL Marketo Engage] Les champions discutent de leur parcours à devenir un expert ou un architecte certifié Marketo !
+Le processus de certification vous a-t-il intéressé et comment il peut vous aider dans votre carrière marketing ? Ou peut-être que vous êtes intéressé par le processus d&#39;étude, de préparation et de prise de l&#39;examen ? Rejoignez les [!DNL Marketo Engage] champions de l&#39;Adobe alors qu&#39;ils discutent de leur parcours à devenir un expert ou un architecte certifié Marketo !
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416760/?quality=12&learn=on)
 
-Cliquez sur **[here](assets/certification.pdf){target="_blank"}** pour les diapositives de session.
+Cliquez **[ici](assets/certification.pdf){target="_blank"}** pour les diapositives de session.

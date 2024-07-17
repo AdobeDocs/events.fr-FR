@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Il est essentiel d’adapter votre base de code pour qu’elle soit compatible avec le cloud et à l’épreuve des balles contre les futures mises à niveau gérées en arrière-plan afin de maximiser les avantages du Cloud Service Adobe Experience Manager.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332308/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/get-ready-aem-cloud.pdf)** pour les diapositives de session.

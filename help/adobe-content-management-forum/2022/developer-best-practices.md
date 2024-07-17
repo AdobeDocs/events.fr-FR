@@ -1,6 +1,6 @@
 ---
 title: Bonnes pratiques pour les développeurs pour accélérer la mise sur le marché
-description: Pauline Hyunh et Gabriel Walt abordent les approches modulaires d’AEM Sites, la création rapide de sites, les bonnes pratiques pour les développeurs, les outils à faible code, les modèles, etc. (Doit comporter entre 60 et 160 caractères, mais compte 177 caractères)
+description: Pauline Hyunh et Gabriel Walt abordent les approches modulaires d’AEM Sites, la création rapide de sites, les bonnes pratiques pour les développeurs, les outils à faible code, les modèles, etc. (Doit comporter entre 60 et 160 caractères, mais 177 caractères)
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Developer Tools
 topic: Development
@@ -13,7 +13,7 @@ duration: 2446
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 14%
+ht-degree: 0%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Asset Link
+title: Lien de ressource
 description: Votre connexion native à Adobe Creative Cloud.
 solution: Experience Manager, Experience Manager Assets
 product: experience manager
@@ -17,7 +17,7 @@ duration: 3674
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
@@ -31,14 +31,14 @@ Asset Link est votre connexion native à Adobe Creative Cloud.
 
 ## Ressources
 
-* [Vidéos sur les liens de ressources Adobe](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html?lang=fr)
-* [Asset Link pour Adobe XD](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
+* [Adobe des vidéos Asset Link](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html?lang=fr)
+* [Lien de ressource pour Adobe XD](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/adobe-asset-link-for-xd.ug.html)
 * [Configuration d’AEM Assets 6.5 et 6.4 pour Adobe Asset Link](https://helpx.adobe.com/enterprise/using/configure-aem-assets-6-for-asset-link.html)
-* [Configuration d’AEM as a Cloud Service pour Adobe Asset Link](https://helpx.adobe.com/fr/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
+* [Configuration d’AEM as a Cloud Service pour Adobe Asset Link](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/configure-aem-assets-for-asset-link.ug.html)
 
 ## Enregistrements de séries
 
-* [Brand Portal](brand-portal.md)
+* [Brand Portal](brand-portal.md)
 * [Contenu multimédia dynamique](dynamic-media.md)
 * [Structure de dossiers et recherche](folder-structure-search.md)
 * [Métadonnées](metadata.md)

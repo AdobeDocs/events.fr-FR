@@ -14,7 +14,7 @@ duration: 1805
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 14%
+ht-degree: 9%
 
 ---
 
@@ -22,12 +22,12 @@ ht-degree: 14%
 
 Découvrez comment utiliser le nouveau pipeline de code frontal récemment introduit dans Cloud Manager
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/2XVcBg8)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/2XVcBg8)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337886/?quality=12&learn=on&hidetitle=true)
 
 ## Ressources supplémentaires
 
-- [Documentation Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr)
-- [Présentation du Cloud Service Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=fr)
-- [Tutoriels sur Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=fr)
+- [Documentation Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Présentation du Cloud Service Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Tutoriels sur Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

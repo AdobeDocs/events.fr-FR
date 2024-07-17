@@ -1,6 +1,6 @@
 ---
-title: L’explosion des ressources numériques et AEM Assets
-description: Apprenez-en plus sur l’explosion des ressources numériques et sur AEM Assets chez Adobe.
+title: Explosion des ressources numériques et AEM Assets
+description: Découvrez l’explosion des ressources numériques et AEM Assets à Adobe.
 discoiquuid: b3ec974b-8173-4dad-b349-88c4da78ce89
 targetaudience: target-audience advanced
 exl-id: fd0b8f3e-c6fc-4df7-926c-c40074b6534c
@@ -8,28 +8,28 @@ duration: 3276
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# L’explosion des ressources numériques et [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
+# Explosion des ressources numériques et [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
-Chez Adobe, nous avons observé une explosion des ressources numériques dans 4 domaines clés :
+En Adobe, nous avons observé une explosion des ressources numériques dans 4 domaines clés :
 
-* La taille de fichier des ressources numériques en production
-* Le nombre des ressources numériques en production
+* Taille de fichier des ressources numériques en cours de production
+* Nombre de ressources numériques en cours de production
 * Les attentes de nos utilisateurs et de nos clients concernant les ressources numériques
-* Les demandes de déploiements [!DNL AEM Assets] de plus en plus importants
+* Demandes de déploiements [!DNL AEM Assets] plus volumineux et plus volumineux
 
-Au cours de cette session, nous allons en apprendre davantage sur l’explosion des ressources numériques, comprendre comment AEM s’adapte à cette explosion des ressources et suivre un cas d’utilisation client tout au long du cycle de vie du projet [!DNL AEM Assets].
+Au cours de cette session, nous allons en apprendre davantage sur l’explosion des ressources numériques, comprendre l’ampleur de l’AEM au fur et à mesure que les ressources explosent, et suivre un exemple client tout au long du cycle de vie de leur projet [!DNL AEM Assets].
 
 >[!VIDEO](https://video.tv.adobe.com/v/21474/?quality=9)
 
-*Présenté le 31 janvier 2018*
+*Délivrés le 31 janvier 2018*
 
-**Présenté par :**
+**Présenté par :**
 
-Clint Goudie-Nice, ingénieur logiciel principal, Adobe
+Clint Goudie-Nice, ingénieur logiciel senior, Adobe
 
 **Diapositives du présentateur**
 

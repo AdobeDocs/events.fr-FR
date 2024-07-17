@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # Points forts de la feuille de route Adobe Commerce
 
-Rejoignez Ed Kennedy, responsable marketing produit senior pour Adobe Commerce, pour connaître les dernières mises à jour concernant les principaux investissements dans les produits Adobe Commerce, notamment Adobe Experience Platform Connector for Adobe Commerce, les catégories intelligentes, le maillage d’API, le créateur d’applications, le déploiement bleu/vert et la mise à l’échelle automatique.
+Rejoignez Ed Kennedy, responsable marketing produit senior pour Adobe Commerce, pour découvrir les dernières mises à jour concernant les principaux investissements dans les produits Adobe Commerce, notamment Adobe Experience Platform Connector for Adobe Commerce, les catégories intelligentes, le maillage API, App Builder, le déploiement bleu/vert et la mise à l’échelle automatique.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410838/?quality=12&learn=on)

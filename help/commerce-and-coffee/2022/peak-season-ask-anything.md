@@ -1,6 +1,6 @@
 ---
-title: Commerce & Café - Saison de pointe "Ask Me Anything"
-description: Cette session "Ask Me Anything" aborde la question de l’adaptation aux modifications de dernière minute apportées à votre site Commerce en période de pointe. Nous discutons des attentes des vacances 2022, des promotions de dernière minute, des options de passage en caisse et des stratégies marketing pour contribuer à la réussite de la saison de pointe. La présentation et la démonstration sont accompagnées d'un Q&R en direct avec Corey Gelato.
+title: Commerce et café - Saison de pointe 'Me demander tout"
+description: Cette session "Ask Me Anything" aborde la question de l’adaptation aux modifications de dernière minute apportées à votre site Commerce en haute saison. Nous discutons des attentes des vacances 2022, des promotions de dernière minute, des options de passage en caisse et des stratégies marketing pour contribuer à la réussite de la saison de pointe. La présentation et la démonstration sont accompagnées d'un Q&R en direct avec Corey Gelato.
 solution: Commerce
 topic: Commerce
 role: Admin, Leader, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Commerce &amp; Café - Saison de pointe &quot;Ask Me Anything&quot;
+# Commerce et café - Saison de pointe &#39;Me demander tout&quot;
 
-Cette session &quot;Ask Me Anything&quot; aborde la question de l’adaptation aux modifications de dernière minute apportées à votre site Commerce en période de pointe. Nous discutons des attentes des vacances 2022, des promotions de dernière minute, des options de passage en caisse et des stratégies marketing pour contribuer à la réussite de la saison de pointe. La présentation et la démonstration sont accompagnées d&#39;un Q&amp;R en direct avec Corey Gelato.
+Cette session &quot;Ask Me Anything&quot; aborde la question de l’adaptation aux modifications de dernière minute apportées à votre site Commerce en haute saison. Nous discutons des attentes des vacances 2022, des promotions de dernière minute, des options de passage en caisse et des stratégies marketing pour contribuer à la réussite de la saison de pointe. La présentation et la démonstration sont accompagnées d&#39;un Q&amp;R en direct avec Corey Gelato.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412273/?quality=12&learn=on)

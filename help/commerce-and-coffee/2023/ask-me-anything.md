@@ -1,6 +1,6 @@
 ---
 title: Me demander tout
-description: Corey Gelato répond aux questions des clients lors de cette session "Ask Me Anything" lors de la dernière édition de Commerce & Café de l'année. Il répond aux questions en direct et à partir de l’enregistrement, en donnant ses conseils stratégiques et en présentant les fonctionnalités d’Adobe Commerce telles que la recherche en direct, les règles de prix et de catégorie, la segmentation des clients et les blocs dynamiques, le vendeur a lancé des devis pour B2B et même un aperçu de la fonctionnalité préférée d’Adobe Commerce de Corey ! Nous espérons que cette session aidera les entreprises à réussir en haute saison à tout moment de l’année.
+description: Corey Gelato répond aux questions des clients lors de cette session "Ask Me Anything" lors du dernier Commerce & café de l'année. Il répond aux questions en direct et à partir de l’enregistrement, en donnant ses conseils stratégiques et en présentant les fonctionnalités d’Adobe Commerce telles que la recherche en direct, les règles de prix et de catégorie, la segmentation des clients et les blocs dynamiques, le vendeur a lancé des devis pour B2B et même un aperçu de la fonctionnalité préférée d’Adobe Commerce de Corey ! Nous espérons que cette session aidera les entreprises à réussir en haute saison à tout moment de l’année.
 solution: Commerce
 feature-set: Commerce
 feature: Search, Categories, Price Rules, Customers, B2B
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Me demander tout
 
-Corey Gelato répond aux questions des clients lors de cette session &quot;Ask Me Anything&quot; lors de la dernière édition de Commerce &amp; Café de l&#39;année. Il répond aux questions en direct et à partir de l’enregistrement, en donnant ses conseils stratégiques et en présentant les fonctionnalités d’Adobe Commerce telles que la recherche en direct, les règles de prix et de catégorie, la segmentation des clients et les blocs dynamiques, le vendeur a lancé des devis pour B2B et même un aperçu de la fonctionnalité préférée d’Adobe Commerce de Corey ! Nous espérons que cette session aidera les entreprises à réussir en haute saison à tout moment de l’année.
+Corey Gelato répond aux questions des clients lors de cette session &quot;Ask Me Anything&quot; lors du dernier Commerce &amp; café de l&#39;année. Il répond aux questions en direct et à partir de l’enregistrement, en donnant ses conseils stratégiques et en présentant les fonctionnalités d’Adobe Commerce telles que la recherche en direct, les règles de prix et de catégorie, la segmentation des clients et les blocs dynamiques, le vendeur a lancé des devis pour B2B et même un aperçu de la fonctionnalité préférée d’Adobe Commerce de Corey ! Nous espérons que cette session aidera les entreprises à réussir en haute saison à tout moment de l’année.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425651/?learn=on)

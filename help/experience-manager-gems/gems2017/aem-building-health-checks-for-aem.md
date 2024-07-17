@@ -1,6 +1,6 @@
 ---
-title: Création de contrôles d’intégrité pour AEM
-description: Déterminer si une instance AEM est saine n’est pas une tâche simple. Cette session communiquera des informations sur la section Rapports d’intégrité du tableau de bord des opérations.
+title: Création de contrôles de l’intégrité pour AEM
+description: Déterminer si une instance d’AEM est saine n’est pas une tâche simple. Cette session donnera des informations sur la section Rapports d’intégrité du tableau de bord des opérations.
 discoiquuid: 8b674cc3-c88a-48a4-b113-abf3efd5069f
 targetaudience: target-audience advanced
 exl-id: 7ca119fa-1dae-4b4c-a772-71af29f5813f
@@ -8,19 +8,19 @@ duration: 2968
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 76%
+ht-degree: 0%
 
 ---
 
-# Création de contrôles d’intégrité pour AEM{#building-health-checks-for-aem}
+# Création de contrôles de l’intégrité pour AEM{#building-health-checks-for-aem}
 
-Déterminer si une instance AEM est saine n’est pas une tâche simple. Cette session offre des informations sur la section Rapports d’intégrité du tableau de bord des opérations : un ensemble de contrôles préprogrammés, basés sur nos recommandations en matière de sécurité et de performances, et développés à l’aide de la structure de contrôle de l’intégrité Sling. Vous découvrirez comment corriger certains contrôles d’intégrité fréquemment défaillants, comment vérifier leurs résultats à l’aide d’outils externes et comment rédiger vos propres contrôles spécifiques à l’application.
+Déterminer si une instance d’AEM est saine n’est pas une tâche simple. Cette session donnera des informations sur la section Rapports d’intégrité du tableau de bord des opérations : ensemble de contrôles prêts à l’emploi, reposant sur nos recommandations en matière de sécurité et de performances et développés à l’aide de la structure de contrôle de l’intégrité Sling. Vous découvrirez comment corriger certains contrôles d’intégrité fréquemment défaillants, comment vérifier leurs résultats à l’aide d’outils externes et comment rédiger vos propres contrôles spécifiques à l’application.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19026/?quality=9)
 
-*Présenté le 12 juillet 2017*
+*Délivrés le 12 juillet 2017*
 
-**Ana Vinatoru, ingénieure logiciel, Adobe**
+**Ana Vinatoru, ingénieur logiciel, Adobe**
 
 **Diapositives du présentateur**
 
@@ -28,7 +28,7 @@ Déterminer si une instance AEM est saine n’est pas une tâche simple. Cette s
 
 >[!WARNING]
 >
->AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
+>AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande d’effectuer une mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Les versions archivées de la documentation sont accessibles à partir de cette [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
 
 ## Liens connexes {#related-links}
 

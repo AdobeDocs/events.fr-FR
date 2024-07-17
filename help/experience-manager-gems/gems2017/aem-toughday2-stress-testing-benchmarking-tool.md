@@ -1,6 +1,6 @@
 ---
-title: Tough Day 2 – La nouvelle version améliorée de l’outil de test de stress et d’évaluation des performances
-description: « Tough Day » était un outil de test qui simulait les pire cas de charge quotidienne, avec l’exécution de toutes les opérations en même temps. Nous avons rassemblé les commentaires de nos utilisateurs au fil des ans et décidé de refondre l’outil pour répondre aux demandes.
+title: Toughday2 - Outil nouveau et amélioré de test de stress et d’évaluation des performances
+description: '"Tough Day" était un outil de test qui simulait les charges quotidiennes dans les pires cas, avec toutes les opérations en même temps. Nous avons rassemblé les commentaires de nos utilisateurs au fil des ans et décidé de les réécrire pour répondre aux demandes.'
 discoiquuid: d60dbb18-7938-4446-9928-7f5f5d1f83a1
 targetaudience: target-audience advanced
 exl-id: 5e6541c4-83e3-4505-b827-407f112f2437
@@ -8,22 +8,22 @@ duration: 3141
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# Tough Day 2 – La nouvelle version améliorée de l’outil de test de stress et d’évaluation des performances{#toughday-a-new-and-improved-stress-testing-and-benchmarking-tool}
+# Toughday2 - Outil nouveau et amélioré de test de stress et d’évaluation des performances{#toughday-a-new-and-improved-stress-testing-and-benchmarking-tool}
 
-« Tough Day » était un outil de test qui simulait les pire cas de charge quotidienne, avec l’exécution de toutes les opérations en même temps. Nous avons rassemblé les commentaires de nos utilisateurs au fil des ans et décidé de refondre l’outil pour répondre aux demandes. Tough Day 2 sera publiquement disponible après la session, pour que vous puissiez l’utiliser à votre bénéfice. Rejoignez-nous pour être témoin de ses résultats en direct et discuter des différents changements.
+&quot;Tough Day&quot; était un outil de test qui simulait les charges quotidiennes dans les pires cas, avec toutes les opérations en même temps. Nous avons rassemblé les commentaires de nos utilisateurs au fil des ans et décidé de les réécrire pour répondre aux demandes. Pour votre propre usage, Toughday2 sera publiquement disponible après la session. Rejoignez-nous pour voir les résultats en direct et parler des changements.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18935/?quality=9)
 
-*Présenté le 21 juin 2017*
+*Délivrés le 21 juin 2017*
 
-**Présenté par :**
+**Présenté par :**
 
-* Catalin Luta, développeur d’ingénierie qualité, Adobe
-* Andrei Stefan Tuicu, développeur d’ingénierie qualité, Adobe
+* Catalin Luta, développeur de QE, Adobe
+* Andrei Stefan Tuicu, développeur de QE, Adobe
 
 **Diapositives du présentateur**
 

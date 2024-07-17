@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # Automatisation des workflows optimisée par Microsoft Power Automate
 
@@ -29,5 +29,3 @@ Exploitez toutes les fonctionnalités d’automatisation avec la solution de cod
 * &#x200B; De plus, Power Automate permet aux utilisateurs de créer et d’utiliser des workflows automatisés dans Adobe Acrobat Sign sans avoir à faire appel au personnel informatique.
 * Ces workflows automatisés peuvent augmenter l’efficacité, la productivité et réduire les erreurs.
 * Power Automate permet également aux non-administrateurs de créer des workflows, fournissant ainsi une plateforme permettant aux utilisateurs d’automatiser les tâches et les processus en créant des flux qui connectent différents services et applications. Il offre un large éventail de déclencheurs et d’actions qui peuvent être utilisés pour créer des workflows personnalisés en fonction de besoins spécifiques de l’entreprise.
-
-

@@ -26,6 +26,8 @@ Au cours de cette session, Jennafer Higgs, Jonathan Cabre, et Malcom Benites de 
 
 Ils partageront les automatisations Fusion et non Fusion, notamment :
 
-・ Comment fermer automatiquement les projets ・ Génération de sous-modèles ・ Révision consolidée des ressources approuvées
+・ Comment fermer automatiquement les projets
+・ Génération de sous-modèles
+・ Examen consolidé des actifs
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425812/?learn=on)

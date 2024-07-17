@@ -1,12 +1,12 @@
 ---
 user-guide-title: L’échange de compétences
 user-guide-breadcrumb: The Skill Exchange
-user-guide-description: Collection d'enregistrements d'Experience Makers The Skill Exchange
+user-guide-description: Collection d'enregistrements de l'Exchange "Compétences" chez Experience Makers
 event-series: The Skill Exchange
 source-git-commit: 76b246f4b6b43632cf07b17ee1ec9b2d581e1e08
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 9%
+ht-degree: 6%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 9%
       + [Prise en main](analytics/aug2023/getting-started.md)
       + [Amélioration de l’expérience client](analytics/aug2023/anti-conversion.md)
       + [Keynote](analytics/aug2023/keynote.md)
-      + [Assemblage](analytics/aug2023/putting-together.md)
-   + Mai 2023 {#may2023}
+      + [Assembler tout](analytics/aug2023/putting-together.md)
+   + Mai 2023 {#may2023}
       + [Conseils et astuces pour Adobe Analytics](analytics/may2023/tips-and-tricks.md)
       + [Migration vers EDDL/WebSDK](analytics/may2023/migrate.md)
       + [Guides Rockstar](analytics/may2023/rockstar-tips.md)
@@ -35,20 +35,20 @@ ht-degree: 9%
    + Octobre 2022 {#oct2022}
       + [Prise en main](analytics/oct2022/getting-started.md)
       + [Analyse des données](analytics/oct2022/analyzing-the-data.md)
-      + [Assemblage](analytics/oct2022/putting-it-all-together.md)
+      + [Assembler tout](analytics/oct2022/putting-it-all-together.md)
       + [ROI Analytics](analytics/oct2022/analytics-roi.md)
       + [Points phares des outils de formation Analytics](analytics/oct2022/spotlight.md)
       + [Maîtriser votre ceinture d’outils Adobe Analytics](analytics/oct2022/toolbelt.md)
    + Septembre 2022 {#sept2022}
       + [Prise en main](analytics/sept2022/getting-started.md)
       + [Analyse des données](analytics/sept2022/analyzing-the-data.md)
-      + [Assemblage](analytics/sept2022/putting-it-all-together.md)
+      + [Assembler tout](analytics/sept2022/putting-it-all-together.md)
       + [Personnalisation d’Adobe Analytics](analytics/sept2022/making-analytics-your-own.md)
       + [Points phares des créateurs d’expérience Analytics pour la croissance](analytics/sept2022/grow-spotlight.md)
       + [Points phares des outils de formation Analytics](analytics/sept2022/learn-spotlight.md)
       + [Maîtriser votre ceinture d’outils Adobe Analytics](analytics/sept2022/toolbelt.md)
       + [Le temps est de ton côté](analytics/sept2022/time-is-on-your-side.md)
-   + Mai 2022 {#may2022}
+   + Mai 2022 {#may2022}
       + [Conseils et astuces pour Adobe Analytics](analytics/may2022/tips-and-tricks.md)
       + [Analyse des données](analytics/may2022/analyze-data.md)
       + [Points phares des créateurs d’expérience](analytics/may2022/experience-makers-spotlight.md)
@@ -101,25 +101,25 @@ ht-degree: 9%
 + Marketo {#marketo}
    + Février 2022 {#feb2022}
       + [Maintenance des données](marketo/feb2022/data-maintenance.md)
-      + [Contenu dynamique et puissance de la personnalisation](marketo/feb2022/dynamic-content.md)
+      + [Contenu dynamique et puissance de Personalization](marketo/feb2022/dynamic-content.md)
       + [Points phares des créateurs d’expérience](marketo/feb2022/experience-makers-spotlight.md)
       + [Gem Masqué Dans Votre Base De Données - Enregistrements Réengagés](marketo/feb2022/hidden-gems.md)
-      + [Personnalisation À L’Échelle](marketo/feb2022/personalization-at-scale.md)
+      + [Personalization À L’Échelle](marketo/feb2022/personalization-at-scale.md)
       + [Évolutivité et efficacité à l’aide de jetons](marketo/feb2022/using-tokens.md)
       + [Utilisation De Programmes D’Engagement Pour Interagir Avec Vos Clients](marketo/feb2022/utilize-engagement-programs.md)
    + Août 2021 {#aug2021}
-      + [Création de programmes dans [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
+      + [Création de programmes dans  [!DNL Marketo Engage]](marketo/aug2021/create-programs.md)
       + [[!DNL Marketo Engage] Rockstars](marketo/aug2021/engage-rockstars.md)
       + [Puissance d’une campagne dynamique](marketo/aug2021/smart-campaign.md)
       + [Champs personnalisés des membres du programme](marketo/aug2021/program-member-custom-fields.md)
-      + [Reporting dans [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
+      + [Reporting dans  [!DNL Marketo Engage]](marketo/aug2021/reporting.md)
       + [Votre feuille de route Marketo](marketo/aug2021/marketo-roadmap.md)
    + Février 2021 {#feb2021}
       + [Une corde de pointe plongée dans des objets personnalisés et une vitesse](marketo/feb2021/custom-objects.md)
       + [Adobe [!DNL Marketo Engage] Segment Rockstar](marketo/feb2021/rockstar.md)
       + [Création de programmes dans Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [Puissance d’une campagne dynamique](marketo/feb2021/power-of-smart-campaign.md)
-      + [Reporting dans [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
+      + [Reporting dans  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Conseils Et Astuces Ultimes Pour Votre Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
    + Août 2023 {#aug2023}
@@ -132,7 +132,7 @@ ht-degree: 9%
       + [Automatisations pilotées par les objectifs](workfront/aug2023/automations.md)
       + [Ressource Management Burnout](workfront/aug2023/resource-management-burnout.md)
       + [Kit de démarrage de gestion des ressources](workfront/aug2023/resource-management-starter-kit.md)
-   + Avril 2022 {#apr2022}
+   + Avril 2022 {#apr2022}
       + [10 conseils pour surfer votre Workfront](workfront/apr2022/ten-tips.md)
       + [Champs calculés que tout le monde doit connaître](workfront/apr2022/calculated-fields.md)
       + [Considérations pour conquérir l’adoption des utilisateurs](workfront/apr2022/user-adoption.md)
@@ -141,7 +141,7 @@ ht-degree: 9%
       + [Découvrez les points phares du suivi des créateurs d’expérience](workfront/apr2022/learn-track-spotlight.md)
       + [Masquage des dates et calendriers des projets](workfront/apr2022/projects-dates-timelines.md)
       + [Présentation des objets dans Workfront](workfront/apr2022/understanding-objects.md)
-+ Bits numériques {#digital-bites}
++ Bites numériques {#digital-bites}
    + [Déverrouiller l&#39;efficacité opérationnelle avec un modèle opérationnel de grande qualité](digital-bites/operational-model.md)
    + [Une feuille de route pour le mappage de valeurs et la réalisation de valeurs](digital-bites/roadmap.md)
    + [Comment déverrouiller la valeur commerciale sur le parcours client](digital-bites/business-value.md)

@@ -1,6 +1,6 @@
 ---
 title: Analyseurs de génération locaux avec Adobe Experience Manager as a Cloud Service
-description: Concentrez-vous sur les nouveaux analyseurs ajoutés à l’archétype AEM, ce qui permet de reproduire localement les validations qui seront effectuées dans les pipelines de déploiement de Cloud Manager.
+description: Concentrez-vous sur les nouveaux analyseurs ajoutés à l’archétype AEM, ce qui permet de reproduire localement les validations qui seront effectuées dans les pipelines de déploiement Cloud Manager.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Comprendre l’API pilotée par les événements par ACDL. Un exemple Commerce montre comment les composants principaux l’hydratent et les interfaces de l’extension Launch avec AA et AT.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332307/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/local-build-analyzers-aemcs.pdf)** pour les diapositives de session.

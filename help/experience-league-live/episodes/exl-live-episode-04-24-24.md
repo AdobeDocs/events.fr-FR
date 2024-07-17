@@ -22,12 +22,12 @@ Activez les surfaces entrantes et le contrôle granulaire de la personnalisation
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428095/?quality=12&learn=on)
 
-**Détails**: le canal d’expérience basé sur le code de Adobe Journey Optimizer offre d’immenses opportunités et de nouveaux cas d’utilisation pour les marques qui développent leurs programmes de personnalisation et d’expérimentation. Ce nouveau canal permet aux équipes d’augmenter le contrôle de personnalisation à l’aide d’actions basées sur le code JSON ou HTML, avec la possibilité de modifier des aspects granulaires des applications natives. Le canal d’expérience basé sur le code offre davantage de flexibilité et de performances pour les mises en oeuvre côté client, côté serveur, hybrides et basées sur les API.
+**Détails** : le canal d’expérience basé sur le code dans Adobe Journey Optimizer offre d’immenses opportunités et de nouveaux cas d’utilisation pour les marques qui développent leurs programmes de personnalisation et d’expérimentation. Ce nouveau canal permet aux équipes d’augmenter le contrôle de personnalisation à l’aide d’actions basées sur le code JSON ou HTML, avec la possibilité de modifier des aspects granulaires des applications natives. Le canal d’expérience basé sur le code offre davantage de flexibilité et de performances pour les mises en oeuvre côté client, côté serveur, hybrides et basées sur les API.
 
 Dans cet épisode Experience League en direct, rejoignez les experts en produits Robert Calangiu et Brent Kostak au moment où nous discutons des nouvelles fonctionnalités et des cas d’utilisation de la chaîne d’expérience basée sur le code. Découvrez comment les développeurs, les chefs de produits et les marketeurs peuvent composer et diffuser du contenu statique et dynamique sur des appareils web, mobiles, connectés à la télévision, des kiosques, des distributeurs de billets, etc.
 
 >[!BEGINSHADEBOX &quot;Vous avez des questions ?&quot;]
 
-**Poursuivre la discussion sur ce sujet sur Adobe Experience League [Publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
+**Poursuivez la discussion sur ce sujet dans la [publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.** de Adobe Experience League
 
 >[!ENDSHADEBOX]

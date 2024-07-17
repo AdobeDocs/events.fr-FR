@@ -1,6 +1,6 @@
 ---
-title: Évolutivité et efficacité à l’aide de jetons dans [!DNL Marketo Engage]
-description: Découvrez comment utiliser des jetons au-delà de la personnalisation afin de rendre la création et les opérations de votre programme plus efficaces dans [!DNL Marketo Engage].
+title: Évolutivité et efficacité à l’aide de jetons dans  [!DNL Marketo Engage]
+description: Découvrez comment utiliser des jetons au-delà de la personnalisation afin de rendre la création et les opérations de votre programme plus efficaces dans  [!DNL Marketo Engage].
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Découvrez comment utiliser des jetons au-delà de la personnalisation afin de rendre la création et les opérations de votre programme plus efficaces dans [!DNL Marketo Engage].
 
-**Principales mesures à prendre**
+**Touches de raccourci**
 
 * Présentation des différents types de jetons et de leur emplacement d’utilisation
 * Obtenez des idées sur la manière de documenter votre stratégie de jeton

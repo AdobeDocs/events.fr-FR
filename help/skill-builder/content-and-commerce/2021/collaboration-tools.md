@@ -1,6 +1,6 @@
 ---
 title: Gérer facilement du contenu en constante modification
-description: En savoir plus sur les outils de collaboration de création de Experience Manager
+description: En savoir plus sur les outils de collaboration de création Experience Manager
 solution: Experience Manager, Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -29,7 +29,7 @@ Découvrez comment créer des expériences client riches et attrayantes dans Ado
 
 >[!VIDEO](https://video.tv.adobe.com/v/332127/?quality=12&learn=on&hidetitle=true)
 
-Découvrez les outils de collaboration de création de Experience Manager.
+Découvrez les outils de collaboration de création Experience Manager.
 
 ## Enregistrements de séries
 

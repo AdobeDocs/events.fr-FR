@@ -23,7 +23,7 @@ Rejoignez l&#39;hôte Danny Gordon et les invités Amol Anand, Sachin Mali, et S
 
 >[!VIDEO](https://video.tv.adobe.com/v/342475/?quality=12&learn=on)
 
-**Enregistré le 21 avril à 9h PST**
+**Enregistré le 21 avril, 9h PST**
 
 ## Diapositives de présentation
 

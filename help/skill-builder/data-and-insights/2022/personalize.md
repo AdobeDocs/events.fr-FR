@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Rejoignez cette session pour découvrir les concepts de base de l’automatisation et de l’optimisation des fonctionnalités d’Adobe Target à l’aide du ciblage automatique et de la personnalisation automatique.
 
-*Matthias Kolitsch* Formation multi-solution senior EMEA/Adobe
+*Matthias Kolitsch* Formation multi-solution senior EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)

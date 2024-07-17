@@ -1,6 +1,6 @@
 ---
-title: Reporting dans [!DNL Marketo Engage]
-description: Cette session examinera tous les outils de création de rapports disponibles dans [!DNL Marketo Engage] Inclusion des informations sur les emails des analyseurs de listes dynamiques dans les rapports
+title: Reporting dans  [!DNL Marketo Engage]
+description: Cette session passera en revue tous les outils de création de rapports disponibles dans  [!DNL Marketo Engage] y compris les analyseurs de listes dynamiques des rapports MPI Insights
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -11,13 +11,13 @@ duration: 2355
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
 # Reporting dans [!DNL Marketo Engage]
 
-Cette session examinera tous les outils de création de rapports disponibles dans [!DNL Marketo Engage] notamment :
+Cette session passera en revue tous les outils de création de rapports disponibles dans [!DNL Marketo Engage], notamment :
 
 * Rapports
 * Listes dynamiques
@@ -30,7 +30,7 @@ Cette session examinera tous les outils de création de rapports disponibles dan
 * Quand utiliser les rapports standard et les listes dynamiques
    * Abonnements
 
-Cette session vous permettra de découvrir les fonctionnalités de reporting de haut niveau de [!DNL Marketo Engage], puis approfondir l’analyse des rapports et des listes dynamiques.
+Vous allez quitter cette session avec une compréhension des fonctionnalités de création de rapports de haut niveau dans [!DNL Marketo Engage] et une exploration approfondie des rapports et listes intelligentes.
 
 Une séance de questions-réponses en direct à la fin de cette session répondra à toutes vos questions en suspens.
 

@@ -17,7 +17,7 @@ duration: 3081
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 5%
+ht-degree: 1%
 
 ---
 
@@ -34,11 +34,11 @@ Automatisez la sortie des ressources pour tous les canaux et écrans avec Dynami
 *[Vidéos Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
 *[Guide de démarrage rapide de la stratégie de médias riches](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Guide des paramètres d’image prédéfinis de la stratégie de médias riches](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
-*[L&#39;image est la série de blogs Tout est là](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
+*[L’image est toute la série de blogs](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)
 
 ## Enregistrements de séries
 
-* [Asset Link](asset-link.md)
-* [Brand Portal](brand-portal.md)
+* [Lien de ressource](asset-link.md)
+* [Brand Portal](brand-portal.md)
 * [Structure de dossiers et recherche](folder-structure-search.md)
 * [Métadonnées](metadata.md)

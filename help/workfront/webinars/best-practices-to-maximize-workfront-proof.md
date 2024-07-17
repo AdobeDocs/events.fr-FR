@@ -1,5 +1,5 @@
 ---
-title: Demander à l’expert - Bonnes pratiques pour optimiser le BAT Workfront
+title: Demandez à l’expert - Bonnes pratiques pour optimiser Workfront Proof
 description: Découvrez comment configurer des paramètres, activer des rapports performants et éviter les pièges courants dans le Bon à tirer. Ce webinaire a été enregistré le 26 février 2020.
 doc-type: feature video
 team: Technical Marketing
@@ -9,11 +9,11 @@ duration: 5182
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '5572'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Demander à l’expert - Bonnes pratiques pour optimiser le BAT Workfront
+# Demandez à l’expert - Bonnes pratiques pour optimiser Workfront Proof
 
 Découvrez comment configurer les paramètres pour la réussite, accéder aux vues (et autres astuces) afin d’activer les rapports de qualité et comprendre comment éviter les pièges courants dans le Bon à tirer. Ce webinaire a été enregistré le 26 février 2020.
 
@@ -83,7 +83,7 @@ Lors de l’envoi d’un BAT, sous Organisation, est-il possible de nettoyer les
 
 **Réponse**
 
-Cette question est liée à Workfront Proof Standalone. Dans le BAT Workfront autonome, vous pouvez utiliser des dossiers privés afin de masquer des dossiers d’utilisateurs spécifiques. Cela permet de disposer d’une liste plus rationalisée de dossiers parmi lesquels choisir. Notez que vous pouvez également utiliser une logique de type anticipé pour localiser le dossier auquel vous souhaitez ajouter un BAT.
+Cette question est liée à Workfront Proof Standalone. Dans Workfront Proof autonome, vous pouvez utiliser des dossiers privés afin de masquer des dossiers d’utilisateurs spécifiques. Cela permet de disposer d’une liste plus rationalisée de dossiers parmi lesquels choisir. Notez que vous pouvez également utiliser une logique de type anticipé pour localiser le dossier auquel vous souhaitez ajouter un BAT.
 
 **Question**
 
@@ -429,7 +429,7 @@ Où puis-je accéder au tableau de bord et aux rapports dans la vérification ?
 
 **Réponse**
 
-Si vous disposez d’une icône de case à cocher à droite de votre barre de recherche dans Workfront, cela signifie que vous disposez d’un compte Workfront et BAT intégré. Lorsque vous cochez cette case, vous accédez au bon à tirer Workfront et l’écran d’accueil s’affiche dans le tableau de bord. Les rapports peuvent être créés à l’aide de l’option Vues du panneau de gauche.
+Si vous disposez d’une icône de case à cocher à droite de votre barre de recherche dans Workfront, cela signifie que vous disposez d’un compte Workfront et BAT intégré. Lorsque vous cochez cette case, vous accédez à Workfront Proof et l’écran d’accueil est le tableau de bord. Les rapports peuvent être créés à l’aide de l’option Vues du panneau de gauche.
 
 **Question**
 
@@ -465,11 +465,11 @@ Je vous recommande d’utiliser des modèles de workflow automatisés qui vous p
 
 **Question**
 
-L’étape Bon à tirer de Workfront n’est-elle ajoutée que lors de l’utilisation de workflows automatisés et une personne qui n’a pas été ajoutée au workflow ouvre-t-elle le BAT ?
+L’étape Workfront Proof n’est-elle ajoutée que lors de l’utilisation de workflows automatisés ? Une personne qui n’a pas été ajoutée au workflow ouvre-t-elle le BAT ?
 
 **Réponse**
 
-L&#39;étape &quot;Bon à tirer Workfront&quot; sera ajoutée aux bons à tirer si un non-destinataire clique dans le BAT. Elle sera également appliquée si quelqu’un convertit un BAT de workflow de base en BAT Workfront automatisé.
+La scène &quot;Workfront Proof&quot; sera ajoutée aux BAT si un non-destinataire clique dans le BAT. Elle sera également appliquée si quelqu’un convertit un BAT de workflow de base en Workfront Proof automatisé.
 
 **Question**
 

@@ -1,6 +1,6 @@
 ---
-title: Module de connexion externe d’Oak – Authentification avec le protocole LDAP et plus
-description: Découvrez le nouveau module de connexion externe d’Apache Jackrabbit Oak. Découvrez les détails et l’interaction du module de connexion, du gestionnaire de synchronisation et du fournisseur d’identité. Obtenez une démo de la configuration requise pour que les utilisateurs du protocole LDAP puissent être automatiquement importés dans AEM à des fins d’authentification. Découvrez des conseils et des astuces sur la façon de déboguer le système si les choses ne fonctionnent pas immédiatement.
+title: Module de connexion externe Oak - Authentification avec LDAP et au-delà
+description: Voir le nouveau module de connexion externe d’Apache Jackrabbit Oak. Découvrez les détails et l’interaction du module de connexion, du gestionnaire de synchronisation et du fournisseur d’identité. Obtenez une démonstration de la configuration requise afin que les utilisateurs LDAP puissent être automatiquement importés dans AEM à des fins d’authentification. Découvrez des conseils et des astuces sur la façon de déboguer le système si les choses ne fonctionnent pas immédiatement.
 discoiquuid: dbc3dbdf-3bae-4ad8-a4dd-0bd28abebc58
 targetaudience: target-audience advanced
 exl-id: 31d8076c-b61e-4d3d-bc92-0cee1852d026
@@ -8,19 +8,19 @@ duration: 3236
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# Module de connexion externe d’Oak – Authentification avec le protocole LDAP et plus{#oak-s-external-login-module-authenticating-with-ldap-and-beyond}
+# Module de connexion externe Oak - Authentification avec LDAP et au-delà{#oak-s-external-login-module-authenticating-with-ldap-and-beyond}
 
-Découvrez le nouveau module de connexion externe d’Apache Jackrabbit Oak. Découvrez les détails et l’interaction du module de connexion, du gestionnaire de synchronisation et du fournisseur d’identité. Obtenez une démo de la configuration requise pour que les utilisateurs du protocole LDAP puissent être automatiquement importés dans AEM à des fins d’authentification. Découvrez des conseils et des astuces sur la façon de déboguer le système si les choses ne fonctionnent pas immédiatement.
+Voir le nouveau module de connexion externe d’Apache Jackrabbit Oak. Découvrez les détails et l’interaction du module de connexion, du gestionnaire de synchronisation et du fournisseur d’identité. Obtenez une démonstration de la configuration requise afin que les utilisateurs LDAP puissent être automatiquement importés dans AEM à des fins d’authentification. Découvrez des conseils et des astuces sur la façon de déboguer le système si les choses ne fonctionnent pas immédiatement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19382/?quality=9)
 
-*Présenté le 29 juillet 2015*
+*Délivrés le 29 juillet 2015*
 
-**Présenté par :**
+**Présenté par :**
 
 * Tobias Bocanegra, scientifique principal, Adobe
 

@@ -17,6 +17,8 @@ ht-degree: 0%
 
 # Une corde de pointe plongée dans des objets personnalisés et une vitesse
 
-Des données relationnelles de type &quot;un à plusieurs&quot;, ainsi qu’un moteur de modèle éprouvé, constituent l’équipe de balises idéale pour le contenu d’email avancé. Découvrez les tactiques de conception de schémas de CO, de tri, de filtrage et d’agrégation des enregistrements de CO, de détection des mises à jour d’enregistrements et d’intégration de pseudo-CO à l’aide de JSON. Nous allons également couvrir les demandes générales de Velocity comme la localisation des dates, heures et devises.
+Des données relationnelles de type &quot;un à plusieurs&quot;, ainsi qu’un moteur de modèle éprouvé, constituent l’équipe de balises idéale pour le contenu d’email avancé. Découvrez les tactiques pour le CO
+conception de schémas ; tri, filtrage et agrégation des enregistrements CO ; détection des mises à jour d’enregistrements ; et intégration de pseudo-CO à l’aide de JSON. Nous allons
+couvre également les tâches générales Velocity, telles que la localisation de dates, heures et devises.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340313/?quality=12&learn=on)

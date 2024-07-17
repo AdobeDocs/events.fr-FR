@@ -9,13 +9,13 @@ doc-type: Event
 duration: 3493
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15447
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+exl-id: e70e0f26-f7cf-4e49-86e7-379685cd3b40
+source-git-commit: 441e5d9313ea3c46ce09d1d6cfbe358fce8e0b83
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 0%
 
 ---
-
 
 # 7 manières de développer une activité d’e-commerce de manière organique
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Préparation de la saison du pic
 
-Au cours de cette session de Commerce &amp; Café, Corey Gelato plonge en profondeur dans les bonnes pratiques et les stratégies de la haute saison pour 2023, que la vôtre se produise pendant la saison traditionnelle des fêtes ou une période d&#39;activité spécifique au secteur. Le commerce continue d’être le canal d’orientation pour tous les acheteurs, que ce soit B2C ou B2B. En utilisant des techniques partagées au cours de cette session, votre équipe peut promouvoir avec succès et efficacité vos biens et/ou services sur votre ou vos sites et rester compétitive pendant une période de pointe de l’année.
+Au cours de cette session de Commerce &amp; Coffee, Corey Gelato plonge en profondeur dans les bonnes pratiques et les stratégies de la haute saison pour 2023, que la vôtre se produise pendant la saison traditionnelle des fêtes ou une période d&#39;activité spécifique au secteur. Le commerce continue d’être le canal d’orientation pour tous les acheteurs, que ce soit B2C ou B2B. En utilisant des techniques partagées au cours de cette session, votre équipe peut promouvoir avec succès et efficacité vos biens et/ou services sur votre ou vos sites et rester compétitive pendant une période de pointe de l’année.
 
 À la suite d’une démonstration de fonctionnalités, notamment l’évaluation et l’aperçu du contenu, les promotions, les règles de prix du catalogue et du panier, etc., Corey répond aux questions lors d’une session de questions-réponses en direct.
 

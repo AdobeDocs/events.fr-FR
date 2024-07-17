@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Découvrez comment déployer votre code en production en toute confiance grâce à des tests fonctionnels personnalisés. La qualité ne devrait pas être difficile, même un vendredi après-midi chargé.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332309/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/custom-functional-tests-cicd.pdf)** pour les diapositives de session.

@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1108
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15297
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: c1774a2e-478b-4bec-be9f-69db9e0ef615
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
-
 
 # Collecte de plusieurs signatures en un seul clic
 

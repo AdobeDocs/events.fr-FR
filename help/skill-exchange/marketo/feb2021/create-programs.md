@@ -15,10 +15,10 @@ ht-degree: 0%
 
 ---
 
-# Création de programmes dans Adobe [!DNL Marketo Engage]
+# Création de programmes dans un Adobe [!DNL Marketo Engage]
 
 Cette session vous apprendra tout sur la structure de programme, y compris les types de programme, les canaux et états et les balises. Vous découvrirez également le concept de programme de la fondation et ce qui constitue un programme.
 
-Vous allez quitter cette session pour comprendre comment configurer votre [!DNL Marketo Engage] pour répondre aux besoins de votre entreprise de la manière la plus efficace possible et pour créer des programmes permettant d’exécuter des emails et des webinaires.
+Cette session vous permettra de comprendre comment configurer votre instance [!DNL Marketo Engage] pour répondre aux besoins de votre entreprise de la manière la plus efficace possible et comment créer des programmes pour exécuter des emails et des webinaires.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340308/?quality=12&learn=on)

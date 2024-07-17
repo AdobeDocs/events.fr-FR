@@ -1,6 +1,6 @@
 ---
 title: Comment déverrouiller la valeur commerciale sur le parcours client
-description: Découvrez comment Adobe Consulting aide vos équipes créatives, marketing et technologiques à évaluer et à identifier les bonnes pratiques en marketing digital centré sur les clients afin de générer des résultats quantifiables et d’excellentes expériences client, en alignant votre organisation sur le parcours client.
+description: Découvrez comment Adobe Consulting aide vos équipes créatives, marketing et technologiques à évaluer et à identifier les bonnes pratiques en marketing numérique centré sur les clients afin de générer des résultats quantifiables et d’excellentes expériences client, en alignant votre organisation sur le parcours client.
 role: Leader, User
 level: Intermediate
 kt: 11122
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Comment déverrouiller la valeur commerciale sur le parcours client
 
-Découvrez comment Adobe Consulting aide vos équipes créatives, marketing et technologiques à évaluer et à identifier les bonnes pratiques en marketing digital centré sur les clients afin de générer des résultats quantifiables et d’excellentes expériences client, en alignant votre organisation sur le parcours client.
+Découvrez comment Adobe Consulting aide vos équipes créatives, marketing et technologiques à évaluer et à identifier les bonnes pratiques en marketing numérique centré sur les clients afin de générer des résultats quantifiables et d’excellentes expériences client, en alignant votre organisation sur le parcours client.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409235/?quality=12&learn=on)

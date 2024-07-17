@@ -1,5 +1,5 @@
 ---
-title: Assemblage
+title: Assembler tout
 description: Comment Adobe Analytics effectue le suivi des données de site web, comment enregistrer, partager et collaborer.
 solution: Analytics
 feature-set: Analytics
@@ -14,11 +14,11 @@ duration: 2445
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 15%
+ht-degree: 0%
 
 ---
 
-# Assemblage
+# Assembler tout
 
 Pour conclure, nous allons comprendre comment Adobe Analytics suit les données d’un site web, comment les enregistrer, les partager et collaborer. Laissez cette session contenant des conseils pour accroître votre productivité et poursuivre votre parcours d’apprentissage.
 

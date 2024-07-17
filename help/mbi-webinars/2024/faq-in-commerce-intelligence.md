@@ -37,7 +37,7 @@ Découvrez les réponses à certaines questions fréquemment posées dans Commer
 * Oracle DB n’est pas pris en charge ; toutefois, le transfert ou l’API d’importation CSP peuvent être utilisés comme alternative.
 * L’utilisation de l’API est limitée : une demande d’utilisation par mois et environ 100 demandes d’enregistrements, ce qui équivaut à environ 100 000 enregistrements par mois.
 
-**Intégration de données Source**
+**Intégration de Data Source**
 
 * Adobe Commerce Intelligence prend en charge plusieurs sources de données telles qu’Adobe Commerce, SAS, API, bases de données, etc.
 * Permet la convergence des données de différentes instances Adobe Commerce en une seule instance Commerce Intelligence.

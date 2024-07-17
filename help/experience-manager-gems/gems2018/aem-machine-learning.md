@@ -1,6 +1,6 @@
 ---
-title: Machine learning dans AEM – Balises intelligentes améliorées, disposition intelligente et plus
-description: Découvrez comment le machine learning augmente la productivité et déverrouille de nouveaux cas d’utilisation dans la version 6.4 d’Experience Manager
+title: Apprentissage automatique dans AEM - Balises intelligentes améliorées, Disposition intelligente, etc.
+description: Découvrez comment l’apprentissage automatique augmente la productivité et déverrouille de nouveaux cas d’utilisation dans la version 6.4 Experience Manager
 topic-tags: smart-tags
 discoiquuid: c0b3b1f6-5765-44f7-ba12-e17267e1c89e
 targetaudience: target-audience advanced
@@ -9,17 +9,17 @@ duration: 3539
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 100%
+ht-degree: 1%
 
 ---
 
-# Machine learning dans AEM : balises intelligentes améliorées, mise en page intelligente et plus{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}
+# Apprentissage automatique en AEM : balises intelligentes améliorées, mise en page intelligente, etc.{#machine-learning-in-aem-enhanced-smart-tags-smart-layout-and-more}
 
 >[!VIDEO](https://video.tv.adobe.com/v/22255/?quality=9)
 
-*Présenté le 18 avril 2018*
+*Délivrés 18 avril 2018*
 
-**Présenté par :**
+**Présenté par :**
 
 Jonas Dahl, chef de produit, Adobe
 
@@ -29,7 +29,7 @@ Jonas Dahl, chef de produit, Adobe
 
 ## Ressources {#resources}
 
-[Balises intelligentes améliorées – AEM Assets](https://helpx.adobe.com/fr/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[Balises intelligentes améliorées - AEM Assets](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -37,4 +37,4 @@ Jonas Dahl, chef de produit, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Machine learning dans AEM : balises intelligentes améliorées, mise en page intelligente et plus](aem-machine-learning.md)
+>* [Apprentissage automatique en AEM : balises intelligentes améliorées, mise en page intelligente, etc.](aem-machine-learning.md)

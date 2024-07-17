@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Evénement d&#39;échange de compétences Août 2022 - Suivi web AEM - Prise en main d&#39;AEM Assets
+# Evénement Skill Exchange Aug 2022 - Suivi web AEM - Prise en main d’AEM Assets
 
 Au cours de cette session, vous apprendrez à :
 

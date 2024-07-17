@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# Événement d’échange de compétences Août 2023 - AEM Developer Track - Conseils stratégiques et tactiques pour migrer vers AEM Cloud Service
+# Événement d’Exchange de compétences Août 2023 - AEM Suivi des développeurs - Conseils stratégiques et tactiques pour migrer vers AEM Cloud Service
 
 Nous savons tous que nous devrions migrer vers AEM Cloud Service pour obtenir les dernières et les plus grandes AEM à offrir, mais souvent cela peut sembler beaucoup plus facile à dire qu&#39;à faire. Les défis pour migrer les instances de services gérés et on-premise vers Cloud Service nécessitent des réponses réelles, et nous devons savoir que lorsque nous y arriverons, nous verrons de la valeur. Les participants reviendront avec :
 

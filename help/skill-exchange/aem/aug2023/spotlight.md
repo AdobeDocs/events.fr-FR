@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Événement d’échange de compétences Août 2023 - Suivi web AEM - Points phares des créateurs d’expérience
+# Événement d’Exchange de compétences Août 2023 - Suivi web AEM - Points phares des créateurs d’expérience
 
 Greg Dimeris de T.Rowe Price explique comment structurer, empiler et surcharger votre contenu pour un retour sur investissement maximal. Découvrez comment alimenter vos expériences web avec des composants comme blocs de construction pour accélérer et accélérer votre croissance.
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Diffuser la bonne offre au bon moment avec la gestion de la décision
 
-**Classez les offres à l’aide de l’IA et utilisez-les dans vos canaux de messagerie internes et externes.**
+**Classement des offres à l’aide de l’IA et utilisation dans vos canaux de messagerie internes et externes.**
 
 La plupart des parcours clients étant aujourd’hui multi-surface et multi-point de contact, il est essentiel de trouver et de fournir les offres appropriées à la bonne interaction. Au-delà des remises, les offres peuvent inclure des messages de fidélité et de rétention, des mises à niveau, des rappels, des promotions et même des opportunités d’apprentissage. Plus que jamais, les spécialistes du marketing ont recours à l’intelligence artificielle pour traiter des cas d’utilisation de la gestion de décision en temps réel essentiels à la mission.
 
@@ -28,4 +28,4 @@ La plupart des parcours clients étant aujourd’hui multi-surface et multi-poin
 
 Lors de cet événement de diffusion en direct, des experts Adobes ont présenté les dernières fonctionnalités de classement intelligent des offres et ont montré comment ajouter des offres aux parcours et aux campagnes dans Adobe Journey Optimizer.  Ils ont également montré comment les offres peuvent être placées dans des canaux Journey Optimizer natifs tels que les e-mails, les SMS et les applications mobiles, ainsi que dans des systèmes externes et des applications intégrées telles qu’Adobe Target.
 
-Poursuivre la discussion sur ce sujet sur Adobe Experience League [Publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55).
+Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55) de Adobe Experience League.

@@ -25,11 +25,11 @@ Rejoignez Bryan, Eric et Doug alors qu&#39;ils discutent de la façon de se rapp
 
 >[!BEGINSHADEBOX &quot;Vous avez des questions ?&quot;]
 
-Poursuivez la discussion sur la [Forum de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+Poursuivez la discussion sur le [forum de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
 
 >[!ENDSHADEBOX]
 
-## Principaux points à retenir
+## Principales acquisitions
 
 * Il existe deux façons de récupérer les données d’Adobe Analytics dans Customer Journey Analytics : Analytics Data Connector (ADC) et le SDK Web.
 * L’ADC permet de copier les données d’une suite de rapports dans Adobe Experience Platform pour analyse, tandis que le SDK Web envoie les données directement dans Adobe Experience Platform.

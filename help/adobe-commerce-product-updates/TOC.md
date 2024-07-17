@@ -8,8 +8,8 @@ mini-toc-levels: 2
 event-series: Adobe Commerce Product Updates
 source-git-commit: b255ba788711f4599e9d18f1155a7bc00487d21b
 workflow-type: tm+mt
-source-wordcount: '30'
-ht-degree: 13%
+source-wordcount: '32'
+ht-degree: 18%
 
 ---
 

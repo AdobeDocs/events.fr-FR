@@ -1,6 +1,6 @@
 ---
-title: 'DataFacts : premier outil de détection des anomalies des données d’AEP créé dans le générateur d’applications'
-description: Le logiciel utilise le créateur d’applications d’Adobe pour développer une application qui permet d’identifier les incohérences de données dans Adobe Experience Platform (AEP).
+title: 'DataFacts : premier outil de détection des anomalies de données d’AEP conçu sur App Builder'
+description: Le logiciel utilise App Builder d’Adobe pour développer une application qui permet d’identifier les incohérences de données dans Adobe Experience Platform (AEP).
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -16,9 +16,9 @@ ht-degree: 16%
 
 ---
 
-# DataFacts : premier outil de détection des anomalies des données d’AEP créé dans le générateur d’applications
+# DataFacts : premier outil de détection des anomalies de données d’AEP conçu sur App Builder
 
-Le logiciel utilise le créateur d’applications d’Adobe pour développer une application qui permet d’identifier les incohérences de données dans Adobe Experience Platform (AEP).
+Le logiciel utilise App Builder d’Adobe pour développer une application qui permet d’identifier les incohérences de données dans Adobe Experience Platform (AEP).
 
 >[!VIDEO](https://video.tv.adobe.com/v/337710/?quality=12&learn=on&hidetitle=true)
 

@@ -1,6 +1,6 @@
 ---
 title: Prise en main d’Adobe Analytics
-description: Le segment "Prise en main" de l’échange de compétences est destiné à ceux qui commencent tout juste avec Adobe Analytics. D’ici la fin de la session, les utilisateurs devraient mieux comprendre la terminologie et les outils d’Adobe Analytics, ainsi qu’une présentation des principales fonctionnalités d’Analysis Workspace au niveau débutant.
+description: Le segment "Prise en main" de l’Exchange "Compétences" est destiné à ceux qui débutent avec Adobe Analytics. D’ici la fin de la session, les utilisateurs devraient mieux comprendre la terminologie et les outils d’Adobe Analytics, ainsi qu’une présentation des principales fonctionnalités d’Analysis Workspace au niveau débutant.
 feature: Analytics Basics, Workspace Basics
 role: User
 level: Beginner
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 ---
 
-# Événement d’échange de compétences Août 2023 - Formation - Prise en main d’Adobe Analytics
+# Événement d’Exchange de compétences Août 2023 - Formation - Prise en main d’Adobe Analytics
 
-Le segment &quot;Prise en main&quot; de l’échange de compétences est destiné à ceux qui commencent tout juste avec Adobe Analytics. D’ici la fin de la session, les utilisateurs devraient mieux comprendre la terminologie et les outils d’Adobe Analytics, ainsi qu’une présentation des principales fonctionnalités d’Analysis Workspace au niveau débutant.
+Le segment &quot;Prise en main&quot; de l’Exchange &quot;Compétences&quot; est destiné à ceux qui débutent avec Adobe Analytics. D’ici la fin de la session, les utilisateurs devraient mieux comprendre la terminologie et les outils d’Adobe Analytics, ainsi qu’une présentation des principales fonctionnalités d’Analysis Workspace au niveau débutant.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425985/?learn=on)

@@ -27,6 +27,6 @@ Rejoignez la championne de Adobe Experience Manager, Cindy Underwood, en partage
 * Schémas de métadonnées de dossier - Découvrez la puissance de la gestion de contenu structuré par le biais des schémas de métadonnées de dossier.
 * Schémas de métadonnées : améliorez la pertinence du contenu et l’expérience utilisateur en maîtrisant la conception des schémas de métadonnées. Configuration des rapports : tirez parti des informations pilotées par les données pour la prise de décisions stratégiques en établissant des rapports détaillés.
 
-Vous pouvez accéder aux diapositives de la présentation [here](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf).
+Vous pouvez accéder aux diapositives de présentation [ici](/help/learn-from-your-peers/assets/experience-manager/sept2023/AEM-Sites-Tools-Webinar.pdf).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424735/?learn=on)

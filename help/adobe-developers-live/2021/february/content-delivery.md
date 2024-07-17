@@ -20,12 +20,12 @@ ht-degree: 0%
 
 ---
 
-# Diffusion de contenu sur Experience Manager Cloud Service : configurez votre projet pour offrir des expériences rapides.
+# Diffusion de contenu sur l’Experience Manager Cloud Service : configurez votre projet pour offrir des expériences rapides.
 
 Adobe Experience Manager as a Cloud Service dispose d’une puissante architecture de diffusion de contenu préconfigurée. Démontrez comment optimiser les configurations de diffusion de contenu optimisée.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332022/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/content-delivery-on-aemcs.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/content-delivery-on-aemcs.pdf)** pour les diapositives de session.

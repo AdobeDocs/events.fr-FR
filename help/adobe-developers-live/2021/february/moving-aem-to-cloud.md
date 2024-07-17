@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Une table ronde avec Ian Boston, Tomek Rekawek et Carlos Sanchez, sur la manière dont nous avons migré Adobe Experience Manager vers le cloud.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331739/?quality=12&learn=on&hidetitle=true)

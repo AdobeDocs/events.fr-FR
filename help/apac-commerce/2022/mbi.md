@@ -27,7 +27,7 @@ Daniel Rios (Directeur, Gestion produit) abordera les sujets suivants :
 
 * Transformer les données en valeur
 * Construire une base de données solide
-* Combinaison de l’IMS et de l’IMS [!DNL Analytics] data
+* Combinaison de données MBI et [!DNL Analytics]
 
 Vous verrez également une démonstration en direct de la plateforme pour donner vie à ces concepts.
 

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Evénement d&#39;échange de compétences Août 2023 - Suivi de croissance - Envoyez votre analyse de données au niveau supérieur grâce à ces 4 fonctionnalités sous-utilisées.
+# Evénement Skill Exchange Aug 2023 - Grow Track - Envoyez votre analyse de données au niveau supérieur grâce à ces 4 fonctionnalités sous-utilisées.
 
 Adobe Analytics comporte un nombre apparemment sans fin de fonctions. Nous avons sélectionné quelques-uns de nos clients et de nos secteurs d’activité les plus sous-utilisés, mais puissants. Au cours de cette session, vous apprendrez à les appliquer à votre workflow d’analyse et à augmenter rapidement la valeur de vos informations pour votre organisation.
 

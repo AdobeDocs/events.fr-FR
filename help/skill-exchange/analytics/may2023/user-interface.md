@@ -1,5 +1,5 @@
 ---
-title: Principes de base de l’interface utilisateur - Échange de compétences Adobe Analytics APAC de mai 2023
+title: Principes de base de l’interface utilisateur - Exchange de compétences Adobe Analytics APAC de mai 2023
 description: Familiarisez-vous avec l’interface utilisateur de base d’Analytics et démarrez votre premier projet dans Analysis Workspace. Au cours de cette session, nous allons commencer à utiliser des tableaux, des visualisations et des panneaux.
 solution: Analytics
 feature-set: Analytics
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Principes de base de l’interface utilisateur - Échange de compétences Adobe Analytics APAC de mai 2023
+# Principes de base de l’interface utilisateur - Exchange de compétences Adobe Analytics APAC de mai 2023
 
 Familiarisez-vous avec l’interface utilisateur de base d’Analytics et démarrez votre premier projet dans Analysis Workspace. Au cours de cette session, nous allons commencer à utiliser des tableaux, des visualisations et des panneaux.
 

@@ -34,6 +34,6 @@ Au cours de cette session, vous allez apprendre :
 * Conseils et astuces sur les modèles modifiables
 * Regroupement des éléments pour créer des blocs de création de contenu puissants
 
-Vous pouvez accéder aux diapositives de la présentation [here](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
+Vous pouvez accéder aux diapositives de présentation [ici](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Connexion des points - Stratégie de base pour Campaign Orchestration
-description: Fondements de Campaign Orchestration Rôle de Campaign Orchestration dans la personnalisation @ Échelle piliers fondamentaux et principes directeurs Orchestration Meilleures pratiques Défis et solutions courants
+description: Fondements de Campaign Orchestration Rôle de Campaign Orchestration dans Personalization @ Échelle Balises de base et principes directeurs Orchestration Meilleures pratiques Défis et solutions courants
 solution: Campaign
 feature-set: Campaign
 feature: Personalization
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 # Connexion des points - Stratégie de base pour Campaign Orchestration
 
-*Fondements de Campaign Orchestration*
+*Fondations de Campaign Orchestration*
 
-* Le rôle de Campaign Orchestration dans la personnalisation à l’échelle
+* Le rôle de Campaign Orchestration à l’échelle de Personalization
 * Principes fondamentaux et principes directeurs
 * Bonnes pratiques d’Orchestration
 * Défis communs et solutions

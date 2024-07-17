@@ -1,6 +1,6 @@
 ---
 title: Campagnes exécutables - Découvrez comment les exécutables peuvent générer de l’efficacité et de l’impact
-description: La session est destinée aux administrateurs Marketo et aux professionnels des opérations de campagne. Elle se concentre sur la compréhension et le déploiement de campagnes exécutables afin d’ajouter de la valeur aux campagnes et programmes, de créer de l’efficacité et de stimuler la croissance.
+description: Cette session est conçue pour les administrateurs et administratrices Marketo et les spécialistes des opérations de campagne et se concentre sur la compréhension et le déploiement de campagnes exécutables pour ajouter de la valeur aux campagnes et aux programmes, créer de l’efficacité et stimuler la croissance.
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -12,7 +12,7 @@ exl-id: cfea1a1a-2d29-4cf6-b633-aa2a2523114e
 source-git-commit: 5edfadf5b805161f9624068f70a7b4830ab84d72
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3427704/?learn=on)
 
 **Modéré par** Chris Willis
-**Discours** Courtny Edwards-Jones et Jane Musatova
+**conférenciers** Courtny Edwards-Jones et Jane Musatova
 
 ## Vue d’ensemble
 

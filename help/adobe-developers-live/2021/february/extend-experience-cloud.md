@@ -1,6 +1,6 @@
 ---
 title: Vous souhaitez donc étendre Adobe Experience Cloud.
-description: Vous souhaitez étendre les solutions Adobe à l’aide d’une architecture moderne qui fonctionne pour plusieurs solutions ? Nous pensons que vous devriez essayer Adobe Developer App Builder. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
+description: Vous souhaitez étendre les solutions Adobe à l’aide d’une architecture moderne qui fonctionne pour plusieurs solutions ? Eh bien, nous pensons que vous devriez essayer Adobe Developer App Builder. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
 solution: Experience Cloud
 topic: Development
 role: Developer
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 # Vous souhaitez étendre Adobe Experience Cloud ?
 
-Vous souhaitez étendre les solutions Adobe à l’aide d’une architecture moderne qui fonctionne pour plusieurs solutions ? Nous pensons que vous devriez essayer Adobe Developer App Builder.
+Vous souhaitez étendre les solutions Adobe à l’aide d’une architecture moderne qui fonctionne pour plusieurs solutions ? Eh bien, nous pensons que vous devriez essayer Adobe Developer App Builder.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331852/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/extend-experience-cloud.pdf)** pour les diapositives de session.

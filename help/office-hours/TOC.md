@@ -24,7 +24,7 @@ ht-degree: 14%
    + Adobe Commerce {#adobe-commerce-office-hours}
       + [Outil d’analyse à l’échelle du site](2023/site-wide-analysis-tool.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
-      + [Autorisations du Admin Console](2023/aep-admin-console-permissions.md)
+      + [Autorisations des Admin Console](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager   {#adobe-experience-manager-office-hours}
       + [Analyse des échecs de déploiement d&#39;AEM CS](2023/aem-deployment-failures-analysis.md)
       + [Architecture d’AEM Forms sans affichage](2023/aem-forms-headless-architecture.md)

@@ -1,6 +1,6 @@
 ---
-title: Présentation d’Adobe Exchange, la plateforme de développement tiers
-description: Découvrez comment créer une intégration service à service sur Developer Console, la gérer sur Admin Console et publier une liste d’applications publiques sur Adobe Exchange. Après avoir créé une connexion à une API Adobe, nous allons passer en revue les étapes d’enregistrement en tant que partenaire Exchange Adobe, de création d’une liste publique, de soumission pour approbation et de publication.
+title: Présentation d’Adobe Exchange, le marché pour les développeurs tiers
+description: Découvrez comment créer une intégration service à service sur Developer Console, la gérer sur Admin Console et publier une liste d’applications publiques sur Adobe Exchange. Après avoir créé une connexion à une API Adobe, nous allons passer en revue les étapes d’enregistrement en tant que partenaire Adobe Exchange, de création d’une liste publique, de soumission pour approbation et de publication.
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
@@ -16,11 +16,11 @@ ht-degree: 8%
 
 ---
 
-# Présentation d’Adobe Exchange, la plateforme de développement tiers
+# Présentation d’Adobe Exchange, le marché pour les développeurs tiers
 
-Découvrez comment créer une intégration service à service sur Developer Console, la gérer sur Admin Console et publier une liste d’applications publiques sur Adobe Exchange. Après avoir créé une connexion à une API Adobe, nous allons passer en revue les étapes d’enregistrement en tant que partenaire Exchange Adobe, de création d’une liste publique, de soumission pour approbation et de publication.
+Découvrez comment créer une intégration service à service sur Developer Console, la gérer sur Admin Console et publier une liste d’applications publiques sur Adobe Exchange. Après avoir créé une connexion à une API Adobe, nous allons passer en revue les étapes d’enregistrement en tant que partenaire Adobe Exchange, de création d’une liste publique, de soumission pour approbation et de publication.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3ooiltm)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3ooiltm)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337841/?quality=12&learn=on&hidetitle=true)
 

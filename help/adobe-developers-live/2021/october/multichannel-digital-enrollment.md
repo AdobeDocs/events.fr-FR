@@ -1,6 +1,6 @@
 ---
 title: Cloud Service Adobe Experience Manager Forms - Enregistrement numérique multicanal sécurisé
-description: Découvrez comment créer des expériences d’inscription numériques modernes et sécurisées avec Adobe Experience Manager Forms as a Cloud Service. Cette session mettra en évidence les bonnes pratiques concernant la sécurisation des données traitées dans les workflows, l’externalisation des données envoyées vers le stockage Azure et la collecte d’informations à l’aide d’Adobe. [!DNL Analytics] avec le Forms adaptatif sur le service cloud.
+description: Découvrez comment créer des expériences d’inscription numériques modernes et sécurisées avec Adobe Experience Manager Forms as a Cloud Service. Cette session mettra en évidence les bonnes pratiques concernant la sécurisation des données traitées dans les workflows, l’externalisation des données envoyées vers le stockage Azure et la collecte d’informations à l’aide d’Adobe [!DNL Analytics] avec Forms adaptatif sur le service cloud.
 solution: Experience Manager,Experience Manager Forms
 role: User
 level: Beginner
@@ -20,11 +20,11 @@ ht-degree: 7%
 
 Découvrez comment créer des expériences d’inscription numériques modernes et sécurisées avec Adobe Experience Manager Forms as a Cloud Service.
 
-Cette session mettra en évidence les bonnes pratiques concernant la sécurisation des données traitées dans les workflows, l’externalisation des données envoyées vers le stockage Azure et la collecte d’informations à l’aide d’Adobe. [!DNL Analytics] avec le Forms adaptatif sur le service cloud.
+Cette session mettra en évidence les bonnes pratiques concernant la sécurisation des données traitées dans les workflows, l’externalisation des données envoyées vers le stockage Azure et la collecte d’informations à l’aide de l’Adobe [!DNL Analytics] avec Forms adaptatif sur le service cloud.
 
 Nous inclurons également un aperçu de certaines intégrations sur notre feuille de route, comme Microsoft PowerAutomate et l’intégration des équipes à Adobe Experience Manager Forms.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3CQjKgg)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3CQjKgg)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337887/?quality=12&learn=on&hidetitle=true)
 

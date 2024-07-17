@@ -1,8 +1,8 @@
 ---
 title: Qui a cliqué là-dessus ? Et que sʼest-il passé ensuite ?
-description: Comprendre le parcours de votre client est tout. Et la création de rapports sur l’interaction de l’utilisateur avec votre propriété web ou mobile est ce qui vous permet d’atteindre cette compréhension. Adobe [!DNL Analytics] vous montre le qui, quoi, pourquoi et où de chaque clic dans votre application, et nous allons explorer en profondeur comment en tirer le meilleur parti lors de notre événement en direct du 21 octobre. Nous vous montrerons comment utiliser les classifications avec le Activity Map pour mieux comprendre le comportement des utilisateurs et pour déterminer facilement les clics qui conduisent à des activités de site importantes.
-landing-page-description: Découvrez comment utiliser les classifications avec le Activity Map pour mieux comprendre le comportement des utilisateurs et pour tracer les clics qui conduisent à des activités de site importantes.
-short-description: Découvrez comment utiliser les classifications avec le Activity Map pour mieux comprendre le comportement des utilisateurs et pour tracer les clics qui conduisent à des activités de site importantes.
+description: Comprendre le parcours de votre client est tout. Et la création de rapports sur l’interaction de l’utilisateur avec votre propriété web ou mobile est ce qui vous permet d’atteindre cette compréhension. Adobe [!DNL Analytics] vous montre le qui, quoi, pourquoi et où de chaque clic dans votre application, et nous allons approfondir nos recherches sur la manière d’en tirer le meilleur parti lors de notre événement en direct du 21 octobre. Nous vous montrerons comment utiliser les classifications avec l’Activity Map pour mieux comprendre le comportement des utilisateurs et pour déterminer facilement les clics qui conduisent à des activités de site importantes.
+landing-page-description: Découvrez comment utiliser les classifications avec l’Activity Map pour mieux comprendre le comportement des utilisateurs et pour tracer les clics qui conduisent à des activités de site importantes.
+short-description: Découvrez comment utiliser les classifications avec l’Activity Map pour mieux comprendre le comportement des utilisateurs et pour tracer les clics qui conduisent à des activités de site importantes.
 solution: Analytics
 feature: Activity Map, Classifications
 kt: 9255
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 Comprendre le parcours de votre client est tout.
 
-Et la création de rapports sur l’interaction de l’utilisateur avec votre propriété web ou mobile est ce qui vous permet d’atteindre cette compréhension. Adobe [!DNL Analytics] vous montre le qui, quoi, pourquoi et où de chaque clic dans votre application, et nous allons explorer en profondeur comment en tirer le meilleur parti lors de notre événement en direct du 21 octobre. Nous vous montrerons comment utiliser les classifications avec le Activity Map pour mieux comprendre le comportement des utilisateurs et pour déterminer facilement les clics qui conduisent à des activités de site importantes.
+Et la création de rapports sur l’interaction de l’utilisateur avec votre propriété web ou mobile est ce qui vous permet d’atteindre cette compréhension. L&#39;Adobe [!DNL Analytics] vous montre le qui, quoi, pourquoi et où de chaque clic dans votre application, et nous allons approfondir nos recherches sur la manière d&#39;en tirer le meilleur parti lors de notre événement en direct du 21 octobre. Nous vous montrerons comment utiliser les classifications avec l’Activity Map pour mieux comprendre le comportement des utilisateurs et pour déterminer facilement les clics qui conduisent à des activités de site importantes.
 
 Nous allons également vous présenter des conseils pour comprendre et exploiter les rapports d’attribution.
 

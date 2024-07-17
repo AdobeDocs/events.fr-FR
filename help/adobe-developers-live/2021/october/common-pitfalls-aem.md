@@ -1,5 +1,5 @@
 ---
-title: 'Récits de première ligne : comment éviter les pièges courants dans les systèmes de CS Experience Manager'
+title: Histoires de première ligne - comment éviter les pièges courants dans les systèmes de CS Experience Manager
 description: Apprenez des erreurs les plus courantes que les autres ont faites pour que vous puissiez les éviter vous-même ! Au cours de cette session, nous examinerons certains des problèmes courants que nos ingénieurs de l’assistance et de l’assistance ont identifiés et discuterons des bonnes pratiques pour vous assurer que vous pouvez les éviter dans votre propre mise en oeuvre Adobe Experience Manager as a Cloud Service.
 solution: Experience Manager
 feature: Developer Tools
@@ -18,11 +18,11 @@ ht-degree: 7%
 
 ---
 
-# Récits de première ligne : comment éviter les pièges courants dans les systèmes de CS Experience Manager
+# Histoires de première ligne - comment éviter les pièges courants dans les systèmes de CS Experience Manager
 
 Apprenez des erreurs les plus courantes que les autres ont faites pour que vous puissiez les éviter vous-même ! Au cours de cette session, nous examinerons certains des problèmes courants que nos ingénieurs de l’assistance et de l’assistance ont identifiés et discuterons des bonnes pratiques pour vous assurer que vous pouvez les éviter dans votre propre mise en oeuvre Adobe Experience Manager as a Cloud Service.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3kLQK3j)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3kLQK3j)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337852/?quality=12&learn=on&hidetitle=true)
 

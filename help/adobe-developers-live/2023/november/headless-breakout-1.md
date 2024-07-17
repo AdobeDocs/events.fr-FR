@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Découvrez le potentiel de Adobe Experience Manager en  des API sans affichage au cours de cette session par Catalina Dumitru, enregistrée en direct sur Adobe Developers Live. Découvrez les fonctionnalités étendues de ces API, notamment le balisage, le contrôle de version et la recherche de points de terminaison. Découvrez comment ils facilitent la récupération de contenu efficace pour les expériences similaires aux applications sur les canaux numériques et découvrez les applications concrètes de ces API en action. Cette session est une ressource inestimable pour les développeurs qui cherchent à exploiter une technologie sans tête pour des solutions innovantes.
 
-Poursuivez la conversation dans [Communautés d’Experience League](https://adobe.ly/3rJfZcN).
+Poursuivez la conversation dans [Communautés Experience League](https://adobe.ly/3rJfZcN).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425627/?learn=on)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Événement d’échange de compétences Août 2023 - Suivi de croissance - points phares des créateurs d’expérience
+# Événement d’Exchange de compétences Août 2023 - Suivi de croissance - points phares des créateurs d’expérience
 
 À propos des segments - Comment découper et découper vos données pour obtenir des informations
 

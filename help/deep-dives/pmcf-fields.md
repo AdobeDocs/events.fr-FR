@@ -26,7 +26,7 @@ Dans la vidéo &quot;Adobe Marketo Engage Champion Deep Dive&quot;, les présent
 
 ## Principales acquisitions
 
-**Champs personnalisés des membres de programme (PMC)**
+**Champs personnalisés des membres de programme (PMCs)**
 
 * Champs de données uniques spécifiques à un programme.
 * Autoriser les données contextuelles au niveau du programme.

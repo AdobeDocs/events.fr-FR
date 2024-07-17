@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Découvrez comment tirer parti de Sensei, la structure d’intelligence artificielle fournie par l’Adobe, pour analyser intelligemment les clients et les segments d’audience afin de trouver des différences significatives, d’attribuer des facteurs de conversion et de prédire le comportement futur.
 
-*Matthias Kolitsch* Formation multi-solution senior EMEA/Adobe
+*Matthias Kolitsch* Formation multi-solution senior EMEA / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343830/?quality=12&learn=on)

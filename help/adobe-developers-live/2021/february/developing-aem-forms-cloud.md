@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Cette session permet aux développeurs de commencer à utiliser Forms sur Adobe Experience Manager as a Cloud Service, depuis la configuration locale d’Adobe Experience Manager Forms et en couvrant la personnalisation.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332306/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/developing-aem-forms-cloud.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/developing-aem-forms-cloud.pdf)** pour les diapositives de session.

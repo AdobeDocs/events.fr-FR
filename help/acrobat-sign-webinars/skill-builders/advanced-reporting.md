@@ -8,13 +8,13 @@ doc-type: Event
 duration: 851
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15300
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 0a963b37-e5eb-4dcc-a9b1-34646e1c8749
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
 
 ---
-
 
 # Création de rapports avancés pour Acrobat Sign
 

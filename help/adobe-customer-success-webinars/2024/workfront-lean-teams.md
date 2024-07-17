@@ -32,13 +32,13 @@ Des stratégies judicieuses et des approches pratiques pour les organisations qu
 
 La rencontre a porté sur les équipes &quot;Lean&quot; et sur l’optimisation de l’efficacité avec Adobe Workfront. Voici un résumé des principaux points discutés,
 
-**Équipes saines et efficacité**
+**Équipes légères et efficacité**
 
 * Débat sur les défis auxquels sont confrontées les équipes de Lean.
 * Objectifs et avantages de la gestion Lean mis en évidence.
 * Principes soulignés associés à la gestion Lean.
 
-**Stratégies d&#39;efficacité**
+**Stratégies pour l’efficacité**
 
 * L&#39;importance de l&#39;amélioration continue.
 * Rationalisation de la communication.
@@ -48,7 +48,7 @@ La rencontre a porté sur les équipes &quot;Lean&quot; et sur l’optimisation 
 
 * Utilisation d’outils Workfront tels que des plans directeurs, des planificateurs de ressources et des intégrations pour réussir.
 
-**Principales mesures à prendre**
+**Touches de raccourci**
 
 * Stratégies pour l&#39;efficacité.
 * Rationalisation des communications.

@@ -8,13 +8,13 @@ doc-type: Event
 duration: 1143
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15295
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 15b61eb5-3a5f-4dbe-94ac-2d4a20976566
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # Conseils avancés pour l’envoi de documents à signer
 

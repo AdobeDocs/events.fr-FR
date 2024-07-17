@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Evénement d&#39;échange de compétences Août 2023 - En savoir plus - Adobe Analytics : analyse des données
+# Evénement d&#39;Exchange de compétences Août 2023 - En savoir plus - Adobe Analytics : analyse des données
 
-Les tableaux à structure libre constituent la base flexible d’Analysis Workspace. La maîtrise de ces tableaux puissants vous emmènera loin dans votre parcours Workspace
+Les tableaux à structure libre sont la base flexible d’Analysis Workspace. La maîtrise de ces tableaux puissants vous emmènera loin dans votre parcours Workspace
 
 Les segments constituent un moyen très flexible de filtrer et de fouiller en profondeur vos données. Ils peuvent être appliqués globalement, au niveau des mesures ou peuvent être utilisés comme dimensions autonomes.
 

@@ -1,8 +1,8 @@
 ---
 title: Gestion des jeux de données dans Commerce Intelligence
-description: Regardez ce webinaire pour en savoir plus sur certaines des puissantes fonctionnalités du Gestionnaire des Data Warehouse de l’intelligence de commerce.
-landing-page-description: Regardez ce webinaire pour en savoir plus sur certaines des puissantes fonctionnalités du Gestionnaire des Data Warehouse de l’intelligence de commerce.
-short-description: Regardez ce webinaire pour en savoir plus sur certaines des puissantes fonctionnalités du Gestionnaire des Data Warehouse de l’intelligence de commerce.
+description: Regardez ce webinaire pour découvrir certaines des puissantes fonctionnalités du Gestionnaire de Data Warehouse Commerce Intelligence.
+landing-page-description: Regardez ce webinaire pour découvrir certaines des puissantes fonctionnalités du Gestionnaire de Data Warehouse Commerce Intelligence.
+short-description: Regardez ce webinaire pour découvrir certaines des puissantes fonctionnalités du Gestionnaire de Data Warehouse Commerce Intelligence.
 kt: 10410
 solution: Commerce, Commerce Intelligence
 role: Leader, User, Data Architect
@@ -13,7 +13,7 @@ duration: 3410
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 22%
+ht-degree: 21%
 
 ---
 
@@ -34,4 +34,4 @@ Au cours de ce webinaire enregistré, vous apprendrez à calculer le retour sur 
 ## Ressources utiles
 
 [Visite du Gestionnaire de Data Warehouse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[Connexion à vos données](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[Connecter vos données](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

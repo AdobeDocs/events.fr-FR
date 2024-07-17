@@ -25,4 +25,4 @@ Rejoignez Chris Knittle, responsable de la formation et de la diffusion à Workf
 * Principes de base de la durée des tâches et des prédécesseurs
 * Présentation des contraintes de tâche
 
->[!VIDEO](https://video.tv.adobe.com/v/Cannot Trouvez MPC Link/?quality=12&amp;learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/Cannot find MPC Link/?quality=12&amp;learn=on)

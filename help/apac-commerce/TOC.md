@@ -15,7 +15,7 @@ ht-degree: 2%
 + [Vue d’ensemble](overview.md)
 + 2024 {#2024}
    + [Journée d’accélération](2024/accelerator-day/overview.md)
-   + Journée d’accélération{#accelerator-day}
+   + Journée de l’accélérateur{#accelerator-day}
       + [Caché : Navigation demain](./2024/accelerator-day/navigating-tomorrow.md)
       + [Masqué : panneau au-delà des bordures](./2024/accelerator-day/panel-beyond-borders.md)
       + [Masqué : Evolution de l’expérience](./2024/accelerator-day/experience-evolution.md)
@@ -33,11 +33,11 @@ ht-degree: 2%
    + [7 manières de développer une activité d’e-commerce de manière organique](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
    + [Personnalisation optimisée par l’IA](2023/ai-personalisation.md)
-   + [Commerce cloud Adobe](2023/adobes-paas-cloud-commerce.md)
+   + [Commerce PaaS Cloud d’Adobe](2023/adobes-paas-cloud-commerce.md)
    + [Augmentation des conversions de commerce électronique](2023/ecommerce-conversions.md)
    + [Stratégies commerciales composites](2023/composable-commerce.md)
    + [Les marchés comme force de croissance](2023/marketplaces.md)
-   + [Préparation de la saison du pic](2023/peak-season-prep.md)
+   + [Préparation de la saison de pointe](2023/peak-season-prep.md)
 + 2022 {#2022}
    + [Holiday Readiness 2022](2022/holiday.md)
    + [Classe maître New Relic](2022/new-relic.md)

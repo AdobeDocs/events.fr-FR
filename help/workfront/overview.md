@@ -36,7 +36,7 @@ Une bibliothèque d’événements Workfront enregistrés où experts et pairs p
       <img alt="Rapports et tableaux de bord" src="assets/reporting-and-dashboards.png"/>
       </a>
       <div>
-         <a href="user-groups/reporting-and-dashboards.md"><strong>Rapports et tableaux de bord</strong></a>
+         <a href="user-groups/reporting-and-dashboards.md"><strong>Création de rapports et tableaux de bord</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>
@@ -49,7 +49,7 @@ Une bibliothèque d’événements Workfront enregistrés où experts et pairs p
       <img alt="Agile dans le marketing" src="assets/agile-in-marketing.png"/>
       </a>
       <div>
-         <a href="user-groups/agile-in-marketing.md"><strong>Agile dans le marketing</strong></a>
+         <a href="user-groups/agile-in-marketing.md"><strong>Agile in Marketing</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

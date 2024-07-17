@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1790
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15298
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: fc9f03e9-09ec-43b5-8afe-6b7866e49489
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # Formation avancée sur l’environnement de création
 
@@ -28,4 +28,3 @@ Découvrez de plus près les options disponibles dans l’environnement de créa
 * D’autres options telles que les champs de pièce jointe, de lien hypertexte et d’ID de transaction sont explorées.
 * Les participants peuvent se voir attribuer des champs de formulaire et les propriétés de modèle peuvent être définies pour la personnalisation.
 * Le processus de création de modèles de documents réutilisables, de gestion de modèles et d&#39;export de contrats signés est également abordé.
-

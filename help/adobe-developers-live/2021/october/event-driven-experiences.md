@@ -20,7 +20,7 @@ ht-degree: 5%
 
 Chaque entreprise souhaite offrir à ses clients des expériences opportunes, ciblées, efficaces et personnalisées. Les architectures basées sur des événements sont un élément fondamental de l’activité d’expérience. Les AED permettent à nos clients de réagir aux changements d’état, aux comportements et aux mises à jour afin de déclencher des workflows et des décisions en temps quasi réel. Les événements d’Adobe I/O prennent en charge les fournisseurs internes d’Adobe et les équipes de produits, en fournissant une gestion des abonnements tiers aux événements émis par ces fournisseurs. Au cours de cette session, découvrez les événements d’E/S personnalisés, qui étendent les fonctionnalités des AED, en permettant aux développeurs tiers de générer des événements externes à intégrer aux produits Adobe dans un flux bidirectionnel.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3kXfjdx).**
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3kXfjdx).**
 
 >[!VIDEO](https://video.tv.adobe.com/v/337616/?quality=12&learn=on&hidetitle=true)
 

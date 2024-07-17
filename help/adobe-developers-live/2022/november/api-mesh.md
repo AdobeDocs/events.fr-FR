@@ -1,6 +1,6 @@
 ---
-title: Adobe Developers Live - NOV 22 - Comment créer des expériences de contenu et de commerce à l’aide du générateur d’applications et du maillage API
-description: Au cours de cette session, vous allez découvrir le flux de développement de bout en bout qui crée un storefront de commerce piloté par l’expérience sans tête, en commençant par AppBuilder API Mesh pour agréger différentes sources de contenu de Adobe Experience Manager et Commerce Découvrez comment créer une expérience sans tête affichant des produits enrichis avec des fragments de contenu Adobe Experience Manager Utilisez Micro Frontends pour intégrer un panier dans votre application.
+title: Adobe Developers Live - NOV 22 - Comment créer du contenu et des expériences Commerce à l’aide d’App Builder et du maillage API
+description: Au cours de cette session, vous allez découvrir le flux de développement de bout en bout qui crée un storefront de commerce piloté par l’expérience sans tête, en commençant par AppBuilder API Mesh pour agréger différentes sources de contenu à partir de Adobe Experience Manager et Commerce Découvrez comment créer une expérience sans tête affichant des produits enrichis avec des fragments de contenu Adobe Experience Manager Utiliser des microfragments pour intégrer un panier dans votre application
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Création d’expériences de contenu et de commerce à l’aide du générateur d’applications et du maillage d’API
+# Création d’expériences de contenu et de Commerce à l’aide d’App Builder et du maillage d’API
 
 Au cours de cette session, vous allez apprendre au développeur de bout en bout à créer un storefront de commerce sans interface utilisateur,
 

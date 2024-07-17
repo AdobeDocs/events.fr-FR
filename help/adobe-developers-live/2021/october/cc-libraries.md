@@ -1,6 +1,6 @@
 ---
-title: Présentation des bibliothèques Creative Cloud et des API de navigateur de ressources
-description: Découvrez comment intégrer des bibliothèques Creative Cloud dans vos applications web via l’API des bibliothèques Creative Cloud et le SDK de l’explorateur de ressources
+title: Présentation de Creative Cloud Libraries et des API de navigateur de ressources
+description: Découvrez comment intégrer Creative Cloud Libraries à vos applications web via l’API Creative Cloud Libraries et le SDK de l’explorateur de ressources
 solution: Creative Cloud
 feature: Developer Tools
 topic: Development
@@ -17,9 +17,9 @@ ht-degree: 17%
 
 ---
 
-# Présentation des bibliothèques Creative Cloud et des API de navigateur de ressources
+# Présentation de Creative Cloud Libraries et des API de navigateur de ressources
 
-Découvrez comment intégrer des bibliothèques Creative Cloud dans vos applications web via l’API des bibliothèques Creative Cloud et le SDK de l’explorateur de ressources
+Découvrez comment intégrer Creative Cloud Libraries à vos applications web via l’API Creative Cloud Libraries et le SDK de l’explorateur de ressources
 
 >[!VIDEO](https://video.tv.adobe.com/v/337592/?quality=12&learn=on&hidetitle=true)
 

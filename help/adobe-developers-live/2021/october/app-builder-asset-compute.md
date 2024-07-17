@@ -1,5 +1,5 @@
 ---
-title: Worker Adobe Experience Manager Assets Compute personnalisé avec App Builder et les API Photoshop
+title: Worker de calcul Adobe Experience Manager Assets personnalisé avec les API App Builder et Photoshop
 description: Les microservices d’Asset compute de Adobe Experience Manager en tant que Cloud Service prennent en charge le développement et le déploiement de programmes de travail personnalisés qui génèrent des rendus de ressources personnalisés. Outre l’utilisation de l’automatisation de contenu prête à l’emploi pour la production de ressources à grande échelle, les développeurs peuvent également créer leurs propres objets Worker asset compute à l’aide des API Photoshop pour des cas d’utilisation plus personnalisés. Au cours de cette session, nous allons passer en revue toutes les étapes du développement d’un objet Worker asset compute avec les SDK App Builder et les API Photoshop pour automatiser les rendus de ressources personnalisés.
 solution: Experience Manager
 feature: Asset Compute Microservices
@@ -14,20 +14,20 @@ duration: 1724
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
-# Worker Adobe Experience Manager Assets Compute personnalisé avec App Builder et les API Photoshop
+# Worker de calcul Adobe Experience Manager Assets personnalisé avec les API App Builder et Photoshop
 
 Les microservices d’Asset compute de Adobe Experience Manager en tant que Cloud Service prennent en charge le développement et le déploiement de programmes de travail personnalisés qui génèrent des rendus de ressources personnalisés. Outre l’utilisation de l’automatisation de contenu prête à l’emploi pour la production de ressources à grande échelle, les développeurs peuvent également créer leurs propres objets Worker asset compute à l’aide des API Photoshop pour des cas d’utilisation plus personnalisés. Au cours de cette session, nous allons passer en revue toutes les étapes du développement d’un objet Worker asset compute avec les SDK App Builder et les API Photoshop pour automatiser les rendus de ressources personnalisés.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3F6f5sG)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3F6f5sG)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337769/?quality=12&learn=on&hidetitle=true)
 
 ## Ressources supplémentaires
 
-- [Documentation Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr)
-- [Présentation du Cloud Service Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=fr)
-- [Tutoriels sur Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=fr)
+- [Documentation Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Présentation du Cloud Service Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Tutoriels sur Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

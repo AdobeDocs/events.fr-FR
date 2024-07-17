@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ---
 
-# Evénement d&#39;échange de compétences Août 2023 - Points phares d&#39;Experience Maker - Création d&#39;emails marketing hautement personnalisés à l&#39;aide d&#39;AEM
+# Evénement Skill Exchange Août 2023 - Points phares d’Experience Maker - Création d’emails marketing hautement personnalisés à l’aide d’AEM
 
 La communication par e-mail est l’un des moyens les plus importants d’atteindre vos nouveaux clients existants et potentiels. La possibilité de créer efficacement des emails hautement personnalisés peut augmenter considérablement l’engagement des clients. Quand quelqu&#39;un pense à AEM (Adobe Experience Manager), il pense souvent à des sites web et au contenu web. Mais saviez-vous que AEM peut également être utilisé pour créer des emails ?
 

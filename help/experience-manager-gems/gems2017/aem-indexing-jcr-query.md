@@ -1,6 +1,6 @@
 ---
 title: Indexation AEM et requête JCR
-description: Bonnes pratiques d’indexation et de requête d’AEM. Découvrez comment résoudre les problèmes de requête dans AEM, et comment configurer et gérer les index.
+description: Meilleures pratiques d’AEM d’indexation et de requête. Comment résoudre les problèmes de requête dans AEM, et comment configurer et gérer les index.
 topic-tags: troubleshoot, best_practices
 discoiquuid: d11b23ec-d7cf-47ce-9767-60b53b1015b6
 targetaudience: target-audience advanced;target-audience ongoing
@@ -9,7 +9,7 @@ duration: 3510
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 47%
+ht-degree: 0%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 47%
 
 >[!VIDEO](https://video.tv.adobe.com/v/19133/?quality=9)
 
-*Présentée le 19 juillet 2017*
+*Présenté le 19 juillet 2017*
 
-**Thomas Mueller, ingénieur logiciel principal, Adobe**
+**Thomas Mueller, ingénieur logiciel senior, Adobe**
 
 **Diapositives du présentateur**
 
@@ -31,17 +31,17 @@ Documentation AEM
 
 >[!CAUTION]
 >
->**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche**.
 
 >[!WARNING]
 >
->AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
+>AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande d’effectuer une mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Les versions archivées de la documentation sont accessibles à partir de cette [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
 >
->En ce qui concerne cette session, veuillez consulter *Requêtes et indexation Oak* et *Bonnes pratiques relatives aux requêtes et à l’indexation* dans la documentation d’AEM 6.3.
+>En ce qui concerne cette session, reportez-vous aux sections *Requêtes et indexation Oak* et *Bonnes pratiques pour les requêtes et l’indexation* dans la documentation AEM 6.3.
 
 Documentation Oak
 
-* [Requête et index Oak](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html?lang=fr)
+* [Requête et index Oak](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/deploying/queries-and-indexing.html)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -49,9 +49,9 @@ Documentation Oak
 
 >[!MORELIKETHIS]
 >
->* [Indexation AEM et requête JCR](aem-indexing-jcr-query.md)
->* [Dépannage de la réplication AEM](aem-troubleshooting-aem-replication.md)
->* [Dépannage de la distribution de contenu Sling](aem-troubleshooting-sling.md)
+>* [AEM Indexation et requête JCR](aem-indexing-jcr-query.md)
+>* [Dépannage AEM réplication](aem-troubleshooting-aem-replication.md)
+>* [Résolution des problèmes de distribution de contenu Sling](aem-troubleshooting-sling.md)
 <!-- 
 >* linking to helpx, removed for now [Adobe Experience Manager: AEM 6.x Maintenance Tasks](https://helpx.adobe.com/experience-manager/kt/eseminars/ccoo-aem-Aug-register.html)
 -->

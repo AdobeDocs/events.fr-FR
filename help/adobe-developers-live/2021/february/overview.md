@@ -7,7 +7,7 @@ duration: 91
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 13%
+ht-degree: 5%
 
 ---
 
@@ -19,9 +19,9 @@ Du 8 au 9 février 2021, Adobe Developers Live : le contenu a réuni des dévelo
 
 Cette conférence de deux jours a présenté d’importantes mises à jour de développeurs Adobe Experience Manager, telles que Headless et GraphQL, Adobe Experience Manager as a Cloud Service, des sessions techniques et des opportunités de mise en réseau communautaire.
 
-Connectez-vous à d’autres développeurs et rejoignez les conversations de la session dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Connectez-vous à d’autres appareils et rejoignez les conversations de session dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
-## Tons clairs
+## Faits saillants
 
 <table>
   <tr>
@@ -31,7 +31,7 @@ Connectez-vous à d’autres développeurs et rejoignez les conversations de la 
       </a>
       <div>
          <a href="headless-graphql-content-fragments.md"><strong>Sans affichage - GraphQL avec des fragments de contenu</strong></a>         
-         <br/><em>avec Jabran Asghar, ingénieur logiciel</em>
+         <br/><em> avec Jabran Asghar, ingénieur logiciel de la sr.</em>
       </div>
       <p>
         <br/>
@@ -43,8 +43,8 @@ Connectez-vous à d’autres développeurs et rejoignez les conversations de la 
       <img alt="Développement frontal : votre futur workflow pour créer et déployer rapidement l’interface frontale de votre site." src="/help/adobe-developers-live/assets/gabriel.png"/>
       </a>
       <div>
-         <a href="rapid-frontend-devlopment.md"><strong>Développement frontal : votre futur workflow pour créer et déployer rapidement l’interface frontale de votre site.</strong></a>
-         <br/><em>avec Gabriel Walt, responsable produit</em>
+         <a href="rapid-frontend-devlopment.md"><strong>Développement frontal : votre futur workflow pour créer et déployer rapidement l’interface de votre site.</strong></a>
+         <br/><em> avec Gabriel Walt, chef de produit senior</em>
       </div>
       <p>
         <br/>
@@ -57,8 +57,8 @@ Connectez-vous à d’autres développeurs et rejoignez les conversations de la 
       <img alt="Préparez-vous pour le Cloud Service - Bonnes pratiques de migration" src="/help/adobe-developers-live/assets/andreea.png"/>
       </a>
       <div>
-         <a href="get-ready-aem-cloud.md"><strong>Préparez-vous pour le Cloud Service - Bonnes pratiques de migration</strong></a>
-         <br/><em>avec Andreea Moise, ingénieur logiciel</em>
+         <a href="get-ready-aem-cloud.md"><strong>Préparer le Cloud Service - Bonnes pratiques de migration</strong></a>
+         <br/><em> avec Andreea Moise, ingénieur logiciel senior</em>
       </div>
       <p>
         <br/>
@@ -70,16 +70,16 @@ Connectez-vous à d’autres développeurs et rejoignez les conversations de la 
 
 >[!TIP]
 >
->**Toutes les sessions sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions sont répertoriées dans la navigation de gauche**.
 
 ## Ressources supplémentaires
 
-* [Experience League - Explorer AEM](https://experienceleague.adobe.com/?lang=fr#recommended/solutions/experience-manager)
-* [Documentation sur la création dans AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=fr)
-* [Documentation sur le développement dans AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=fr)
-* [Documentation sur l’administration dans AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr)
-* [Documentation sur le déploiement dans AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr)
-* [AEM Tutorials as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=fr)
+* [Experience League - Explore AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
+* [Documentation sur la création AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
+* [Documentation sur le développement AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
+* [Documentation sur l’administration AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [Documentation sur le déploiement d’AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr)
+* [Tutorials AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=fr)
 * [Tutoriels sur AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr)
-* [Tutoriels sur AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=fr)
-* [Tutoriels sur AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=fr)
+* [Tutoriels sur AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
+* [Tutoriels sur AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)

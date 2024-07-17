@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Événement d’échange de compétences Août 2023 - Suivi de croissance - Adobe Analytics : utilisation d’Adobe Analytics pour corriger votre navigation
+# Evénement Skill Exchange Aug 2023 - Grow Track - Adobe Analytics : Utilisation d’Adobe Analytics pour résoudre votre navigation
 
 La navigation est essentielle pour que les visiteurs trouvent le chemin de votre site et se rendent dans vos entonnoirs de conversion. Découvrez comment suivre l’efficacité de votre navigation et comment l’améliorer avec Adobe Analytics.
 

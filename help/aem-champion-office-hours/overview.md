@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Heures d’ouverture AEM Champion
 
-Ce groupe d’utilisateurs Adobe Experience Manager (AEMUG) est facilité par la classe de champions AEM 2022-2023. Les champions utiliseront cet AEMUG comme plateforme pour leurs heures de bureau mensuelles, où les utilisateurs AEM et les développeurs de tous les niveaux d’expérience peuvent y assister et où ils peuvent obtenir des réponses aux questions les plus difficiles de la part de clients Experience Manager, partenaires et consultants experts.
+Ce groupe d’utilisateurs Adobe Experience Manager (AEMUG) est facilité par la classe de champions AEM 2022-2023. Les champions utiliseront cet AEMUG comme plateforme pour leurs heures de bureau mensuelles, où les utilisateurs AEM et les développeurs de tous les niveaux d’expérience peuvent y assister et obtenir des réponses à leurs questions les plus difficiles de la part de clients Experience Manager, partenaires et consultants experts.
 
-Si vous souhaitez approfondir vos connaissances et utiliser Adobe Experience Manager, interagir avec des leaders de pensée Experience Manager et gagner des échanges exclusifs, rejoignez dès aujourd’hui le groupe d’utilisateurs des heures de bureau d’AEM !
+Si vous souhaitez approfondir vos connaissances et utiliser Adobe Experience Manager, interagir avec des leaders de pensée Experience Manager et gagner des échanges exclusifs, rejoignez dès aujourd’hui le groupe d’utilisateurs des Heures de bureau des champions AEM !
 
 <!--
 ## What's New
@@ -66,4 +66,4 @@ Si vous souhaitez approfondir vos connaissances et utiliser Adobe Experience Man
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche**.

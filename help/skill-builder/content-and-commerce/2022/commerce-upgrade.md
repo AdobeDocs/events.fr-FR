@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Comme la version 2.4.4. Commerce Service Pack est devenu disponible, découvrez les avantages et tout ce que vous devez savoir pour planifier et diffuser l’upgrade.
 
-*Bethan Williams-James* Consultant/Adobe de solutions commerciales
+*Consultant en solutions Commerce de Bethan Williams-James*/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343813/?quality=12&learn=on)

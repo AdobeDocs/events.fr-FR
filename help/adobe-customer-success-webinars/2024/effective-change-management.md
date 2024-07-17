@@ -35,13 +35,13 @@ Découvrez les nuances de la gestion du changement et proposez des insights stra
 * La gestion des changements aligne les objectifs de l’entreprise sur les performances individuelles.
 * Améliore l’agilité et améliore l’efficacité au sein de l’organisation.
 
-**Compétences principales pour une gestion efficace du changement**
+**Compétences principales pour une gestion efficace des changements**
 
 * L&#39;engagement des parties prenantes est essentiel.
 * Une communication efficace est essentielle.
 * Une formation et un soutien sont nécessaires pour réussir l&#39;adoption du changement.
 
-**Relever les défis de la gestion du changement**
+**Relever les défis dans la gestion du changement**
 
 * La gestion de la fatigue et de la résistance au changement.
 * La définition des mesures de succès est essentielle.

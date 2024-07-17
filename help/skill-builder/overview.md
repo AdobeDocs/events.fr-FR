@@ -6,7 +6,7 @@ duration: 48
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ Skill Builder est une série de webinaires conçus pour renforcer votre base de 
 <table>
 <tr>
   <td>
-    <img alt="Contenu et Commerce" src="assets/commerce.png" />
+    <img alt="Content and Commerce" src="assets/commerce.png" />
     <div>
       <strong>Contenu et Commerce</strong>
     </div>
@@ -33,7 +33,7 @@ Skill Builder est une série de webinaires conçus pour renforcer votre base de 
   <td>
     <img alt="Parcours clients" src="assets/customer-journey.png" />
     <div>
-      <strong>Parcours clients</strong>
+      <strong>parcours client</strong>
     </div>
     <p>
     <em>Développez des profils client en temps réel en extrayant des données de toutes les sources pour créer des parcours personnalisés et cross-canal.</em>
@@ -45,7 +45,7 @@ Skill Builder est une série de webinaires conçus pour renforcer votre base de 
   <td>
     <img alt="Données et informations" src="assets/data-insights.png" />
     <div>
-      <strong>Données et informations</strong>
+      <strong>Données et insights</strong>
     </div>
     <p>
     <em>Effectuez une personnalisation en temps réel sur n’importe quel canal à l’aide d’informations sur les données en ligne et hors ligne dans l’ensemble de votre organisation.</em>
@@ -59,4 +59,4 @@ Skill Builder est une série de webinaires conçus pour renforcer votre base de 
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche**.

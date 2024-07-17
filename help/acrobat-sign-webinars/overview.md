@@ -1,7 +1,8 @@
 ---
 title: Webinaires Acrobat Sign
 description: Découvrez par des experts d’Adobe comment maîtriser de nouveaux workflows de signature électronique dans Acrobat Sign.
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: e5912c6e-65a1-471b-9a5d-83ac7eaccb90
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -14,4 +15,4 @@ Découvrez par des experts d’Adobe comment maîtriser de nouveaux workflows de
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche**.

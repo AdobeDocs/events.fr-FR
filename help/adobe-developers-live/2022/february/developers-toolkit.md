@@ -1,5 +1,5 @@
 ---
-title: Aperçu du kit d’outils d’un développeur de commerce
+title: Aperçu du kit d’outils pour les développeurs Commerce
 description: Il aborde des sujets tels que la configuration du développement local, les outils de débogage et de profilage, l’utilisation de New Relic à votre avantage dans un environnement de production et les tests.
 role: Developer
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Aperçu du kit d’outils d’un développeur de commerce
+# Aperçu du kit d’outils pour les développeurs Commerce
 
 Lorsqu’il s’agit de produire des résultats positifs sur des structures flexibles et donc complexes comme Adobe Commerce et Magento open source, il est impératif que les équipes de développement utilisent les bons outils pour la tâche. Dans cette conférence, nous passerons en revue les outils que j&#39;ai trouvés utiles dans ma carrière de développeur Magento. Nous aborderons des sujets tels que la configuration du développement local, les outils de débogage et de profilage, l’utilisation de New Relic à votre avantage dans un environnement de production, les tests, etc. Nous allons examiner quelques exemples de la façon dont ces outils peuvent faciliter la vie des développeurs, dans un environnement déjà complexe.
 

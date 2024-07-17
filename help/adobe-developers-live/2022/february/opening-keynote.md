@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Clé d’ouverture
 
-L’écosystème des développeurs a toujours été essentiel au succès du Magento, et ce n’est pas différent pour Adobe Commerce et Magento Open Source aujourd’hui. Commencez une journée passionnante de contenus informatifs et de discussions réfléchies, qui comprennent la vision de la plateforme par l’Adobe, l’évolution de l’Open Source et les améliorations à venir en termes d’expérience des développeurs, d’extensibilité, de développement de l’expérience utilisateur et de bonnes pratiques de maintenance du site.
+L’écosystème des développeurs a toujours été essentiel au succès du Magento, et ce n’est pas différent pour Adobe Commerce et Magento Open Source aujourd’hui. Commencez une journée passionnante de contenu informatif et de discussions réfléchies, notamment la vision de la plateforme par l’Adobe, l’évolution d’Open Source et les améliorations à venir en termes d’expérience des développeurs, d’extensibilité, de développement de l’expérience utilisateur et de bonnes pratiques de maintenance du site.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340620/?quality=12&learn=on)

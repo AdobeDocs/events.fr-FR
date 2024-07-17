@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Adobe [!DNL Marketo Engage] Segment Rockstar
 
-Quatre clients &quot;Rockstar&quot; présenteront chacun leur meilleur [!DNL Marketo Engage] conseil ou astuce. Qui vous éblouira au-delà de la croyance ?
+Quatre clients &quot;Rockstar&quot; présenteront chacun leur meilleur [!DNL Marketo Engage] astuce ou astuce. Qui vous éblouira au-delà de la croyance ?
 
 >[!VIDEO](https://video.tv.adobe.com/v/340311/?quality=12&learn=on)

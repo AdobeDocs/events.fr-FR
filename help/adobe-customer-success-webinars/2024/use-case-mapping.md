@@ -29,7 +29,7 @@ Ce webinaire explore les principaux moyens d’explorer les cas d’utilisation 
 
 ## Résumé de la réunion
 
-**Les défis à relever par la plateforme de données clients en temps réel**
+**Défis résolus par la plateforme de données clients en temps réel**
 
 * Outils marketing segmentés
 * Origines de données différées
@@ -39,7 +39,7 @@ Ce webinaire explore les principaux moyens d’explorer les cas d’utilisation 
 
 * Effets sur les cas d’utilisation tels que le reciblage et la personnalisation de médias payants
 
-**Comparaison de la plateforme CDP en temps réel avec l’Audience Manager DMP**
+**Comparaison de la plateforme de données clients en temps réel avec l’Audience Manager DMP**
 
 * Concentrez-vous sur l’ingestion de données, la gestion de l’audience et les structures de sortie des données.
 

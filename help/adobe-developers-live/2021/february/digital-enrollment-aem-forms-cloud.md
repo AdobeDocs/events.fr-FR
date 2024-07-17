@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Cette session se concentre sur le parcours de Forms, de On-Premise à Cloud. Il couvrira également l’activation des cas pratiques d’inscription numérique par le biais de démonstrations.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332305/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/digital-enrollment-aem-forms-cloud.pdf)** pour les diapositives de session.

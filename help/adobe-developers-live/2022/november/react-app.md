@@ -1,6 +1,6 @@
 ---
 title: Adobe Developers Live - NOV 22 - Création de votre première application React
-description: Créez votre première application React avec une présentation CMSI sans affichage de Experience Manager aux fonctionnalités GraphQL de fragments de contenu CMS sans interface de Adobe Experience Manager. Au cours de cette session, vous allez apprendre à configurer rapidement une application React alimentée par des données provenant d’un CMS sans interface de Adobe Experience Manager.
+description: Créez votre première application React avec l’introduction Experience Manager en mode CMSIntrusion aux fonctionnalités GraphQL de fragments de contenu CMS Adobe Experience Manager sans interface. Au cours de cette session, vous allez apprendre à configurer rapidement une application React alimentée par des données provenant d’un CMS Adobe Experience Manager sans interface.
 solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites

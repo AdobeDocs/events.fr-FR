@@ -19,6 +19,6 @@ ht-degree: 66%
 
 Découvrez comment tirer le meilleur parti de vos métadonnées dans AEM Assets en réduisant la charge de travail pour baliser les ressources et en facilitant leur consultation.
 
-*Robin Bussell* Formateur/Adobe senior
+*Robin Bussell* Forfatrice/Adobe senior
 
 >[!VIDEO](https://video.tv.adobe.com/v/343815/?quality=12&learn=on)

@@ -10,13 +10,13 @@ last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15542
 hidefromtoc: true
 badgeEvent: label="Journée de l’accélérateur Adobe Commerce" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
-source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
+exl-id: 659cfa43-8ed2-41a0-a677-ed60e497635e
+source-git-commit: 0ebc7343e2d19e91f27c1bbba20f290ef7df5377
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
-
 
 # Commerce de nouvelle génération : l&#39;essor des applications Gen AI
 

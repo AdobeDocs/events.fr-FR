@@ -18,7 +18,7 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche**.
 
 ## Blocs de création de la gestion des données client
 
@@ -29,7 +29,7 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
       <img alt="Rationalisation de votre premier fichier de gestion des données" src="./assets/first-mile.png"/>
       </a>
       <div>
-         <a href="./cdm/first-mile.md"><strong>Rationalisation de votre premier fichier de gestion des données</strong></a>
+         <a href="./cdm/first-mile.md"><strong>Rationalisation de votre premier kilomètre de gestion des données</strong></a>
          <br/>
       </div>
    </td>
@@ -38,7 +38,7 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
       <img alt="Sélection d’une plateforme de données client pour une réussite" src="./assets/cdp-success.png"/>
       </a>
       <div>
-         <a href="./cdm/cdp-success.md"><strong>Sélection d’une plateforme de données client pour une réussite</strong></a>
+         <a href="./cdm/cdp-success.md"><strong>Sélection d’une plateforme de données client pour succès</strong></a>
          <br/>
       </div>
     </td>
@@ -47,7 +47,7 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
       <img alt="Personnes et processus" src="./assets/people-and-process.png"/>
       </a>
       <div>
-         <a href="./cdm/people-and-process.md"><strong>Bonnes pratiques relatives à la plateforme de données clients - Personnes et processus</strong></a>
+         <a href="./cdm/people-and-process.md"><strong>Bonnes pratiques CDP - Personnes et processus</strong></a>
          <br/>
       </div>
     </td>
@@ -67,7 +67,7 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
       <img alt="Amélioration des expériences avec les profils client" src="./assets/building-better-experiences-with-customer-profiles.png"/>
       </a>
       <div>
-         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>Amélioration des expériences avec les profils client</strong></a>
+         <a href="./cdm/building-better-experiences-with-customer-profiles.md"><strong>Créer de meilleures expériences avec des profils client</strong></a>
       </div>
       <p>
         <br/>
@@ -91,10 +91,10 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
   <tr>
    <td>
       <a href="./governance/healthcare-shield.md">
-      <img alt="Adobe Real-time Customer Data Platform et Healthcare Shield" src="./assets/healthcare-shield.png"/>
+      <img alt="Adobe Real-Time Customer Data Platform et Healthcare Shield" src="./assets/healthcare-shield.png"/>
       </a>
       <div>
-         <a href="./governance/healthcare-shield.md"><strong>Adobe Real-time Customer Data Platform et Healthcare Shield</strong></a>
+         <a href="./governance/healthcare-shield.md"><strong>Adobe Real-Time Customer Data Platform et Healthcare Shield</strong></a>
          <br/>
       </div>
       <p>
@@ -105,7 +105,7 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
       <img alt="10 considérations relatives à une gestion responsable des données clients" src="./assets/ten-considerations-for-responsible-customer-data-management.png"/>
       </a>
       <div>
-         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 considérations relatives à une gestion responsable des données clients</strong></a>
+         <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html"><strong>10 considérations pour une gestion responsable des données clients</strong></a>
          <br/>
       </div>
       <p>
@@ -135,17 +135,17 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
       <img alt="Création d’expériences superbes avec vos données propriétaires" src="./assets/build-superb-experiences-with-your-first-party-data.png"/>
       </a>
       <div>
-         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Création d’expériences superbes avec vos données propriétaires</strong></a>
+         <a href="./industry/build-superb-experiences-with-your-first-party-data.md"><strong>Créer des expériences superbes avec vos données propriétaires</strong></a>
       </div>
       <p>
       </p>
     </td>
      <td>
       <a href="./industry/data-collaboration-in-the-first-party-data-context.md">
-      <img alt="Collaboration des données dans le contexte des données propriétaires" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
+      <img alt="Collaboration de données dans le contexte des données propriétaires" src="./assets/data-collaboration-in-the-first-party-data-context.png"/>
       </a>
       <div>
-         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Collaboration des données dans le contexte des données propriétaires</strong></a>
+         <a href="./industry/data-collaboration-in-the-first-party-data-context.md"><strong>Collaboration de données dans le contexte de données propriétaires</strong></a>
       </div>
       <p>
       </p>
@@ -165,7 +165,7 @@ Bienvenue à la Gestion des données client Vois votre destination en tant que r
       <img alt="Un tableau de deux perceptions : les marques et les consommateurs" src="./assets/brands-vs-consumers.png"/>
       </a>
       <div>
-         <a href="./industry/brands-vs-consumers.md"><strong>Un tableau de deux perceptions : les marques et les consommateurs</strong></a>
+         <a href="./industry/brands-vs-consumers.md"><strong>Une histoire de deux perceptions - Marques et consommateurs</strong></a>
          <br/>
       </div>
     </td>

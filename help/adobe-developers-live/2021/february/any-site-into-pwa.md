@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Rendre votre site installable sur des appareils mobiles et disponible hors ligne en un seul clic, qu’il s’agisse d’une application web ou d’un site traditionnel.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331742/?quality=12&learn=on&hidetitle=true)

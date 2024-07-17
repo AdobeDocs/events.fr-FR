@@ -28,7 +28,7 @@ Développez des profils client en temps réel en extrayant des données de toute
       </a>
     </div>
     <p>
-    <em>Découvrez comment orchestrer des campagnes B2B avec [!DNL Marketo Engage] et RT-CDP (édition B2B) et quels sont les principaux cas d’utilisation et avantages déverrouillés.</em>
+    <em>Découvrez comment orchestrer des campagnes B2B avec [!DNL Marketo Engage] et RT-CDP (édition B2B) et quels sont les principaux cas d'utilisation et avantages déverrouillés.</em>
     <p>
   </td>
   <td>
@@ -37,7 +37,7 @@ Développez des profils client en temps réel en extrayant des données de toute
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html">
-        <strong>Développement et personnalisation de modèles de données dans Adobe [!DNL Campaign Classic]</strong>
+        <strong> Développer et personnaliser des modèles de données dans Adobe [!DNL Campaign Classic]</strong>
       </a>
     </div>
     <p>
@@ -50,11 +50,11 @@ Développez des profils client en temps réel en extrayant des données de toute
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html">
-        <strong>Principaux conseils et astuces pour Adobe Campaign Standard</strong>
+        <strong> Principaux conseils et astuces pour Adobe Campaign Standard</strong>
       </a>
     </div>
     <p>
-    <em>Connectez-vous à votre instance Adobe Campaign Standard et découvrez les bonnes pratiques relatives à la fatigue de ciblage, de personnalisation et de marketing pour une meilleure utilisation d’ACS.</em>
+    <em>Connectez-vous à votre instance Adobe Campaign Standard et découvrez les bonnes pratiques relatives à la fatigue de ciblage, de personnalisation et de marketing pour une meilleure utilisation d'ACS.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ Développez des profils client en temps réel en extrayant des données de toute
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche**.

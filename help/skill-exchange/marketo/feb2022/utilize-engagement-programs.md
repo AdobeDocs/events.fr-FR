@@ -1,6 +1,6 @@
 ---
 title: Prise En Charge 101 - Utilisation De Programmes D’Engagement Pour Interagir Avec Vos Clients
-description: Découvrez les principes de base des programmes d’engagement au sein de [!DNL Marketo Engage] y compris des exemples de cas d’utilisation, des conseils et des astuces.
+description: Découvrez les principes de base des programmes d’engagement dans  [!DNL Marketo Engage] y compris des exemples de cas d’utilisation, des conseils et astuces.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Prise En Charge 101 - Utilisation De Programmes D’Engagement Pour Interagir Avec Vos Clients
 
-Découvrez les principes de base des programmes d’engagement au sein de [!DNL Marketo Engage] y compris des exemples de cas d’utilisation, des conseils et des astuces.
+Découvrez les principes de base des programmes d’engagement dans [!DNL Marketo Engage], y compris des exemples de cas d’utilisation, des conseils et astuces.
 
-**Principales mesures à prendre**
+**Touches de raccourci**
 
 * mieux comprendre les programmes d’engagement Marketo et leurs fonctionnalités uniques ;
 * Découvrez la configuration du programme et les bonnes pratiques et comment elles s’appliquent aux cas pratiques réels.

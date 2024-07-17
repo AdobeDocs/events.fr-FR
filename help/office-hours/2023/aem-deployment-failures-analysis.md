@@ -1,6 +1,6 @@
 ---
-title: AEM analyse des échecs de déploiement as a Cloud Service
-description: AEM les composants internes de déploiement as a Cloud Service et la résolution des problèmes.
+title: Analyse des échecs de déploiement d’AEM as a Cloud Service
+description: déploiement interne d’AEM as a Cloud Service et résolution des problèmes.
 feature-set: Experience Manager Cloud Manager
 feature: Code Deployment
 role: Admin, User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# AEM analyse des échecs de déploiement as a Cloud Service
+# Analyse des échecs de déploiement d’AEM as a Cloud Service
 
-Au cours de cette session, vous en apprendrez plus sur AEM déploiement interne as a Cloud Service et sur la résolution des problèmes.
+Au cours de cette session, vous en apprendrez davantage sur les composants internes de déploiement d’AEM as a Cloud Service et sur la résolution des problèmes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422532/?learn=on)

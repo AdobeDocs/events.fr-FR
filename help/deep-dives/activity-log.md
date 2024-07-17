@@ -10,13 +10,13 @@ duration: 2849
 last-substantial-update: 2024-02-08T00:00:00Z
 jira: KT-14922
 thumbnail: 3427149.jpeg
-source-git-commit: 256546bebf40fdedbcff63c1a0dd4dd0b6845505
+exl-id: df731e4b-3a3c-4cdf-8901-d803e9a4ae64
+source-git-commit: e3eb0d9e8c3de2c56b12e10bcbf3cb1ecaf2a6f3
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # Notification des processus complexes dans le journal d’activité
 

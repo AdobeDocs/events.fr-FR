@@ -1,6 +1,6 @@
 ---
-title: Utilisation du BAT Workfront (9 novembre 2021)
-description: Écoutez les différentes façons d’exploiter le BAT Workfront pour améliorer votre façon de travailler.
+title: Utilisation de Workfront Proof (9 novembre 2021)
+description: Écoutez les différentes façons d’exploiter Workfront Proof pour améliorer votre façon de travailler.
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10002
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Utilisation du BAT Workfront (9 novembre 2021)
+# Utilisation de Workfront Proof (9 novembre 2021)
 
-Écoutez les différentes façons d’exploiter le BAT Workfront pour améliorer votre façon de travailler.
+Écoutez les différentes façons d’exploiter Workfront Proof pour améliorer votre façon de travailler.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341217/?quality=12&learn=on)

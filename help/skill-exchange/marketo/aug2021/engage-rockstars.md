@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # [!DNL Marketo Engage] Rockstars
 
-Trois clients &quot;Rockstar&quot; présenteront chacun leur meilleur [!DNL Marketo Engage] conseil ou astuce. Qui vous éblouira au-delà de la croyance ? Regardez et votez en temps réel.
+Trois clients &quot;Rockstar&quot; présenteront chacun leur meilleur [!DNL Marketo Engage] astuce ou astuce. Qui vous éblouira au-delà de la croyance ? Regardez et votez en temps réel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342559/?quality=12&learn=on)

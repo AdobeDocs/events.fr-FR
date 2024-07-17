@@ -1,5 +1,5 @@
 ---
-title: Événement d’échange de compétences Septembre 2022 Analytics se développe pour faire d’Adobe Analytics votre propre compte
+title: Événement d’Exchange de compétences Septembre 2022 Analytics se développe pour faire d’Adobe Analytics votre propre compte
 description: Vous disposez d’Adobe Analytics ; créez-le vous-même en tirant parti des fonctionnalités et des stratégies propres à vos utilisateurs et à votre entreprise.
 solution: Analytics
 role: User
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Événement d’échange de compétences Septembre 2022 Analytics se développe pour faire d’Adobe Analytics votre propre compte
+# Événement d’Exchange de compétences Septembre 2022 Analytics se développe pour faire d’Adobe Analytics votre propre compte
 
 Vous disposez d’Adobe Analytics ; créez-le vous-même en tirant parti des fonctionnalités et des stratégies propres à vos utilisateurs et à votre entreprise.
 

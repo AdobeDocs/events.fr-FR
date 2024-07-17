@@ -1,6 +1,6 @@
 ---
 title: Dépannage de la distribution de contenu Sling
-description: La distribution de contenu Sling (SCD) peut être utilisée dans AEM pour la distribution et la synchronisation de contenu inversé. Au cours de cette session, nous vous donnerons des détails sur la manière de résoudre les problèmes courants liés à SCD et sur la manière de les gérer.
+description: La distribution de contenu Sling (SCD) peut être utilisée dans AEM pour la distribution et la synchronisation de contenu inverse. Au cours de cette session, nous vous fournirons des détails sur la manière de résoudre les problèmes courants liés à SCD et de les gérer.
 topic-tags: troubleshoot
 discoiquuid: 58c61b72-166b-4c7e-ab63-3edd68e3e925
 targetaudience: target-audience advanced
@@ -9,21 +9,21 @@ duration: 3093
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 67%
+ht-degree: 1%
 
 ---
 
 # Dépannage de la distribution de contenu Sling{#troubleshooting-sling-content-distribution}
 
-La distribution de contenu Sling (SCD) peut être utilisée dans AEM pour la distribution et la synchronisation de contenu inversé. Au cours de cette session, nous vous donnerons des détails sur la manière de résoudre les problèmes courants liés à SCD et sur la manière de les gérer.
+La distribution de contenu Sling (SCD) peut être utilisée dans AEM pour la distribution et la synchronisation de contenu inverse. Au cours de cette session, nous vous fournirons des détails sur la manière de résoudre les problèmes courants liés à SCD et de les gérer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19451/?quality=9)
 
-*Présenté le 23 août 2017*
+*Délivrés 23 août 2017*
 
-**Présenté par :**
+**Présenté par :**
 
-Timothée Maret, développeur principal, Adobe
+Timothee Maret, développeur senior, Adobe
 
 **Diapositives du présentateur**
 
@@ -33,14 +33,14 @@ Timothée Maret, développeur principal, Adobe
 
 >[!WARNING]
 >
->AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande la mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr).  Les versions archivées de la documentation sont accessibles à partir de cette page [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
+>AEM versions 6.4 et antérieures sont Fin de vie et ne sont plus vendues par Adobe.  Adobe recommande d’effectuer une mise à niveau vers la dernière version - [Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html).  Les versions archivées de la documentation sont accessibles à partir de cette [page](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr).
 >
->En ce qui concerne cette session, veuillez consulter *Synchronisation des utilisateurs* dans la documentation AEM.
+>En ce qui concerne cette session, reportez-vous à la section *Synchronisation des utilisateurs* dans la documentation AEM.
 
-* [Distribution de contenu Apache Sling](https://sling.apache.org/documentation/bundles/content-distribution.html)
-* [Revenir à la présentation](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Distribution de contenu Apache Sling](https://sling.apache.org/documentation/bundles/content-distribution.html)
+* [Revenir à l’aperçu](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 
 >[!MORELIKETHIS]
 >
->* [Indexation AEM et requête JCR](aem-indexing-jcr-query.md)
->* [Dépannage de la distribution de contenu Sling](aem-troubleshooting-sling.md)
+>* [AEM Indexation et requête JCR](aem-indexing-jcr-query.md)
+>* [Résolution des problèmes de distribution de contenu Sling](aem-troubleshooting-sling.md)

@@ -1,6 +1,6 @@
 ---
 title: Modèles, jetons et travail d’équipe - Rendez votre contenu évolutif
-description: En savoir plus sur l’utilisation des jetons et des modèles dans [!DNL Marketo Engage]. Découvrez des conseils pour tirer le meilleur parti de votre bibliothèque de contenu existante.
+description: Découvrez comment utiliser des jetons et des modèles dans  [!DNL Marketo Engage]. Découvrez des conseils pour tirer le meilleur parti de votre bibliothèque de contenu existante.
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 ---
 
-# Modèles, jetons et travail d’équipe - Effectuer votre Adobe [!DNL Marketo Engage] contenu évolutif
+# Modèles, jetons et travail d’équipe - Rendez votre contenu [!DNL Marketo Engage] d’Adobe évolutif
 
-La création de contenu pour vos programmes marketing est très longue. L’application de modèles et de jetons vous aide à créer des processus évolutives entre les équipes et à obtenir plus avec moins dans [!DNL Marketo Engage]. Entendez-vous sur Lauren McCormack, un leader marketing primé et un Adobe 2x [!DNL Marketo Engage] Champion : elle partage ses années de sagesse pour faire votre choix [!DNL Marketo Engage] contenu évolutif.
+La création de contenu pour vos programmes marketing est très longue. L’application de modèles et de jetons vous aide à créer des processus évolutives entre les équipes et à obtenir plus avec moins dans [!DNL Marketo Engage]. Écoutez Lauren McCormack, une responsable marketing primée et championne d’Adobe 2x [!DNL Marketo Engage], qui partage ses années de sagesse pour rendre votre contenu [!DNL Marketo Engage] évolutif.
 
 En savoir plus :
 

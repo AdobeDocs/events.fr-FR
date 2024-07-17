@@ -1,5 +1,5 @@
 ---
-title: Création de la base de la personnalisation à grande échelle
+title: Création de la base pour Personalization à grande échelle
 description: Ce webinaire se concentre sur la compréhension des bases nécessaires pour orchestrer la personnalisation à grande échelle.
 solution: Experience Cloud
 topic: Personalization
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Création de la base de la personnalisation à grande échelle
+# Création de la base pour Personalization à grande échelle
 
 Ce webinaire se concentre sur la compréhension des bases nécessaires pour orchestrer la personnalisation à grande échelle.
 

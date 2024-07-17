@@ -1,6 +1,6 @@
 ---
 title: Commerce et café
-description: La série Adobe Commerce and Coffee (et café) est axée sur les stratégies et tactiques commerciales, soutenues par des statistiques reflétant le sujet de l’événement.
+description: La série Adobe Commerce and Coffee (et café) est axée sur les stratégies et tactiques Commerce, soutenues par des statistiques reflétant le sujet de l’événement.
 exl-id: fba820f3-55cf-4cf5-bb0f-6b19870264db
 duration: 81
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Commerce et café
 
-La série Commerce &amp; Café s’adresse aux clients Adobe Commerce existants de tous les niveaux de compétence et fonctionnalités, Corey Gelato, consultant en stratégie commerciale. La série se concentre sur les stratégies et tactiques commerciales, soutenues par des statistiques reflétant le sujet de l&#39;événement. Après la présentation, une démonstration en direct montre comment mettre en oeuvre les stratégies discutées dans une plateforme Commerce. Chaque événement se termine en donnant aux participants la possibilité de poser des questions en direct et de discuter directement avec les experts de l&#39;Adobe. Vous laisserez à chaque événement un nouveau sens des raisons et des méthodes de rester compétitif et d’atteindre le succès, tout en maximisant ce que votre plateforme Adobe Commerce a à offrir.
+La série Commerce &amp; Coffee est destinée aux clients Adobe Commerce de tous les niveaux de compétence et fonctionnalités. Corey Gelato, consultant en stratégie pour Commerce. La série se concentre sur les stratégies et tactiques de Commerce, soutenues par des statistiques reflétant le sujet de l&#39;événement. Après la présentation, une démonstration en direct montre comment mettre en oeuvre les stratégies discutées dans une plateforme Commerce. Chaque événement se termine en donnant aux participants la possibilité de poser des questions en direct et de discuter directement avec les experts de l&#39;Adobe. Vous laisserez à chaque événement un nouveau sens des raisons et des méthodes de rester compétitif et d’atteindre le succès, tout en maximisant ce que votre plateforme Adobe Commerce a à offrir.
 
 <!--
 ## What's New
@@ -64,4 +64,4 @@ La série Commerce &amp; Café s’adresse aux clients Adobe Commerce existants 
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche**.

@@ -17,7 +17,7 @@ duration: 2964
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 6%
+ht-degree: 3%
 
 ---
 
@@ -35,12 +35,12 @@ Mise en place d’une stratégie claire pour optimiser la capacité de découver
 *[Étendre les schémas de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=fr)
 *[Optimisation de la création de métadonnées avec des métadonnées en cascade](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=fr)
 *[Application automatique de métadonnées aux ressources à l’aide de profils de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=fr)
-*[AEM des schémas de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-*[Gestion des métadonnées des ressources](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
+*[AEM Schémas de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
+*[Gérer les métadonnées de ressource](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
 
 ## Enregistrements de séries
 
-* [Asset Link](asset-link.md)
-* [Brand Portal](brand-portal.md)
+* [Lien de ressource](asset-link.md)
+* [Brand Portal](brand-portal.md)
 * [Contenu multimédia dynamique](dynamic-media.md)
 * [Structure de dossiers et recherche](folder-structure-search.md)

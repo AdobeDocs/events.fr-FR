@@ -24,6 +24,6 @@ ht-degree: 0%
 
 Une table ronde avec Carsten Ziegeler, Karl Pauls et David Bosschaert sur les raisons pour lesquelles nous utilisons OSGi, pourquoi cela est pertinent dans le cloud et ce que les développeurs Adobe Experience Manager doivent savoir à ce sujet.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331740/?quality=12&learn=on&hidetitle=true)

@@ -9,19 +9,19 @@ duration: 4068
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '1658'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Demandez à l’expert - Surchargez les rapports de mode de texte de base à l’aide de l’explorateur d’API.
 
-En savoir plus sur les [[!UICONTROL Explorateur d’API]](https://developer.adobe.com/workfront/api-explorer/), comment l’utiliser et comment améliorer vos rapports en utilisant le mode texte de base. Ce webinaire a été enregistré le 22 janvier 2020.
+Découvrez l’ [[!UICONTROL  API Explorer]](https://developer.adobe.com/workfront/api-explorer/), comment l’utiliser et comment améliorer vos rapports en utilisant le mode de texte de base. Ce webinaire a été enregistré le 22 janvier 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 
 ## Ressources supplémentaires
 
-![Un graphique présentant des exemples de règles de code du mode texte](assets/text-mode-chart.png)
+![Graphique montrant des exemples de règles de code de mode texte](assets/text-mode-chart.png)
 
 
 **Colonne finale &quot;Tous les rôles de tâche&quot;**
@@ -37,7 +37,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("Primary = ",{role}.{name}
 valueformat=HTML
 ```
 
-**Mode texte de la colonne &quot;Toutes les équipes&quot;**
+**Mode texte pour la colonne &quot;Toutes les équipes&quot;**
 
 ```
 displayname=All Teams
@@ -49,7 +49,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-**Mode texte de la colonne &quot;Tous les groupes&quot;**
+**Mode texte pour la colonne &quot;Tous les groupes&quot;**
 
 ```
 displayname=All Groups
@@ -101,7 +101,7 @@ Lorsque vous créez un rapport de problème, vous pouvez voir les informations d
 
 **Question**
 
-Peut-on partager le format Texte ([!DNL CSS]) des exemples ?
+Pouvez-vous partager des exemples de format de texte ([!DNL CSS]) ?
 
 **Réponse**
 
@@ -109,7 +109,7 @@ Workfront ne prend pas en charge [!DNL CSS] en mode texte.
 
 **Question**
 
-Quelle est la méthode la plus efficace et la plus rapide pour localiser un nom de champ personnalisé, pour les rapports en mode texte ? J’ai utilisé l’option d’édition de HTML dans le navigateur OU en ajoutant un champ dans un rapport et en passant en mode texte pour l’attraper MAIS.. curieusement, comment les autres effectuent-ils cela ?
+Quelle est la méthode la plus efficace et la plus rapide pour localiser un nom de champ personnalisé, pour les rapports en mode texte ? J’ai utilisé l’option d’édition HTML dans le navigateur OU en ajoutant un champ dans un rapport et en passant en mode texte pour l’attraper MAIS.. curieusement, comment les autres effectuent-ils cela ?
 
 **Réponse**
 
@@ -135,7 +135,8 @@ Lorsque vous référencez des objets en mode texte, vous souhaiterez les écrire
 valuefield=project:name
 ```
 
-Cependant, dans le cas des problèmes, ceux-ci sont appelés opTasks dans l’explorateur d’API. Ainsi, si vous exécutez un rapport Heure et souhaitez ajouter une colonne pour le nom du problème, le champ de valeur ressemblera à ce qui suit :
+Cependant, dans le cas des problèmes, ceux-ci sont appelés opTasks dans l’explorateur d’API. Ainsi, si vous exécutez un rapport Heure et souhaitez ajouter une colonne pour le nom du problème, le champ de valeur
+ressemblent à ce qui suit :
 
 ```
 valuefield=opTask:name

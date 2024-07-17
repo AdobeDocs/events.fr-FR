@@ -26,9 +26,9 @@ Bien que Adobe Journey Optimizer offre une interface et un workflow modernes et 
 
 Avec les campagnes déclenchées par l’API, les entreprises peuvent définir une campagne et l’utiliser plusieurs fois pour diffuser des messages personnalisés avec des informations contextuelles en temps réel en se déclenchant via l’API REST.
 
-Lors de cette session en direct Experience League, des experts Adobes vous expliqueront comment exécuter des cas d’utilisation transactionnelle et marketing avec les fonctionnalités de messagerie déclenchée de l’API dans AJO.
+Lors de cette session en direct Experience League, des experts Adobes vous expliqueront comment exécuter des cas d’utilisation transactionnelle et marketing avec des fonctionnalités de messagerie déclenchée API dans AJO.
 
-**Cliquez sur l&#39;image ci-dessus pour regarder le spectacle !**
+**Cliquez sur l’image ci-dessus pour regarder le programme !**
 
-Poursuivez la discussion sur la [Publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Poursuivez la discussion sur la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
 

@@ -7,7 +7,7 @@ duration: 110
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '385'
-ht-degree: 16%
+ht-degree: 9%
 
 ---
 
@@ -20,10 +20,10 @@ Les 4 et 5 octobre 2021, Adobe Developers Live a réuni des développeurs d’Ad
 Les équipes produit Adobe de Adobe Experience Cloud, Document Cloud et Creative Cloud ont présenté les dernières avancées technologiques et les outils de développement qui permettent la conception, la création de contenu, les services de document et la gestion de l’expérience client dans tous les secteurs d’activité.
 
 Connectez-vous à d’autres développeurs et rejoignez les conversations de session dans les communautés Experience League.
-* [Liste de sessions complète d’Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
-* [AEM terminer la liste des sessions](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=fr#M120517)
+* [Liste de session complète Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly-discussions/adobe-developers-live-october-2021-project-firefly-s-complete/td-p/425779)
+* [AEM Compléter la liste de sessions](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041?profile.language=fr#M120517)
 
-## Tons clairs
+## Faits saillants
 
 <table>
   <tr>
@@ -33,7 +33,7 @@ Connectez-vous à d’autres développeurs et rejoignez les conversations de ses
       </a>
       <div>
          <a href="headless.md"><strong>Sites sans affichage</strong></a>         
-         <br/><em>avec Mathias Siegel, responsable produit principal, AEM Sites</em>
+         <br/><em> avec Mathias Siegel, chef de produit principal, AEM Sites</em>
       </div>
       <p>
         <br/>
@@ -46,7 +46,7 @@ Connectez-vous à d’autres développeurs et rejoignez les conversations de ses
       </a>
       <div>
          <a href="aep-integration.md"><strong>Présentation de l’intégration Adobe Experience Platform</strong></a>
-         <br/><em>avec Eric Knee, architecte principal en solutions d’entreprise</em>
+         <br/><em> avec Eric Knee, principal architecte de solution d'entreprise</em>
       </div>
       <p>
         <br/>
@@ -60,7 +60,7 @@ Connectez-vous à d’autres développeurs et rejoignez les conversations de ses
       </a>
       <div>
          <a href="pdf-services-api.md"><strong>Génération de documents et capture de signatures électroniques dans vos applications à l’aide de l’API Adobe Sign</strong></a>
-         <br/><em>avec Ben Vanderberg, évangéliste principal</em>
+         <br/><em> avec Ben Vanderberg, développeur principal Evangelist</em>
       </div>
       <p>
         <br/>
@@ -72,21 +72,21 @@ Connectez-vous à d’autres développeurs et rejoignez les conversations de ses
 
 >[!TIP]
 >
->**Toutes les sessions sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions sont répertoriées dans la navigation de gauche**.
 
 ## Ressources supplémentaires
 
 ### AEM
 
-* [Experience League - Explorer AEM](https://experienceleague.adobe.com/?lang=fr#recommended/solutions/experience-manager)
-* [Documentation sur la création dans AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=fr)
-* [Documentation sur le développement dans AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=fr)
-* [Documentation sur l’administration dans AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr)
-* [Documentation sur le déploiement dans AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr)
-* [AEM Tutorials as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=fr)
+* [Experience League - Explore AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
+* [Documentation sur la création AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
+* [Documentation sur le développement AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
+* [Documentation sur l’administration AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [Documentation sur le déploiement d’AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr)
+* [Tutorials AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=fr)
 * [Tutoriels sur AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr)
-* [Tutoriels sur AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=fr)
-* [Tutoriels sur AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=fr)
+* [Tutoriels sur AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
+* [Tutoriels sur AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
 
 ### Adobe Experience Platform
 
@@ -94,8 +94,8 @@ Connectez-vous à d’autres développeurs et rejoignez les conversations de ses
 * [Présentation d’Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html?lang=fr)
 * [Tutoriels Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=fr)
 
-### Créateur d’applications
+### App Builder
 
 * [Présentation d’App Builder](https://adobe.ly/aem-appbuilder)
-* [Guide du développeur d’App Builder](https://adobe.ly/appbuilder)
-* [Inscription au programme d’évaluation d’App Builder](https://adobe.ly/appbuilder-trial)
+* [Guide du développeur App Builder](https://adobe.ly/appbuilder)
+* [Inscription au programme d’évaluation App Builder](https://adobe.ly/appbuilder-trial)

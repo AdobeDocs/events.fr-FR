@@ -1,5 +1,5 @@
 ---
-title: Adobe [!DNL Marketo Engage] Entretien avec le champion de la plongée profonde
+title: Adobe [!DNL Marketo Engage] Champion Deep Dive Email Nurion
 description: Prise en charge des leads, marketing de la perte de clientèle, contenu d’email stratégique peuvent porter de nombreux noms différents. La culture du courrier électronique est une stratégie éprouvée qui a d’innombrables utilisations pour une organisation, mais qui peut être un mystère pour de nombreux spécialistes du marketing et vendeurs. Cette stratégie puissante est donc souvent inutilisée. Au cours de cette session, vous apprendrez les principaux facteurs à prendre en compte qui vous aideront à créer votre propre stratégie de développement des pistes, à vous servir d’exemples de programmes d’aide et à apprendre à appliquer ces stratégies à l’échelle de votre organisation pour atteindre vos objectifs uniques.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced

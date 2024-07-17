@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Au cours de cette session, vous découvrirez les bonnes pratiques relatives à l’utilisation des tableaux de bord Analytics sur les appareils mobiles, ainsi que la personnalisation des applications via Target.
 
-*Ashika Ramjee* Consultant/Adobe en solution
+*Ashika Ramjee* Consultant en solutions/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343819/?quality=12&learn=on)

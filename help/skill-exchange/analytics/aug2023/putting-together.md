@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Evénement d&#39;échange de compétences Août 2023 - Suivi de croissance - Assemblage
+# Événement d’Exchange de compétences Août 2023 - Suivi de croissance - Assemblage
 
 Cette session va conclure en expliquant comment Adobe Analytics suit les données d’un site web et utilise les visualisations pour obtenir des informations supplémentaires.
 

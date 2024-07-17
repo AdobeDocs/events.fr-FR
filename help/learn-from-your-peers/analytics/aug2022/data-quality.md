@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Qualité et adoption des données dans [!DNL Analytics]
 
-Les entreprises ont identifié les données comme un facteur clé de réussite commerciale future. Pour ce faire, un haut niveau de qualité des données et l’adoption d’une pile de données matures sont nécessaires. Découvrez comment intégrer la qualité des données dans chaque aspect de [!DNL Adobe Analytics] et créer une culture partagée autour de celle-ci.
+Les entreprises ont identifié les données comme un facteur clé de réussite commerciale future. Pour ce faire, un haut niveau de qualité des données et l’adoption d’une pile de données matures sont nécessaires. Découvrez comment créer une qualité de données dans tous les aspects de [!DNL Adobe Analytics] et créer une culture partagée autour de celle-ci.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414203/?quality=12&learn=on)

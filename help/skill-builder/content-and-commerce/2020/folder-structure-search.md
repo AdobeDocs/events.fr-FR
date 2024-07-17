@@ -17,7 +17,7 @@ duration: 3317
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 6%
+ht-degree: 2%
 
 ---
 
@@ -31,17 +31,17 @@ Principes de base de la configuration et de l’utilisation de la gestion des re
 
 ## Ressources
 
-* [Guide de l’utilisateur d’AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=fr)
+* [Guide de l’utilisateur AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
 * [Configuration de la structure de dossiers AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
 * [Configuration des autorisations de dossier AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=fr)
 * [Utilisation de collections pour organiser et partager des ressources](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Recherche de ressources visuellement similaires à l’apprentissage automatique](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=fr)
-* [Obtenir des résultats de recherche précis et précis avec les facettes de recherche dynamique](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=fr)
+* [Rechercher des ressources visuellement similaires avec apprentissage automatique](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
+* [ Obtenir des résultats de recherche précis et précis avec des facettes de recherche dynamique ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
 * [Syntaxe de recherche de texte intégral avancée](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
 
 ## Enregistrements de séries
 
-* [Asset Link](asset-link.md)
-* [Brand Portal](brand-portal.md)
+* [Lien de ressource](asset-link.md)
+* [Brand Portal](brand-portal.md)
 * [Contenu multimédia dynamique](dynamic-media.md)
 * [Métadonnées](metadata.md)

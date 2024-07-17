@@ -1,5 +1,5 @@
 ---
-title: Brand Portal
+title: Brand Portal
 description: Partage aisé de ressources avec les équipes internes et externes
 solution: Experience Manager, Experience Manager Assets
 product: experience manager
@@ -17,7 +17,7 @@ duration: 3095
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 6%
+ht-degree: 2%
 
 ---
 
@@ -31,13 +31,13 @@ Brand Portal permet de partager facilement des ressources avec des équipes inte
 
 ## Ressources
 
-* [Présentation de Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=fr)
+* [Présentation de Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html)
 * [Vidéos Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal.html)
-* [Approvisionnement des ressources](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=fr)
+* [Approvisionnement des ressources](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html)
 
 ## Enregistrements de séries
 
-* [Asset Link](asset-link.md)
+* [Lien de ressource](asset-link.md)
 * [Contenu multimédia dynamique](dynamic-media.md)
 * [Structure de dossiers et recherche](folder-structure-search.md)
 * [Métadonnées](metadata.md)

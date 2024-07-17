@@ -10,13 +10,13 @@ duration: 3488
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14947
 thumbnail: 3427255.jpeg
-source-git-commit: 01689cc3c8f1d21e1ea223b8ee0fa3f22019fbcf
+exl-id: ce78b2af-e10c-46b8-ba43-ccbca9db788c
+source-git-commit: e3eb0d9e8c3de2c56b12e10bcbf3cb1ecaf2a6f3
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
 
 ---
-
 
 # Marketo et modèles : principes de base de l’enregistrement des tableaux de bord d’attribution
 

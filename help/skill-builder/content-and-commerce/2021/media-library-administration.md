@@ -1,6 +1,6 @@
 ---
 title: Ne perdez plus de temps à trouver le contenu
-description: Découvrez AEM interface utilisateur d’administration de Sites et Media Library avec des conseils et astuces pour accroître votre efficacité au quotidien
+description: Devenez un auteur expérimenté et découvrez en détail AEM interface utilisateur d’administration de Sites et Media Library avec des conseils et astuces pour accroître votre efficacité au quotidien
 solution: Experience Manager, Experience Manager Sites
 feature-set: Experience Manager Assets
 product: experience manager
@@ -29,7 +29,7 @@ Découvrez comment créer des expériences client riches et attrayantes dans Ado
 
 >[!VIDEO](https://video.tv.adobe.com/v/336983/?quality=12&learn=on&hidetitle=true)
 
-Devenez un auteur expérimenté et découvrez en détail l’interface utilisateur d’administration d’AEM Sites et Media Library avec des conseils et astuces pour accroître votre efficacité au quotidien.
+Devenez un auteur expérimenté qui se familiarisera avec AEM interface utilisateur d’administration de Sites et Media Library avec des conseils et astuces pour accroître votre efficacité au quotidien.
 
 ## Enregistrements de séries
 

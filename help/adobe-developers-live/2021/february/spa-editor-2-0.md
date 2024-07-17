@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Chargez votre SPA React ou Angular existant dans l’éditeur de page et, avec une intervention minimale, activez les auteurs à insérer du contenu qu’ils modifient en contexte.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331743/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/spa-editor-2-0.pdf)** pour les diapositives de session.

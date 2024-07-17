@@ -1,5 +1,5 @@
 ---
-title: Adobe Developers Live Edge Delivery Services Breakout 2 - Novembre 2023
+title: Adobe Developers Live - Ventilation 2 - Novembre 2023
 description: Ekrem Dogan s’intéresse aux aspects essentiels de l’optimisation des performances du site web dans cette session à partir de Adobe Developers Live. Enregistré en direct le 6 novembre 2023, découvrez les stratégies permettant d’obtenir et de maintenir un score Lighthouse de haut niveau, tout en assurant des sites web efficaces et conviviaux avec Adobe Experience Manager. Cette conférence est remplie de conseils pratiques et d’exemples concrets, ce qui en fait un rendez-vous incontournable pour les développeurs axés sur l’optimisation des performances web.
 solution: Experience Manager,Experience Manager Sites
 feature-set: Experience Manager
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Developers Live Edge Delivery Services Breakout 2 - Novembre 2023
+# Adobe Developers Live - Ventilation 2 - Novembre 2023
 
 Ekrem Dogan s’intéresse aux aspects essentiels de l’optimisation des performances du site web dans cette session à partir de Adobe Developers Live. Enregistré en direct le 6 novembre 2023, découvrez les stratégies permettant d’obtenir et de maintenir un score Lighthouse de haut niveau, tout en assurant des sites web efficaces et conviviaux avec Adobe Experience Manager. Cette conférence est remplie de conseils pratiques et d’exemples concrets, ce qui en fait un rendez-vous incontournable pour les développeurs axés sur l’optimisation des performances web.
 
-Poursuivez la conversation dans [Communautés d’Experience League](https://adobe.ly/3rC7TTm).
+Poursuivez la conversation dans [Communautés Experience League](https://adobe.ly/3rC7TTm).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425625/?learn=on)

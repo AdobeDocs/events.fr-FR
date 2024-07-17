@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Connectez-vous à votre instance Adobe Campaign Standard et découvrez les bonnes pratiques relatives à la fatigue de ciblage, de personnalisation et de marketing pour une meilleure utilisation d’ACS. Cette session sera interactive : rendez cette session la vôtre en demandant des informations sur les fonctionnalités/besoins directement à notre expert !
 
-*Laurent Valenza* Consultant/Adobe principal en solution
+*Laurent Valenza* Consultant principal en solutions/Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343828/?quality=12&learn=on)

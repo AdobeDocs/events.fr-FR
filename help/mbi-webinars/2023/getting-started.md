@@ -23,7 +23,7 @@ ht-degree: 1%
 >
 >Adobe Commerce Intelligence était auparavant connu sous le nom de [!DNL Magento Business Intelligence (MBI)]. Les enregistrements pour les événements passés reflètent le nom précédent.
 
-Découvrez les principales fonctionnalités de Commerce Intelligence directement au sein de l’équipe produit Commerce avec une présentation approfondie des tableaux de bord préconfigurés et des options de personnalisation disponibles.
+Découvrez les fonctionnalités de base de Commerce Intelligence directement depuis l’équipe produit de Commerce, avec des informations détaillées sur les tableaux de bord préconfigurés et les options de personnalisation disponibles.
 
 Les cas d’utilisation sont partagés dans l’ensemble du site, ce qui fournit des exemples illustratifs de la manière dont les marchands obtiennent plus d’informations et stimulent une croissance plus importante dans leurs magasins avec la BI, à partir du premier jour.
 
@@ -31,5 +31,5 @@ Les cas d’utilisation sont partagés dans l’ensemble du site, ce qui fournit
 
 ## Ressources supplémentaires
 
-[Présentation de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-[Prise en charge des informations commerciales](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Commerce Intelligence Introduction](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+[Prise en charge de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

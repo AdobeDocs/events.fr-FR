@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Platform - Autorisations du Admin Console
+title: Adobe Experience Platform - Autorisations des Admin Console
 description: Admin Console et tout ce qui a changé, les nouveaux contrôles d’accès dans l’interface utilisateur de la plateforme de données clients (RTCDP), la console Adobe.io/developer et comment configurer des autorisations pour votre intégration de l’API RTCDP.
 feature-set: Experience Platform
 feature: Access Control, API
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Platform - Autorisations du Admin Console
+# Adobe Experience Platform - Autorisations des Admin Console
 
 Rubriques traitées - Admin Console et ce qui a changé, les nouveaux contrôles d’accès dans l’interface utilisateur de la plateforme de données clients (RTCDP), la console Adobe.io/developer et comment configurer des autorisations pour votre intégration de l’API RTCDP.
 

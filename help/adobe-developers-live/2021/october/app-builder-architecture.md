@@ -1,6 +1,6 @@
 ---
-title: Architecture du générateur d’applications et exploration approfondie technique
-description: En savoir plus sur App Builder au fur et à mesure que nous parcourons l’architecture des applications App Builder qui étendent Adobe Experience Manager.
+title: Architecture d’App Builder et exploration approfondie technique
+description: En savoir plus sur App Builder à mesure que nous parcourons l’architecture des applications App Builder qui étendent Adobe Experience Manager.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,11 +18,11 @@ ht-degree: 16%
 
 ---
 
-# Architecture du générateur d’applications et exploration approfondie technique
+# Architecture d’App Builder et exploration approfondie technique
 
-En savoir plus sur App Builder au fur et à mesure que nous parcourons l’architecture des applications App Builder qui étendent Adobe Experience Manager.
+En savoir plus sur App Builder à mesure que nous parcourons l’architecture des applications App Builder qui étendent Adobe Experience Manager.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3uragoI)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3uragoI)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337709/?quality=12&learn=on&hidetitle=true)
 

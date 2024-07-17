@@ -1,6 +1,6 @@
 ---
 title: Suivi de croissance Août 2023 - Points phares des créateurs d’expérience
-description: Niveau - Formation des utilisateurs de l’espace de travail informel
+description: Niveau vers le haut - Formation de l’utilisateur de Workspace occasionnel
 feature-set: Analytics
 feature: Workspace Basics
 role: User
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 ---
 
-# Événement d’échange de compétences Août 2023 - Suivi de croissance - points phares des créateurs d’expérience
+# Événement d’Exchange de compétences Août 2023 - Suivi de croissance - points phares des créateurs d’expérience
 
-Niveau - Formation des utilisateurs de l’espace de travail informel
+Niveau vers le haut - Formation de l’utilisateur de Workspace occasionnel
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)

@@ -1,6 +1,6 @@
 ---
 title: Stratégies pour optimiser les performances de votre site Commerce
-description: Élever votre expérience commerciale - Découvrez dans notre présentation les stratégies permettant d’optimiser les performances de votre site. Découvrez les techniques et les bonnes pratiques pour améliorer la vitesse, la réactivité et la satisfaction client, ce qui fait avancer votre activité en ligne.
+description: 'Élever votre expérience Commerce : découvrez dans notre présentation les stratégies d’optimisation des performances de votre site. Découvrez les techniques et les bonnes pratiques pour améliorer la vitesse, la réactivité et la satisfaction client, ce qui fait avancer votre activité en ligne.'
 solution: Commerce
 feature-set: Commerce
 feature: Site Management
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Stratégies pour optimiser les performances de votre site Commerce
 
-Élever votre expérience commerciale - Découvrez dans notre présentation les stratégies permettant d’optimiser les performances de votre site. Découvrez les techniques et les bonnes pratiques pour améliorer la vitesse, la réactivité et la satisfaction client, ce qui fait avancer votre activité en ligne.
+Élever votre expérience Commerce : découvrez dans notre présentation les stratégies d’optimisation des performances de votre site. Découvrez les techniques et les bonnes pratiques pour améliorer la vitesse, la réactivité et la satisfaction client, ce qui fait avancer votre activité en ligne.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426314/?learn=on)

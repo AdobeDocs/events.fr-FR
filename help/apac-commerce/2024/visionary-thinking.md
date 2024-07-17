@@ -1,5 +1,5 @@
 ---
-title: L'avantage créatif - Comment la pensée visionnaire transforme Commerce
+title: Edge créative - Comment la pensée visionnaire transforme Commerce
 description: Ce webinaire explore l’intégration de la créativité et du commerce, en montrant comment les outils et les technologies de l’Adobe peuvent aider à gérer les ressources, à adapter la création de contenu et à rationaliser la chaîne d’approvisionnement de contenu. Il aborde l’importance de rapprocher la créativité et le commerce et couvre des sujets tels que les expériences personnalisées, la gestion des ressources et l’utilisation d’outils tels qu’Adobe Workfront, Adobe Experience Manager et Adobe Stock pour rationaliser le processus de création de contenu.
 solution: Commerce
 topic: Commerce
@@ -9,17 +9,17 @@ doc-type: Event
 duration: 3419
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-15448
-source-git-commit: d6689f340b954778892c8a7de07607a156c9f069
+exl-id: a495d5f0-a567-4a17-913a-15d01441ab27
+source-git-commit: 441e5d9313ea3c46ce09d1d6cfbe358fce8e0b83
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
+# L&#39;Edge créative : comment la pensée visionnaire transforme Commerce
 
-# L&#39;avantage créatif : comment la pensée visionnaire transforme Commerce
-
-Le côté créatif : comment la pensée visionnaire est en train de transformer l&#39;e-commerce plonge à l&#39;avant-garde de l&#39;innovation, là où l&#39;intelligence artificielle de Gen révolutionne le paysage créatif, offrant des perspectives et des possibilités sans précédent. Les participants découvriront comment l’IA rationalise la gestion des directives de marque et de style, assurant la cohérence entre les différentes plateformes et canaux.
+L&#39;Edge créative : Comment la pensée visionnaire est en train de transformer l&#39;e-commerce plonge à l&#39;avant-garde de l&#39;innovation où l&#39;IA généreuse révolutionne le paysage créatif, offrant des perspectives et des possibilités sans précédent. Les participants découvriront comment l’IA rationalise la gestion des directives de marque et de style, assurant la cohérence entre les différentes plateformes et canaux.
 
 Grâce à une intégration transparente, découvrez comment intégrer facilement vos ressources créatives dans l’exécution marketing et le commerce, en améliorant l’engagement des clients et les taux de conversion.
 

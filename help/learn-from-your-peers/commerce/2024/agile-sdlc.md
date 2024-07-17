@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Rationalisation du commerce électronique : approche ciblée sur la communication, les exigences et les tests dans Agile SDLC
+# Rationalisation d’e-Commerce : approche ciblée sur la communication, les exigences et les tests dans Agile SDLC
 
 Rejoignez l’expert et avocat d’Adobe Commerce, Tyler Granlund, qui aborde la rationalisation du commerce électronique au moyen des pratiques du cycle de vie du développement de logiciels agiles (SDLC).
 
@@ -30,6 +30,6 @@ Dans ce webinaire, vous apprendrez :
 * Tests d’excellence : conseils relatifs aux procédures de test applicables à différentes phases, afin de garantir le développement de sites web de commerce électronique fiables et fiables.
 * Communication avec les parties prenantes et l’équipe - Conseils pour favoriser une communication efficace. Mettre l&#39;accent sur la transparence et la responsabilité en tant que facteurs clés de réussite de l&#39;exécution du projet.
 
-Vous pouvez accéder aux diapositives [here](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"}.
+Vous pouvez accéder aux diapositives [ici](../../assets/commerce/agile-sldc-slides.pdf){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427501/?learn=on)

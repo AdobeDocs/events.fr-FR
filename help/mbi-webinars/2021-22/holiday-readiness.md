@@ -13,7 +13,7 @@ duration: 3197
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -41,4 +41,4 @@ Utilisez vos données eCommerce pour réussir pendant les vacances. Ce webinaire
 ## Ressources utiles
 
 [Guide de l’utilisateur de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=fr)
-[Prise en charge des informations commerciales](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+[Prise en charge de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

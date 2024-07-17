@@ -27,6 +27,8 @@ Dale Whitchurye, EVP, Production Intelligence, chez IPG Health, partagera commen
 
 Vous entendrez,
 
-Comment ils ont évolué à la fois leur processus et leur infrastructure au fil du temps Conseils pratiques pour intégrer Workfront à votre pile de technologies plus large et aux workflows clés matures Comment IPG pose les bases de la chaîne d’approvisionnement de contenu
+Comment ils ont évolué à la fois leur processus et leur infrastructure au fil du temps
+Conseils pratiques pour intégrer Workfront à votre tech stack plus large et aux workflows clés matures
+Comment IPG pose les bases de la chaîne d’approvisionnement en contenu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)

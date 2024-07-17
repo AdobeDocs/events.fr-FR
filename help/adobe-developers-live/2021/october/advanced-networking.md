@@ -13,7 +13,7 @@ duration: 1693
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 5%
+ht-degree: 3%
 
 ---
 
@@ -23,12 +23,12 @@ La migration dans le cloud peut s’avérer difficile lorsque d’autres service
 
 Nous montrerons comment demander une adresse IP dédiée ou une connexion VPN, en expliquant les options disponibles pour les clients.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3EUTdAo)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3EUTdAo)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337898/?quality=12&learn=on&hidetitle=true)
 
 ## Ressources supplémentaires
 
-- [Documentation Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=fr)
-- [Présentation du Cloud Service Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html?lang=fr)
-- [Tutoriels sur Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html?lang=fr)
+- [Documentation Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+- [Présentation du Cloud Service Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/overview/home.html)
+- [Tutoriels sur Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-tutorials.html)

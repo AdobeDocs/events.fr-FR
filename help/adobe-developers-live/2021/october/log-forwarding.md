@@ -1,5 +1,5 @@
 ---
-title: Surveillance des applications App Builder avec transfert de journal
+title: Surveillance des applications App Builder avec transfert des journaux
 description: Accédez à tous les journaux de votre application App Builder dans une solution de gestion des journaux prise en charge de votre choix. Au cours de cette session, nous vous donnons un aperçu exclusif des fonctionnalités de transfert des logs à venir et de la manière dont vous pouvez les tester plus tôt.
 feature: Developer Tools
 topic: Development
@@ -16,11 +16,11 @@ ht-degree: 11%
 
 ---
 
-# Surveillance des applications App Builder avec transfert de journal
+# Surveillance des applications App Builder avec transfert des journaux
 
 Accédez à tous les journaux de votre application App Builder dans une solution de gestion des journaux prise en charge de votre choix. Au cours de cette session, nous vous donnons un aperçu exclusif des fonctionnalités de transfert des logs à venir et de la manière dont vous pouvez les tester plus tôt.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3zXM3rp)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3zXM3rp)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337568/?quality=12&learn=on&hidetitle=true)
 

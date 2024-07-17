@@ -1,5 +1,5 @@
 ---
-title: Extensibilité du service Asset compute
+title: Extensibilité du service Asset Compute
 description: Découvrez comment utiliser Adobe Developer App Builder pour créer un programme de travail d’Asset compute personnalisé pour le traitement des ressources lors de l’ingestion dans Adobe Experience Manager. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
 solution: Experience Manager,Experience Manager Assets
 product: experience manager
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 ---
 
-# Extensibilité du service Asset compute
+# Extensibilité du service Asset Compute
 
 Découvrez comment utiliser Adobe Developer App Builder pour créer un programme de travail d’Asset compute personnalisé pour le traitement des ressources lors de l’ingestion dans Adobe Experience Manager.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331849/?quality=12&learn=on&hidetitle=true)

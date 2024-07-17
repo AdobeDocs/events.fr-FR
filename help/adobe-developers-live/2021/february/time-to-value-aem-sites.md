@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Découvrez comment le framework Blueprint de Digital Foundation vous permet de mettre en oeuvre rapidement une conception avec des fonctionnalités prêtes à l’emploi et une personnalisation minimale.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331735/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/time-to-value-aem-sites.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/time-to-value-aem-sites.pdf)** pour les diapositives de session.

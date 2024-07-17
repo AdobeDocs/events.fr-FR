@@ -1,6 +1,6 @@
 ---
 title: Points phares des créateurs d’expérience Marketo Engage
-description: Rejoignez-nous pour attirer l’attention sur deux clients experts et [!DNL Marketo Engage] utilisateurs. Chacun partage son meilleur [!DNL Marketo Engage] conseil ou astuce.
+description: Rejoignez-nous pour attirer l'attention sur deux clients experts et sur les utilisateurs de  [!DNL Marketo Engage] . Chacun partage sa meilleure  [!DNL Marketo Engage] astuce ou astuce.
 solution: Marketo Engage
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Engage] Points phares des créateurs d’expérience
+# [!DNL Marketo Engage] Points phares des Experience Makers
 
-Rejoignez-nous pour attirer l’attention sur deux clients experts et [!DNL Marketo Engage] utilisateurs. Chacun partage son meilleur [!DNL Marketo Engage] conseil ou astuce.
+Rejoignez-nous pour attirer l’attention sur deux clients experts et sur des utilisateurs de [!DNL Marketo Engage]. Chacun partage son meilleur [!DNL Marketo Engage] conseil ou astuce.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340592/?quality=12&learn=on)

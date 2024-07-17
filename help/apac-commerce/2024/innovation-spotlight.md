@@ -9,28 +9,28 @@ doc-type: Event
 duration: 3392
 last-substantial-update: 2024-03-18T00:00:00Z
 jira: KT-15182
-source-git-commit: 598a8b46ed2e2dff796bb076c5323da3639fe837
+exl-id: dcdf76f7-3327-4564-b68f-925506715ac4
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
 
 ---
 
-
 # Webinaire sur l’innovation Adobe Commerce
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427965/?learn=on)
 
-Au lancement de la Série de webinaires sur le commerce pour 2024, nous souhaitons la bienvenue à un certain nombre de partenaires de la région Asie-Pacifique pour qu’ils partagent quelques points forts d’innovation issus des mises en oeuvre récentes. Rejoignez-nous pour découvrir comment adopter les dernières fonctionnalités et l’architecture afin de proposer la meilleure expérience à vos clients et de développer votre entreprise.
+Au lancement de la Série de webinaires Commerce pour 2024, nous souhaitons la bienvenue à un certain nombre de partenaires de la région Asie-Pacifique pour qu’ils partagent quelques points forts d’innovation issus des mises en oeuvre récentes. Rejoignez-nous pour découvrir comment adopter les dernières fonctionnalités et l’architecture afin de proposer la meilleure expérience à vos clients et de développer votre entreprise.
 Dans ce webinaire, vous entendrez parler des points suivants :
 
 * Diffuser rapidement des expériences de classe optimale avec PWA Studio
 * Utilisation d’App Builder pour une extensibilité hors processus
-* Fonctionnalités commerciales innovantes utilisées par Mitre10, Mitsubishi Motors et d&#39;autres distributeurs clés dans APAC
+* Fonctionnalités innovantes de Commerce utilisées par Mitre10, Mitsubishi Motors et d’autres distributeurs clés dans APAC
 
 À mesure que le paysage de Commerce évolue et évolue, il est essentiel de vous assurer que vous maximisez le potentiel de votre plateforme Commerce pour rester compétitive et offrir une expérience inégalée à vos clients. Au cours de cette session, nous allons découvrir comment les entreprises adoptent une architecture moderne et les dernières fonctionnalités d’Adobe Commerce pour rester en tête.
 
-## Principaux points à retenir
+## Principales acquisitions
 
 * Adobe Commerce offre un éventail de fonctionnalités qui peuvent être personnalisées pour répondre à des besoins spécifiques de l’entreprise.
 * L’utilisation de PWI Studio permet le développement et le déploiement rapides et efficaces de solutions innovantes.

@@ -1,5 +1,5 @@
 ---
-title: Migration vers EDDL/WebSDK - Suivi de l’échange de compétences Adobe Analytics APAC de mai 2023
+title: Migration vers EDDL/WebSDK - Suivi de la croissance des Exchanges de compétences Adobe Analytics APAC de mai 2023
 description: Pourquoi migrer vers EDDL/WebSDK et ce qui doit être pris en compte avant de démarrer la migration
 solution: Analytics
 feature-set: Analytics
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Migration vers EDDL/WebSDK - Suivi de l’échange de compétences Adobe Analytics APAC de mai 2023
+# Migration vers EDDL/WebSDK - Suivi de la croissance des Exchanges de compétences Adobe Analytics APAC de mai 2023
 
 Pourquoi migrer vers EDDL/WebSDK et ce qui doit être pris en compte avant de démarrer la migration
 

@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3185
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15385
-source-git-commit: 8fdbc89be6e17116ef4f3fe1c3a0465783fa63f4
+exl-id: d8e22e01-724a-4b0c-855b-0adb29e98d30
+source-git-commit: 0dfaa269fd25df0845c4eeee442fb2859492b543
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # Utilisation de webhooks pour transférer des données
 
@@ -24,7 +24,7 @@ Parfois, il n’est pas nécessaire d’avoir toute la rigueur que requiert la c
 
 Cet événement présente un aperçu complet des webhooks dans Marketo et fournit des conseils pratiques pour les utiliser efficacement. Les intervenants expliquent l’utilisation de webhooks pour envoyer et recevoir des données de manière structurée, recommandent l’utilisation de requêtes de GET et de POST et mentionnent que les webhooks peuvent être utilisés avec des formats JSON ou XML. Ils mettent en évidence divers cas d’utilisation pour les webhooks, notamment l’intégration CRM, la gestion des événements, le commerce électronique et l’espace de stockage dans le cloud. L’importance de la gestion des erreurs est soulignée, avec des conseils sur la gestion des erreurs, l’automatisation de la récupération et la configuration des alertes. Les méthodes d’authentification telles que l’authentification basée sur l’API, l’authentification de base et l’authentification OAuth 2.0 sont discutées, avec une recommandation d’utilisation d’OAuth 2.0 pour une meilleure sécurité. Les détails de l’implémentation incluent l’utilisation de webhooks dans les campagnes de déclenchement et les campagnes par lots, ainsi que des limitations telles que la limite de délai d’attente de 30 secondes et la gestion prudente des jeux de données volumineux. Dans l’ensemble, le webinaire fournit des informations précieuses sur l’utilisation efficace des webhooks dans Marketo.
 
-## Principaux points à retenir
+## Principales acquisitions
 
 * Les webhooks dans Marketo offrent un moyen structuré d’envoyer et de recevoir des données, prenant en charge les formats JSON ou XML.
 * Les webhooks présentent divers cas d’utilisation, notamment l’intégration CRM, la gestion des événements, le commerce électronique et l’espace de stockage dans le cloud.

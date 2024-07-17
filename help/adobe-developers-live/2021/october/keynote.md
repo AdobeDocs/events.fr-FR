@@ -20,7 +20,7 @@ ht-degree: 19%
 
 Découvrez les dernières avancées technologiques et les mises à jour des outils de développement disponibles dans Adobe Creative Cloud, Document Cloud et Experience Cloud.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3F2g1ym)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3F2g1ym)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337490/?quality=12&learn=on&hidetitle=true)
 

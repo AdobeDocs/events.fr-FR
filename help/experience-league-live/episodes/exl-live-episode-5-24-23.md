@@ -23,4 +23,4 @@ Découvrez les avantages de la messagerie in-app en tant que canal d’engagemen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419194/?quality=12&learn=on)
 
-Vous avez des questions à ce sujet ? Poursuivre la discussion sur ce sujet sur Adobe Experience League [Publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-maximize-your/td-p/599638)).
+Vous avez des questions à ce sujet ? Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-maximize-your/td-p/599638) de Adobe Experience League).

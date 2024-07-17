@@ -27,8 +27,9 @@ Se préparer à plonger,
 
 * Accélérer le développement d’un site web et réduire les coûts de maintenance grâce aux composants principaux de la gestion de contenu web (WCM)
 * Une démonstration en direct montrant comment transformer un composant de teaser en composant de style carte avec plusieurs variations de conception
-* Bonnes pratiques relatives à l’optimisation de vos systèmes de style *Une démonstration détaillée du déploiement de l’interface utilisateur change efficacement à l’aide du pipeline frontal.
+* Bonnes pratiques relatives à l’optimisation de vos systèmes de style
+*Une démonstration détaillée du déploiement de l’interface utilisateur change efficacement à l’aide du pipeline frontal.
 
-Vous pouvez accéder aux diapositives de la présentation [here](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf).
+Vous pouvez accéder aux diapositives de présentation [ici](/help/learn-from-your-peers/assets/experience-manager/sept2023/aem-core-components.pdf).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425841/?learn=on)

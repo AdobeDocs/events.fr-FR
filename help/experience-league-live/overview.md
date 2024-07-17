@@ -27,7 +27,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
 <tr>
 
 <td style="vertical-align: top;">
-      <b>Revenez bientôt découvrir de nouveaux programmes à venir ! En attendant, visionnez nos épisodes précédents en cliquant sur les liens ci-dessous ou dans le volet de navigation de gauche.</b>
+      <b>Revenez bientôt découvrir de nouveaux programmes à venir ! En attendant, consultez nos épisodes précédents en cliquant sur les liens ci-dessous ou dans le volet de navigation de gauche.</b>
   </td>
 </tr>
 </table>
@@ -56,9 +56,9 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
     </a>
     <div>
       <a href="/help/experience-league-live/episodes/exl-live-episode-04-21-22.md">
-        <strong>AEM de Headless à Headless</strong>
+        <strong>AEM de Headful à Headless</strong>
       </a>
-      <br/><em>avec Danny Gordon, Amol Anand, Sachin Mali et Sean Steimer</em>
+      <br/><em> avec Danny Gordon, Amol Anand, Sachin Mali et Sean Steimer</em>
       <br/><em>21 avril 2022</em>
     </div>
   </td>
@@ -68,8 +68,8 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
       <img alt="Experience League LIVE ep8" src="./assets/youtube-thumbnails/jan-25-yt.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - L'école intérieure</strong></a>
-      <br/><em>avec Trevor Paulsen, Rohit Gossain, Alex Strawn</em>
+      <a href="episodes/exl-live-episode-08.md"><strong>Customer Journey Analytics - The Inside Scoop</strong></a>
+      <br/><em> avec Trevor Paulsen, Rohit Gossain, Alex Strawn</em>
       <br/><em>25 janvier 2021</em>
     </div>
   </td>
@@ -82,7 +82,7 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
       <a href="episodes/exl-live-episode-05-26-22.md">
         <strong>Demandez aux experts : Principes de base du SDK Web</strong>
       </a>
-      <br/><em>avec Rudi Shumpert, Jeff Chasin et Eric Matisoff</em>
+      <br/><em> avec Rudi Shumpert, Jeff Chasin et Eric Matisoff</em>
       <br/><em>26 mai 2022</em>
     </div>
   </td>
@@ -93,4 +93,4 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
 
 >[!TIP]
 >
->Pour découvrir d’autres méthodes d’apprentissage, consultez notre [courses](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) ainsi que individuellement [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr).
+>Pour découvrir d&#39;autres méthodes d&#39;apprentissage, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.

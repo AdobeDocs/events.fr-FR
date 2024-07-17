@@ -8,13 +8,13 @@ duration: 2499
 last-substantial-update: 2024-03-11T00:00:00Z
 jira: KT-15114
 thumbnail: 3427800.jpeg
-source-git-commit: 2489f9e31da2de8e7955843baed3ff05d5cc7b64
+exl-id: 1dc9fcb7-66d8-4394-a97f-deff20813794
+source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
 
 ---
-
 
 # Donner les moyens aux équipes légères
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Ce webinaire présente les défis auxquels sont confrontées les équipes allégées et fournit des stratégies pour les surmonter. Il met l&#39;accent sur l&#39;importance de rationaliser les tâches, d&#39;accroître l&#39;efficacité, d&#39;améliorer la qualité de vie au travail, de réduire les écarts de compétences et d&#39;améliorer la collaboration et la communication. Ce document met également en évidence les différentes intégrations et fonctionnalités des solutions Adobe qui peuvent vous aider à rationaliser les processus et à optimiser les workflows. En outre, il met l’accent sur l’importance de la formation, de la documentation et de l’établissement de normes et de gouvernance pour améliorer l’efficacité et l’évolutivité de l’équipe. Dans l&#39;ensemble, les stratégies décrites dans le document visent à permettre aux équipes allégées d&#39;atteindre plus avec des ressources limitées.
 
-## Tons clairs
+## Faits saillants
 
 * Les difficultés auxquelles sont confrontées les équipes allégées sont notamment les contraintes de ressources, les lacunes en compétences et les besoins de formation, la gestion du fardeau et de la charge de travail, ainsi que les difficultés de collaboration et de communication.
 
@@ -42,7 +42,7 @@ Ce webinaire présente les défis auxquels sont confrontées les équipes allég
 
 * Processus de création simplifié : les bibliothèques de Creative Cloud permettent aux utilisateurs de faire glisser des ressources directement dans leurs projets. Cela simplifie le processus créatif et réduit le temps nécessaire à l’exécution des tâches, telles que l’ajout d’images ou l’application de couleurs ou de styles de texte spécifiques.
 
-* Collaboration et mises à jour en temps réel : les bibliothèques de Creative Cloud facilitent la collaboration entre les membres de l’équipe en permettant aux utilisateurs de partager des bibliothèques ou des ressources avec d’autres personnes. Cela garantit que chacun travaille avec le même ensemble de documents et permet des mises à jour en temps réel. Lorsqu’un membre de l’équipe met à jour une ressource dans une bibliothèque partagée, la modification est automatiquement disponible pour tous ceux qui y accèdent.
+* Mises à jour Collaboration et en temps réel : les bibliothèques de Creative Cloud facilitent la collaboration entre les membres de l’équipe en permettant aux utilisateurs de partager des bibliothèques ou des ressources avec d’autres utilisateurs. Cela garantit que chacun travaille avec le même ensemble de documents et permet des mises à jour en temps réel. Lorsqu’un membre de l’équipe met à jour une ressource dans une bibliothèque partagée, la modification est automatiquement disponible pour tous ceux qui y accèdent.
 
 * Contrôle de version : les bibliothèques de Creative Cloud facilitent la gestion des différentes versions des ressources. Cela réduit le risque d’incohérences avec les ressources et garantit que les membres de l’équipe utilisent toujours la dernière version.
 

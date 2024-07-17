@@ -11,13 +11,13 @@ doc-type: Event
 duration: 3933
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15435
-source-git-commit: cfb552d3b5dd56a0910db795bad9b6565c1e4095
+exl-id: a6bb36bb-6bea-4ee0-b5e3-021d02d3de20
+source-git-commit: 1ee9b50eca2e167af477bd17bceb6c1d4b59311b
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
 
 ---
-
 
 # Expedia et les grandes marques font évoluer leur organisation d’Adobe Analytics vers Customer Journey Analytics
 

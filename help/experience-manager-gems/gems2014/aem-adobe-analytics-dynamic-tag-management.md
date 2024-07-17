@@ -1,6 +1,6 @@
 ---
-title: Déploiement d’Adobe Analytics sur une instance AEM locale à l’aide du service cloud de gestion dynamique des balises
-description: AEM 6 offre un service cloud de gestion dynamique des balises (DTM), la méthode recommandée par Adobe pour déployer Adobe Analytics (et d’autres solutions de Marketing Cloud) sur un site web. Découvrez comment connecter une instance AEM locale au service de gestion dynamique des balises et comment envoyer toutes les données d’utilisation souhaitées à Adobe Analytics.
+title: Déployer Adobe Analytics sur une instance d’AEM locale à l’aide du service cloud Dynamic Tag Management
+description: AEM 6 est fourni avec un service cloud pour Dynamic Tag Management (DTM), la méthode recommandée par Adobe pour déployer Adobe Analytics (et d’autres solutions du Marketing Cloud) sur un site web. Découvrez comment connecter une instance d’AEM locale au service de gestion dynamique des balises et envoyer toutes les données d’utilisation souhaitées à Adobe Analytics.
 topic-tags: Dynamictagmanagement
 discoiquuid: a91aeec3-337f-4cfd-850d-6ece0041e550
 targetaudience: target-audience advanced
@@ -9,19 +9,19 @@ duration: 2846
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '179'
-ht-degree: 99%
+ht-degree: 0%
 
 ---
 
-# Déployez Adobe Analytics sur une instance AEM locale via le service cloud de la gestion dynamique des balises.{#how-to-deploy-adobe-analytics-on-a-local-aem-instance-by-using-the-dynamic-tag-management-cloud-service}
+# Déployez Adobe Analytics sur une instance d’AEM locale via le service cloud de la gestion dynamique des balises.{#how-to-deploy-adobe-analytics-on-a-local-aem-instance-by-using-the-dynamic-tag-management-cloud-service}
 
-AEM 6 offre un service cloud de gestion dynamique des balises (DTM), la méthode recommandée par Adobe pour déployer Adobe Analytics (et d’autres solutions de Marketing Cloud) sur un site web. Découvrez comment connecter une instance AEM locale au service de gestion dynamique des balises et comment envoyer toutes les données d’utilisation souhaitées à Adobe Analytics.
+AEM 6 est fourni avec un service cloud pour Dynamic Tag Management (DTM), la méthode recommandée par Adobe pour déployer Adobe Analytics (et d’autres solutions du Marketing Cloud) sur un site web. Découvrez comment connecter une instance d’AEM locale au service de gestion dynamique des balises et envoyer toutes les données d’utilisation souhaitées à Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19401/?quality=9)
 
-*Présenté le 1er octobre 2014*
+*Délivrés le 1er octobre 2014*
 
-**Présenté par :**
+**Présenté par :**
 
 Sandro Looser, architecte de solution, Adobe
 
@@ -33,9 +33,9 @@ Sandro Looser, architecte de solution, Adobe
 
 [Intégration à Adobe Dynamic Tag Management](https://docs.adobe.com/docs/en/aem/6-0/administer/integration/marketing-cloud/dtm.html)
 
-[Aide de la gestion dynamique des balises](https://experienceleague.adobe.com/docs/data-collection.html?lang=fr)
+[Aide de DTM](https://experienceleague.adobe.com/docs/data-collection.html?lang=en)
 
-[Demande d’accès à la gestion dynamique des balises](https://dtm.adobe.com/request_access)
+[Demander l’accès à DTM](https://dtm.adobe.com/request_access)
 
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
@@ -43,4 +43,4 @@ Sandro Looser, architecte de solution, Adobe
 
 >[!MORELIKETHIS]
 >
->* [Déploiement d’Adobe Analytics sur une instance AEM locale à l’aide du service cloud de gestion dynamique des balises](aem-adobe-analytics-dynamic-tag-management.md)
+>* [Comment déployer Adobe Analytics sur une instance d’AEM locale à l’aide du service cloud Dynamic Tag Management](aem-adobe-analytics-dynamic-tag-management.md)

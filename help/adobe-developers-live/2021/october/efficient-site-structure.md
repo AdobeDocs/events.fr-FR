@@ -22,7 +22,7 @@ ht-degree: 15%
 
 Présentation détaillée de certaines des bonnes pratiques pour les développeurs concernant les copies de langue, les Live Copies et les opérations de déplacement ou de copie encombrantes.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/39DoIQT)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/39DoIQT)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337723/?quality=12&learn=on&hidetitle=true)
 

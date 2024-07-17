@@ -24,7 +24,7 @@ Les notifications push vous permettent d&#39;atteindre les utilisateurs de votre
 
 [Télécharger iOS AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-ios)
 
-[Téléchargement d’Android AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-android)
+[Télécharger Android AEPSampleAPP](https://github.com/adobe/aepsdk-sample-app-android)
 
-Pour poursuivre la conversation sur cette session, veuillez consulter la section [Publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
+Pour poursuivre la conversation sur cette session, consultez le [billet de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-push/td-p/451869).
 

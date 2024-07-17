@@ -23,5 +23,5 @@ Les nouvelles fonctionnalités Portail d’audience et Composition ont porté la
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421425/?quality=12&learn=on)
 
-Vous avez des questions à propos de cette émission ? Poursuivre la discussion sur ce sujet sur Adobe Experience League [Publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366).
+Vous avez des questions à propos de cette émission ? Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-actionable/m-p/607073#M366) de Adobe Experience League.
 

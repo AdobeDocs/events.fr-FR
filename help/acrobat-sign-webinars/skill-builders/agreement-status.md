@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1363
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15299
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: 670ff959-a740-4cd4-96a8-95fb0d696ac8
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # Gérer les accords : obtenir la visibilité en temps réel dans l’état du contrat
 

@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Au cours de cette session de présentation, vous allez découvrir les dernières tendances de la gestion des Parcours clients entre B2B et B2C. Nous partagerons également avec vous les dernières innovations en matière d’applications de parcours clés, ainsi que l’ensemble de Adobe Experience Cloud et Platform. À ne pas manquer !
 
-*Timo Kohlberg* Responsable principal et responsable marketing/Adobe des produits EMEA
+*Timo Kohlberg* Directeur principal et responsable marketing/Adobe des produits EMEA
 
 >[!VIDEO](https://video.tv.adobe.com/v/343822/?quality=12&learn=on)

@@ -12,7 +12,7 @@ duration: 2513
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 La préparation est la clé du succès. Dans ce webinaire, nous vous proposons de découvrir les bonnes pratiques pour tirer parti d’Adobe Commerce afin d’optimiser les ventes et les performances au cours de cette période commerciale importante (ou tout autre événement commercial que votre entreprise peut rencontrer tout au long de l’année).
 
-Vous entendrez parler de Jason Ford, responsable de Commerce Solutions Consulting APAC, et de Sophia Gray, responsable de compte commercial senior, qui aborderont les sujets suivants :
+Jason Ford, responsable des solutions Commerce Consulting APAC et Sophia Gray, responsable de compte Commerce, vous donneront des informations sur les sujets suivants :
 
 * Préparation de la campagne
 * Considérations sur les performances

@@ -22,6 +22,6 @@ Rejoignez cette session pour en savoir plus sur les dernières mises à jour des
 
 *Christophe Protat* Gestionnaire de produits/Adobe
 
-*Gael Mouello* Responsable produit/Adobe supérieur
+*Gael Mouello* Chef de produit/Adobe senior
 
 >[!VIDEO](https://video.tv.adobe.com/v/343823/?quality=12&learn=on)

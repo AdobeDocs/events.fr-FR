@@ -1,5 +1,5 @@
 ---
-title: Augmentez votre productivité - Échange de compétences Adobe Analytics APAC de mai 2023
+title: Augmentez votre productivité - Exchange de compétences Adobe Analytics APAC de mai 2023
 description: Pour conclure, nous allons comprendre comment Adobe Analytics suit les données d’un site web, comment les enregistrer, les partager et collaborer. Laissez cette session contenant des conseils pour accroître votre productivité et poursuivre votre parcours d’apprentissage.
 solution: Analytics
 feature-set: Analytics
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Augmentez votre productivité - Échange de compétences Adobe Analytics APAC de mai 2023
+# Augmentez votre productivité - Exchange de compétences Adobe Analytics APAC de mai 2023
 
 Pour conclure, nous allons comprendre comment Adobe Analytics suit les données d’un site web, comment les enregistrer, les partager et collaborer. Laissez cette session contenant des conseils pour accroître votre productivité et poursuivre votre parcours d’apprentissage.
 

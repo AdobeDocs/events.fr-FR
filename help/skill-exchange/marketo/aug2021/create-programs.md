@@ -1,5 +1,5 @@
 ---
-title: Création de programmes dans [!DNL Marketo Engage]
+title: Création de programmes dans  [!DNL Marketo Engage]
 description: Cette session vous apprendra tout sur la structure de programme, y compris les types de programme, les canaux et les états et les balises.
 solution: Marketo Engage
 role: User
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Création de programmes dans [!DNL Marketo Engage]
 
-Cette session vous apprendra tout sur *Structure de programme* y compris : Types de programme, canaux et états et balises. Vous découvrirez également les *Concept du programme de base* et ce qui constitue un programme.
+Cette session vous apprendra tout sur *Structure de programme*, y compris : Types de programme, canaux et états et balises. Vous découvrirez également le *concept de programme de base* et ce qui constitue un programme.
 
-Vous allez quitter cette session pour comprendre comment configurer votre [!DNL Marketo Engage] pour répondre aux besoins de votre entreprise de la manière la plus efficace possible et pour créer des programmes permettant d’exécuter des emails et des webinaires.
+Cette session vous permettra de comprendre comment configurer votre instance [!DNL Marketo Engage] pour répondre aux besoins de votre entreprise de la manière la plus efficace possible et comment créer des programmes pour exécuter des emails et des webinaires.
 
 Une séance de questions-réponses en direct à la fin de cette session répondra à toutes vos questions en suspens.
 

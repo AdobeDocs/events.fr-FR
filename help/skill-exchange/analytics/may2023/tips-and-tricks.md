@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Conseils et astuces pour Adobe Analytics - Suivi de l’échange de compétences Adobe Analytics APAC de mai 2023
+# Conseils et astuces pour Adobe Analytics - Mai 2023 Suivi de la croissance de l’Exchange de compétences Adobe Analytics APAC
 
 Rejoignez-nous pour attirer l&#39;attention sur Bhagyesh Patel et Victoria Xiao, deux clients experts et des utilisateurs d&#39;Adobe Analytics. Chacun partage son meilleur conseil ou astuce Adobe Analytics.
 

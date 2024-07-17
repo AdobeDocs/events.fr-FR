@@ -1,6 +1,6 @@
 ---
 title: Remarques de clôture
-description: Fermez Adobe Developers Live Commerce avec Sr. Director, Gestion des produits Chris Hedge.
+description: Fermez Adobe Developers Live Commerce avec le Director côté serveur, Chris Hedge, chef de produit.
 role: User
 level: Beginner
 kt: 9787
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Remarques de clôture
 
-Fermez Adobe Developers Live Commerce avec Sr. Director, Gestion des produits Chris Hedge.
+Fermez Adobe Developers Live Commerce avec le Director côté serveur, Chris Hedge, chef de produit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340625/?quality=12&learn=on)

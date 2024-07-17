@@ -21,7 +21,7 @@ ht-degree: 0%
 ---
 
 
-# Evénement d’échange de compétences Août 2023 - AEM Developer Track - Déverrouillage de la puissance du style : création d’un système de style efficace et évolutif
+# Evénement d’Exchange de compétences Août 2023 - AEM Suivi des développeurs - Déverrouillage de la puissance du style : création d’un système de style efficace et évolutif
 
 Création d’un nouveau système de style pour réutiliser les composants pour plusieurs clients/unités opérationnelles en fonction de leurs directives de branding.
 

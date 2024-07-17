@@ -1,6 +1,6 @@
 ---
-title: Suivi de la personnalisation à l’aide du code d’échelle [!DNL Marketo Engage]
-description: Couvre les fonctionnalités de personnalisation disponibles dans Adobe [!DNL Marketo Engage]; jetons, segments, contenu dynamique et fragments de code et script Velocity.  Cas d’utilisation de script de vitesse avancée, notamment la personnalisation du contenu à l’aide de données provenant d’objets personnalisés.
+title: Suivi de Personalization à l’échelle du code à l’aide de [!DNL Marketo Engage]
+description: Couvre les fonctionnalités de personnalisation disponibles dans Adobe [!DNL Marketo Engage], les jetons, les segments, le contenu et les fragments de code dynamiques et les scripts Velocity.  Cas d’utilisation de script de vitesse avancée, notamment la personnalisation du contenu à l’aide de données provenant d’objets personnalisés.
 solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ---
 
-# Suivi de la personnalisation à l’aide du code d’échelle [!DNL Marketo Engage]
+# Suivi de Personalization à l’échelle du code à l’aide de [!DNL Marketo Engage]
 
-Dans le monde d&#39;aujourd&#39;hui axé sur les données, si vous ne personnalisez pas votre contenu marketing, vous ne disposez pas d&#39;une opportunité de vous connecter à votre audience. Joindre [!DNL Marketo Engage] Les champions, Courtny Edwards-Jones et Darshil Shah, partagent leur sagesse en utilisant les fonctionnalités de personnalisation disponibles dans Adobe pour obtenir le meilleur kilométrage. [!DNL Marketo Engage].
+Dans le monde d&#39;aujourd&#39;hui axé sur les données, si vous ne personnalisez pas votre contenu marketing, vous ne disposez pas d&#39;une opportunité de vous connecter à votre audience. Rejoignez [!DNL Marketo Engage] Champions, Courtny Edwards-Jones et Darshil Shah, car ils partagent leur sagesse pour obtenir le meilleur kilométrage à l&#39;aide des fonctionnalités de personnalisation disponibles dans l&#39;Adobe [!DNL Marketo Engage].
 
 Dans ce webinaire, vous apprendrez :
 
 * Pourquoi la personnalisation est-elle importante ?
-* Cas d’utilisation de la personnalisation clés et techniques à utiliser pour chacun d’eux. Fonctionnalités et techniques disponibles dans [!DNL Marketo Engage] nous vous apprendrons à utiliser : jetons, segments, contenu dynamique et fragments de code, ainsi que les scripts Velocity.
+* Cas d’utilisation de la personnalisation clés et techniques à utiliser pour chacun d’eux. Les fonctionnalités et techniques disponibles dans [!DNL Marketo Engage] nous enseigneront comment utiliser : jetons, segments, contenu dynamique et fragments de code, et les scripts Velocity.
 * Cas d’utilisation de script de vitesse avancée, notamment la personnalisation du contenu à l’aide de données provenant d’objets personnalisés.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419133/?learn=on)

@@ -23,8 +23,8 @@ ht-degree: 0%
 
 Déployez et gérez rapidement et facilement vos balises marketing et publicitaires côté client avec AEP Launch, apprenez à personnaliser et à écrire vos propres extensions.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331734/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/experience-platform-launch-demo.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/experience-platform-launch-demo.pdf)** pour les diapositives de session.

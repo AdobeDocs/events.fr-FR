@@ -1,6 +1,6 @@
 ---
 title: Demander à l’expert - Mesurer la vitesse
-description: Découvrez comment mesurer et suivre la vitesse à l’aide de [!DNL Workfront] création de rapports. Cet atelier a été enregistré le 14 août 2019.
+description: Découvrez comment mesurer et suivre la vitesse à l’aide de la création de rapports  [!DNL Workfront] . Cet atelier a été enregistré le 14 août 2019.
 doc-type: feature video
 team: Technical Marketing
 jira: KT-9912
@@ -10,13 +10,13 @@ duration: 4630
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '3967'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
 # Demander à l’expert - Mesurer la vitesse
 
-Découvrez comment mesurer et suivre la vitesse à l’aide de [!DNL Workfront] création de rapports. Cet atelier a été enregistré le 14 août 2019.
+Découvrez comment mesurer et suivre la vitesse à l’aide du reporting [!DNL Workfront]. Cet atelier a été enregistré le 14 août 2019.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341057/?quality=12)
 
@@ -59,7 +59,7 @@ Calcul :
 ROUND(DIV({actualDurationMinutes},{DE:First Duration}),1)
 ```
 
-**État du ratio travail-validation**
+**État du rapport travail-validation**
 
 Format:Texte
 
@@ -79,7 +79,7 @@ Calcul :
 ROUND(DIV({actualDurationMinutes},{durationMinutes}),1)
 ```
 
-**État de vitesse ajusté**
+**État de vitesse ajustée**
 
 Format:Texte
 
@@ -99,7 +99,7 @@ Bonjour, merci d&#39;avoir organisé ce webinaire. J’ai une question à propos
 
 Dans une situation de ce type, vous pouvez utiliser le filtrage et la modification en masse pour semi-automatiser la corvée de remplissage du champ Condition en fonction de votre champ personnalisé État .
 
-Voici la procédure à suivre :
+La procédure est la suivante :
 
 1. Déterminez les valeurs d’état que vous souhaitez mapper aux valeurs de condition. Par exemple, supposons que vous ayez une valeur State de &quot;Late&quot; et &quot;Très tardive&quot; qui correspondent toutes deux à une valeur Condition de &quot;In Trouble&quot;.
 1. Créez un rapport de projet présentant tous les projets pour lesquels la valeur d’état est &quot;En retard&quot; et &quot;Très en retard&quot;.
@@ -413,7 +413,7 @@ Oui. Vous devez créer un rapport Document . Il semble que vous souhaitiez attri
 
 **Question**
 
-Dans les rapports, pourquoi les valeurs sont-elles disponibles en colonne, mais pas en sélection ou regroupement ? Par exemple : source du problème.
+Dans les rapports, pourquoi les valeurs sont-elles disponibles en colonne, mais pas en sélection ou regroupement ? Par exemple : Problème avec Source.
 
 **Réponse**
 

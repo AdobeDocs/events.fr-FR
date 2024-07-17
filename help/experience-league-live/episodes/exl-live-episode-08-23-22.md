@@ -32,15 +32,15 @@ Pensez-vous à migrer votre mise en oeuvre vers le nouveau SDK Web Adobe ?  Nous
 
 <br> 
 
-**Question :** Cette capture correspond-elle également à l’Adobe ECID ?
+**Question :** Cette capture-t-elle également l’Adobe ECID ?
 
 **Réponse :** L’ECID d’Adobe n’est pas capturé dans cette extension. Cette extension est destinée à créer des identifiants anonymes supplémentaires (entre autres).
 
-**Réponse :** L’Adobe ECID peut être capturé de différentes manières. Nous le partagerons via les notes ExL et le Twitter car nous ne pouvons pas partager les liens du chat ici.
+**Réponse :** L’ECID d’Adobe peut être capturé d’autres façons. Nous le partagerons via les notes ExL et le Twitter car nous ne pouvons pas partager les liens du chat ici.
 
 <br> 
 
-**Question :** La fonctionnalité de hachage propose-t-elle diverses techniques de hachage comme SHA-256 et fournit-elle des clés publiques et privées ?
+**Question :** La fonctionnalité de hachage offre-t-elle diverses techniques de hachage comme SHA-256 et fournit-elle des clés publique et privée ?
 
 **Réponse :** Oui ! SHA-256 est la valeur par défaut.
 
@@ -50,53 +50,53 @@ Pensez-vous à migrer votre mise en oeuvre vers le nouveau SDK Web Adobe ?  Nous
 
 <br> 
 
-**Question :** Sur quoi cliquons-nous pour télécharger les fichiers source pour les extensions ? Est-ce dans le &quot;menu à 3 points&quot; ?
+**Question :** Sur quoi cliquons-nous pour télécharger les fichiers source des extensions ? Est-ce dans le &quot;menu à 3 points&quot; ?
 
-**Réponse :** Oui ! Les 3 points, puis Télécharger la source (depuis la vue Catalogue)
+**Réponse :** Oui ! Les 3 points, puis Télécharger Source (depuis la vue Catalogue)
 
 <br> 
 
-**Commentaire :** Une des choses que je creuse vraiment avec les extensions c&#39;est leur gain de temps. Beaucoup d&#39;entre eux vous font des choses *can* utilisez du code personnalisé, mais avec une extension , vous n’avez pas besoin d’écrire ce code.
+**Commentaire :** L’une des choses que j’ai vraiment cherché à faire avec les extensions est de leur faire gagner du temps. Beaucoup d&#39;entre eux font des choses que vous *pouvez* faire avec du code personnalisé, mais avec une extension, vous n&#39;avez pas besoin d&#39;écrire ce code.
 
-**Répondre :** Tout de suite. Et il est reproductible sans avoir à recréer la roue à chaque fois.
+**Répondre :** Juste après. Et il est reproductible sans avoir à recréer la roue à chaque fois.
 
 <br> 
 
 **Question :** Comment les modules externes d’analyse seront-ils pris en charge ou remplacés par des mises en oeuvre de SDK Web ?
 
-**Réponse :** De nombreux modules externes d’analyse sont en fait inutiles ces jours-ci grâce à une flexibilité supplémentaire de Workspace et des balises d’Adobe. Toutefois, ceux qui ne le sont pas sont activement migrés pour être utilisés par le SDK Web.
+**Réponse :** De nombreux modules externes d’analyse sont en fait inutiles ces jours-ci grâce à la flexibilité supplémentaire de Workspace et des balises d’Adobe. Toutefois, ceux qui ne le sont pas sont activement migrés pour être utilisés par le SDK Web.
 
 <br> 
 
-**Question :** Développement du suivi d’Activity Map à l’aide du SDK Web ?
+**Question :** Un développement sur le suivi d’Activity Map à l’aide du SDK Web ?
 
-**Réponse :** Je suis heureux d’annoncer que Activity Map est activement utilisé pour la prise en charge dans le SDK Web.
+**Réponse :** Je suis heureux de signaler que l’Activity Map est activement en cours de traitement pour la prise en charge dans le SDK Web.
 
 <br> 
 
-**Question :** Pourrions-nous avoir accès au réseau Adobe Edge pour gérer les événements avant de les transférer vers les destinations finales ? Je comprends que nous pouvons aussi le faire dans Launch, mais dans le futur serait-il possible de le faire aussi sur le serveur ?
+**Question :** Serions-nous en mesure d’accéder au réseau Adobe Edge pour gérer les événements avant de les transférer vers les destinations finales ? Je comprends que nous pouvons aussi le faire dans Launch, mais dans le futur serait-il possible de le faire aussi sur le serveur ?
 
 **Réponse :** Oui ! Cela est possible grâce à notre fonctionnalité de transfert d’événements, que les clients peuvent acheter via n’importe quel de nos produits Real-Time CDP (Real-Time CDP Connections, Prime ou Ultimate).
 
-**Réponse :** Les connexions RTCDP (transfert d’événements) permettent d’avoir plus de contrôle avant de l’envoyer vers des destinations non adobe.
+**Réponse :** Les connexions RTCDP (transfert d’événement) permettent d’avoir plus de contrôle avant de l’envoyer vers des destinations non-adobe.
 
-**Réponse :** Consultez quelques-unes de nos autres vidéos ExL Live pour en savoir plus à ce sujet (comme [celui-ci](exl-live-episode-06-23-22.md)).
-
-<br> 
-
-**Commentaire :** Appel rapide pour l’une de mes extensions préférées : il existe une extension de table de mappage où vous pouvez lire un tableau pour un élément de données qui &quot;si cette valeur est alors défini comme cela&quot;.
-
-**Répondre :** La flexibilité qu&#39;ils offrent est impressionnante. Notez également que les entreprises peuvent également créer leurs propres extensions privées si elles le souhaitent.
+**Réponse :** Consultez quelques-unes de nos autres vidéos ExL Live pour en savoir plus à ce sujet (comme [celle-ci](exl-live-episode-06-23-22.md)).
 
 <br> 
 
-**Question :** Vous avez montré les données individuelles de la gestion de la relation client comme la ville et la météo, où stockons-nous la réponse individuelle ?
+**Commentaire :** Appel rapide pour l’une de mes extensions préférées : il existe une extension de table de mappage où vous pouvez lire un tableau pour un élément de données qui &quot;si cette valeur est alors définie comme telle&quot;.
+
+**Réponse :** La flexibilité qu’ils offrent est impressionnante. Notez également que les entreprises peuvent également créer leurs propres extensions privées si elles le souhaitent.
+
+<br> 
+
+**Question :** Vous avez montré les données individuelles de la gestion de la relation client comme la ville et la météo, alors où stockons-nous la réponse individuelle ?
 
 **Réponse :** Les réponses sont stockées dans chaque événement unique qui déclenche une règle dans une propriété Event Forwarding et sont utilisées uniquement dans cet événement spécifique.
 
 <br> 
 
-Poursuivez la discussion sur ce sujet dans la section [Discussions de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240).
+Poursuivez la discussion sur ce sujet dans la [discussion de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240).
 <br> 
 
 ## Sessions LIVE Experience League supplémentaires de cette série de collecte de données

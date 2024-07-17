@@ -24,19 +24,19 @@ Présentation des cahiers de travail des cas d’utilisation - un catalogue prat
 
 >[!BEGINSHADEBOX &quot;Vous avez des questions ?&quot;]
 
-Poursuivre la discussion sur ce sujet sur Adobe Experience League [Publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488).
+Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488) de Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
 Les scénarios d&#39;utilisation ont été conçus pour répondre à deux défis majeurs, à savoir :
 
-1. **Syndrome de page vierge** - De nombreux clients, en particulier les nouveaux, se sentent dépassés lorsqu’ils accèdent pour la première fois à la plateforme Adobe Experience et ne savent pas où commencer ni comment en tirer parti. Les classeurs de cas d’utilisation aident les clients à surmonter cet obstacle initial en fournissant des ensembles organisés de modèles de cas d’utilisation qui les guident tout au long du processus de mise en oeuvre d’objectifs marketing spécifiques.
+1. **Syndrome de page vierge** - De nombreux clients, en particulier les nouveaux, se sentent dépassés lorsqu’ils accèdent pour la première fois à la plateforme Adobe Experience et ne savent ni par où commencer ni comment en tirer parti. Les classeurs de cas d’utilisation aident les clients à surmonter cet obstacle initial en fournissant des ensembles organisés de modèles de cas d’utilisation qui les guident tout au long du processus de mise en oeuvre d’objectifs marketing spécifiques.
 
-1. **Une plus grande adoption et un plus grand engagement** - Les playbooks visent à aider les clients à se familiariser plus rapidement et à tirer le meilleur parti de leur investissement dans les produits Adobe en leur fournissant des modèles prédéfinis et des conseils techniques.  Cela permet aux clients de mettre en oeuvre les cas d’utilisation plus rapidement, de démontrer de la valeur aux parties prenantes et d’encourager la collaboration entre les équipes informatiques et marketing.  En fin de compte, les playbooks visent à optimiser l’adoption et la valeur que les clients obtiennent de la plateforme Adobe Experience.
+1. **Meilleure adoption et engagement** - Les playbooks visent à aider les clients à se familiariser plus rapidement et à tirer le meilleur parti de leur investissement dans les produits Adobe en fournissant des modèles prédéfinis et des conseils techniques.  Cela permet aux clients de mettre en oeuvre les cas d’utilisation plus rapidement, de démontrer de la valeur aux parties prenantes et d’encourager la collaboration entre les équipes informatiques et marketing.  En fin de compte, les playbooks visent à optimiser l’adoption et la valeur que les clients obtiennent de la plateforme Adobe Experience.
 
 Un exemple de cas d’utilisation présenté dans cette session est un cas d’utilisation de navigation et de marchandisage abandonné. Ce cas d’utilisation vise à répondre au problème des clients qui abandonnent leur session de navigation avant d’effectuer un achat. Le segment d’audience qui en résulte pour ce cas d’utilisation serait les clients qui ont abandonné leur session de navigation sans effectuer d’achat. Ce segment peut ensuite être ciblé avec des messages ou des offres personnalisés pour les encourager à retourner et à effectuer leur achat.
 
-## Principaux points à retenir
+## Principales acquisitions
 
 * Les cahiers de travail des cas d’utilisation sont des ensembles organisés de modèles de cas d’utilisation qui aident les clients à exploiter et à découvrir la puissance d’Adobe Experience Platform.
 * Les principaux défis auxquels les scénarios d’utilisation visent à répondre sont le &quot;syndrome de la page vierge&quot; et la nécessité d’une plus grande adoption et d’un plus grand engagement entre les outils.
@@ -55,7 +55,7 @@ Un exemple de cas d’utilisation présenté dans cette session est un cas d’u
   *Les classeurs de cas d’utilisation peuvent vous aider à résoudre le problème lorsque vous commencez à utiliser Real-Time CDP ou Adobe Journey Optimizer alors que vous ne savez peut-être pas exactement par quoi commencer ou comment créer les ressources appropriées afin d’atteindre les cas d’utilisation souhaités.*
 
 * **[Prise en main des classeurs de cas d’utilisation](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=fr){target="_blank"}**
-  *Découvrez comment configurer votre compte pour les classeurs de cas d’utilisation, conçus pour Real-time Customer Data Platform et Adobe Journey Optimizer.*
+  *Découvrez comment configurer votre compte pour les classeurs de cas d’utilisation, conçus pour Real-Time Customer Data Platform et Adobe Journey Optimizer.*
 
-* **[Manuels de cas d’utilisation disponibles](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=fr){target="_blank"}**
+* **[{target="_blank"}** ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=fr)
   *Lisez cette page pour obtenir un aperçu de tous les playbooks disponibles que vous pouvez découvrir et utiliser dans Real-time Customer Data Platform et Adobe Journey Optimizer.*

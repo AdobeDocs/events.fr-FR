@@ -1,5 +1,5 @@
 ---
-title: Contenu dynamique et puissance de la personnalisation
+title: Contenu dynamique et puissance de Personalization
 description: Au cours de cette session, apprenez à tirer parti du contenu dynamique pour envoyer du contenu plus ciblé et pertinent à votre base de données.
 solution: Marketo Engage
 role: User
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ---
 
-# Contenu dynamique et puissance de la personnalisation
+# Contenu dynamique et puissance de Personalization
 
 Au cours de cette session, apprenez à tirer parti du contenu dynamique pour envoyer du contenu plus ciblé et pertinent à votre base de données.
 
-**Principales mesures à prendre**
+**Touches de raccourci**
 
-* Rationalisez votre [!DNL Marketo Engage] création de programmes et gain de temps grâce à l’utilisation du contenu dynamique
+* Rationalisez les versions de votre programme [!DNL Marketo Engage] et gagnez du temps en utilisant le contenu dynamique
 * Découvrez comment segmenter votre base de données pour alimenter votre contenu dynamique
 * Rapport sur l’impact de votre contenu dynamique pour guider les futures décisions marketing
 

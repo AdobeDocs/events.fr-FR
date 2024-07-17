@@ -21,7 +21,7 @@ Dans cette première des trois sessions en direct concernant la collecte de donn
 
 >[!VIDEO](https://video.tv.adobe.com/v/343335/?quality=12&learn=on)
 
-**Poursuivre la discussion** dans le [Communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"}!
+**Poursuivez la discussion** dans la [communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"} !
 
 ## Sessions LIVE Experience League supplémentaires de cette série de collecte de données
 
@@ -33,8 +33,8 @@ Dans cette première des trois sessions en direct concernant la collecte de donn
 * [Tutoriel : Mise en oeuvre de Adobe Experience Cloud avec le SDK Web](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=fr){target="_blank"}
 * [Informations collectées automatiquement dans le SDK Web](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
 * [Approvisionnement gratuit du SDK Web](https://adobe.ly/websdkaccess){target="_blank"}
-* [Informations sur les identifiants d’appareils propriétaires dans le SDK Web](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=fr){target="_blank"}
+* [Informations sur les identifiants d’appareils propriétaires dans le SDK Web](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
 * [Présentation et téléchargement des Adobes Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
-* [Documents SDK Mobile](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
+* [Documents SDK mobiles](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
 * [Informations sur la collection d’applications hybrides](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
 

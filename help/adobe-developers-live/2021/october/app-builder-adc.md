@@ -1,6 +1,6 @@
 ---
-title: Présentation de la console Adobe Developer
-description: La console Adobe Developer est la passerelle vers les API, événements, Runtime et App Builder Adobe. Rejoignez-nous pour un aperçu des services et des outils disponibles dans le cadre de l’écosystème d’Adobe Developer.
+title: Présentation de Adobe Developer Console
+description: Adobe Developer Console est la passerelle vers les API d’Adobe, les événements, Runtime et App Builder. Rejoignez-nous pour un aperçu des services et des outils disponibles dans le cadre de l’écosystème d’Adobe Developer.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
@@ -18,11 +18,11 @@ ht-degree: 12%
 
 ---
 
-# Présentation de la console Adobe Developer
+# Présentation de Adobe Developer Console
 
-La console Adobe Developer est la passerelle vers les API, événements, Runtime et App Builder Adobe. Rejoignez-nous pour un aperçu des services et des outils disponibles dans le cadre de l’écosystème d’Adobe Developer.
+Adobe Developer Console est la passerelle vers les API d’Adobe, les événements, Runtime et App Builder. Rejoignez-nous pour un aperçu des services et des outils disponibles dans le cadre de l’écosystème d’Adobe Developer.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/2Y2DDld)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/2Y2DDld)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337771/?quality=12&learn=on&hidetitle=true)
 

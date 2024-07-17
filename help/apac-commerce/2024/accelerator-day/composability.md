@@ -1,5 +1,5 @@
 ---
-title: Composabilité - Créateur d’applications, maillage d’API et sans affichage
+title: Composabilité - App Builder, Mesh de l’API et sans affichage
 description: Présentation des derniers développements de la plate-forme Adobe Commerce et App Builder pour l’extensibilité de l’expérience numérique grâce à des innovations sans interface utilisateur et composables. Présentée par Jason Ford, responsable de l'ingénierie de solutions ANZ - Adobe
 feature: API Mesh
 topic: Commerce
@@ -11,15 +11,15 @@ last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15545
 hidefromtoc: true
 badgeEvent: label="Journée de l’accélérateur Adobe Commerce" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
-source-git-commit: 89005ee91f2222029cc3abf30d02dc3b7714b588
+exl-id: 66ff908c-9107-4318-9ace-c9893fd6e3de
+source-git-commit: 0ebc7343e2d19e91f27c1bbba20f290ef7df5377
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-
-# Composabilité : générateur d’applications, maillage d’API et sans affichage
+# Composabilité : App Builder, Mesh de l’API et headless
 
 Présentation des derniers développements de la plate-forme Adobe Commerce et App Builder pour l’extensibilité de l’expérience numérique grâce à des innovations sans interface utilisateur et composables.
 

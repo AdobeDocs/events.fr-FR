@@ -1,5 +1,5 @@
 ---
-title: Publier un formulaire Web à remplir et à signer
+title: Post d’un formulaire Web à remplir et à signer
 description: Découvrez comment créer un formulaire web permettant à n’importe qui de le remplir et de le signer, sans avoir à lancer la transaction ou même connaître l’adresse électronique du signataire.
 feature: Sign, Form
 role: User
@@ -8,15 +8,15 @@ doc-type: Event
 duration: 1570
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15296
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+exl-id: de00b727-129b-4ae7-bfec-97795b616fb6
+source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-
-# Publier un formulaire Web à remplir et à signer
+# Post d’un formulaire Web à remplir et à signer
 
 Découvrez comment créer un formulaire web permettant à n’importe qui de le remplir et de le signer, sans avoir à lancer la transaction ou même connaître l’adresse électronique du signataire. Vous découvrirez également comment préparer un modèle de document qui peut être utilisé pour les transactions de signature individuelles, ainsi que pour la publication sur une URL unique pour un large partage.
 

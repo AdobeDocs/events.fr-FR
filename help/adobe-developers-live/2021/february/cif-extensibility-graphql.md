@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Découvrez comment étendre les composants principaux de Commerce à l’aide de GraphQL.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331850/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/cif-extensibility-graphql.pdf)** pour les diapositives de session.

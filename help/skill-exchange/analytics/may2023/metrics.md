@@ -1,5 +1,5 @@
 ---
-title: Présentation des mesures - Mai 2023 Échange de compétences Adobe Analytics APAC
+title: Compréhension des mesures - Exchange de compétences Adobe Analytics APAC de mai 2023
 description: Comprendre les mesures de base des visiteurs et ajouter des dimensions et des mesures. Au cours de cette session, nous allons commencer à utiliser des périodes, des comparaisons et à appliquer des segments.
 solution: Analytics
 feature-set: Analytics
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Présentation des mesures - Mai 2023 Échange de compétences Adobe Analytics APAC
+# Compréhension des mesures - Exchange de compétences Adobe Analytics APAC de mai 2023
 
 Comprendre les mesures de base des visiteurs et ajouter des dimensions et des mesures. Au cours de cette session, nous allons commencer à utiliser des périodes, des comparaisons et à appliquer des segments.
 

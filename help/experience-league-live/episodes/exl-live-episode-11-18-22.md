@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Analyses au bureau ou en déplacement
 
-**Informations imprécises à tout moment, n’importe où avec Adobe[!DNL Analytics]**
+**Informations sans fragment à tout moment, n’importe où avec Adobe[!DNL Analytics]**
 
 Avec tant de demandes de temps et d&#39;attention, vous devez être en mesure de créer et d&#39;accéder aux informations commerciales dans n&#39;importe quel environnement, que vous soyez derrière un bureau ou à l&#39;extérieur et à peu près.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410834/?quality=12&learn=on)
 
-Regardez la vidéo ci-dessus pour voir cet événement de diffusion en direct, où Adobe [!DNL Analytics] Les experts ont donné de superbes conseils sur la personnalisation et l’accès aux informations dans Analysis Workspace et le [!DNL Analytics] Application de tableaux de bord.
+Regardez la vidéo ci-dessus pour visionner cet événement de diffusion en direct, où des experts de l&#39;Adobe [!DNL Analytics] ont donné de superbes conseils sur la personnalisation et l&#39;accès aux informations dans Analysis Workspace et l&#39;application de tableaux de bord [!DNL Analytics].
 
-Vous avez des questions à ce sujet ? Poursuivre la discussion sur ce sujet sur Adobe Experience League [Publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037).
+Vous avez des questions à ce sujet ? Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037) de Adobe Experience League.
 

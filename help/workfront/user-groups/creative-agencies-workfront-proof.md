@@ -1,5 +1,5 @@
 ---
-title: Agences créatives - BAT Workfront (11 août 2020)
+title: Agences créatives - Workfront Proof (11 août 2020)
 description: Écoutez Cindy Reichert parler de la manière dont Brown-Forman tire parti de Workfront Proof.
 role: User
 level: Beginner, Intermediate
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Agences créatives : BAT Workfront (11 août 2020)
+# Agences créatives : Workfront Proof (11 août 2020)
 
 Écoutez Cindy Reichert parler de la manière dont Brown-Forman tire parti de Workfront Proof.
 

@@ -20,9 +20,9 @@ ht-degree: 10%
 
 # Exploration approfondie du modèle de diffusion continu Adobe Experience Manager as a Cloud Service
 
-Basé sur le livre blanc : [Adobe Experience Manager as a Cloud Service : modèle de diffusion continu](https://fieldreadiness-adobe.highspot.com/items/5ea322e1c714336c23b32599?mkt_tok=eyJpIjoiWlRRNE1qQXlObVV3T0dFNCIsInQiOiJTckVtS1RtWjNCcExxQ3JPYWQ4bENhXC9DNVNRZ0tnNU83MVkraCtaN1NWbUlWU1wvWmJMejY2XC9FYkhBS1gwdjJleHpSY3ZoREJmXC9oanJRTFkzeEplXC9xK1o0TTBvd096b1wvT3BidEMwUGlYMDQxXC91WUk5K2l1ZE83MHV5amhlSkwifQ%3D%3D#1)  nous partagerons des détails sur notre modèle de diffusion afin d’accroître la confiance des clients dans CS et de prendre en charge l’adoption des tests fonctionnels client.
+Sur la base du livre blanc : [Adobe Experience Manager as a Cloud Service: Continuous delivery model](https://fieldreadiness-adobe.highspot.com/items/5ea322e1c714336c23b32599?mkt_tok=eyJpIjoiWlRRNE1qQXlObVV3T0dFNCIsInQiOiJTckVtS1RtWjNCcExxQ3JPYWQ4bENhXC9DNVNRZ0tnNU83MVkraCtaN1NWbUlWU1wvWmJMejY2XC9FYkhBS1gwdjJleHpSY3ZoREJmXC9oanJRTFkzeEplXC9xK1o0TTBvd096b1wvT3BidEMwUGlYMDQxXC91WUk5K2l1ZE83MHV5amhlSkwifQ%3D%3D#1) , nous partagerons des détails sur notre modèle de diffusion afin d’accroître la confiance des clients dans CS et de prendre en charge l’adoption de tests fonctionnels client.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/3i9XWo8)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3i9XWo8)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337720/?quality=12&learn=on&hidetitle=true)
 

@@ -16,7 +16,7 @@ Le programme Heures d’ouverture de la clientèle est une approche proactive de
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche**.
 
 <!--
 

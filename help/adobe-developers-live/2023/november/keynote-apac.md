@@ -1,6 +1,6 @@
 ---
 title: Clé des développeurs en direct APAC
-description: Rejoignez Mark Szulc, directeur de produit principal et évangéliste régional de l’APAC, et Ron Nagy, évangéliste principal, pour le Keynote Adobe Experience Manager pendant Adobe Developers Live APAC - Contenu et commerce le 14 novembre 2023.
+description: Rejoignez Mark Szulc, directeur de produit principal et évangéliste régional de l’APAC, et Ron Nagy, évangéliste principal, pour le Keynote Adobe Experience Manager pendant Adobe Developers Live APAC - Contenu et Commerce le 14 novembre 2023.
 solution: Commerce, Experience Manager as a Cloud Service
 topic: Development
 role: Admin, Developer
@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Clé d’ouverture Adobe Developers Live (APAC) - Novembre 2023
 
-Rejoignez Mark Szulc, directeur de produit principal et évangéliste régional de l’APAC, et Ron Nagy, évangéliste principal, pour Adobe Experience Manager Keynote pendant Adobe Developers Live APAC : Contenu et commerce le 14 novembre 2023.
+Rejoignez Mark Szulc, directeur de produit principal et évangéliste régional de l’APAC, et Ron Nagy, évangéliste principal, pour Adobe Experience Manager Keynote pendant Adobe Developers Live APAC : Contenu et Commerce le 14 novembre 2023.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426342/?learn=on)

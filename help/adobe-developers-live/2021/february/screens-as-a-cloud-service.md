@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Manager Screens as a Cloud Service
+title: as a Cloud Service Adobe Experience Manager Screens
 description: Rejoignez Jonathan Roeder, Director de l’expérience développeur pour Experience Cloud, pour découvrir les dernières mises à jour des développeurs dans Adobe Experience Cloud. Cette session a été diffusée dans le cadre d’un événement de contenu Adobe Developers Live.
 solution: Experience Manager,Experience Manager Screens
 product: experience manager
@@ -21,12 +21,12 @@ ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager Screens as a Cloud Service
+# as a Cloud Service Adobe Experience Manager Screens
 
-Réimagination d’Adobe Experience Manager Screens as a Cloud Service : un parcours qui n’est plus étroitement couplé à un CMS, mais qui devient un service cloud entièrement géré et évolutif.
+Réimagination d’Adobe Experience Manager Screens as a Cloud Service : parcours qui n’est plus étroitement couplé à un CMS, mais qui devient un service cloud entièrement géré et évolutif.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331767/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/screens-as-a-cloud-service.pdf)** pour les diapositives de session.

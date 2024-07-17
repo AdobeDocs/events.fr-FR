@@ -1,5 +1,5 @@
 ---
-title: Ressources en direct Experience League
+title: EXPERIENCE LEAGUE LIVE ASSETS
 description: Cette page héberge des ressources pour Experience League LIVE
 role: User
 level: Beginner
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 ---
 
-# Ressources en direct Experience League
+# EXPERIENCE LEAGUE LIVE ASSETS
 
 Cette page héberge des ressources pour Experience League LIVE
 
 ![Image de la barre latérale de l’épisode 6](assets/exl-live-ep6-sidebar.jpg)
 
-![Logo en direct des Experience League](assets/exl-live-logo.png)
+![Experience League Live Logo](assets/exl-live-logo.png)

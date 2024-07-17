@@ -28,7 +28,7 @@ Effectuez une personnalisation en temps réel sur n’importe quel canal à l’
       </a>
     </div>
     <p>
-    <em>Rejoignez cette session pour découvrir les concepts de base de l’automatisation et de l’optimisation des fonctionnalités d’Adobe Target à l’aide du ciblage automatique et de la personnalisation automatique.</em>
+    <em>Rejoignez cette session pour découvrir les concepts de base de l’automatisation et de l’optimisation des fonctionnalités Adobe Target à l’aide du ciblage automatique et des personnalisations automatiques.</em>
     <p>
   </td>
   <td>
@@ -37,11 +37,11 @@ Effectuez une personnalisation en temps réel sur n’importe quel canal à l’
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/innovations.html">
-        <strong>Innovations et tendances 2022</strong>
+        <strong>2022 Innovations et tendances</strong>
       </a>
     </div>
     <p>
-    <em>Au cours de cette session de présentation, vous découvrirez les principales tendances en matière de D&amp;I. Rejoignez-nous pour explorer la manière dont vous pouvez utiliser vos données de manière pertinente en maximisant entièrement vos investissements Experience Cloud et en découvrant de nouvelles innovations.</em>
+    <em>Au cours de cette session de présentation, vous découvrirez les principales tendances en matière de D&amp;I. Rejoignez-nous pour découvrir comment utiliser vos données de manière pertinente en maximisant pleinement vos investissements Experience Cloud et en découvrant de nouvelles innovations.</em>
     <p>
   </td>  
   <td>
@@ -50,7 +50,7 @@ Effectuez une personnalisation en temps réel sur n’importe quel canal à l’
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/mobile-and-apps.html">
-        <strong>Applications Analytics et Target pour les applications mobiles et les applications</strong>
+        <strong> Applications Analytics et Target pour les applications mobiles et les applications </strong>
       </a>
     </div>
     <p>
@@ -62,4 +62,4 @@ Effectuez une personnalisation en temps réel sur n’importe quel canal à l’
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche**.

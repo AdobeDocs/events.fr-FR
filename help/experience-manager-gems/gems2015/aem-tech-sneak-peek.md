@@ -1,6 +1,6 @@
 ---
-title: Aperçu technique d’AEM
-description: Obtenez un bref aperçu de ce sur quoi nous avons travaillé pour la prochaine génération d’Adobe Experience Manager dans cette conférence technique.
+title: 'AEM technique : aperçu'
+description: Découvrez ce sur quoi nous avons travaillé pour la prochaine génération de Adobe Experience Manager dans une conférence technique.
 discoiquuid: 78af3b2f-b010-4753-bacc-18696a598ded
 targetaudience: target-audience advanced
 exl-id: 9b023ec2-70c3-40ba-92bf-37271c197602
@@ -8,19 +8,19 @@ duration: 3536
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# Aperçu technique d’AEM{#aem-tech-sneak-peek}
+# AEM technique : aperçu{#aem-tech-sneak-peek}
 
-Obtenez un bref aperçu de ce sur quoi nous avons travaillé pour la prochaine génération d’Adobe Experience Manager dans cette conférence technique.
+Découvrez ce sur quoi nous avons travaillé pour la prochaine génération de Adobe Experience Manager dans une conférence technique.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19384/?quality=9)
 
-*Présenté le 21 janvier 2015*
+*Délivrés 21 janvier 2015*
 
-**Présenté par :**
+**Présenté par :**
 
 * Gabriel Walt, chef de produit, Adobe
 

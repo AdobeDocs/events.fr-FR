@@ -25,8 +25,8 @@ ht-degree: 0%
 
 Utilisez les modèles de site pour créer de nouveaux sites en quelques clics, et pour réinitialiser le développement frontal grâce au déploiement rapide de ressources frontales telles que CSS et JS.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331737/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/rapid-frontend-devlopment.pdf)** pour les diapositives de session.

@@ -28,7 +28,7 @@ La Série de webinaires Commerce APAC est une cadence mensuelle d’ateliers pou
       </a>
     </div>
     <p>
-    <em>Adobe et la Commonwealth Bank of Australia (CBA) présentent des innovations dans le commerce, le cloud et les solutions de paiement.</em>
+    <em>La Banque d'Adobe et du Commonwealth d'Australie (CBA) présente des innovations dans les solutions de commerce, de cloud et de paiement.</em>
     <p>
   </td>
   <td>
@@ -37,7 +37,7 @@ La Série de webinaires Commerce APAC est une cadence mensuelle d’ateliers pou
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/innovation-spotlight.html">
-        <strong>Webinaire sur l’innovation Adobe Commerce</strong>
+        <strong>Webinaire Adobe Commerce Innovation Spotlight</strong>
       </a>
     </div>
     <p>
@@ -50,11 +50,11 @@ La Série de webinaires Commerce APAC est une cadence mensuelle d’ateliers pou
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/2024/visionary-thinking.html">
-        <strong>L'avantage créatif - Comment la pensée visionnaire transforme Commerce</strong>
+        <strong>L’Edge créative - Comment la pensée visionnaire transforme Commerce</strong>
       </a>
     </div>
     <p>
-    <em>Explorer l'intégration de la créativité et du commerce.</em>
+    <em>Explorer l’intégration de la créativité et du commerce.</em>
     <p>
   </td>
 </tr>
@@ -62,4 +62,4 @@ La Série de webinaires Commerce APAC est une cadence mensuelle d’ateliers pou
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche**.

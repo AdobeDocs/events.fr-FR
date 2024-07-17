@@ -1,5 +1,5 @@
 ---
-title: Commerce et café - Personnalisation
+title: Commerce et café - Personalization
 description: Cette session aborde les stratégies et les tactiques à appliquer pour personnaliser votre site Commerce et rester compétitif toute l’année. Nous examinons les raisons, les raisons et la manière de personnaliser et de discuter des impacts sur la conversion directement liés à la personnalisation. Corey exécute ensuite une démonstration d’autorisations de catégorie, de segments client, de blocs/widgets dynamiques, de Recommendations de produit, etc. La présentation et la démonstration sont accompagnées d’un Q&R en direct avec Corey.
 solution: Commerce
 topic: Commerce
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Commerce et café - Personnalisation
+# Commerce et café - Personalization
 
 Cette session aborde les stratégies et les tactiques à appliquer pour personnaliser votre site Commerce et rester compétitif toute l’année. Nous examinons les raisons, les raisons et la manière de personnaliser et de discuter des impacts sur la conversion directement liés à la personnalisation. Corey exécute ensuite une démonstration d’autorisations de catégorie, de segments client, de blocs/widgets dynamiques, de Recommendations de produit, etc. La présentation et la démonstration sont accompagnées d’un Q&amp;R en direct avec Corey.
 

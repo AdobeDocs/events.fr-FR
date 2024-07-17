@@ -1,6 +1,6 @@
 ---
-title: Découvrez comment une petite équipe optimise son Adobe [!DNL Marketo Engage] instance
-description: Découvrir comment prendre en charge les instances d’Adobe [!DNL Marketo Engage] avec une petite équipe ou une équipe d'une personne.
+title: Découvrez comment une petite équipe optimise l'Adobe de l'instance  [!DNL Marketo Engage]
+description: Découvrez comment prendre en charge les instances d'Adobe [!DNL Marketo Engage] avec une petite équipe ou une équipe d'une seule.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # Découvrez comment une petite équipe optimise son instance
 
-Rejoindre l’Adobe actuel [!DNL Marketo Engage] Les champions, Darshil Shah, Jenny Robertson et Joy Martinez discutent de leur soutien aux cas d&#39;Adobe. [!DNL Marketo Engage] avec une petite équipe ou une équipe d&#39;une personne. Nos champions discuteront également de la façon dont ils ont réussi, sans ressources, à réussir, comment cela a aidé leur carrière et les résultats positifs qu&#39;ils ont pu voir dans leur exemple.
+Rejoignez l&#39;Adobe actuel [!DNL Marketo Engage] Champions, Darshil Shah, Jenny Robertson et Joy Martinez alors qu&#39;ils discutent de leur manière d&#39;avoir pris en charge des instances d&#39;Adobe [!DNL Marketo Engage] avec une petite équipe ou équipe d&#39;une seule. Nos champions discuteront également de la façon dont ils ont réussi, sans ressources, à réussir, comment cela a aidé leur carrière et les résultats positifs qu&#39;ils ont pu voir dans leur exemple.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417670/?quality=12&learn=on)
 
-Cliquez sur **[here](assets/small-team-instance.pdf){target="_blank"}** pour les diapositives de session.
+Cliquez **[ici](assets/small-team-instance.pdf){target="_blank"}** pour les diapositives de session.

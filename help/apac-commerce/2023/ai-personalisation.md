@@ -1,6 +1,6 @@
 ---
 title: Personnalisation optimisée par l’IA
-description: L'intelligence artificielle est tout autour de nous et elle commence à imprégner beaucoup de nos interactions quotidiennes. Lorsque l’IA est correctement exploitée, elle peut vous aider à offrir à vos clients une expérience hyper pertinente et mémorable. Adobe investit massivement dans l'IA depuis de nombreuses années et plus récemment, nous avons vu les capacités de l'IA être mises en avant dans le commerce. Dans ce webinaire, nous serons rejoints par Jason Ford, responsable - Commerce Solutions Consulting APAC, pour en savoir plus sur la manière d’exploiter la boîte à outils d’Adobe pour surcharger votre stratégie de personnalisation.
+description: L'intelligence artificielle est tout autour de nous et elle commence à imprégner beaucoup de nos interactions quotidiennes. Lorsque l’IA est correctement exploitée, elle peut vous aider à offrir à vos clients une expérience hyper pertinente et mémorable. Adobe investit massivement dans l'IA depuis de nombreuses années et plus récemment, nous avons vu les capacités de l'IA être mises en avant dans Commerce. Dans ce webinaire, nous serons rejoints par Jason Ford, responsable - Commerce Solutions Consulting APAC, pour en savoir plus sur l’utilisation de la boîte à outils d’Adobe pour surcharger votre stratégie de personnalisation.
 feature-set: Commerce
 feature: Upgrade
 solution: Commerce
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # Personnalisation optimisée par l’IA
 
-L&#39;intelligence artificielle est tout autour de nous et elle commence à imprégner beaucoup de nos interactions quotidiennes. Lorsque l’IA est correctement exploitée, elle peut vous aider à offrir à vos clients une expérience hyper pertinente et mémorable. Adobe investit massivement dans l&#39;IA depuis de nombreuses années et plus récemment, nous avons vu les capacités de l&#39;IA être mises en avant dans le commerce. Dans ce webinaire, nous serons rejoints par Jason Ford, responsable - Commerce Solutions Consulting APAC, pour en savoir plus sur la manière d’exploiter la boîte à outils d’Adobe pour surcharger votre stratégie de personnalisation.
+L&#39;intelligence artificielle est tout autour de nous et elle commence à imprégner beaucoup de nos interactions quotidiennes. Lorsque l’IA est correctement exploitée, elle peut vous aider à offrir à vos clients une expérience hyper pertinente et mémorable. Adobe investit massivement dans l&#39;IA depuis de nombreuses années et plus récemment, nous avons vu les capacités de l&#39;IA être mises en avant dans Commerce. Dans ce webinaire, nous serons rejoints par Jason Ford, responsable - Commerce Solutions Consulting APAC, pour en savoir plus sur l’utilisation de la boîte à outils d’Adobe pour surcharger votre stratégie de personnalisation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419107/?learn=on)

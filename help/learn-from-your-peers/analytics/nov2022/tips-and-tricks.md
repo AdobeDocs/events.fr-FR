@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL Adobe Analytics] Conseils et astuces pour champions'
-description: Joindre cinq [!DNL Adobe Analytics] Les champions du monde entier partagent les conseils et astuces qui les ont aidés à maîtriser [!DNL Adobe Analytics].
+title: '[!DNL Adobe Analytics] Conseils et astuces concernant le champion'
+description: Rejoignez les cinq  [!DNL Adobe Analytics] champions du monde entier qui partagent les conseils et astuces qui les ont aidés à maîtriser [!DNL Adobe Analytics].
 role: User
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # [!DNL Adobe Analytics] Conseils et astuces concernant les champions
 
-Joindre cinq [!DNL Adobe Analytics] Les champions du monde entier partagent les conseils et astuces qui les ont aidés à maîtriser [!DNL Adobe Analytics].
+Rejoignez cinq [!DNL Adobe Analytics] champions du monde entier en partageant les conseils et astuces qui les ont aidés à maîtriser [!DNL Adobe Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414191/?quality=12&learn=on)

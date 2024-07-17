@@ -28,7 +28,7 @@ Bien que la sécurité soit liée à de nombreux facteurs techniques et métier,
 
 ## Principales acquisitions
 
-**Sécurité du secteur du commerce électronique**
+**Sécurité du secteur de l’e-commerce**
 
 * Très ciblés par les cyber-attaquants pour le vol de données de carte de crédit.
 
@@ -37,18 +37,18 @@ Bien que la sécurité soit liée à de nombreux facteurs techniques et métier,
 * Renforcer activement les mesures de sécurité pour la protection du commerce.
 * Recommande une authentification à deux facteurs, une limitation de débit de l’API et des stratégies de sécurité du contenu.
 
-**Bonnes pratiques en matière de sécurité**
+**Bonnes pratiques de sécurité**
 
 * Mise en oeuvre d’améliorations de sécurité proactives.
 * Restez mis à jour avec les mises à jour de l&#39;application et les correctifs de sécurité.
 * Surveillez les menaces de sécurité et interagissez avec les intégrateurs système pour les enquêtes sur les violations.
 * Signalez les vulnérabilités par le biais du programme de prime de bogue.
 
-**Mises à jour d’Adobe Commerce**
+**Mises à jour Adobe Commerce**
 
 * Effectuez une mise à niveau vers les dernières versions pour résoudre les vulnérabilités de la sécurité et garantir la conformité.
 
-**Intégration rapide de la nouvelle génération de WAF**
+**Intégration rapide de la méthode WAF de nouvelle génération**
 
 * Des mesures de sécurité sont en cours.
 * Collaboration avec des professionnels de l’assistance pour la mise en oeuvre de règles rapides afin de bloquer les demandes malveillantes.

@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Découvrez les nouvelles fonctionnalités sans interface avec les dernières améliorations apportées aux fragments de contenu. Cette session se concentrera sur l’API GraphQL pour Adobe Experience Manager Cloud Service.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331280/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/headless-graphql-content-fragments.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/headless-graphql-content-fragments.pdf)** pour les diapositives de session.

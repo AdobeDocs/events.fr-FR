@@ -1,6 +1,6 @@
 ---
-title: Skill Builder - Contenu et commerce
-description: Série de webinaires enregistrés pour créer votre base de connaissances et maximiser votre investissement dans les solutions de contenu et de commerce Adobe
+title: Skill Builder - Contenu et Commerce
+description: Série de webinaires enregistrés pour créer votre base de connaissances et maximiser votre investissement dans les solutions Adobe Content et Commerce
 exl-id: 1ed57ee1-89d4-4697-a999-72e0fe215f87
 duration: 58
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,7 +10,7 @@ ht-degree: 2%
 
 ---
 
-# Contenu et Commerce
+# Content and Commerce
 
 Créez et gérez un large éventail de sites web, d’applications mobiles et de formulaires attrayants. Apprenez également à créer des expériences commerciales multicanales sur une seule plateforme grâce à notre solution de commerce flexible optimisée par l’IA.
 
@@ -24,11 +24,11 @@ Créez et gérez un large éventail de sites web, d’applications mobiles et de
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html">
-        <strong>Diffusion d’expériences sans affichage avec Adobe Experience Manager</strong>
+        <strong>Diffuser des expériences sans affichage avec Adobe Experience Manager</strong>
       </a>
     </div>
     <p>
-    <em>Découvrez la gestion de l’expérience sans interface à l’aide des dernières améliorations apportées au fragment de contenu du Experience Manager et de la nouvelle API GraphQL pour la diffusion de contenu sans interface.</em>
+    <em>Découvrez la gestion de l’expérience sans interface utilisateur à l’aide des dernières améliorations apportées aux fragments de contenu Experience Manager et de la nouvelle API GraphQL pour la diffusion de contenu sans interface utilisateur.</em>
     <p>
   </td>
   <td>
@@ -62,4 +62,4 @@ Créez et gérez un large éventail de sites web, d’applications mobiles et de
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche**.

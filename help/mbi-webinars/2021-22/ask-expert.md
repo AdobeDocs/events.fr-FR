@@ -1,8 +1,8 @@
 ---
-title: Renseignements sur le commerce - Demander à un expert
-description: Regardez ces webinaires enregistrés pour une présentation approfondie de l’équipe produit Commerce Intelligence, y compris la transformation commerciale par le biais de données intelligentes.
-landing-page-description: Regardez ces webinaires enregistrés pour une présentation approfondie de l’équipe produit Commerce Intelligence, y compris la transformation commerciale par le biais de données intelligentes.
-short-description: Regardez ces webinaires enregistrés pour une présentation approfondie de l’équipe produit Commerce Intelligence, y compris la transformation commerciale par le biais de données intelligentes.
+title: Commerce Intelligence - Demander à un expert
+description: Regardez ces webinaires enregistrés pour une présentation approfondie de l’équipe produit de Commerce Intelligence, y compris la transformation commerciale par le biais de données intelligentes.
+landing-page-description: Regardez ces webinaires enregistrés pour une présentation approfondie de l’équipe produit de Commerce Intelligence, y compris la transformation commerciale par le biais de données intelligentes.
+short-description: Regardez ces webinaires enregistrés pour une présentation approfondie de l’équipe produit de Commerce Intelligence, y compris la transformation commerciale par le biais de données intelligentes.
 kt: 10404
 solution: Commerce, Commerce Intelligence
 role: Leader,User,Data Architect
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Session 1 :
 
-- Informations sur les clients concernant Commerce Intelligence
+- Ce que disent les clients de Commerce Intelligence
 - Transformation commerciale au moyen de données intelligentes
 
 Session 2 :
@@ -37,7 +37,7 @@ Session 2 :
 
 ## Contenu du webinaire enregistré
 
-_Demander à un expert_ est composé de deux sessions :
+_Demander à un expert_ comprend deux sessions :
 
 ### Session 1
 
@@ -51,7 +51,7 @@ _Demander à un expert_ est composé de deux sessions :
 
 >[!TIP]
 >
->Si vous découvrez Commerce Intelligence, la variable [Série de vidéos Prise en main](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) offre un aperçu complet pour obtenir de meilleures informations et de meilleurs résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
+>Si vous découvrez Commerce Intelligence, la [série de vidéos Prise en main](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) offre un aperçu complet pour obtenir de meilleures informations et de meilleurs résultats grâce à l’agrégation, l’analyse et la visualisation des données.
 
-- [Présentation de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Prise en charge des informations commerciales](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Commerce Intelligence Introduction](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [Prise en charge de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

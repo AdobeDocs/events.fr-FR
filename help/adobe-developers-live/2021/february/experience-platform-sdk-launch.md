@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Déverrouillez tout le potentiel d’AEP Launch côté serveur avec les SDK Web et mobile AEP pour optimiser la collecte de données de votre entreprise.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331761/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/experience-platform-sdk-launch.pdf)** pour les diapositives de session.

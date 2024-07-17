@@ -24,8 +24,8 @@ ht-degree: 0%
 
 Rejoignez Gabriel Walt, chef de produit chez Experience Manager, pour obtenir un aperçu des grands thèmes qui animent la feuille de route de Adobe Experience Manager et les relations entre les sessions.
 
-Poursuivez la conversation dans **[Communautés d’Experience League](https://adobe.ly/36Yd3v6)**.
+Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/36Yd3v6)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331279/?quality=12&learn=on&hidetitle=true)
 
-Cliquez sur **[here](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** pour les diapositives de session.
+Cliquez **[ici](/help/adobe-developers-live/assets/experience-manager-updates.pdf)** pour les diapositives de session.

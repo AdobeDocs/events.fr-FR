@@ -1,5 +1,5 @@
 ---
-title: Contenu et expériences - Le coeur battant de la personnalisation
+title: Contenu et expériences - Le coeur battant de Personalization
 description: Identification des défis courants et résolution des problèmes courants liés à la création d’une fonctionnalité de contenu et d’expériences Création de cas d’utilisation pour diffuser du contenu sur le parcours client
 solution: General
 topic: Personalization
@@ -18,9 +18,9 @@ ht-degree: 0%
 
 ---
 
-# Contenu et expériences : le coeur battant de la personnalisation
+# Contenu et expériences : le coeur battant de Personalization
 
-*Contenu et expériences : le coeur battant de la personnalisation*
+*Contenu et expériences : le coeur battant de Personalization*
 
 * Identification des défis courants et résolution des problèmes courants liés à la création d’une fonctionnalité de contenu et d’expériences
 * Création de cas d’utilisation pour diffuser du contenu sur le parcours client

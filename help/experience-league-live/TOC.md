@@ -20,7 +20,7 @@ ht-degree: 5%
 # Événements Experience League Live {#experience-league-live-recordings}
 
 + [Vue d’ensemble](overview.md)
-+ Episodes {#episodes}
++ Épisodes {#episodes}
    + [Ep. 37 : Comment les dernières versions d’Adobe Real-Time CDP peuvent-elles faire bouger les choses pour votre entreprise ?](episodes/exl-live-episode-06-26-24.md)
    + [Ep. 36 : C’est la manière...de migrer Analytics vers le SDK Web](episodes/exl-live-episode-05-16-24.md)
    + [Ep. 35 : Nouveau canal d’expérience basé sur le code dans Journey Optimizer](episodes/exl-live-episode-04-24-24.md)
@@ -58,4 +58,4 @@ ht-degree: 5%
    + [Ep. 3 : Conseils d’experts pour faire ressortir vos campagnes de vacances](episodes/exl-live-episode-03.md)
    + [Ep. 2 : Rendre votre prochain segment d’audience plus intelligent que jamais](episodes/exl-live-episode-02.md)
    + [Ep. 1 : Mes trois Adobes favoris [!DNL Analytics] Conseils de mise en oeuvre](episodes/exl-live-episode-01.md)
-+ [Ressources en direct Experience League](exl-live-assets.md)
++ [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)

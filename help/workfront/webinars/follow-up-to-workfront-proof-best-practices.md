@@ -1,5 +1,5 @@
 ---
-title: Demander à l’expert - Suivi des bonnes pratiques en matière de BAT pour Workfront
+title: Demander à l’expert - Suivi des bonnes pratiques Workfront Proof
 description: Découvrez pourquoi vous devez utiliser des modèles de workflow automatisés, comment les créer et comment ajuster les paramètres de BAT pour garantir la confidentialité. Ce webinaire a été enregistré le 4 mars 2020.
 doc-type: feature video
 team: Technical Marketing
@@ -9,11 +9,11 @@ duration: 4083
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
 workflow-type: tm+mt
 source-wordcount: '1649'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Demander à l’expert - Suivi des bonnes pratiques en matière de BAT pour Workfront
+# Demander à l’expert - Suivi des bonnes pratiques Workfront Proof
 
 Découvrez pourquoi vous devez utiliser des modèles de workflow automatisés, comment les créer et comment ajuster les paramètres de BAT pour garantir la confidentialité. Ce webinaire a été enregistré le 4 mars 2020.
 
@@ -83,7 +83,7 @@ Pouvez-vous modifier des workflows existants ?
 
 **Réponse**
 
-Oui, vous souhaiterez accéder au Bon à tirer de Workfront, puis sélectionner Workflows dans le menu de gauche. Vous pouvez y modifier des étapes, ajouter des utilisateurs, supprimer des utilisateurs, ajouter des étapes, etc.
+Oui, vous pouvez accéder à Workfront Proof, puis sélectionner Workflows dans le menu de gauche. Vous pouvez y modifier des étapes, ajouter des utilisateurs, supprimer des utilisateurs, ajouter des étapes, etc.
 
 **Question**
 

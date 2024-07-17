@@ -1,6 +1,6 @@
 ---
 title: L'avenir du commerce (Gen AI et 3D)
-description: Lancer l’avenir d’Adobe Commerce Découvrez notre présentation de pointe sur les dernières améliorations apportées à notre plateforme Commerce, reposant sur l’intelligence artificielle et la technologie 3D génératives. Découvrez comment ces innovations redéfinissent l’engagement des clients et favorisent le succès de l’entreprise.
+description: Lancer l’avenir d’Adobe Commerce Découvrez notre présentation de pointe sur les dernières améliorations apportées à notre plateforme Commerce, optimisée par les technologies 3D et IA génératives. Découvrez comment ces innovations redéfinissent l’engagement des clients et favorisent le succès de l’entreprise.
 solution: Commerce
 feature-set: Commerce
 feature: Site Management
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 # L&#39;avenir du commerce (Gen AI et 3D)
 
-Lancer l’avenir d’Adobe Commerce Découvrez notre présentation de pointe sur les dernières améliorations apportées à notre plateforme Commerce, reposant sur l’intelligence artificielle et la technologie 3D génératives. Découvrez comment ces innovations redéfinissent l’engagement des clients et favorisent le succès de l’entreprise.
+Lancer l’avenir d’Adobe Commerce Découvrez notre présentation de pointe sur les dernières améliorations apportées à notre plateforme Commerce, optimisée par les technologies 3D et IA génératives. Découvrez comment ces innovations redéfinissent l’engagement des clients et favorisent le succès de l’entreprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)

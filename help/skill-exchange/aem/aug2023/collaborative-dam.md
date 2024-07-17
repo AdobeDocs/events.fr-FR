@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ---
 
-# Evénement d&#39;échange de compétences Août 2023 - AEM Web Track - Écosystème connecté : utilisation d&#39;une gestion des actifs numériques collaborative
+# Evénement d&#39;Exchange de compétences Août 2023 - AEM Web Track - Écosystème connecté : utilisation d&#39;une gestion des actifs numériques collaborative
 
 Cette session vous apprendra à tirer parti des formules Excel clés et des fonctionnalités d’IA générative pour créer les métadonnées dont vous avez besoin pour que la gestion des actifs numériques reste organisée ou pour préparer de nouvelles fonctionnalités d’AEM. Une fois que nous avons créé les valeurs dont nous avons besoin, nous utiliserons un fichier CSV pour importer/exporter des métadonnées à partir de la gestion des actifs numériques et mettre à jour les nouvelles métadonnées pour toutes les ressources d’un dossier à grande échelle.
 

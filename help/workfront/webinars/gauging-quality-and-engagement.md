@@ -37,7 +37,7 @@ Dans l&#39;exemple d&#39;itération sur les rôles de tâche, puis-je afficher l
 
 **Réponse**
 
-Dans l’itération, nous pouvons identifier le rôle de la tâche principale. Nous devons le faire dans une expression de valeur, mais les codes de HTML ne sont pas reconnus dans une expression de valeur. Nous devons donc trouver une autre façon d&#39;identifier le rôle comme étant la principale. J’ai placé &quot;**&quot; avant et après le nom du rôle principal dans ce code. Essayez-le et voyez comment vous l’aimez :
+Dans l’itération, nous pouvons identifier le rôle de la tâche principale. Nous devons le faire dans une expression de valeur, mais les codes d’HTML ne sont pas reconnus dans une expression de valeur. Nous devons donc trouver une autre façon d&#39;identifier le rôle comme étant la principale. J’ai placé &quot;**&quot; avant et après le nom du rôle principal dans ce code. Essayez-le et voyez comment vous l’aimez :
 
 ```
 displayname=All Job Roles 

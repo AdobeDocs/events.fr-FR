@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Le pouvoir d&#39;une campagne intelligente
 
-Au cours de cette session, vous allez en apprendre davantage sur *Campagnes intelligentes* y compris : Liste dynamique - Déclencheurs et filtres, Flux, Planification et Résultats.
+Au cours de cette session, vous en apprendrez davantage sur les *campagnes intelligentes*, notamment : Liste dynamique - Triggers et filtres, flux, planification et résultats.
 
 Vous allez quitter cette session pour comprendre ce que sont les campagnes intelligentes, comment les utiliser, ainsi que des conseils et astuces pour réussir !
 

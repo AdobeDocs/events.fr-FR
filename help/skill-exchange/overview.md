@@ -1,6 +1,6 @@
 ---
-title: L'Échange De Compétences Est Le Réalisateur De L'Expérience
-description: Experience Makers The Skill Exchange est une série mondiale d’événements d’apprentissage client virtuels, axés sur l’exploration des solutions Adobe Experience Cloud.
+title: L'Expérience Met L'Exchange Des Compétences
+description: Experience Makers L’Exchange de compétences est une série mondiale d’événements d’apprentissage client virtuels, axés sur l’exploration des solutions Adobe Experience Cloud.
 exl-id: 6d0f26c7-d5d2-4993-b2a1-58d5880f8f96
 duration: 57
 source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
@@ -10,15 +10,15 @@ ht-degree: 0%
 
 ---
 
-# L&#39;Échange De Compétences Est Le Réalisateur De L&#39;Expérience {#overview}
+# L&#39;Expérience Met L&#39;Exchange Des Compétences {#overview}
 
-<img alt="L&apos;Échange De Compétences Est Le Réalisateur De L&apos;Expérience" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
+<img alt="L&apos;Expérience Met L&apos;Exchange Des Compétences" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
 
-Experience Makers The Skill Exchange est une série mondiale d’événements d’apprentissage client virtuels, axés sur l’exploration des solutions Adobe Experience Cloud. Ce programme offre l’occasion de découvrir des experts et des pairs experts d’Adobe en partageant les bonnes pratiques et les conseils et astuces.
+Experience Makers L’Exchange de compétences est une série mondiale d’événements d’apprentissage client virtuels, axés sur l’exploration des solutions Adobe Experience Cloud. Ce programme offre l’occasion de découvrir des experts et des pairs experts d’Adobe en partageant les bonnes pratiques et les conseils et astuces.
 
 >[!TIP]
 >
->**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche.**.
+>**Toutes les sessions enregistrées sont répertoriées dans la navigation à gauche**.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -67,7 +67,7 @@ Experience Makers The Skill Exchange est une série mondiale d’événements d�
       <img alt="10 conseils pour surfer votre Workfront" src="./assets/workfront-10-tips.png"/>
       </a>
       <div>
-         <a href="workfront/apr2022/ten-tips.md"><strong>10 conseils pour surfer votre Workfront</strong></a>
+         <a href="workfront/apr2022/ten-tips.md"><strong>10 conseils pour Wouah votre Workfront</strong></a>
 <!---         <br/><em>foo</em> -->
       </div>
       <p>

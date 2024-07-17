@@ -1,19 +1,19 @@
 ---
 title: Activation de divers modèles d’entreprise avec Commerce et Composabilité
-description: La réunion a principalement porté sur l’activation de divers modèles commerciaux dans Adobe Commerce, sur la mise en évidence des tendances de croissance du commerce B2B, sur l’importance de simplifier les intégrations pour des mises à niveau homogènes, sur la présentation des interactions B2B à B2C personnalisées par le biais d’une démonstration, sur les fonctionnalités d’Adobe Commerce telles que la prise en charge des omnicanaux et l’intégration du maillage des API, sur les avantages des services de commerce composables, en introduisant le générateur d’App Builder pour des personnalisables personnalisations et la gestion des abonnements.
+description: La réunion a principalement porté sur l’activation de divers modèles commerciaux dans Adobe Commerce, sur la mise en évidence des tendances de croissance du commerce B2B, sur l’importance de simplifier les intégrations pour des mises à niveau homogènes, sur la présentation des interactions B2B à B2C personnalisées par le biais d’une démonstration, sur les fonctionnalités d’Adobe Commerce telles que la prise en charge des omnicanaux et l’intégration du maillage des API, sur les avantages des services de commerce composables, et sur App Builder pour la présentation des personnalisables personnalisations et la gestion des abonnements.
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3594
 last-substantial-update: 2024-06-15T00:00:00Z
 jira: KT-15741
-source-git-commit: e2beb9336151eddc3cb29470fab12e77a4f8ffb0
+exl-id: 2be2bcd3-b595-4362-a7f8-91b1001da874
+source-git-commit: 74f9d5e2e3f3a5830e96422b58222d3c3a9b7acc
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
-
 
 # Activation de divers modèles d’entreprise avec Commerce et Composabilité
 
@@ -46,7 +46,7 @@ Les entreprises tirent parti du commerce Adobe pour déployer plusieurs modèles
 
 * Prise en charge des omnicanaux
 * Expériences personnalisées
-* Intégration à des systèmes tiers par le biais de l’impression d’API et du générateur d’applications
+* Intégration à des systèmes tiers via le maillage API et App Builder
 
 ### Aspects technologiques abordés
 
@@ -54,7 +54,7 @@ Les entreprises tirent parti du commerce Adobe pour déployer plusieurs modèles
 * Utilisation du maillage d’API pour l’orchestration
 * Utilisation des événements d’Adobe pour la personnalisation et l’extension de la plateforme
 
-### Avantages du générateur d’applications
+### Avantages d’App Builder
 
 * Personnalisations évolutives
 * Intégrations

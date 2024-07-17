@@ -28,13 +28,13 @@ Carly conduira également une démonstration en direct, vous guidant tout au lon
 ## Les 3 principaux atouts de la prise en charge des chefs de file
 
 
-**L&#39;importance de la prise en charge des chefs de file**
+**Importance de la prise en charge des chefs**
 
 * La prise en charge des pistes est essentielle pour établir des relations efficaces avec les clients potentiels.
 * Cela implique le partage de ressources, la fourniture d&#39;informations utiles, la formation sur les produits et les services et la personnalisation des interactions.
 * Permet d’augmenter la propension d’un prospect à acheter, d’établir la confiance, d’améliorer le leadership en matière de marque et de réflexion, et de raccourcir le cycle de vente.
 
-**Stratégies de prise en charge efficace des chefs**
+**Stratégies pour une prise en charge efficace des leads**
 
 * Définissez des objectifs clairs, alignez les efforts marketing et de vente, identifiez les audiences cibles et segmentez efficacement les données.
 * Sélectionnez les types appropriés de campagnes d’encouragement, réaffectez le contenu existant, créez du contenu et utilisez des outils tels que Marketo.
