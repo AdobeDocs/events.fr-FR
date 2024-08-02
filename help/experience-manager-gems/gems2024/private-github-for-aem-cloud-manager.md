@@ -9,16 +9,17 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 658be21bfe19a3070d0dafbb753fc3292610e989
+exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
+source-git-commit: 2205289f5961385c51aa7d8bfb9eab2bb9bc879e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
 # Date du séminaire : 31 juillet 2024
 
-Ce webinaire aura lieu le mercredi 31 juillet à 17h00 CEST / 8h00 PDT / 20h30 heure locale. Notez que seule l’inscription est requise pour ce webinaire : inscrivez [ici](https://adobe.ly/3LmXfGk).
+Ce webinaire a été terminé - veuillez consulter l&#39;enregistrement ci-dessous.
 
 ## Intégration de référentiels GitHub privés dans AEM Cloud Manager
 
@@ -36,10 +37,12 @@ Au cours de ce webinaire GEMs AEM, nous vous montrerons comment tirer le meilleu
 
 ## Enregistrement de webinaire
 
+>[!VIDEO](https://video.tv.adobe.com/v/3432350)
+
+## Interaction de la communauté du webinaire
+
 >[!NOTE]
-> 
->* Ce webinaire est gratuit, seule l&#39;inscription est requise. Enregistrez [ici](https://adobe.ly/3LmXfGk).
 >
->* Pour des webinaires/des interactions de communauté spécifiques à un sujet sur ce webinaire sur l’Experience League, consultez le [Thread contextuel](https://adobe.ly/4f1jhMo) correspondant.
+>* Pour des webinaires/des interactions de communauté spécifiques à un sujet sur ce webinaire sur l’Experience League, consultez le [Thread contextuel](tbd) correspondant.
 >
 >* Pour recevoir des notifications sur nos webinaires à venir, inscrivez-vous au [groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/).
