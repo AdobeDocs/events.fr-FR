@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 142e427ea8c6406b869dcb50db5f0f08a034e273
+source-git-commit: 6c14ae9f4f638b202afa922fe814429a8742160e
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 8%
+source-wordcount: '55'
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 8%
 
 + [Vue d’ensemble](overview.md)
 + 2024 {#2024}
+   + [Maturité Partie 1 - Jeter les fondations](2024/maturity-part1-foundation.md)
    + [Succès des chefs de file](2024/lead-nurture-success.md)
    + [Nouveaux tableaux de bord Discover](2024/new-discover-dashboard.md)
    + [Enregistrement des tableaux de bord d’attribution](2024/attribution-dashboard-recording.md)
