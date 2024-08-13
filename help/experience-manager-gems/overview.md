@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessions GEM AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 7f41b655c6e0509084fdacf3f33a382727bf9157
+source-git-commit: 5ea58365068d0e97175bde8b27e9bf995c1b46a9
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,8 @@ Bienvenue à **AEM GEMs** - notre série de webinaires de séances approfondies 
 
 Les webinaires seront organisés régulièrement, notamment :
 
-* Durée maximale de 60 minutes
-* Questions et réponses à la fin et experts en chat disponibles dans le webinaire
+* Durée maximale de 60 minutes par webinaire
+* &lt; 15 minutes de questions/réponses à la fin et d’experts en chat disponibles tout au long du webinaire
 * Enregistrement disponible après chaque webinaire
 * Tous les webinaires AEM GEM sont gratuits et menés virtuellement, seule une inscription est requise.
 
