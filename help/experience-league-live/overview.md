@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4382796f5fa84ca4ceecd49b8138a45a3da16a8d
+source-git-commit: d692337e230540fe667072bd12351fd62c5aa4d2
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 3%
 
 ---
@@ -26,8 +26,16 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
 <table>
 <tr>
 
-<td style="vertical-align: top;">
-      <b>Revenez bientôt découvrir de nouveaux programmes à venir ! En attendant, consultez nos épisodes précédents en cliquant sur les liens ci-dessous ou dans le volet de navigation de gauche.</b>
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-08-28-24.md">
+      <img alt="Experience League LIVE 28 août" src="episodes/assets/WebBanner-aug-28-2024.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-08-28-24.md">
+        <strong>Points phares d’été - Il faut essayer des fonctionnalités dans Adobe Journey Optimizer</strong>
+      </a>
+      <br/><em> avec Sandra Hausmann, Keara Fausett, Aaron Forrest et Justin Grover</em>
+      <br/><em>28 août 2024</em>
+    </div>
   </td>
 </tr>
 </table>
