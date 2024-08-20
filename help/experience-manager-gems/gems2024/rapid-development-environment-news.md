@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 75e71817dd313f37d258b0edc8b66dab95f70cbd
+source-git-commit: 2566ab3bb8dbb6d240dba157bbcb8dadb1c0b43a
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Ce webinaire aura lieu du 4 septembre 2024 à 17h CEST / 8h PDT / 20h30 IST.
 Le webinaire est gratuit, seule l&#39;inscription est requise.
-Pour vous inscrire, inscrivez-vous [ici](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-whats-new-in-rapid-development-environments/).
+Pour vous inscrire, inscrivez-vous [ici](https://adobe.ly/4cwc5W4).
 
 ## Nouveautés des environnements de développement rapide
 
@@ -37,6 +37,6 @@ Les RDE permettent aux développeurs de déployer et de passer rapidement en rev
 
 >[!NOTE]
 >
->* Pour obtenir des informations sur les interactions de communauté spécifiques à une session sur l’Experience League, consultez le fil contextuel correspondant qui sera disponible le 23 août.
+>* Pour obtenir des interactions de communauté spécifiques à une session sur l’Experience League, consultez le [Thread contextuel](https://adobe.ly/3M8MFTE) correspondant.
 >
 >* Pour recevoir des notifications sur nos webinaires à venir, inscrivez-vous au [groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/).
