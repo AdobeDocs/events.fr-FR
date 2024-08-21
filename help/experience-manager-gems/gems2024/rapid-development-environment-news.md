@@ -1,5 +1,5 @@
 ---
-title: Nouveautés des environnements de développement rapide
+title: Nouveautés dans les environnements de développement rapide pour AEM ?
 description: Les RDE permettent aux développeurs de déployer et de passer rapidement en revue les modifications, en minimisant le temps nécessaire au test des fonctionnalités dont il est prouvé qu’elles fonctionnent dans un environnement de développement local. Au cours de cette session, nous vous montrerons comment utiliser les RDE pour réduire les temps de roulement pendant le développement et obtenir des commentaires immédiats sur les modifications du code. De plus, nous vous présentons les dernières fonctionnalités, telles que la journalisation améliorée et la prise en charge frontale. Rejoignez-nous pour en savoir plus sur ce que vous pouvez faire avec les RDE et faites-nous savoir ce que vous souhaitez voir ajouté ensuite !
 solution: Experience Manager
 version: Cloud Service
@@ -9,9 +9,9 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 2566ab3bb8dbb6d240dba157bbcb8dadb1c0b43a
+source-git-commit: 06d87b13be213513469f77fd44782f6ae27ffc30
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Ce webinaire aura lieu du 4 septembre 2024 à 17h CEST / 8h PDT / 20h30 IST.
 Le webinaire est gratuit, seule l&#39;inscription est requise.
 Pour vous inscrire, inscrivez-vous [ici](https://adobe.ly/4cwc5W4).
 
-## Nouveautés des environnements de développement rapide
+## Nouveautés dans les environnements de développement rapide pour AEM ?
 
 Les RDE permettent aux développeurs de déployer et de passer rapidement en revue les modifications, en minimisant le temps nécessaire au test des fonctionnalités dont il est prouvé qu’elles fonctionnent dans un environnement de développement local. Au cours de cette session, nous vous montrerons comment utiliser les RDE pour réduire les temps de roulement pendant le développement et obtenir des commentaires immédiats sur les modifications du code. De plus, nous vous présentons les dernières fonctionnalités, telles que la journalisation améliorée et la prise en charge frontale. Rejoignez-nous pour en savoir plus sur ce que vous pouvez faire avec les RDE et faites-nous savoir ce que vous souhaitez voir ajouté ensuite !
 
