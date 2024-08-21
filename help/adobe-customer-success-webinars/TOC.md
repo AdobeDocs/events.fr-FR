@@ -2,9 +2,9 @@
 user-guide-title: Adobe de webinaires sur le succès client
 breadcrumb-title: Adobe de webinaires sur le succès client
 user-guide-description: Adobe de webinaires axés sur le succès client, conçus pour vous permettre d’optimiser votre investissement dans l’Experience Cloud d’Adobe. Obtenez des informations précieuses pour maximiser la valeur et augmenter l’adoption de solutions d’Adobe.
-source-git-commit: 32b9aa55a48d744e695ca23b88f927c9fc538bb0
+source-git-commit: 3bcce2d2a01f5ed1abbc8fccd59512fe8a070fae
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,6 @@ ht-degree: 1%
    + [Mappage de cas d’utilisation des fonctionnalités de solution](2024/use-case-mapping.md)
    + [Principes de migration des SDK web](2024/web-sdk-migration.md)
    + [Intégrations des services d’application AEP pour les cas d’utilisation client](2024/aep-apps-services-integrations.md)
-   + [Commerce et café : stratégies pour le commerce électronique B2B](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
    + [Marketo Measure et modèles : activités et modèles personnalisés](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
    + [Création de la base pour Personalization à grande échelle](2023/personalization-at-scale.md)
