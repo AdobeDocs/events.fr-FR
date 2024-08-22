@@ -13,7 +13,7 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15065
 thumbnail: KT-15065.jpeg
 exl-id: ef0cf02c-1670-4286-bf2e-1563a5307820
-source-git-commit: 1bb993b45f8e46a227ff20d58935be44bf97480b
+source-git-commit: 4ca4262057c8bee2657ee89986894e4a3a516938
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Date du séminaire : 13 mars 2024
 
-Ce webinaire a été terminé - veuillez regarder l&#39;enregistrement ci-dessous.
+Ce webinaire a été terminé - veuillez consulter l&#39;enregistrement ci-dessous.
 
 ## Prise en main de la création AEM et des Edge Delivery Services
 
