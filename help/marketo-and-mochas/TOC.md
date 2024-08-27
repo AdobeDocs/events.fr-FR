@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 6c14ae9f4f638b202afa922fe814429a8742160e
+source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 7%
+source-wordcount: '59'
+ht-degree: 6%
 
 ---
 
@@ -25,6 +25,7 @@ ht-degree: 7%
    + [Succès des chefs de file](2024/lead-nurture-success.md)
    + [Nouveaux tableaux de bord Discover](2024/new-discover-dashboard.md)
    + [Enregistrement des tableaux de bord d’attribution](2024/attribution-dashboard-recording.md)
+   + [Activités et modèles personnalisés](2024/marketo-measure-and-mochas-activities-and-custom-models.md)
 + 2023 {#2023}
    + [Attribution](2023/attribution.md)
    + [Délivrabilité - Partie 1](2023/deliverability-part-one.md)
