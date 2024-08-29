@@ -3,9 +3,9 @@ user-guide-title: L’échange de compétences
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Collection d'enregistrements de l'Exchange "Compétences" chez Experience Makers
 event-series: The Skill Exchange
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '581'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,16 @@ ht-degree: 5%
 # L’échange de compétences {#the-skill-exchange-recordings}
 
 + [Vue d’ensemble](overview.md)
++ Adobe Commerce {#commerce}
+   + Août 2024 {#aug2024}
+      + [Amélioration des performances d’Adobe Commerce](commerce/aug2024/commerce-performance.md)
+      + [Optimisation de l’optimisation du référencement dans les workflows de migration](commerce/aug2024/seo-migration-workflows.md)
 + Analytics {#analytics}
+   + Août 2024 {#aug2024}
+      + [Concepts d’attribution de haut niveau](analytics/aug2024/attribution-concepts.md)
+      + [Découvrir des informations précieuses](analytics/aug2024/uncover-valuable-insights.md)
+      + [Utilisation de mesures calculées](analytics/aug2024/calculated-metrics.md)
+      + [Visualisations avec Analysis Workspace](analytics/aug2024/spotlight-visualizations.md)
    + Août 2023 {#aug2023}
       + [À propos des segments](analytics/aug2023/spotlight-segments.md)
       + [Analyser les données](analytics/aug2023/analyze-the-data.md)
@@ -77,6 +86,10 @@ ht-degree: 5%
       + [Canaux marketing, Utilisez De Manière Responsable](analytics/jun2021/marketing-channels.md)
       + [Rejoindre tout](analytics/jun2021/putting-all-together.md)
 + Experience Manager {#aem}
+   + Août 2024 {#aug2024}
+      + [AEM Sites avec Universal Editor](aem/aug2024/universal-editor.md)
+      + [Approches de l’éditeur sans affichage et SPA Principal](aem/aug2024/headless-spa-editor.md)
+      + [Stratégies de gestion des ressources numériques](aem/aug2024/spotlight-dam-strategies.md)
    + Août 2023 {#aug2023}
       + Suivi des développeurs {#developer-track}
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
@@ -125,10 +138,13 @@ ht-degree: 5%
    + Août 2024 {#aug2024}
       + [Clé d’ouverture](workfront/aug2024/keynote.md)
       + [Personnalisation de l’équilibreur de charge de travail](workfront/aug2024/workload-balancer.md)
+      + [Qualité des données](workfront/aug2024/data-quality.md)
       + [Amélioration de votre expérience d’approbation](workfront/aug2024/approval-experience.md)
+      + [Fusion Workfront et panoramas](workfront/aug2024/fusion-boards.md)
       + [Chaîne d’approvisionnement du contenu marketing](workfront/aug2024/content-supply-chain.md)
       + [Améliorations des processus et efficacité opérationnelle](workfront/aug2024/spotlight-process-operations.md)
       + [Parcours de rétention et d’engagement](workfront/aug2024/retention-engagement-journey.md)
+      + [Personnalisation des pages d’accueil de Workfront](workfront/aug2024/tailoring-homepages.md)
       + [Transformation des flux de processus en gains Workfront](workfront/aug2024/spotlight-process-flows.md)
    + Août 2023 {#aug2023}
       + [Présentation des panoramas](workfront/aug2023/introduction-to-boards.md)
