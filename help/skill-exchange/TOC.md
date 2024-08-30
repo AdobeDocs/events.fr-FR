@@ -3,9 +3,9 @@ user-guide-title: L’échange de compétences
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Collection d'enregistrements de l'Exchange "Compétences" chez Experience Makers
 event-series: The Skill Exchange
-source-git-commit: 28a55b5e5e6716f970585d721edd5ab411d3aa45
+source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '658'
 ht-degree: 5%
 
 ---
@@ -20,10 +20,15 @@ ht-degree: 5%
       + [Amélioration des performances d’Adobe Commerce](commerce/aug2024/commerce-performance.md)
       + [Extensibilité efficace](commerce/aug2024/extensibility.md)
       + [Optimisation de l’optimisation du référencement dans les workflows de migration](commerce/aug2024/seo-migration-workflows.md)
+      + [Personnaliser l’expérience client](commerce/aug2024/personalization.md)
 + Analytics {#analytics}
    + Août 2024 {#aug2024}
       + [Clé d’ouverture](analytics/aug2024/keynote.md)
+      + [Alertes et annotations](analytics/aug2024/alerts-annotations.md)
+      + [Points phares des créateurs d’expérience](analytics/aug2024/spotlight-reporting-analysis.md)
       + [Concepts d’attribution de haut niveau](analytics/aug2024/attribution-concepts.md)
+      + [Présentation détaillée de la segmentation](analytics/aug2024/segmentation.md)
+      + [Canaux marketing et attribution](analytics/aug2024/marketing-channels-attribution.md)
       + [Découvrir des informations précieuses](analytics/aug2024/uncover-valuable-insights.md)
       + [Utilisation de mesures calculées](analytics/aug2024/calculated-metrics.md)
       + [Visualisations avec Analysis Workspace](analytics/aug2024/spotlight-visualizations.md)
@@ -92,10 +97,12 @@ ht-degree: 5%
    + Août 2024 {#aug2024}
       + [Clé d’ouverture](aem/aug2024/keynote.md)
       + [AEM Sites avec Universal Editor](aem/aug2024/universal-editor.md)
-      + [Gestion des ressources Dynamic Media Classic](aem/aug2024/dmc-asset-management.md)
       + [Expériences cohérentes avec AEM personnalisation et gouvernance](aem/aug2024/customize-elements.md)
-      + [Approches de l’éditeur sans affichage et SPA Principal](aem/aug2024/headless-spa-editor.md)
       + [Stratégies de gestion des ressources numériques](aem/aug2024/spotlight-dam-strategies.md)
+      + [Gestion des ressources Dynamic Media Classic](aem/aug2024/dmc-asset-management.md)
+      + [Amélioration de la chaîne d’approvisionnement de contenu](aem/aug2024/spotlight-content-supply-chain.md)
+      + [Approches de l’éditeur sans affichage et SPA Principal](aem/aug2024/headless-spa-editor.md)
+      + [Print Production](aem/aug2024/print-production.md)
    + Août 2023 {#aug2023}
       + Suivi des développeurs {#developer-track}
          + [AEM Developer Starter Kit](aem/aug2023/deploy-new-project.md)
@@ -121,8 +128,13 @@ ht-degree: 5%
    + Août 2024 {#aug2024}
       + [Clé d’ouverture](marketo/aug2024/keynote.md)
       + [Applications avancées des programmes d’engagement](marketo/aug2024/advanced-applications-engagment-programs.md)
+      + [Amélioration des performances avec les tests A/B](marketo/aug2024/a-b-testing.md)
+      + [Gestion et analyses du cycle de vie](marketo/aug2024/lifecycle-management-analytics.md)
+      + [Efficacité des opérations marketing](marketo/aug2024/spotlight-marketing-ops-efficiency.md)
       + [Parcours de rétention et d’engagement](marketo/aug2024/retention-engagement-journey.md)
       + [Logique de liste dynamique](marketo/aug2024/smart-list-logic.md)
+      + [Points phares - Webinaires interactifs](marketo/aug2024/spotlight-interactive-webinars.md)
+      + [Utilisation du journal d’audit et de l’Inspecteur de campagne](marketo/aug2024/audit-trail-campaign-inspector.md)
    + Février 2022 {#feb2022}
       + [Maintenance des données](marketo/feb2022/data-maintenance.md)
       + [Contenu dynamique et puissance de Personalization](marketo/feb2022/dynamic-content.md)

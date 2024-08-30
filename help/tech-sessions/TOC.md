@@ -2,10 +2,10 @@
 user-guide-title: Sessions techniques Experience Cloud
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Les sessions techniques Experience Cloud constituent une approche proactive de la déviation des cas en offrant aux clients des webinaires spécifiques aux solutions.
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: a1bc6495b21fe54c50d9a50a6904daac50a93bb6
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 13%
+source-wordcount: '112'
+ht-degree: 12%
 
 ---
 
@@ -14,6 +14,8 @@ ht-degree: 13%
 
 + [Sessions techniques Experience Cloud](overview.md)
 + 2024 {#2024}
+   + Plateforme de données de contenu en temps réel {#rtcdp-office-hours-2024}
+      + [Minutages de la plateforme de données de contenu en temps réel](2024/rtcdp-timings.md)
    + Adobe Marketo {#adobe-marketo-office-hours-2024}
       + [Sessions sur les technologies des champions - Mai](2024/champion-office-hours.md)
 + 2023 {#2023}
