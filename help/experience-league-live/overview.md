@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
+source-git-commit: 3481a7e4b34febb1d570e87d789ada6d1550be4b
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '213'
 ht-degree: 3%
 
 ---
@@ -35,6 +35,22 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
       </a>
       <br/><em> avec Daniel Wright, Mitch Rice et Kevin Lind </em>
       <br/><em>18 septembre 2024 à 8:30 PT</em>
+    </div>
+  </td>
+</tr>
+</table>
+<table>
+<tr>
+
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-26-24.md">
+      <img alt="Experience League LIVE 28 août" src="episodes/assets/WebBanner-09-26-2024.png">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-09-18-24.md">
+        <strong> Découvrez comment l’assistant d’IA transforme les interactions client et améliore la productivité dans les applications Adobe Experience Cloud et Adobe Campaign. </strong>
+      </a>
+      <br/><em> avec Rachel Hannessian, Amarnath Vannararth et Arthur Lacroix </em>
+      <br/><em>26 septembre 2024 à 8:30 PT</em>
     </div>
   </td>
 </tr>
