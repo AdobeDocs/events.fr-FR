@@ -2,9 +2,9 @@
 user-guide-title: Adobe de webinaires sur le succès client
 breadcrumb-title: Adobe de webinaires sur le succès client
 user-guide-description: Adobe de webinaires axés sur le succès client, conçus pour vous permettre d’optimiser votre investissement dans l’Experience Cloud d’Adobe. Obtenez des informations précieuses pour maximiser la valeur et augmenter l’adoption de solutions d’Adobe.
-source-git-commit: 04f746e0ad3429f2810a2a8cd9eae123a70ac05a
+source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 0%
    + [Planification des cas d’utilisation AEP](2024/aep-use-case-planning.md)
    + [Écriture libre basée sur l’IA](2024/ai-copywriting.md)
    + [Hiérarchisation des flux de données](2024/data-stream-prioritization.md)
+   + [Edge Network et Personalization mobile](2024/edge-network-mobile-personalization.md)
    + [Gestion efficace des changements](2024/effective-change-management.md)
    + [Donner les moyens aux équipes légères](2024/empowering-lean-teams.md)
    + [Expedia passe d’Adobe Analytics à Customer Journey Analytics](2024/expedia-aa-to-cja.md)
