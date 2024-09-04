@@ -8,7 +8,7 @@ doc-type: Event
 duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
-source-git-commit: 7f5998a03b576b2b50f0e44507a81187fac10919
+source-git-commit: 6109b20829c1e50664eafb5bc674b781ec26611a
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
