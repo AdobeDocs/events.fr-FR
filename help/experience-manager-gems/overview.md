@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessions GEM AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 3b55664ebc35de2657158bc0d7f365753cbb28eb
+source-git-commit: 7c5e261cf6ee05ea1dbe425b015f9ad33f4a20a4
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,10 @@ ht-degree: 0%
 
 <img alt="Expériences numériques" src="./assets/ADX_Gems.png"/>
 
-## Webinaire GEM AEM à venir - Nouveautés dans les environnements de développement rapide pour AEM ?
+## Webinaire GEM AEM à venir - Déverrouillage de la puissance d’AEM Sites : Principal des API de gestion de contenu
 
-Ce webinaire aura lieu le mercredi 4 septembre à 17h CEST / 8h PDT / 20h30 IST. Notez que seule l’inscription est requise pour ce webinaire.
-Si vous souhaitez vous inscrire, inscrivez-vous [ici](https://adobe.ly/3yWr9OY).
+Ce webinaire aura lieu le mercredi 9 octobre à 17h CEST / 8h PDT / 20h30 IST. Notez que seule l’inscription est requise pour ce webinaire.
+Si vous souhaitez rejoindre, inscrivez-vous [**ici**](https://adobe.ly/4g6TYck).
 
 <!--  Remove the comment marks, and put the upcoming event in the below table
 
@@ -51,9 +51,12 @@ Si vous souhaitez vous inscrire, inscrivez-vous [ici](https://adobe.ly/3yWr9OY).
 
 ## Webinaire GEM AEM
 
-Notre dernier webinaire GEM AEM sur **l&#39;intégration d&#39;AEM Assets avec les Edge Delivery Services** a été organisé le *21 août 2024*.
-L&#39; **enregistrement** se trouve ici :
-[Intégration d’AEM Assets avec des Edge Delivery Services](gems2024/edge-delivery-for-aem-assets.md)
+Notre dernier webinaire GEM AEM sur **Nouveautés dans les environnements de développement rapide pour AEM ?** a été conduit le *4 septembre 2024*.
+L&#39; **enregistrement** sera bientôt disponible...
+
+<!--
+[What's new in Rapid Development Environments for AEM?](gems2024/rapid-development-environment-news.md)
+-->
 
 >[!NOTE]
 >
