@@ -9,18 +9,18 @@ role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3600
-source-git-commit: 06d87b13be213513469f77fd44782f6ae27ffc30
+exl-id: 3cf88775-de57-4d1a-aa86-b6e93b47cfcf
+source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
 
 # Date du séminaire : 4 septembre 2024
 
-Ce webinaire aura lieu du 4 septembre 2024 à 17h CEST / 8h PDT / 20h30 IST.
-Le webinaire est gratuit, seule l&#39;inscription est requise.
-Pour vous inscrire, inscrivez-vous [ici](https://adobe.ly/4cwc5W4).
+Ce webinaire s’est terminé le 4 septembre 2024 à 17h00 CEST / 8h00 PDT / 20h30 heure locale.
+Veuillez consulter l’enregistrement ci-dessous.
 
 ## Nouveautés dans les environnements de développement rapide pour AEM ?
 
@@ -32,6 +32,10 @@ Les RDE permettent aux développeurs de déployer et de passer rapidement en rev
 * Karl Pauls, informaticienne senior, Adobe
 * Remo Liechtenstein, ingénieur de développement logiciel, Adobe
 * Julian Sedding, ingénieur de développement logiciel, Adobe
+
+## Enregistrement de webinaire
+
+>[!VIDEO](https://video.tv.adobe.com/v/3433337/)
 
 ## Interaction de la communauté du webinaire
 
