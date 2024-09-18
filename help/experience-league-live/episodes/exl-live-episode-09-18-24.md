@@ -9,7 +9,7 @@ event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
 exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
-source-git-commit: 7209eb186bbe64d0b9d221b5d11a686e493f088f
+source-git-commit: facc08465a1a13b3b4ca1bfaa8f993bdbeff8c6b
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -20,7 +20,8 @@ ht-degree: 0%
 
 Au cours de cette session, vous apprendrez à utiliser l’extension Edge Bridge pour combler le fossé entre les migrations. Nous vous fournirons des instructions détaillées sur la configuration de vos propriétés mobiles et la mise à jour de votre mise en oeuvre côté client pour utiliser Edge Bridge.
 
-[!VIDEO](https://video.tv.adobe.com/v/3434575)
+>[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
+
 
 **Pour continuer la discussion, veuillez visiter notre [discussion sur la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
