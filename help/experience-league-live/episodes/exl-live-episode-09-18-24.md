@@ -1,6 +1,6 @@
 ---
 title: Êtes-vous prêt à configurer votre application d’analyse mobile ?
-description: Au cours de cette session, vous apprendrez à utiliser l’extension Edge Bridge pour combler le fossé entre les migrations. Nous vous fournirons des instructions détaillées sur la configuration de vos propriétés mobiles et la mise à jour de votre mise en oeuvre côté client pour utiliser Edge Bridge.
+description: Au cours de cette session, vous apprendrez à utiliser l’extension Edge Bridge pour combler le fossé entre les migrations. Vous recevez des instructions détaillées sur la configuration de vos propriétés mobiles et la mise à jour de votre mise en oeuvre côté client pour utiliser Edge Bridge.
 kt: KT-16047
 solution: Analytics, Customer Journey Analytics
 feature: Data Configuration and Collection
@@ -9,21 +9,21 @@ event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
 exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
-source-git-commit: facc08465a1a13b3b4ca1bfaa8f993bdbeff8c6b
+source-git-commit: dd6f30d6c664992770f473d0ab80de561defcb35
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
 # Êtes-vous prêt à configurer votre application d’analyse mobile ?
 
-Au cours de cette session, vous apprendrez à utiliser l’extension Edge Bridge pour combler le fossé entre les migrations. Nous vous fournirons des instructions détaillées sur la configuration de vos propriétés mobiles et la mise à jour de votre mise en oeuvre côté client pour utiliser Edge Bridge.
+Découvrez comment utiliser l’extension Edge Bridge pour combler le fossé de la migration. Vous recevez des instructions détaillées sur la configuration de vos propriétés mobiles et la mise à jour de votre mise en oeuvre côté client pour utiliser Edge Bridge.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
+**Pour continuer la discussion, veuillez visiter la [discussion sur la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
-**Pour continuer la discussion, veuillez visiter notre [discussion sur la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
 **Afficher les détails** :
 Vous avez utilisé Adobe Analytics dans votre application mobile pour obtenir des informations sur votre activité numérique et comprendre comment vos clients utilisent votre application.
