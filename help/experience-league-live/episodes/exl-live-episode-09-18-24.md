@@ -8,9 +8,10 @@ event-cta-url-live: https://www.youtube.com/live/QKz1slMT36Y
 event-start-time: 2024-09-18 08:30-7
 event-guests: Daniel Wright,Mitch Rice,Kevin Lind
 duration: 25
-source-git-commit: 4d3f85437e3f1c27684be89186f9cd6dad74e859
+exl-id: e97232c7-fa04-4d68-83eb-792ac140332e
+source-git-commit: 7209eb186bbe64d0b9d221b5d11a686e493f088f
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 Au cours de cette session, vous apprendrez à utiliser l’extension Edge Bridge pour combler le fossé entre les migrations. Nous vous fournirons des instructions détaillées sur la configuration de vos propriétés mobiles et la mise à jour de votre mise en oeuvre côté client pour utiliser Edge Bridge.
 
-[![ExL LIVE 28 août 2024](assets/WebBanner-09-18-2024.jpg)](https://www.youtube.com/live/QKz1slMT36Y)
+[!VIDEO](https://video.tv.adobe.com/v/3434575)
 
-**[Définir un rappel pour le programme sur YouTube](https://www.youtube.com/live/QKz1slMT36Y){target="_blank"}**
+**Pour continuer la discussion, veuillez visiter notre [discussion sur la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
 
 **Afficher les détails** :
 Vous avez utilisé Adobe Analytics dans votre application mobile pour obtenir des informations sur votre activité numérique et comprendre comment vos clients utilisent votre application.
