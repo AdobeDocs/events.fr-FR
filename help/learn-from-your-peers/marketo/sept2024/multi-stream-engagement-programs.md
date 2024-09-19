@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2477
 last-substantial-update: 2024-09-18T00:00:00Z
 jira: KT-16216
-source-git-commit: 933d52ea829b18ee287631c8701c7e4494c5379b
+source-git-commit: 33ed1cb1bc4a5a62fb590ac07ae788a6df812ef4
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Découvrez comment interagir de manière systématique et entretenir les relatio
 
 ## Résumé
 
-Les sessions Apprendre de vos pairs ont permis de discuter de la configuration et de la gestion des programmes d’engagement dans Marketo. Il traitait de sujets tels que la planification, la création et la création de rapports dans le cadre des programmes d&#39;engagement. Les points clés incluent le choix entre les programmes de formation et d’engagement des voyages, l’utilisation de campagnes intelligentes pour les transitions, le choix entre les emails et les programmes par défaut, ainsi que la compréhension des mesures de succès du programme. &#x200B; La discussion a également abordé des sujets tels que la transition du contenu, la gestion de différentes langues, l’utilisation de contenu dynamique et la configuration de plusieurs flux en fonction des étapes du cycle de vie ou des familles de produits. Le webinaire insistait sur l’importance des tests, de la disponibilité du programme et de l’utilisation des scores d’engagement à des fins de création de rapports. &#x200B;
+Cette session Formation de vos pairs a abordé la configuration et la gestion des programmes d’engagement en Marketo Engage. Il traitait de sujets tels que la planification, la création et la création de rapports dans le cadre des programmes d&#39;engagement. Il s’agissait notamment de choisir entre les programmes d’aide au goutte à goutte et d’engagement, d’utiliser des campagnes intelligentes pour les transitions, de choisir entre les emails et les programmes par défaut et de comprendre les mesures de succès du programme. &#x200B; La discussion a également abordé des sujets tels que la transition du contenu, la gestion de différentes langues, l’utilisation de contenu dynamique et la configuration de plusieurs flux en fonction des étapes du cycle de vie ou des familles de produits. Le webinaire insistait sur l’importance des tests, de la disponibilité du programme et de l’utilisation des scores d’engagement à des fins de création de rapports. &#x200B;
 
 ## Points clés
 
-* Choisir le bon type de programme : il est essentiel de comprendre la différence entre les programmes de formation et d’engagement. &#x200B; Les programmes d&#39;engagement offrent plus de flexibilité et de complexité pour nourrir les prospects de manière efficace par rapport aux programmes d&#39;accompagnement. &#x200B;
+* Choisir le bon type de programme : comprendre la différence entre les programmes de formation au goutte à goutte et les programmes d&#39;engagement est essentiel. &#x200B; Les programmes d&#39;engagement offrent plus de flexibilité et de complexité pour l&#39;éducation des prospects de manière efficace par rapport aux programmes d&#39;éducation au goutte à goutte. &#x200B;
 
 * Stratégies de transition : l’utilisation de campagnes intelligentes pour la transition entre les flux dans un programme d’engagement permet de contrôler et d’automatiser. &#x200B; Il est essentiel de comprendre quand et comment la transition mène en fonction de facteurs tels que les étapes de cycle de vie ou l’épuisement du contenu pour une prise en charge efficace des pistes.
 
