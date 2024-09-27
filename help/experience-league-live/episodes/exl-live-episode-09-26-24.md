@@ -9,9 +9,9 @@ event-start-time: 2024-09-26 08:30-7
 event-guests: Sandra Hausmann, Rachel Hanessian, Amarnath Vannararth, Arthur Lacroix
 duration: 25
 exl-id: 063a829a-219b-4d7a-b2f5-034630557dbe
-source-git-commit: 3a6ff9e5501ee2db3ede3bccd8c96391731b9bcc
+source-git-commit: dd46b4a61661b651bdfca2e2f2aa656dc40c1552
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Découvrez comment l’assistant d’IA transforme les interactions client et améliore la productivité dans les applications Adobe Experience Cloud et Adobe Campaign. 
 
-[![ExL LIVE 26 septembre 2024](/help/experience-league-live/episodes/assets/WebBanner-09-26-2024.png)](https://www.youtube.com/watch?v=J48CNmcV7wc)
+>[!VIDEO](https://video.tv.adobe.com/v/3434781/?learn=on)
 
 **Afficher les détails** :
 
