@@ -2,9 +2,9 @@
 user-guide-title: Adobe de webinaires sur le succès client
 breadcrumb-title: Adobe de webinaires sur le succès client
 user-guide-description: Adobe de webinaires axés sur le succès client, conçus pour vous permettre d’optimiser votre investissement dans l’Experience Cloud d’Adobe. Obtenez des informations précieuses pour maximiser la valeur et augmenter l’adoption de solutions d’Adobe.
-source-git-commit: 3ccafeec70790d62407a06e8dde89ae7ed5fd826
+source-git-commit: 2552636b85de07bec762083103a50b207798d71f
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 0%
    + [Principes fondamentaux du système Workfront et du service de tutelle des groupes](2024/workfront-admin-guardianship.md)
    + [Prise en main de Adobe Journey Optimizer Analysis](2024/getting-started-ajo-analysis.md)
    + [Prise en main de Real-Time Customer Data Platform](2024/getting-started-rtcdp.md)
+   + [Exploitation de l’IA pour l’expérience client](2024/ai-customer-experience.md)
    + [Lean Teams et Customer Journey Analytics](2024/lean-teams-cja.md)
    + [Gestion des cookies et confidentialité des données](2024/mastering-cookies-data-privacy.md)
    + [Target Personalization](2024/target-personalization.md)
