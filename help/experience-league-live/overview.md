@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f375ee9f4477c514a0787eede047f80b25172c61
+source-git-commit: 5475b8048816bfded3e1fdfc9483553d29bed43a
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 4%
+source-wordcount: '195'
+ht-degree: 3%
 
 ---
 
@@ -23,28 +23,21 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
 
 ## Événements LIVE Experience League à venir
 
-D&#39;autres événements à venir !
-
-<!-- 
-
 <table>
 <tr>
-  
-  <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-26-24.md">
-      <img alt="Experience League LIVE Aug 28" src="episodes/assets/WebBanner-09-26-2024.png">
+
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-40-2024-10-24.md">
+      <img alt="Experience League LIVE 24 octobre" src="episodes/assets/ep41-web-banner.png">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-09-18-24.md">
-        <strong>Explore how AI Assistant transforms customer interactions and enhances productivity in Adobe Experience Cloud Applications and Adobe Campaign. </strong>
-      </a>
-      <br/><em>with Rachel Hannessian, Amarnath Vannararth, and Arthur Lacroix</em>
-      <br/><em>September 26, 2024 at 8:30 PT</em>
+      <strong> Découvrez comment la composition d’audiences fédérées offre une approche complète de la gestion et de l’activation des audiences avec Real-Time CDP et Journey Optimizer. </strong>
+      <br/><em> avec Alyssa Espiritu, Abhijit Ghosh et Arthur Lacroix </em>
+      <br/><em>24 octobre 2024 à 8:30 PT</em>
+      <br/><br/><a href="https://youtube.com/live/ghN-XWdBLvg">Ajoutez un signet à l’émission sur YouTube</a>
     </div>
   </td>
 </tr>
-</table> 
-
--->
+</table>
 
 </div>
 

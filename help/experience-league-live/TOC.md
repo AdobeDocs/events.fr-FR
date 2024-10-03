@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: eacc80e3015303ec35d1a3d115b3117b11fb868e
+source-git-commit: a738e2b749e1dc7511cb613539f3e3b675e3fe12
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '472'
+ht-degree: 4%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 0%
 
 + [Vue d’ensemble](overview.md)
 + Épisodes {#episodes}
+   + [Ep. 41 : harmonisation des audiences à l’aide de la composition d’audiences fédérées dans un Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40 : Bash de l’IA - Déverrouillage de la puissance de l’assistant d’IA dans les applications Adobe Experience Platform et Campaign](episodes/exl-live-episode-09-26-24.md)
    + [Ep. 39 : Êtes-vous prêt à mettre à niveau votre application d’analyse mobile ?](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38 : Points phares de l’été - Il faut essayer des fonctionnalités dans Adobe Journey Optimizer](episodes/exl-live-episode-08-28-24.md)
