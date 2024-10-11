@@ -12,9 +12,9 @@ type: Event
 user-guide-description: Sessions GEM AEM
 exl-id: f46a8439-e9bf-4828-84f9-0e3d9aae6d90
 duration: 89
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 670b69aea8b574567487f169579d7c81db7550ad
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,16 @@ ht-degree: 0%
 
 <img alt="Expériences numériques" src="./assets/ADX_Gems.png"/>
 
-## Webinaire GEM AEM à venir - AEM Sites : Principal des API de gestion de contenu
+## Les prochains webinaires GEM AEM seront annoncés prochainement
 
-Ce webinaire aura lieu le mercredi 9 octobre à 17h CEST / 8h PDT / 20h30 IST. Notez que seule l’inscription est requise pour ce webinaire.
-Si vous souhaitez rejoindre, inscrivez-vous [**ici**](https://adobe.ly/4g6TYck).
+Inscrivez-vous au [groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/) pour en être informé.
 
-<!--  Remove the comment marks, and put the upcoming event in the below table
+<!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
+
+This webinar will be conducted on Wednesday, October 9th - 5pm CEST / 8am PDT / 8.30pm IST. Note, that only registration is required for this webinar. 
+If interested to join, please register [**here**](https://adobe.ly/4g6TYck).
+
+
 
 <table style="max-width: 1214px;">
 <tr>
@@ -51,9 +55,9 @@ Si vous souhaitez rejoindre, inscrivez-vous [**ici**](https://adobe.ly/4g6TYck).
 
 ## Webinaire GEM AEM
 
-Notre dernier webinaire GEM AEM sur **Nouveautés dans les environnements de développement rapide pour AEM ?** a été conduit le *4 septembre 2024*.
+Notre dernier webinaire GEM AEM sur **Déverrouiller la puissance d’AEM Sites - Principal des API de gestion de contenu** a été organisé le *9 octobre 2024*.
 L&#39; **enregistrement** peut être visualisé ici :
-[Nouveautés des environnements de développement rapide pour AEM ?](gems2024/rapid-development-environment-news.md)
+[Déverrouillage de la puissance d’AEM Sites - Principal des API de gestion de contenu](gems2024/content-management-apis.md)
 
 >[!NOTE]
 >
