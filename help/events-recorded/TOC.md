@@ -2,10 +2,10 @@
 user-guide-title: Enregistrements d’événements Adobe Experience League
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Collection d’enregistrements d’événements utilisée pour l’utilisation de produits Adobe Enterprise
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 628e6811e60c0157d268acbd70435dff0ff0daf0
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 13%
+source-wordcount: '391'
+ht-degree: 12%
 
 ---
 
@@ -29,6 +29,7 @@ ht-degree: 13%
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [Experience Manager GEMS](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
    + [Aperçu de la version Experience Manager](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=fr)
+   + [Événements GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html)
    + [Apprendre de vos pairs](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
    + [Marketo et Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [Sessions techniques Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
@@ -81,6 +82,8 @@ ht-degree: 13%
       + [Voix de gestion des données client](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=fr)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Sessions techniques Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
+   + Adobe GenStudio for Performance Marketing {#agspm}
+      + [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html)
    + Adobe Marketo {#am}
       + [Deep Dives](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
       + [Apprendre de vos pairs](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
