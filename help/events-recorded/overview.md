@@ -4,7 +4,7 @@ description: Ensemble d’enregistrements d’événement axés sur l’utilisat
 mini-toc-levels: 0
 exl-id: de8be4a9-8bc6-48f6-997a-bbb6671120db
 duration: 334
-source-git-commit: 628e6811e60c0157d268acbd70435dff0ff0daf0
+source-git-commit: ac867e3983725543f7a63bcf7e0db1598e1de6c9
 workflow-type: tm+mt
 source-wordcount: '1091'
 ht-degree: 3%
@@ -346,7 +346,7 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
           <p class="is-size-6">
          Apprenez auprès d’experts en Adobe et de pairs comment tirer le meilleur parti de vos solutions d’Adobe. Avec les thèmes sélectionnés pour les praticiens, par les praticiens, ces sessions interactives partagent "l’art du possible" cas d’utilisation, bonnes pratiques et conseils et astuces.</p>
       </div>
-      <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+      <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
       </a>
     </div>
@@ -355,7 +355,7 @@ Restez en boucle sur les événements exclusifs et les webinaires pour développ
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/events/gen-studio-for-performance-marketing-events/overview.html" title="Événements GenStudio for Performance Marketing" tabindex="-1">
+        <a href="https://experienceleague.adobe.com/en/docs/events/genstudio-for-performance-marketing-events/overview" title="Événements GenStudio for Performance Marketing" tabindex="-1">
           <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png" alt="Événements GenStudio for Performance Marketing">
         </a>
       </figure>
