@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: cb32ddba-b105-4a85-9cb1-af2ff16dc037
-source-git-commit: d415db2456f78bb474a438920789d90fea6f1f0a
+source-git-commit: 866d6e9338d485ee48f526ec035574454090378e
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Ce webinaire a été terminé - veuillez consulter l&#39;enregistrement ci-desso
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433046/?quality=12&learn=on)
 
-** Présentateurs **
+**Présentateurs**
 
 * Satya Deep Maheshwari, scientifique principal, Adobe
 * Ashutosh Shroti, Professeur D&#39;Informaticien, Adobe
