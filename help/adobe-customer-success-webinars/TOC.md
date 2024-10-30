@@ -2,9 +2,9 @@
 user-guide-title: Adobe de webinaires sur le succès client
 breadcrumb-title: Adobe de webinaires sur le succès client
 user-guide-description: Adobe de webinaires axés sur le succès client, conçus pour vous permettre d’optimiser votre investissement dans l’Experience Cloud d’Adobe. Obtenez des informations précieuses pour maximiser la valeur et augmenter l’adoption de solutions d’Adobe.
-source-git-commit: 2552636b85de07bec762083103a50b207798d71f
+source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,9 @@ ht-degree: 0%
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Adobe Workfront - Équipes &quot;légères&quot;](2024/workfront-lean-teams.md)
+   + [Maîtrise Adobe Workfront](2024/workfront-mastery.md)
+   + [Création AEM concepts clés](2024/aem-authoring-concepts.md)
+   + [Efficacité d’AEM Sites](2024/aem-sites-efficiencies.md)
    + [Intégrations des services d’application AEP pour les cas d’utilisation client](2024/aep-apps-services-integrations.md)
    + [Planification des cas d’utilisation AEP](2024/aep-use-case-planning.md)
    + [Écriture libre basée sur l’IA](2024/ai-copywriting.md)
