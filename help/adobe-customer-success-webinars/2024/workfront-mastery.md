@@ -8,9 +8,9 @@ doc-type: Event
 duration: 2132
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16415
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: 3f245f71cd4db5097b5a9e712114112451d899e4
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -27,3 +27,23 @@ Donnez à votre équipe les moyens de tirer pleinement parti d’Adobe Workfront
 * Optimisation de l’adoption grâce à l’optimisation de l’expérience de l’utilisateur final : découvrez comment Workfront offre une expérience utilisateur finale simplifiée
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435746/?learn=on)
+
+## Points clés
+
+### Alignement des travaux sur les objectifs stratégiques
+
+* Définissez des objectifs stratégiques, notamment les personnes, les processus et les technologies, ainsi que leur nature et comment.
+* Créez une carte stratégique pour relier les points entre la vision, les objectifs, les cas d’utilisation et les indicateurs de performance clés.
+* Mesurez la valeur en identifiant les indicateurs de performance clés et en les itérant au fur et à mesure qu’ils évoluent.
+
+### Gouvernance pour une valeur incrémentielle
+
+* La gouvernance conduit le bon type de changement par la prise de conscience, la compréhension, l&#39;adoption et l&#39;engagement.
+* La transformation itérative rassemble les gens, ce qui favorise l&#39;amélioration continue et la réalisation de valeur.
+* La gouvernance soutient l’innovation et représente la manière dont une organisation collabore et s’adapte au fil du temps.
+
+### Adoption et expérience de l’utilisateur final
+
+* La complexité de l’expérience utilisateur peut freiner l’adoption ; la suringénierie et le manque d’activation des utilisateurs sont des problèmes courants.
+* Work Front offre des fonctionnalités prêtes à l’emploi telles que des dispositions de page d’accueil, des modèles et des tableaux de bord pour améliorer l’expérience utilisateur et accroître l’adoption.
+* La simplification de l’expérience utilisateur et la formation adéquate peuvent améliorer considérablement les taux d’adoption.
