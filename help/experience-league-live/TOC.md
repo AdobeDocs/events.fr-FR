@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: d45de3bc6cb4ad657cdb29566e2d206641e1532d
+source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '493'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Vue d’ensemble](overview.md)
 + Épisodes {#episodes}
+   + [Ep. 43 : Présentation de l’assistant d’IA pour les audiences pour les marketeurs dans Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42 : Dévoilement des cartes de contenu pour Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
    + [Ep. 41 : harmonisation des audiences à l’aide de la composition d’audiences fédérées dans un Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40 : Bash de l’IA - Déverrouillage de la puissance de l’assistant d’IA dans les applications Adobe Experience Platform et Campaign](episodes/exl-live-episode-09-26-24.md)

@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 637f0256c1033c6ad016c5289103b09304ae5002
+source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '214'
 ht-degree: 3%
 
 ---
@@ -26,14 +26,14 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-24.md">
-      <img alt="Experience League LIVE 24 octobre" src="assets/WebBanner-Nov-6-2024.jpg">
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-13-24.md">
+      <img alt="Experience League LIVE 24 octobre" src="episodes/assets/WebBanner_nov13_2024.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-10-30-24.md"><strong>Découvrez les cartes de contenu, un nouveau canal de messagerie polyvalent pour Adobe Journey Optimizer conçu pour améliorer l’engagement des utilisateurs et stimuler les conversations dans les applications mobiles et web. </strong></a>
-      <br/><em> avec Don Huyhn et Pravin Kumar</em>
-      <br/><em>6 novembre 2024 à 8:30 PT</em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=">Inscrivez-vous à cet événement</a>
+      <a href="episodes/exl-live-episode-11-13-24.md"><strong>Rejoignez-nous pour une passionnante session en direct où des experts en Adobe produit et en ingénierie vous donneront un aperçu passionnant de notre toute dernière innovation révolutionnaire - l’assistant d’IA pour les audiences, bientôt disponible dans Adobe Real-Time CDP pour surcharger les insights et les actions des audiences. </strong></a>
+      <br/><em> avec Shivakumar Vaithyanathan, Ali Nazer et Horia Galatanu</em>
+      <br/><em>13 novembre 2024 à 9:00 PT</em>
+      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241113.html">Inscrivez-vous à cet événement</a>
     </div>
   </td>
 </tr>

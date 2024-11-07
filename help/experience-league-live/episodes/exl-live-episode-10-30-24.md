@@ -7,7 +7,7 @@ feature: Audiences
 event-cta-url-live: https://www.youtube.com/watch?v=xp3WRr4XmWM
 event-start-time: 2024-10-30 08:30-7
 event-guests: Sandra Hausmann, Don Huynh, Pravin Prakash Kumar
-source-git-commit: 637f0256c1033c6ad016c5289103b09304ae5002
+source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -24,4 +24,5 @@ Dans cette session, Don Huynh et Pravin Prakash Kumar présentent les cartes de 
 ![mise en ligne de la ligue d’expérience](/help/experience-league-live/assets/WebBanner-Nov-6-2024.jpg)
 
 [Inscrivez-vous à cet événement](https://engage.adobe.com/ExpLeagueLive-241030.html?s_rtid=7015Y0000048hxzQAA&amp;s_iid=&amp;sfid=&amp;acctid=&amp;ecp=)
+
 
