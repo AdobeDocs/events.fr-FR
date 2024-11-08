@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f8b0b67a0c576cf303d6e3f6b912a470f07e3eb0
+source-git-commit: f08cc0e05763e738a03c508896a7122e121127a0
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 3%
@@ -101,3 +101,4 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
 >[!TIP]
 >
 >Pour découvrir d&#39;autres méthodes d&#39;apprentissage, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+
