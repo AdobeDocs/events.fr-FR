@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f08cc0e05763e738a03c508896a7122e121127a0
+source-git-commit: 2abf56d9dea80f750aa77b002ede38e9d2aa96cb
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '178'
 ht-degree: 3%
 
 ---
@@ -26,15 +26,10 @@ Experience League LIVE est une émission en streaming produite par l&#39;équipe
 <table>
 <tr>
 
-<td style="vertical-align: top;"><a href="episodes/exl-live-episode-11-13-24.md">
-      <img alt="Experience League LIVE 24 octobre" src="episodes/assets/WebBanner_nov13_2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-11-13-24.md"><strong>Rejoignez-nous pour une passionnante session en direct où des experts en Adobe produit et en ingénierie vous donneront un aperçu passionnant de notre toute dernière innovation révolutionnaire - l’assistant d’IA pour les audiences, bientôt disponible dans Adobe Real-Time CDP pour surcharger les insights et les actions des audiences. </strong></a>
-      <br/><em> avec Shivakumar Vaithyanathan, Ali Nazer et Horia Galatanu</em>
-      <br/><em>13 novembre 2024 à 9:00 PT</em>
-      <br/><br/><a href="https://engage.adobe.com/ExpLeagueLive-241113.html">Inscrivez-vous à cet événement</a>
-    </div>
+<td style="vertical-align: top;">
+    Revenez à cette page bientôt pour d'autres épisodes à venir de LIVE Experience League !
+    </br>
+    Sélectionnez les épisodes précédents dans la table des matières sur le côté gauche de cette page.
   </td>
 </tr>
 </table>
