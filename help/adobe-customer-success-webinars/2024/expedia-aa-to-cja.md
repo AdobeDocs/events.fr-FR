@@ -1,6 +1,6 @@
 ---
 title: Expedia et les grandes marques font évoluer leur organisation d’Adobe Analytics vers Customer Journey Analytics
-description: découvrez l’évolution suivante des analyses, avec Jake Winter, principal responsable chez Adswerve, Erika Ulmer, responsable principal, Data Product Management chez Expedia, Ben Gaines, Director of Product Management chez Adobe et Trevor Paulsen, Director of Product Management chez Adobe, qui partagera leur expérience de première main de l’amélioration de l’entreprise avec Adobe Customer Journey Analytics. Nous discuterons des dernières tendances et bonnes pratiques en matière d’analyse, ainsi que des défis et opportunités liés à l’utilisation de Customer Journey Analytics. Que vous soyez professionnel de l’analyse ou chef d’entreprise cherchant à améliorer les capacités d’analyse de votre entreprise, ce webinaire ne doit pas être manqué.
+description: Rejoignez les leaders du secteur d’Adversion, d’Expedia et d’Adobe en partageant des informations, des tendances et des bonnes pratiques pour tirer parti d’Adobe Customer Journey Analytics afin de transformer les analyses organisationnelles dans ce webinaire à participation obligatoire.
 solution: Analytics, Customer Journey Analytics
 feature-set: Customer Journey Analytics
 feature: Adobe Analytics Integration
@@ -12,9 +12,9 @@ duration: 3933
 last-substantial-update: 2024-05-09T00:00:00Z
 jira: KT-15435
 exl-id: a6bb36bb-6bea-4ee0-b5e3-021d02d3de20
-source-git-commit: 1ee9b50eca2e167af477bd17bceb6c1d4b59311b
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,6 @@ Nous discuterons des dernières tendances et bonnes pratiques en matière d’an
 
 
 ## Points clés
-
 
 * Apprenez à bien comprendre les données, notamment à modéliser les données avec les groupes de champs et à comprendre l’identité et la portée de l’événement.
 * Sur-communiquer l’objectif et les avantages du Customer Journey Analytics (CJA) aux parties prenantes et fournir une formation pour permettre aux individus de prendre des décisions basées sur les données.

@@ -1,6 +1,6 @@
 ---
 title: Principes de migration des SDK web
-description: Découvrez les différences entre App Measurement/AT.js et le SDK Web, comment migrer, les considérations sur le timing de la migration, les options de migration et les différences de données attendues. Points de discussion clés - Qu’est-ce que le SDK Web ? Étapes et considérations de migration Délai des migrations Principales erreurs et pièges à éviter
+description: Découvrez les différences entre App Measurement/AT.js et le SDK Web, comment migrer, les points à prendre en compte lors de la migration, les options de migration et les différences de données attendues.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3280
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15561
 exl-id: 862e7cf3-079e-4a43-a4c2-3f7157e8efe9
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---

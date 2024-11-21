@@ -1,6 +1,6 @@
 ---
 title: Principes fondamentaux du système Workfront et du service de tutelle des groupes
-description: Découvrez comment déterminer de manière adéquate le ratio des administrateurs système par rapport aux administrateurs de groupe de votre instance Workfront et pourquoi le fait de laisser tomber quelques clés sur le royaume n’a pas à être aussi risqué ou effrayant qu’on pourrait le percevoir initialement. Cet enregistrement présente les bonnes pratiques en matière de personnel d’administration, de répartition de la charge de travail administrative, de conservation de l’intégrité et de l’évolutivité des données dans leurs instances d’entreprise, tout en partageant une partie des efforts.
+description: Découvrez les bonnes pratiques pour déterminer le bon équilibre entre le système Workfront et les administrateurs de groupe, distribuer les charges de travail et préserver l’intégrité des données afin de dimensionner votre entreprise de manière efficace et sécurisée.
 solution: Workfront
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2024-08-27T00:00:00Z
 jira: KT-16037
-source-git-commit: d1186a48229d38d8c5549286357ef1108dfac916
+exl-id: b5997fdf-7e5c-4a96-8968-0898dd8f1ab7
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
-
 
 # Principes fondamentaux du système Workfront et du service de tutelle des groupes
 

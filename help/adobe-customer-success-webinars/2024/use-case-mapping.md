@@ -1,6 +1,6 @@
 ---
 title: Real-Time CDP - Association des cas d’utilisation aux fonctionnalités de solution
-description: Ce webinaire explore les principaux moyens d’explorer les cas d’utilisation et de les classer par priorité, de les mettre en correspondance avec des fonctionnalités spécifiques de la plateforme de données clients (RTCDP) et d’assurer un alignement sur les résultats et la valeur de l’entreprise. Points de discussion clés - Cas d’utilisation La plateforme RT-CDP résout les problèmes spécifiques aux résultats de l’entreprise et leur donne la priorité ​ l’alignement des fonctionnalités de la plateforme RT-CDP sur des cas d’utilisation prioritaires
+description: Ce webinaire explore les principaux moyens d’explorer les cas d’utilisation et de les classer par priorité, de les mettre en correspondance avec des fonctionnalités spécifiques de la plateforme de données clients en temps réel et d’assurer l’alignement sur les résultats et la valeur de l’entreprise.
 solution: Real-Time Customer Data Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,9 +9,9 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---

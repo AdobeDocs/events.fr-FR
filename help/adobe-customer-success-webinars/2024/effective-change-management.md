@@ -1,6 +1,6 @@
 ---
 title: 'Naviguer dans le changement : un webinaire sur la gestion efficace du changement'
-description: 'Découvrez les nuances de la gestion du changement et proposez des insights stratégiques pour vous aider à diriger votre organisation par le biais de parcours transformationnels. Points de discussion clés : découvrez comment aligner les efforts de changement avec les objectifs et les objectifs organisationnels généraux Principal l’art de communiquer le changement aux diverses parties prenantes Mise en oeuvre d’une stratégie d’activation et d’une planification efficaces Découvrez des stratégies proactives pour atténuer les risques et assurer une transition fluide'
+description: Découvrez les nuances de la gestion du changement et proposez des insights stratégiques qui vous permettront de guider votre organisation à travers des parcours transformationnels.
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3340
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15557
 exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
