@@ -1,5 +1,5 @@
 ---
-title: Adobe Marketo Engage champion de plongée approfondie - Automatisation et rationalisation des opérations de campagne à l’aide de l’API Marketo
+title: Automatisation et rationalisation des opérations de campagne à l’aide de l’API Marketo
 description: Découvrez comment rationaliser vos opérations marketing avec l’API Marketo dans cette présentation approfondie. Nous vous montrerons comment automatiser les tâches répétitives, telles que la création de newsletters par e-mail, de programmes de suivi, la fusion de doublons, la mise à jour des coûts du programme et les programmes de clonage, afin que vous puissiez vous concentrer sur les initiatives stratégiques.
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -7,9 +7,9 @@ doc-type: Event
 duration: 4370
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16520
-source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
+source-git-commit: e54e738d55d4037f500d68597d2d29334ddddae9
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '339'
 ht-degree: 1%
 
 ---
