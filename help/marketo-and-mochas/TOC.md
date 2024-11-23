@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 6d34941792ad369db453b5f27521d7a818ffdedb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '76'
 ht-degree: 5%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 5%
 
 + [Vue d’ensemble](overview.md)
 + 2024 {#2024}
+   + [Me demander tout](2024/ask-me-anything.md)
    + [Maturité Partie 1 - Jeter les fondations](2024/maturity-part1-foundation.md)
    + [Maturité Partie 2 - Optimisation de l’utilisation de Marketo](2024/optimize-marketo-usage.md)
    + [Maturité Partie 3 - Stimuler la croissance avec les rapports](2024/drive-growth-with-reporting.md)

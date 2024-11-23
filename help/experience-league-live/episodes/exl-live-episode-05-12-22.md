@@ -1,6 +1,6 @@
 ---
 title: Notifications push avec Adobe Journey Optimizer
-description: Les notifications push vous permettent d'atteindre les utilisateurs de votre application mobile à tout moment, en particulier lorsqu'ils ne l'utilisent pas activement. Journey Optimizer prend en charge les notifications push (les descriptions doivent être comprises entre 60 et 160 caractères).
+description: Dans cet épisode Experience League Live, nous parlons des cas d’utilisation courants des notifications push avec Adobe Journey Optimizer et nous entrons dans les détails techniques de configuration d’une application pour les notifications push avec Adobe Experience Platform.
 solution: Journey Optimizer
 kt: 10407
 feature: Push
@@ -9,10 +9,10 @@ event-start-time: 2022-05-12 09:30-7
 event-guests: Sandra Hausmann,Archana Chaudhary,Don Huynh
 exl-id: 3e813ced-154d-4ec6-b7a3-6800b814f123
 duration: 2963
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 1f64d5c4388bbcb13256e188b540a7f932b4c9e6
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 25%
+source-wordcount: '169'
+ht-degree: 12%
 
 ---
 

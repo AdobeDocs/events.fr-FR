@@ -1,6 +1,6 @@
 ---
 title: 'Marketo et Mochas : jeter les bases du succès des chefs de file'
-description: Rejoignez les conseillers aux affaires, Cynthia Chang et Carly Gaver, car ils partagent des informations sur l’optimisation de la culture du plomb dans Adobe Marketo Engage. Grâce à la prise en charge des pistes, les marketeurs peuvent communiquer de manière cohérente sur tous les canaux, comblant ainsi l’écart entre l’interaction initiale et l’achat. Nous allons également explorer le type Programme d’engagement , qui permet la distribution de contenu à des audiences nommées selon une planification définie. Grâce aux programmes Marketo Engage, les marketeurs peuvent concevoir des campagnes en permanence, impliquer des prospects et des clients au moyen d’expériences et de contenus personnalisés. Carly conduira également une démonstration en direct, vous guidant tout au long de la configuration d’un programme d’engagement à l’aide du modèle de bonnes pratiques de la bibliothèque de programmes Marketo. Comme toujours, nous répondrons à vos questions en direct pendant les questions et réponses !
+description: Rejoignez les conseillers commerciaux Cynthia Chang et Carly Gaver pour découvrir comment optimiser le développement des prospects dans Adobe Marketo Engage, explorer les programmes d’engagement pour la distribution de contenu et voir une démonstration en direct sur la configuration d’un programme d’engagement à l’aide du modèle des bonnes pratiques, avec des questions-réponses en direct.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3544
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15604
 exl-id: 7afdf1ae-a73a-4b04-92bf-6deacc2925fc
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---

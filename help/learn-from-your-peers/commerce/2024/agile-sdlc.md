@@ -1,6 +1,6 @@
 ---
 title: Une approche ciblée sur la communication, les exigences et les tests dans Agile SDLC
-description: Découvrez comment rationaliser le commerce électronique grâce aux pratiques du cycle de vie du développement de logiciels agiles (SDLC).  Découvrez l’analyse et la planification des exigences, les stratégies de gestion des retards de bogues et de fonctionnalités, la planification de projets pour les initiatives à grande échelle, les conseils sur les procédures de test applicables à différentes phases, en veillant au développement de sites web de commerce électronique fiables et fiables, ainsi que des conseils pour favoriser une communication efficace. Mettre en évidence la transparence et la responsabilité en tant que facteurs clés pour réussir l'exécution d'un projet. Vous pouvez accéder aux diapositives ici.
+description: Rationalisez le développement du commerce électronique avec les pratiques Agile SDLC, notamment l’analyse des besoins, la gestion des retards, la planification des projets, les stratégies de test et la promotion d’une communication transparente et responsable pour une exécution réussie.
 solution: Commerce
 feature-set: Commerce
 feature: Best Practices
@@ -13,9 +13,9 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15011
 thumbnail: 3427501.jpeg
 exl-id: 2bb76c43-fda5-4ebb-832e-4ab54166076a
-source-git-commit: a0a222e6636182df97d49c5fce629bf25381394c
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Marketo et Mochas - Score de piste
-description: La session inaugurale de Marketo & Mochas présente les conseillers commerciaux de Marketing Automation, Cynthia Chang et Kelvin Ieng. Cette session aborde les avantages de la notation des pistes, de la configuration, de la configuration et de la révision de vos modèles de notation des pistes. Kelvin passe en revue une démonstration en direct de la configuration d’un modèle de notation de piste dans  [!DNL Marketo Engage] et se termine par 3 points clés. La présentation et la démonstration sont accompagnées d'un Q&R en direct avec Kelvin et Cynthia.
+description: Découvrez les avantages du score de piste avec Cynthia Chang et Kelvin Ieng dans Marketo & Mochas, avec des stratégies, une configuration et une démonstration en direct en Marketo Engage, ainsi que des recettes clés et des questions-réponses en direct.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +10,9 @@ thumbnail: 3412722.jpeg
 exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
 duration: 3631
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---

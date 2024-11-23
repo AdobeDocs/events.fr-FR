@@ -1,6 +1,6 @@
 ---
 title: Déverrouiller le marketing mondial avec un Marketo Engage - coupe en Adobe en profondeur championne - août 2024
-description: Votre entreprise est prête à utiliser Marketo Engage pour prendre en charge plusieurs langues, pays, unités opérationnelles et/ou produits et vous souhaitez lancer cette transformation sur la bonne voie. Rejoignez-nous pour obtenir un guide complet sur les complexités du lancement, de la maintenance et du reporting sur les initiatives marketing mondiales. Nous vous expliquerons comment structurer vos données et votre instance à l’aide d’espaces de travail et de partitions, comment vous conformer à diverses exigences légales dans le monde entier et comment prendre en charge vos campagnes avec des segments, des fragments de code, du contenu dynamique, etc.
+description: Rejoignez la section d’août Deep Dive pour déverrouiller le marketing global avec Marketo Engage, qui couvre la structuration des données, la conformité juridique, la prise en charge des campagnes avec des segments, des fragments de code, du contenu dynamique, etc., avec des informations sur l’optimisation des espaces de travail et des partitions pour plusieurs marques et instances.
 solution: Marketo
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
-source-git-commit: 6109b20829c1e50664eafb5bc674b781ec26611a
+exl-id: 297b9baf-95c9-4154-be96-75455100b4d8
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
-
 
 # Déverrouiller le marketing mondial avec un Marketo Engage - coupe en Adobe en profondeur championne - août 2024
 

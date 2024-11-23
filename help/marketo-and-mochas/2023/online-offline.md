@@ -1,6 +1,6 @@
 ---
 title: Canaux en ligne ou hors ligne
-description: Regardez de plus près la configuration stratégique des canaux et sous-canaux, une présentation pédagogique sur la gestion des canaux en ligne et hors ligne, leur fonctionnement , la session présente des démonstrations in-product et passe en revue les bonnes pratiques utilisées par les experts en attribution.
+description: Rejoignez les conseillers commerciaux en automatisation du marketing d’Adobe, Kate Colbert et Elizabeth Lundberg, pour une session approfondie de 90 minutes sur l’optimisation des canaux en ligne et hors ligne avec l’attribution Marketo Measure, qui présente des configurations stratégiques, des bonnes pratiques et des questions-réponses en direct.
 solution: Marketo Measure
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -10,9 +10,9 @@ jira: KT-13750
 thumbnail: 3422363.jpeg
 exl-id: d11e2351-81d3-42ae-baf2-dc9b487cc9b5
 duration: 5434
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

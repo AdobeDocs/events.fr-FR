@@ -9,9 +9,9 @@ duration: 1109
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15303
 exl-id: 72fc12aa-05fe-4856-9c34-bb61f6f3a295
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Exploitez toutes les fonctionnalités d’automatisation avec la solution de cod
 ## Plus d’informations sur Power Automate
 
 * L’objectif de Power Automate est de fournir une solution à code faible ou sans code qui permet aux non-développeurs de créer des workflows ou des flux complexes en termes Microsoft.
-* Il permet aux utilisateurs d’automatiser les tâches et les processus en exploitant des connecteurs prédéfinis pour travailler avec des centaines d’autres systèmes et applications. Power Automate permet aux utilisateurs de lire et écrire des données, de lancer des processus et d’effectuer des actions à l’aide de ces connecteurs, le tout via une configuration graphique par glisser-déposer. Les données sont automatiquement exposées et disponibles pour utilisation dans les déclencheurs et actions suivants.
+* Il permet aux utilisateurs d’automatiser les tâches et les processus en exploitant des connecteurs prédéfinis pour travailler avec des centaines d’autres systèmes et applications. Power Automate permet aux utilisateurs de lire et d’écrire des données, de lancer des processus et d’effectuer des actions à l’aide de ces connecteurs, le tout via une configuration graphique par glisser-déposer. Les données sont automatiquement exposées et disponibles pour utilisation dans les déclencheurs et actions suivants.
 * &#x200B; De plus, Power Automate permet aux utilisateurs de créer et d’utiliser des workflows automatisés dans Adobe Acrobat Sign sans avoir à faire appel au personnel informatique.
 * Ces workflows automatisés peuvent augmenter l’efficacité, la productivité et réduire les erreurs.
 * Power Automate permet également aux non-administrateurs de créer des workflows, fournissant ainsi une plateforme permettant aux utilisateurs d’automatiser les tâches et les processus en créant des flux qui connectent différents services et applications. Il offre un large éventail de déclencheurs et d’actions qui peuvent être utilisés pour créer des workflows personnalisés en fonction de besoins spécifiques de l’entreprise.

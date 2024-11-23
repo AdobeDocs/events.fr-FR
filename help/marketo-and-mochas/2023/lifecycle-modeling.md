@@ -1,6 +1,6 @@
 ---
 title: Gestion des Parcours client - Modélisation du cycle de vie
-description: Couvre la configuration correcte de votre cycle de vie dès le début, la segmentation correcte des personnes dans le parcours d’achat, la démonstration intégrée au produit du modélisateur de cycle de vie et divers rapports et analyses disponibles pour aider à analyser l’efficacité de vos segments de clients.
+description: Découvrez comment la transparence renforce la crédibilité marketing avec Cynthia Chang et James Le, qui partagent des stratégies pour la configuration du cycle de vie, la segmentation des parcours et montrent les outils de modélisation, de reporting et d’analyse du cycle de vie des Marketo Engage.
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +10,9 @@ thumbnail: 3420763.jpeg
 event-start-time: 2023-6-30 08:30-8
 exl-id: e31120ae-3bdd-4974-953b-1f007c6962a8
 duration: 3772
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---

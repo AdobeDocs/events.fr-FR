@@ -1,8 +1,8 @@
 ---
 title: Utilisation des champs PMCF pour une évolutivité
-description: Cette section décrit l’utilisation de Champs personnalisés des membres de programme (PMCF) dans Marketo à des fins d’évolutivité. La session traite des définitions, des finalités, des règles et des cas d’utilisation des PMCF. Bonnes pratiques relatives à l’utilisation des PMCF pour modifier les données, les informations de référence et effectuer le suivi des données d’événement uniques, telles que les paramètres de la gestion dynamique des balises pour les webinaires. Dans l’ensemble, les PMCF sont un outil précieux pour les spécialistes du marketing qui cherchent à gérer et à adapter des programmes marketing complexes dans Marketo.
+description: Découvrez comment tirer parti des champs personnalisés des membres du programme (PMCF) dans Marketo pour une évolutivité, y compris les bonnes pratiques de gestion des données, de communication personnalisée et de reporting précis, comme expliqué dans la vidéo de présentation approfondie de Adobe Marketo Engage.
 solution: Marketo Engage
-feature-set: "Marketo Engage"
+feature-set: Marketo Engage
 feature: Field Management
 role: Admin, Developer, User
 level: Intermediate, Experienced
@@ -10,13 +10,13 @@ doc-type: Event
 duration: 3059
 last-substantial-update: 2024-06-28T00:00:00Z
 jira: KT-15784
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+exl-id: 9fd094c3-d6ad-410e-aeae-1b6bf3f012bd
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # Utilisation des champs PMCF pour une évolutivité
 
@@ -32,7 +32,7 @@ Dans la vidéo &quot;Adobe Marketo Engage Champion Deep Dive&quot;, les présent
 * Autoriser les données contextuelles au niveau du programme.
 * Limite de création de 20 champs personnalisés par programme.
 * Méthodes d&#39;import de données : imports de listes, remplissage de formulaires, étapes de flux.
-* Synchronisation avec les membres de campagne Salesforce pour assurer la cohérence des données.
+* Synchroniser avec les membres de campagne Salesforce pour assurer la cohérence des données.
 * à utiliser dans les emails, les landing pages et les alertes pour une communication personnalisée ;
 * Améliorez le suivi, l’analyse et la création de rapports des données spécifiques au programme.
 

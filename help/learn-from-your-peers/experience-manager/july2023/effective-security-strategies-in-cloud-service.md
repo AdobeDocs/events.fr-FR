@@ -14,7 +14,7 @@ jira: KT-13708
 thumbnail: KT-13708.jpeg
 exl-id: ffac5c39-a1db-4533-947f-609e4d8dc7b4
 duration: 3580
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 27c53f62fe63e9b166b46cefa04abcdcc7823556
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%

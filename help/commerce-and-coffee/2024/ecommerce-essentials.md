@@ -1,6 +1,6 @@
 ---
 title: Commerce et café - maîtrise des principes de l’e-commerce
-description: Au cours de cette session, Corey Gelato, consultant principal en stratégie Commerce, explore les éléments essentiels de la réussite du commerce électronique dans Adobe Commerce. Découvrez comment créer sans effort des promotions personnalisées et exploiter les programmes de fidélité pour que les clients puissent générer des conversions tout en personnalisant les expériences client. Nous vous donnerons une vue d’ensemble de la façon d’optimiser vos paiements et vos frais d’expédition avec une prise en charge native des méthodes de paiement et des opérateurs de transport. Corey partagera également une démonstration en direct des techniques de marchandisage des catégories, allant de l’organisation manuelle à des affectations plus automatisées de produits intelligents, ainsi qu’aux bonnes pratiques en matière de gestion de contenu et de clients.
+description: La session de Corey Gelato couvre les éléments essentiels d’e-commerce sur Adobe Commerce, mettant en évidence les stratégies de marchandisage personnalisé, les programmes de fidélité, les paiements et les frais d’expédition optimisés, ainsi que des campagnes marketing efficaces pour stimuler l’engagement, la rétention et les conversions des clients.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3480
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15605
 exl-id: e9061413-76b5-496c-91a2-a8bb54e1d21d
-source-git-commit: 4471d715fb226701bdad95ffe2834e763451c7ea
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---

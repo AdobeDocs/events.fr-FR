@@ -1,6 +1,6 @@
 ---
 title: Adobe Marketo Engage Champion de la plongée profonde - Utilisation de webhooks pour le transfert de données
-description: Parfois, il n’est pas nécessaire d’avoir toute la rigueur de la création, du test et du déploiement d’une API. Au lieu de cela, vous pouvez utiliser un webhook en libre-service pour exécuter divers transferts de données dans votre gestion de la relation client ou d’autres systèmes intégrés. Rejoignez Darshil Shah et Josh Arrington pour découvrir comment utiliser cette fonctionnalité et vous propulsez rapidement vers l’efficacité ! Modéré par John Grundy.
+description: Découvrez comment transférer efficacement des données à l’aide de webhooks dans Marketo avec Darshil Shah et Josh Arrington, couvrant la gestion structurée des données, la gestion des erreurs, les méthodes d’authentification et des cas pratiques d’utilisation tels que l’intégration CRM et le commerce électronique, modérés par John Grundy.
 feature: Webhooks, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -9,9 +9,9 @@ duration: 3185
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15385
 exl-id: d8e22e01-724a-4b0c-855b-0adb29e98d30
-source-git-commit: 0dfaa269fd25df0845c4eeee442fb2859492b543
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,6 @@
 ---
 title: Commerce et café - Préparation de la saison du pic
-description: tout ce que vous devez savoir pour préparer correctement votre site à une saison de pointe à tout moment de l’année. des stratégies efficaces pour non seulement rester compétitives, mais avant la compétition. Découvrez comment optimiser les performances du site web, gérer l’inventaire et améliorer de manière proactive l’assistance clientèle. Corey abordera également les bonnes pratiques relatives à la planification de campagnes marketing efficaces, qui génèrent des conversions, la satisfaction des commandes et l’analyse de vos campagnes à l’aide d’analyses et de rapports après la saison de pointe.
+description: La session de Corey Gelato fournit aux entreprises de commerce électronique des stratégies pour exceller pendant les hautes saisons en optimisant les performances du site web, en gérant l’inventaire, en améliorant l’engagement des clients avec les outils d’IA et en tirant parti des analyses post-saison pour améliorer la fidélisation et la fidélité.
 solution: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3436
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16235
-source-git-commit: d5584d9714f046ed32853edb7602123487ad9ac9
+exl-id: 8dc72811-74db-485a-ac25-e2647d0848f7
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
-
 
 # Commerce et café : préparation de la saison de pointe
 

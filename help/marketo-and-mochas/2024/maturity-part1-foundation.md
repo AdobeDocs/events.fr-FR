@@ -1,19 +1,19 @@
 ---
 title: Marketo et Mochas - Maturité Partie 1 - Jeter la fondation
-description: Rejoignez les conseillers commerciaux de l’Adobe, Cynthia Chang et Carly Gaver, car ils partagent des informations précieuses sur la courbe de maturité de Marketo pour guider l’expansion de l’utilisation de Marketo par votre entreprise.
+description: Rejoignez les conseillers commerciaux de l’Adobe, Cynthia Chang et Carly Gaver, en explorant la Courbe de maturité de Marketo, en leur offrant des informations sur l’optimisation des configurations technologiques, la mise en oeuvre des bonnes pratiques, ainsi que la gestion efficace de la documentation et de la plateforme, avec une démonstration en direct de la bibliothèque de modèles de programme.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3512
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15907
-source-git-commit: 6c14ae9f4f638b202afa922fe814429a8742160e
+exl-id: fc39cc75-a8b9-4398-a059-7a5fe947e296
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
-
 
 # Marketo et Mochas : Maturité Partie 1 - Jeter la fondation
 

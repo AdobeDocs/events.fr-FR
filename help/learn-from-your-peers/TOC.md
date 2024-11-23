@@ -2,10 +2,10 @@
 user-guide-title: « [!DNL Experience Makers Learn from your peers] »
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Collection d'enregistrements de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: ac811378b605024bc49232b84932b029fe783c45
+source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 3%
+source-wordcount: '302'
+ht-degree: 2%
 
 ---
 
@@ -45,6 +45,8 @@ ht-degree: 3%
    + Mai {#may2023}
       + [Masquage du contenu et des fragments d’expérience](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + Marketo {#marketo}
+   + Novembre 2024 {#nov2024}
+      + [Audits de segmentation avancés](marketo/nov2024/advanced-segmentation.md)
    + Septembre 2024 {#sept2024}
       + [Programmes d’engagement multidiffusion](marketo/sept2024/multi-stream-engagement-programs.md)
    + Juillet 2024 {#july2024}
