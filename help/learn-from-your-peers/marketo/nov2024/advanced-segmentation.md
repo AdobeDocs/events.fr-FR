@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2493
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16525
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+exl-id: ee335fea-f158-4b95-930e-273f023cdf04
+source-git-commit: 015cad4b20df989ef5ed11aed060e3dd57944afe
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 1%
+source-wordcount: '402'
+ht-degree: 0%
 
 ---
-
 
 # Audits de segmentation avancés : assurance de précision et de performance dans Marketo Engage
 
@@ -23,14 +23,16 @@ Rejoignez le champion Adobe Marketo Engage Darshil Shah pour savoir comment main
 Dans ce webinaire, vous découvrirez :
 
 * Comprendre et revoir la segmentation pour rester en phase avec les comportements des clients et éviter les écueils courants tels que la sur-segmentation, les segments obsolètes et les règles mal alignées.
-* Modification et mise à jour des segments à l’aide des bonnes pratiques afin de maintenir une stratégie de segmentation efficace, conforme et hautement performante.
+* Modification et mise à jour des segments à l’aide des bonnes pratiques afin de maintenir une stratégie de segmentation efficace, conforme et performante.
 * Surveillez et améliorez les performances grâce aux rapports de campagne pour vous assurer que vos efforts marketing sont toujours ciblés.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439383/?learn=on&enablevpops)
 
 ## Points clés
 
-Importance de la segmentation : la segmentation dans Marketo permet de créer des groupes logiques de personnes en fonction de filtres spécifiques, ce qui contribue à améliorer les taux d’engagement et de conversion par le biais de messages personnalisés.
+### Importance de la segmentation
+
+* La segmentation dans Marketo Engage permet de créer des groupes logiques de personnes en fonction de filtres spécifiques, ce qui contribue à améliorer les taux d’engagement et de conversion par le biais de messages personnalisés.
 
 ### Différences entre la segmentation et les listes dynamiques
 
@@ -40,21 +42,21 @@ Importance de la segmentation : la segmentation dans Marketo permet de créer de
 
 ### Révision et mises à jour périodiques
 
-* passer régulièrement en revue et mettre à jour la segmentation afin de prendre en compte les changements de comportement, l’actualisation des données, les performances marketing, les modifications commerciales et la conformité au RGPD ;
+* Examinez et mettez régulièrement à jour la segmentation afin de prendre en compte les changements de comportement, l’actualisation des données, les performances marketing, les modifications commerciales et la conformité au RGPD.
 * Créer un cycle d&#39;examen régulier (trimestriel, bisannuel, etc.).
 
 ### Bonnes pratiques
 
 * Assurez-vous que la logique de segmentation s’aligne sur les objectifs marketing.
-* Simplifiez les critères de segmentation pour éviter une sur-complication.
+* Simplifiez les critères de segmentation afin d’éviter une sur-complication.
 * Utilisez les informations sur les audiences pour mettre à jour la segmentation.
-* Effectuez des contrôles de conformité et surveillez les performances de segmentation.
-* Testez minutieusement les mises à jour de la segmentation avant approbation.
+* Effectuez des vérifications de conformité et surveillez les performances de la segmentation.
+* Testez minutieusement les mises à jour de la segmentation avant de les approuver.
 
 ### Problèmes courants et solutions
 
-* Évitez la sur-segmentation pour éviter la surcharge du système et les problèmes de gérabilité.
-* Résolvez les règles mal alignées pour vous assurer que la segmentation prend en charge la stratégie marketing globale.
+* Évitez la sur-segmentation afin d’éviter toute surcharge du système et tout problème de gérabilité.
+* Résolvez les règles mal alignées afin de vous assurer que la segmentation prend en charge la stratégie marketing globale.
 * Surveillez la taille du segment par défaut pour vous assurer qu’il n’est pas le plus grand, ce qui indique qu’il est nécessaire d’améliorer les critères de segmentation.
 
 ### Exemples de segmentation efficace
@@ -69,10 +71,10 @@ Importance de la segmentation : la segmentation dans Marketo permet de créer de
 
 ## Ressources supplémentaires
 
-* [Diapositives de présentation](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20Segmentation%20Audits.pdf?version=0)
-* Rejoignez la discussion [thread](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460) sur la communauté Marketing Nation
-* [Créer une segmentation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation)
-* [Modifier une segmentation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation)
-* Série de succès Marketo - [Segmentation](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969)
-* [Mises à jour du contrôle de l’intégrité de la segmentation](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963) - Conseils et astuces pour conserver votre segmentation mise à jour
-* [Rapport Performance des emails](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report)
+* [Diapositives de présentation](https://engage.adobe.com/rs/360-KCI-804/images/AME_Learn%20From%20your%20peers%20Webinar_Advanced%20segmentation%20Audits.pdf?version=0){target="_blank"}
+* Rejoignez la discussion [thread](https://nation.marketo.com/t5/product-discussions/register-now-learn-from-your-peers-advanced-segmentation-audits/td-p/353460){target="_blank"} sur la communauté Marketing Nation
+* [Créer une segmentation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation){target="_blank"}
+* [Modifier une segmentation](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
+* Série de succès des Marketo Engage - [segmentation](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
+* [mises à jour du contrôle de l’intégrité de la segmentation](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - Conseils et astuces pour conserver votre segmentation mise à jour
+* [Rapport Performance de messagerie](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
