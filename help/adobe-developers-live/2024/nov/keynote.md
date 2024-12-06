@@ -9,13 +9,13 @@ doc-type: Event
 duration: 3101
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16543
-source-git-commit: a5b6c2c3150fcc98686fe74d68f186bfe4e1befa
+exl-id: aefe7bf2-921f-48e5-beec-ade33801a3c5
+source-git-commit: b3b8fbee219ad35dca5d48a57f1f5b87c8928443
 workflow-type: tm+mt
 source-wordcount: '366'
 ht-degree: 0%
 
 ---
-
 
 # Keynote - Mise à jour de Adobe Experience Manager
 
