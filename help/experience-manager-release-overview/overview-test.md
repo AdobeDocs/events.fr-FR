@@ -2,8 +2,8 @@
 title: Présentation de la version Adobe Experience Manager as a Cloud Service
 description: Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manager as a Cloud Service
 user-guide-breadcrumb: AEM Release Events
-exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
+hidefromtoc: true
 source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
 workflow-type: tm+mt
 source-wordcount: '844'
@@ -18,7 +18,7 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manag
 ## Dernière mise à jour
 
 <!-- CARDS
-{cta = Watch}
+{cta = More details}
 
 * 2024/2024-11-0.md
 
@@ -29,7 +29,7 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manag
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/2024-11-0.md" title="Vidéo de présentation de la version 2024.11.0 AEM" target="_blank" rel="referrer">
+                    <a href="https://video.tv.adobe.com/v/3440920" title="Vidéo de présentation de la version 2024.11.0 AEM" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?format=jpeg&nocache=1733523410197" alt="Vidéo de présentation de la version 2024.11.0 AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -73,7 +73,7 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manag
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/2024-10-0.md" title="Vidéo de présentation de la version 2024.10.0 AEM" target="_blank" rel="referrer">
+                    <a href="https://video.tv.adobe.com/v/34400501" title="Vidéo de présentation de la version 2024.10.0 AEM" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440501/?format=jpeg&nocache=1733523411502" alt="Vidéo de présentation de la version 2024.10.0 AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -96,7 +96,7 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manag
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/2024-9-0.md" title="Vidéo de présentation de la version 2024.9.0 AEM" target="_blank" rel="referrer">
+                    <a href="https://video.tv.adobe.com/v/3434847" title="Vidéo de présentation de la version 2024.9.0 AEM" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434847/?format=jpeg&nocache=1733523411517" alt="Vidéo de présentation de la version 2024.9.0 AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -119,7 +119,7 @@ Découvrez rapidement les dernières fonctionnalités d’Adobe Experience Manag
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2024/2024-8-0.md" title="Vidéo de présentation de la version 2024.8.0 AEM" target="_blank" rel="referrer">
+                    <a href="https://video.tv.adobe.com/v/3433381" title="Vidéo de présentation de la version 2024.8.0 AEM" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433381/?format=jpeg&nocache=1733523411497" alt="Vidéo de présentation de la version 2024.8.0 AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
