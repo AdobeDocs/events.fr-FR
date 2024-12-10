@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
-source-git-commit: 47ae42d06ed311e60ebce194e0683bb95e8e5b69
+exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
+source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
 
 ---
-
 
 # Le pouvoir stratégique de la mesure : transformer les données en action
 
@@ -29,7 +29,7 @@ Découvrez les éléments essentiels de l’élaboration d’une stratégie de m
 * La participation régulière des parties prenantes pour fournir leurs données garantit la familiarité avec les données capturées.
 * Donner aux parties prenantes les moyens de se sentir confiantes dans la conduite des rapports et la prise de décisions par elles-mêmes réduit les hésitations.
 
-**Trust
+**Trust**
 
 * La confiance se construit par une implication proactive, la transparence, la gouvernance des données et le contrôle de la qualité.
 * L&#39;harmonisation et la participation des parties prenantes à la planification stratégique sont cruciales.
@@ -52,4 +52,3 @@ Découvrez les éléments essentiels de l’élaboration d’une stratégie de m
 * Traitement des ressources pour les nouveaux utilisateurs et les personnes qui ne sont pas analystes.
 * Organiser des sessions d’astuces rapides régulières et des sessions de partage des connaissances.
 * Utilisation de newsletters et de communications internes pour partager des informations et des mises à jour.
-
