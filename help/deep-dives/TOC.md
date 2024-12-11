@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 0de0ff84e6e29b9460cb02f8890a5fbce7c432d3
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '67'
 ht-degree: 4%
 
 ---
@@ -30,6 +30,7 @@ ht-degree: 4%
    + [Héritage d’une instance](inheriting-an-instance.md)
    + [Cycle de vie des pistes](lead-lifecycles.md)
    + [Utilisation des champs PMCF pour une évolutivité](pmcf-fields.md)
+   + [Optimiser la délivrabilité des emails](maximize-email-deliverability.md)
    + [Maximiser votre instance avec une petite équipe](small-team-instance.md)
    + [Notification des processus complexes dans le journal d’activité](activity-log.md)
    + [Déverrouillage du marketing global](global-marketing.md)
