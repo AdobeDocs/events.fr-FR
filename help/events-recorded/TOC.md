@@ -2,10 +2,10 @@
 user-guide-title: Enregistrements d’événements Adobe Experience League
 user-guide-breadcrumb: Event Recordings
 user-guide-description: Collection d’enregistrements d’événements utilisés de force pour l’utilisation des produits Adobe Enterprise
-source-git-commit: 46f5e599ad9648498972898731f64f3c24d92c43
+source-git-commit: 27358919021fbca757879bbb8ed9667bd973578f
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 12%
+source-wordcount: '428'
+ht-degree: 11%
 
 ---
 
@@ -23,12 +23,12 @@ ht-degree: 12%
    + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + [Heures de bureau des champions AEM](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
    + [Événements Commerce APAC](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
-   + [Derrière le Brew](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [Derrière le Brew](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
    + [Commerce et café](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
    + [Voix pour la gestion des données client](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=fr)
-   + [Goutte-à-goutte des données](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [Goutte-à-goutte des données](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html)
    + [Plongées profondes](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
-   + [Expressos &amp; Experience Manager ](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [Expressos &amp; Experience Manager ](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
    + [Sessions techniques Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
    + [Experience League LIVE](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + [GEMS Experience Manager ](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
@@ -38,7 +38,7 @@ ht-degree: 12%
    + [Marketo et Mochas](https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html)
    + [Développement des compétences](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + [Exchange des compétences](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
-   + [Réveil avec Workfront](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
+   + [Réveil avec Workfront](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
 + Par {#solution} de solution
    + {#as} Acrobat Sign
@@ -49,6 +49,7 @@ ht-degree: 12%
       + [En direct Experience League ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
    + Adobe Analytics {#aa}
       + [Webinaires sur le succès client Adobe](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
+      + [Goutte-à-goutte des données](https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html)
       + [Sessions techniques Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [En direct Experience League ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Apprenez de vos pairs](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
@@ -64,6 +65,7 @@ ht-degree: 12%
       + [Mises À Jour De Produits Adobe Commerce](https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [Événements Commerce APAC](https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html)
+      + [Derrière le Brew](https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html)
       + [Commerce et café](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
       + [Sessions techniques Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Développement des compétences](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
@@ -74,6 +76,7 @@ ht-degree: 12%
       + [Forum de gestion de contenu d’Adobe ](https://experienceleague.adobe.com/docs/events/adobe-content-management-forum-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [Heures de bureau des champions AEM](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/overview.html)
+      + [Expressos &amp; Experience Manager ](https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html)
       + [Sessions techniques Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [En direct Experience League ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [GEMS Experience Manager ](https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html)
@@ -111,4 +114,5 @@ ht-degree: 12%
       + [Sessions techniques Experience Cloud ](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Apprenez de vos pairs](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Exchange des compétences](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
+      + [Réveil avec Workfront](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
       + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
