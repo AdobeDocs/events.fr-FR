@@ -2,7 +2,7 @@
 user-guide-title: Sessions techniques Experience Cloud
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Sessions techniques pour les Experience Cloud est une approche proactive de la déviation des cas en proposant aux clients des webinaires spécifiques à une solution.
-source-git-commit: b6f18d1a7adb683886bd08ad86998e619be24c29
+source-git-commit: 852eec6eccb1cf5cf99d73ffcd635f55fed846cf
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 15%
@@ -43,5 +43,3 @@ ht-degree: 15%
    + {#workfront-office-hours} Workfront
       + [Corriger les contacts en double](2023/workfront-fix-duplicate-contacts.md)
       + [Rapports d&#39;approbation d&#39;épreuve](2023/workfront-proof-approval-reports.md)
-
-
