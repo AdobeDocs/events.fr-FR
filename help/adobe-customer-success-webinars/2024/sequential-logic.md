@@ -1,23 +1,23 @@
 ---
-title: Maîtriser la logique séquentielle dans Adobe Analytics et Customer Journey Analytics
-description: Principal de la logique séquentielle et de l’analyse en Customer Journey Analytics (CJA) avec des aspects fondamentaux, des exemples pratiques et des applications commerciales, comme traité dans la session d’Andy Powers.
+title: Maîtriser la logique séquentielle dans Adobe Analytics et Customer Journey Analytics - Principes de base
+description: Principal de la segmentation séquentielle et des filtres dans AA et CJA avec des aspects fondamentaux, des exemples pratiques et des applications commerciales, comme abordé dans la session d’Andy Powers.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3259
 last-substantial-update: 2025-01-15T00:00:00Z
 jira: KT-17125
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+exl-id: db84e4aa-2585-4a08-8e85-bbf67419cc24
+source-git-commit: eba128e9c55c6f22e172b2700dae34dfbd2c16b3
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # Maîtriser la logique séquentielle dans AA et CJA : bases
 
-Acquérir une compréhension fondamentale de THEN et des opérateurs logiques séquentiels associés dans Adobe Analytics et Customer Journey Analytics. La logique séquentielle permet une analyse à forte valeur ajoutée dans Adobe Analytics et Customer Journey Analytics, mais elle est sous-utilisée et souvent mal comprise. Ce webinaire jette les bases de l’évaluation de ces opérateurs dans Analysis Workspace.
+Acquérir des connaissances fondamentales sur THEN et les opérateurs logiques séquentiels associés dans Adobe Analytics (segments séquentiels) et Customer Journey Analytics (filtres séquentiels). La logique séquentielle permet une analyse à forte valeur ajoutée dans Adobe Analytics et Customer Journey Analytics, mais elle est sous-utilisée et souvent mal comprise. Ce webinaire jette les bases de l’évaluation de ces opérateurs dans Analysis Workspace.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442925/?learn=on&enablevpops)
 
