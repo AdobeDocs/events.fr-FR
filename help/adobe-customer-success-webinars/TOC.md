@@ -2,9 +2,9 @@
 user-guide-title: Webinaires sur le succès client Adobe
 breadcrumb-title: Webinaires sur le succès client Adobe
 user-guide-description: Webinaires dirigés par le succès client Adobe conçus pour vous aider à optimiser votre investissement dans Adobe Experience Cloud. Obtenez des informations précieuses pour optimiser la valeur et accroître l’adoption de solutions d’Adobe.
-source-git-commit: e0810f122d633e915c143f01e95a184d78f6aa9e
+source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,9 @@ ht-degree: 0%
 # Webinaires sur le succès client Adobe {#adobe-customer-success-webinar-recordings}
 
 + [Webinaires sur le succès client Adobe](overview.md)
++ {#2025} 2025
+   + [Amélioration des programmes de fidélité par le biais de Personalization et des données](2025/enhance-loyalty-programs.md)
+   + [Maîtriser la logique séquentielle](2025/mastering-sequential-logic.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Personalization piloté par l’IA d’Adobe Target](2024/ai-personalization.md)
