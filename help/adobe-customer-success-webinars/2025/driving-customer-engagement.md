@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3077
 last-substantial-update: 2025-02-07T00:00:00Z
 jira: KT-17266
-source-git-commit: 4a4822129ced9ee1bd11374a637c09ff7f95d61f
+exl-id: 29b18954-f53a-4273-8852-0e42fb9477e9
+source-git-commit: a5112a81216059cfa3f362eb3a7882801c8a001a
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # Stimuler l’engagement des clients dans l’espace des payeurs
 
@@ -26,9 +26,9 @@ Explorez une session instructive présentant comment AEM Forms transforme l’en
 
 * **Défis et opportunités dans l&#39;espace payeur** Le secteur de la santé est confronté à des défis dans la gestion de la croissance exponentielle des informations et des formulaires numériques, ce qui entraîne des inefficacités et des coûts élevés. Il est nécessaire de rationaliser les processus, de réduire les coûts et d&#39;améliorer l&#39;engagement des clients.
 
-* **Fonctionnalités d’Aim Forms** Aim forms améliore l’efficacité opérationnelle et offre des expériences utilisateur exceptionnelles en permettant aux entreprises de créer des formulaires à grande échelle, d’automatiser les workflows et de proposer des expériences omnicanal. Cela entraîne une augmentation des taux de conversion et d’inscription, une réduction des abandons de formulaires et une augmentation de la productivité de l’équipe.
+* **Les fonctionnalités d’AEM Forms** AEM forms améliorent l’efficacité opérationnelle et les expériences utilisateur exceptionnelles en permettant aux entreprises de créer des formulaires à grande échelle, d’automatiser les workflows et de proposer des expériences omnicanal. Cela entraîne une augmentation des taux de conversion et d’inscription, une réduction des abandons de formulaires et une augmentation de la productivité de l’équipe.
 
-* **Solution de bout en bout** Aim Forms fournit une solution de bout en bout qui comprend des formulaires omnicanaux, des workflows automatisés et des communications interactives avec les clients. La solution est intégrée à Adobe Experience Cloud, ce qui améliore l’expérience utilisateur globale et l’efficacité opérationnelle.
+* **Solution de bout en bout** AEM Forms fournit une solution de bout en bout qui comprend des formulaires omnicanaux, des workflows automatisés et des communications interactives avec les clients. La solution est intégrée à Adobe Experience Cloud, ce qui améliore l’expérience utilisateur globale et l’efficacité opérationnelle.
 
 * **Innovations et intégrations** les innovations récentes incluent les services de diffusion pour de meilleures performances, les formulaires adaptatifs découplés pour une diffusion omnicanal et de nouveaux connecteurs pour l’intégration à des systèmes tels que OneDrive, Power Automate, Salesforce et Workfront. Les fonctionnalités d’accès anticipé incluent l’assistant IA dédiée à la génération, le connecteur Marketo et les formulaires conversationnels.
 
