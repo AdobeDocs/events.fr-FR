@@ -1,6 +1,6 @@
 ---
-title: Nouveautés dans les environnements de développement rapide pour AEM ?
-description: Les RDE permettent aux développeurs de déployer et de passer rapidement en revue les modifications, en minimisant le temps nécessaire au test des fonctionnalités dont il est prouvé qu’elles fonctionnent dans un environnement de développement local. Au cours de cette session, nous vous montrerons comment utiliser les RDE pour réduire les temps de roulement pendant le développement et obtenir des commentaires immédiats sur les modifications du code. De plus, nous vous présentons les dernières fonctionnalités, telles que la journalisation améliorée et la prise en charge frontale. Rejoignez-nous pour en savoir plus sur ce que vous pouvez faire avec les RDE et faites-nous savoir ce que vous souhaitez voir ajouté ensuite !
+title: Nouveautés des environnements de développement rapide pour AEM
+description: La session montrera comment les RDE permettent un déploiement et une analyse rapides des modifications, ce qui réduit les délais de développement et fournit un retour d’informations quasi instantané. Il introduira également de nouvelles fonctionnalités telles que l’amélioration de la journalisation et la prise en charge frontale.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -10,28 +10,28 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 3cf88775-de57-4d1a-aa86-b6e93b47cfcf
-source-git-commit: 1bdf2039e9b44f8f2f938ddf6443bf4888e26d7f
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# Date du séminaire : 4 septembre 2024
+# Date du webinaire : 4 septembre 2024
 
-Ce webinaire s’est terminé le 4 septembre 2024 à 17h00 CEST / 8h00 PDT / 20h30 heure locale.
+Ce webinaire s’est terminé le 4 septembre 2024 à 17 h 00 (heure de Paris) / 8 h 00 (heure de Paris) / 20 h 30 (heure de Paris).
 Veuillez consulter l’enregistrement ci-dessous.
 
-## Nouveautés dans les environnements de développement rapide pour AEM ?
+## Nouveautés des environnements de développement rapide pour AEM
 
-Les RDE permettent aux développeurs de déployer et de passer rapidement en revue les modifications, en minimisant le temps nécessaire au test des fonctionnalités dont il est prouvé qu’elles fonctionnent dans un environnement de développement local. Au cours de cette session, nous vous montrerons comment utiliser les RDE pour réduire les temps de roulement pendant le développement et obtenir des commentaires immédiats sur les modifications du code. De plus, nous vous présentons les dernières fonctionnalités, telles que la journalisation améliorée et la prise en charge frontale. Rejoignez-nous pour en savoir plus sur ce que vous pouvez faire avec les RDE et faites-nous savoir ce que vous souhaitez voir ajouté ensuite !
+Les RDE permettent aux développeurs et aux développeuses de déployer et d’examiner rapidement les modifications, ce qui réduit le temps nécessaire pour tester les fonctionnalités qui fonctionnent dans un environnement de développement local. Au cours de cette session, nous vous montrerons comment utiliser les RDE pour réduire les temps d’exécution pendant le développement et obtenir des commentaires quasi instantanés sur les modifications de code. En outre, nous vous présenterons les dernières fonctionnalités telles que l’amélioration de la journalisation et la prise en charge frontale. Rejoignez-nous pour en savoir plus sur ce que vous pouvez faire avec les RDE et laissez-nous savoir ce que vous souhaitez voir ajouté ensuite !
 
-## Présentateurs
+## Présentateurs et présentatrices
 
-* Natalia Angulo Herrera, ingénieur du développement logiciel, Adobe
-* Karl Pauls, informaticienne senior, Adobe
-* Remo Liechtenstein, ingénieur de développement logiciel, Adobe
-* Julian Sedding, ingénieur de développement logiciel, Adobe
+* Natalia Angulo Herrera, ingénieure de développement logiciel, Adobe
+* Karl Pauls, informaticien principal, Adobe
+* Remo Liechti, ingénieur en développement logiciel, Adobe
+* Julian Sedding, ingénieur en développement logiciel, Adobe
 
 ## Enregistrement de webinaire
 
@@ -41,6 +41,6 @@ Les RDE permettent aux développeurs de déployer et de passer rapidement en rev
 
 >[!NOTE]
 >
->* Pour obtenir des interactions de communauté spécifiques à une session sur l’Experience League, consultez le [Thread contextuel](https://adobe.ly/3M8MFTE) correspondant.
+>* Pour plus d’interactions de la communauté Experience League spécifiques à une session, consultez le [thread contextuel](https://adobe.ly/3M8MFTE) .
 >
->* Pour recevoir des notifications sur nos webinaires à venir, inscrivez-vous au [groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/).
+>* Pour recevoir des notifications sur nos webinaires à venir, inscrivez-vous à l’adresse [Groupe d’utilisateurs Adobe AEM](https://aem-augs.adobe.com/).

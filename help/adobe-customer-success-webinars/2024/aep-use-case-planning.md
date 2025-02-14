@@ -1,6 +1,6 @@
 ---
-title: De la vision à la valeur - Planification des cas d’utilisation AEP
-description: Apprenez à offrir des expériences client percutantes en définissant une stratégie avec des objectifs clairs et des facteurs de succès qui s’alignent sur les résultats commerciaux et les indicateurs de performance clés, en suivant une feuille de route pour la réalisation de valeur accessible et en tirant parti efficacement des fonctionnalités des solutions d’Adobe.
+title: De la vision à la valeur - Planification de cas d’utilisation AEP
+description: La session de planification de cas d’utilisation AEP couvre la mise en correspondance des valeurs, l’alignement des stratégies et l’optimisation de la valeur commerciale par le biais de KPI. Il aide les entreprises à aligner leurs objectifs sur les résultats commerciaux et à exploiter les solutions Adobe pour offrir des expériences client percutantes.
 solution: Experience Platform
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,28 +9,28 @@ duration: 3022
 last-substantial-update: 2024-08-26T00:00:00Z
 jira: KT-16038
 exl-id: 1d30c85d-3e78-4cc1-94f5-0a5b63d20ab2
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '167'
 ht-degree: 1%
 
 ---
 
-# De la vision à la valeur : planification des cas d’utilisation AEP
+# De la vision à la valeur : planification de cas d’utilisation AEP
 
-La session est conçue pour fournir des informations sur la planification et l’activation des cas d’utilisation, en se concentrant spécifiquement sur la mise en correspondance des valeurs, l’alignement des stratégies et la maximisation de la valeur commerciale au moyen d’indicateurs de performance clés (IPC).
+Cette session a pour but de fournir des informations sur la planification et l’activation des cas d’utilisation, en se concentrant spécifiquement sur la correspondance des valeurs, l’alignement des stratégies et l’optimisation de la valeur commerciale au moyen d’indicateurs clés de performance (KPI).
 
-Découvrez comment offrir des expériences client percutantes en définissant une stratégie avec des objectifs clairs et des facteurs de succès qui,
+Apprenez à offrir des expériences client percutantes en définissant une stratégie avec des objectifs clairs et des facteurs de succès qui,
 
-1. s’aligner sur les résultats commerciaux et les indicateurs de performance clés ;
-1. informer la feuille de route de la réalisation d’une valeur accessible ;
-1. tirer parti efficacement des fonctionnalités des solutions d’Adobe.
+1. s’aligner sur les résultats commerciaux et les KPI
+1. guider une feuille de route vers la réalisation de valeurs atteignables
+1. tirer parti des fonctionnalités de la solution Adobe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433025/?learn=on)
 
 ## Points clés
 
-1. Établir la vision, la stratégie et les objectifs de l&#39;organisation comme fondement de la planification des cas d&#39;utilisation
-1. Définition de l’expérience client prévue et optimale, y compris les exigences, les objectifs et l’impact.
-1. Suivi des indicateurs de performance clés (IPC) appropriés pour maximiser la valeur commerciale.
-1. Construire une feuille de route pour la réalisation d&#39;une valeur réalisable et évolutive en s&#39;alignant sur la stratégie et les objectifs.
+1. Établir la vision, la stratégie et les objectifs de l’organisation comme base de la planification des cas d’utilisation.
+1. La définition de l’expérience client prévue et optimale, y compris les exigences, les objectifs et l’impact.
+1. Suivi des indicateurs clés de performance (KPI) appropriés pour optimiser la valeur commerciale.
+1. Établir une feuille de route pour une réalisation de valeur atteignable et évolutive grâce à l’alignement sur la stratégie et les objectifs.

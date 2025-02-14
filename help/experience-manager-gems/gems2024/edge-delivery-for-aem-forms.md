@@ -1,6 +1,6 @@
 ---
-title: Prise en main des Edge Delivery Services pour AEM Forms
-description: 'Découvrez comment créer et publier AEM Forms à l’aide de Edge Delivery Services et les diffuser en tant qu’expériences exceptionnelles par le biais de la périphérie. Nous aborderons deux façons de créer ces formulaires : l’utilisation de la création basée sur les documents et la création basée sur les AEM. Vous découvrirez comment configurer un projet AEM Forms Edge Delivery Services pour personnaliser les blocs et les composants Forms et utiliser les extensions côté serveur. Vous apprendrez également à tirer parti d’AEM Forms as a Cloud Service pour le traitement principal de Forms après envoi.'
+title: Prise en main de Edge Delivery Services pour AEM Forms
+description: Découvrez comment créer et publier des AEM Forms à l’aide de Edge Delivery Services, dans les domaines de la création basée sur des documents et sur AEM, de la configuration de projet pour la personnalisation et de l’utilisation d’AEM Forms as a Cloud Service pour le traitement back-end.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -10,25 +10,25 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
-source-git-commit: 3fe49df071fd893fb7007545abec74ee3e331702
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-# Date du séminaire : 17 avril 2024
+# Date du webinaire : 17 avril 2024
 
-Ce webinaire a été terminé - veuillez regarder l&#39;enregistrement ci-dessous.
+Ce webinaire est terminé. Regardez l’enregistrement ci-dessous.
 
-## Prise en main des Edge Delivery Services pour AEM Forms
+## Prise en main de Edge Delivery Services pour AEM Forms
 
-Découvrez comment créer et publier AEM Forms à l’aide de Edge Delivery Services et les diffuser en tant qu’expériences exceptionnelles par le biais de la périphérie. Nous aborderons deux façons de créer ces formulaires : l’utilisation de la création basée sur les documents et la création basée sur les AEM. Vous découvrirez comment configurer un projet AEM Forms Edge Delivery Services pour personnaliser les blocs et les composants Forms et utiliser les extensions côté serveur. Vous apprendrez également à tirer parti d’AEM Forms as a Cloud Service pour le traitement principal de Forms après envoi.
+Découvrez comment créer et publier des AEM Forms à l’aide de Edge Delivery Services et les diffuser en tant qu’expériences exceptionnelles à travers Edge. Nous couvrirons deux méthodes de création de ces formulaires : à l’aide de la création basée sur document et de la création basée sur AEM. Vous apprendrez comment configurer un projet AEM Forms Edge Delivery Services pour personnaliser les blocs et composants Forms et utiliser les extensions côté serveur. Vous apprendrez également à utiliser AEM Forms as a Cloud Service pour le traitement principal de Forms après envoi.
 
-## Présentateurs
+## Présentateurs et présentatrices
 
-* Arun Taneja, Director de gestion des produits, Adobe
-* Vijay Kumar Jalagari, Directeur Général De L&#39;Ingénierie, Adobe
+* Arun Taneja, directeur de la gestion des produits, Adobe
+* Vijay Kumar Jalagari, directeur technique principal, Adobe
 
 ## Enregistrement de webinaire
 
@@ -38,6 +38,6 @@ Découvrez comment créer et publier AEM Forms à l’aide de Edge Delivery Serv
 
 >[!NOTE]
 > 
->* Pour obtenir des interactions de communauté spécifiques à une session sur l’Experience League, consultez le [Thread contextuel](https://adobe.ly/4aCz0OE) correspondant.
+>* Pour plus d’interactions de la communauté Experience League spécifiques à une session, consultez le [thread contextuel](https://adobe.ly/4aCz0OE) correspondant.
 >
->* Pour recevoir des notifications sur nos webinaires à venir, inscrivez-vous au [groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/).
+>* Pour recevoir des notifications sur nos webinaires à venir, inscrivez-vous à l’adresse [Groupe d’utilisateurs Adobe AEM](https://aem-augs.adobe.com/).

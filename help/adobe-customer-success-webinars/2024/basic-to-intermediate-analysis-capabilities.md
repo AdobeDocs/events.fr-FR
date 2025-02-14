@@ -1,6 +1,6 @@
 ---
-title: Démarrage rapide d’Adobe Analytics et de CJA pour les fonctionnalités d’analyse de base à intermédiaire
-description: La session "Quickstart for Basic Intermiddle Analysis Capabilities" (Démarrage rapide pour les capacités d’analyse intermédiaires de base), dirigée par Kirsten Schaffer, a permis de mettre en place de solides capacités d’analyse, une gouvernance et des méthodes d’analyse, de comparer Adobe Analytics et Customer Journey Analytics, de discuter des types d’analyses et de souligner l’importance d’une source unique de vérité pour les rapports de données.
+title: Démarrage rapide Adobe Analytics et CJA pour les fonctionnalités d’analyse de base à intermédiaire
+description: La session a porté sur la configuration des fonctionnalités analytiques, la comparaison entre Adobe Analytics et Customer Journey Analytics, ainsi que sur les fonctionnalités clés des rapports marketing.
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,58 +8,58 @@ doc-type: Event
 duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
+# Adobe Analytics et CJA : démarrage rapide pour les fonctionnalités d’analyse de base à intermédiaire
 
-# Adobe Analytics et CJA : démarrage rapide des fonctionnalités d’analyse de base à intermédiaire
-
-Découvrez comment prendre rapidement en main Adobe Analytics et Customer Journey Analytics (CJA) pour prendre en charge vos activités marketing grâce à des décisions basées sur les données : découvrez comment configurer votre organisation pour des fonctionnalités d’analyse robustes, comprendre à quel moment utiliser au mieux la solution d’analyse et mapper les fonctionnalités Analytics et CJA aux niveaux de maturité d’analyse pour créer des rapports marketing clés.
+Découvrez comment commencer rapidement à utiliser Adobe Analytics et Customer Journey Analytics (CJA) pour prendre en charge vos activités marketing avec des décisions axées sur les données : découvrez comment configurer votre organisation pour obtenir des fonctionnalités analytiques fiables, déterminez quand utiliser au mieux quelle solution d’analyse et mappez les fonctionnalités Analytics et CJA aux niveaux de maturité d’analyse pour créer des rapports marketing essentiels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440933/?learn=on&enablevpops)
 
 ## Points principaux
 
 * **Présentation de la session**
-   * La session est intitulée &quot;Quickstart for Basic Intermediaal Analysis Capabilities&quot; (Démarrage rapide pour les fonctionnalités d’analyse intermédiaires de base) et est dirigée par le Dr Kirsten Schaffer.
-   * La session est en cours d’enregistrement et le lien vers l’enregistrement sera envoyé à tous les participants enregistrés.
+   * La session s&#39;intitule « Démarrage rapide pour les capacités d&#39;analyse intermédiaire de base » et est dirigée par la Dre Kirsten Schaffer.
+   * La session est en cours d&#39;enregistrement et le lien vers l&#39;enregistrement sera envoyé à tous les participants inscrits.
 
-* **Présentation des conférenciers**
+* **Présentation des orateurs**
    * Frederick, responsable principal du succès client chez Adobe, a présenté la session.
-   * Kirsten Schaffer, Ph. D., responsable principal de la réussite client chez Adobe, est le présentateur.
+   * Le Dr Kirsten Schaffer, responsable principale du succès client chez Adobe, est le présentateur.
 
-* **Contenu de session**
-   * La session traite de la configuration d’une organisation pour de puissantes capacités analytiques, des aspects de gouvernance et des chemins d’exécution pour les analyses et l’analyse des parcours client.
-   * Discussions sur le moment où utiliser différentes solutions d’Adobe et recommandations d’Adobe pour les informations numériques.
+* **Contenu de la session**
+   * La session couvre la configuration d’une organisation pour des fonctionnalités analytiques fiables, des aspects de gouvernance et l’exécution de chemins d’accès pour les analyses et l’analyse des parcours client.
+   * Discussion sur le moment d’utiliser différentes solutions Adobe et des recommandations d’Adobe pour les informations numériques.
 
-* **Rubriques clés discutées**
-   * **Forces externes et internes** Impactant l’analyse numérique, y compris les changements du marché, la confidentialité et la gouvernance, la démocratie des données et la complexité des données.
-   * **Construire une base d’analyse robuste** Stratégie de mesure, collecte de données, analyse et analyse, apprentissage, gouvernance des données.
-   * **Configuration d’une équipe d’analyses numériques** Rôles et responsabilités, création d’une équipe hybride et gestion efficace des demandes d’analyse.
-   * **Experience League des options d’activation de l’Adobe**, cours à la demande, cours basés sur les formateurs, assistance communautaire.
+* **Principaux sujets abordés**
+   * **Forces externes et internes** Impact sur l’analyse numérique, y compris les évolutions du marché, la confidentialité et la gouvernance, la démocratie des données et la complexité des données.
+   * **Construire une base analytique solide** Stratégie de mesure, collecte de données, informations et analyse, apprentissage, gouvernance des données.
+   * **Configuration d’une équipe Digital Analytics** Rôles et responsabilités, création d’une équipe hybride et gestion efficace des requêtes Analytics.
+   * **Options d’activation d’Adobe** Experience League, cours à la demande, cours dispensés par des formateurs, assistance de la communauté.
 
 * **Comparaison entre Adobe Analytics et Customer Journey Analytics (CGA)**
-   * Adobe Analytics est la base de l’analyse numérique.
+   * Adobe Analytics est fondamental pour l’analyse numérique.
    * La CGA offre une plus grande flexibilité des données, des contrôles de confidentialité et une faible latence pour l’activation marketing.
    * Les deux solutions peuvent être utilisées simultanément pour prendre en charge différents cas d’utilisation de création de rapports.
 
 * **Types d’analyses**
-   * **Analytics descriptif** Visualisation des données en temps réel, entonnoirs de conversion, attribution simple.
-   * **Analytics de diagnostic** Analyse des causes premières, détection des anomalies, modèles d’attribution complexes.
-   * **Analyses prédictives** : prévision, score de propension, algorithmes avancés pour la prise de décision.
+   * **Analyse descriptive** visualisation des données en temps réel, entonnoirs de conversion, attribution simple.
+   * **Analyse de diagnostic** Analyse des causes premières, détection des anomalies, modèles d’attribution complexes.
+   * **Analytique prédictive** prévision, score de propension, algorithmes avancés pour la prise de décision.
 
-* **Fonctionnalités et cas d’utilisation**
+* **fonctionnalités et cas d’utilisation**
    * **Analyse des conversions et des points de contact** Exploration des données, visualisation, analyse guidée et analyse des séries temporelles.
-   * **Attribution** Modèles d’attribution, analyse d’attribution sur plusieurs onglets et attribution complexe dans la CGA.
-   * **Segmentation et génération d’audiences** Comparaison de segments, analyse d’audiences et publication d’audiences pour l’activation marketing.
-   * **Prévention des perte de clientèle** Analyse des cohortes, analyse des taux de rétention et scores de propension.
+   * **Attribution** Modèles d’attribution, analyse d’attribution entre onglets et attribution complexe dans CGA.
+   * **Segmentation et génération d’audiences** Comparaison des segments, analyse des audiences et audiences de publication pour l’activation marketing.
+   * **Prévention de l’attrition** Analyse de cohortes, analyse du taux de rétention et scores de propension.
 
-* **Questions et réponses**
+* **Faits Saillants Des Questions/Réponses**
    * Explication des composants et des schémas de données statiques.
    * Description des données hors ligne.
-   * Recommendations pour la migration d’Adobe Analytics vers CGA.
-   * Importance de définir une source unique de vérité pour les rapports de données.
+   * Recommandations pour la migration d’Adobe Analytics vers CGA.
+   * Importance de définir une source unique de vérité pour le reporting des données.

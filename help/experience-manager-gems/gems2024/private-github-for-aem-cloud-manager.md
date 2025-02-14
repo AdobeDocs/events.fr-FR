@@ -1,6 +1,6 @@
 ---
 title: Intégration de référentiels GitHub privés dans AEM Cloud Manager
-description: Au cours de ce webinaire GEMs AEM, nous vous montrerons comment tirer le meilleur parti de l’ajout de votre propre référentiel GitHub privé dans Cloud Manager. Nous allons commencer par l’intégration du référentiel, qui vous permettra désormais de lier directement le référentiel GitHub à vos pipelines Cloud Manager, éliminant ainsi la nécessité de synchroniser votre code avec le référentiel Adobe. Nous voulons ensuite montrer comment cette fonctionnalité vous permet de déplacer, à gauche du processus de test, les contrôles de qualité du code Cloud Manager au niveau de la requête de tirage avant que le code ne soit fusionné. Ainsi, en tant que développeur AEM, vous pouvez identifier les problèmes qui ont échoué à votre version Cloud Manager plus tôt dans votre cycle de développement.
+description: Le webinaire AEM GEMs explique comment ajouter un référentiel GitHub privé dans Cloud Manager, le lier directement aux pipelines et effectuer un test avec décalage à gauche pour identifier les problèmes au niveau de la requête d’extraction avant de fusionner le code.
 solution: Experience Manager
 version: Cloud Service
 feature: Developer Tools
@@ -10,29 +10,29 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 4080464c-dbe8-4c8d-ad15-f72d7c89df7c
-source-git-commit: 8191106e64cbfb6337e37c411e56630d59aabe2e
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-# Date du séminaire : 31 juillet 2024
+# Date du webinaire : 31 juillet 2024
 
-Ce webinaire a été terminé - veuillez consulter l&#39;enregistrement ci-dessous.
+Ce webinaire est terminé. Consultez l’enregistrement ci-dessous.
 
 ## Intégration de référentiels GitHub privés dans AEM Cloud Manager
 
-Au cours de ce webinaire GEMs AEM, nous vous montrerons comment tirer le meilleur parti de l’ajout de votre propre référentiel GitHub privé dans Cloud Manager. Nous allons commencer par l’intégration du référentiel, qui vous permettra désormais de lier directement le référentiel GitHub à vos pipelines Cloud Manager, éliminant ainsi la nécessité de synchroniser votre code avec le référentiel Adobe. Nous voulons ensuite montrer comment cette fonctionnalité vous permet de déplacer, à gauche du processus de test, les contrôles de qualité du code Cloud Manager au niveau de la requête de tirage avant que le code ne soit fusionné. Ainsi, en tant que développeur AEM, vous pouvez identifier les problèmes qui ont échoué à votre version Cloud Manager plus tôt dans votre cycle de développement.
+Au cours de ce webinaire AEM GEMS, nous allons vous montrer comment tirer le meilleur parti de l’ajout de votre propre référentiel GitHub privé dans Cloud Manager. Nous allons commencer par l’intégration du référentiel, qui vous permet désormais de lier directement le référentiel GitHub à vos pipelines Cloud Manager, ce qui élimine la nécessité de synchroniser systématiquement votre code avec le référentiel Adobe. Nous voulons ensuite montrer comment cette fonctionnalité vous permet de déplacer votre processus de test vers la gauche, en apportant les contrôles de qualité du code Cloud Manager au niveau de la requête d’extraction avant la fusion du code. Ainsi, en tant que développeur ou développeuse AEM, vous seriez en mesure d’identifier les problèmes qui auraient fait échouer votre version de Cloud Manager plus tôt dans votre cycle de développement.
 
-## Présentateurs
+## Présentateurs et présentatrices
 
-* Dragos Calin, ingénieur de développement logiciel, Adobe
+* Dragos Calin, ingénieur en développement logiciel, Adobe
 
-## Experts de la conversation
+## Spécialistes du chat
 
 * Dan Balescu, directeur technique principal, Adobe
-* Shankari Panchapakesan, chef de produit principal, Adobe
+* Shankari Panchapakesan, chef principal de produit, Adobe
 * Florin Stancu, ingénieur en développement logiciel, Adobe
 
 ## Enregistrement de webinaire
@@ -43,6 +43,6 @@ Au cours de ce webinaire GEMs AEM, nous vous montrerons comment tirer le meilleu
 
 >[!NOTE]
 >
->* Pour des webinaires/des interactions de communauté spécifiques à un sujet sur ce webinaire sur l’Experience League, consultez le [Thread contextuel](https://adobe.ly/4f1jhMo) correspondant.
+>* Pour les interactions de la communauté avec un sujet ou un webinaire sur Experience League, consultez le [thread contextuel](https://adobe.ly/4f1jhMo) correspondant.
 >
->* Pour recevoir des notifications sur nos webinaires à venir, inscrivez-vous au [groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/).
+>* Pour recevoir des notifications sur nos webinaires à venir, inscrivez-vous à l’adresse [Groupe d’utilisateurs Adobe AEM](https://aem-augs.adobe.com/).

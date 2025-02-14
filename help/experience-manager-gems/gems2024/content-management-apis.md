@@ -1,6 +1,6 @@
 ---
 title: AEM GEM - Tirer parti d’AEM Sites - Principal des API de gestion de contenu
-description: Le webinaire sur les API de contenu Adobe Experience Manager (AEM) a présenté de nouvelles API modernisées pour une gestion et une diffusion de contenu améliorées. ​Des intervenants clés, dont Matthias, Catalina, Leonard et Prashant, ont présenté les fonctionnalités de ces API, telles que la gestion de contenu structuré, la diffusion de contenu optimisée et les processus de traduction automatisés. ​Parmi les points forts, citons la nouvelle fonctionnalité de schéma d’interface utilisateur, une meilleure gestion des références, des fonctionnalités de requêtes par lots et une API de diffusion de contenu plus rapide. ​Les participants ont été encouragés à explorer ces API via la documentation destinée aux développeurs d’Adobe et à rejoindre le programme des utilisateurs et utilisatrices précoces pour un accès précoce et un support technique direct.
+description: La session AEM GEMs explore les modèles API-first dans AEM Sites, couvrant les normes OpenAPI avancées, les événements et les webhooks, ainsi que les nouvelles API REST pour l'automatisation de la traduction, avec des informations provenant d'experts Adobe.
 solution: Experience Manager
 version: Cloud Service
 feature: Edge Delivery Services
@@ -12,14 +12,14 @@ duration: 3325
 last-substantial-update: 2024-10-10T00:00:00Z
 jira: KT-16327
 exl-id: 9137dbbd-4e23-4a59-9f9c-d2702b56d70d
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
 
-# GEM AEM - Tirer parti d’AEM Sites : Principal des API de gestion de contenu
+# AEM GEM - Tirer parti d’AEM Sites : effectuer des Principal sur les API de gestion de contenu
 
 Les méthodes d’utilisation d’AEM Sites évoluent rapidement, ajoutant des modèles API-First aux interactions utilisateur traditionnelles. Que vous cherchiez à rationaliser vos opérations ou à améliorer votre automatisation, il est essentiel de garder une longueur d&#39;avance sur ces tendances. Rejoignez-nous pour une session approfondie au cours de laquelle nous découvrirons les mises à jour de pointe d’AEM Sites et comment elles peuvent renforcer votre stratégie de gestion de contenu.
 
@@ -32,13 +32,13 @@ Au cours de cette session, vous découvrirez :
 ## Présentateurs et présentatrices
 
 * Mathias Siegel, chef principal de produit, Adobe
-* Catalina Dumitru, ingénieure en développement logiciel, Adobe
+* Catalina Dumitru, ingénieure de développement logiciel, Adobe
 * Lénárd Palkó, ingénieur principal de développement logiciel, Adobe
 * Prashant Kumar Singh, informaticien, Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435036/?learn=on)
 
-Vous avez une question, peut-être un commentaire?  Rejoignez la discussion dans les [communautés Experience League ](https://adobe.ly/4e34grR) !
+Vous avez une question, peut-être un commentaire?  Rejoignez la discussion dans les [communautés Experience League](https://adobe.ly/4e34grR) !
 
 ## Principaux points à retenir
 
@@ -64,4 +64,4 @@ Vous avez une question, peut-être un commentaire?  Rejoignez la discussion dans
 
 ## Restez informé !
 
-Pour recevoir des notifications sur nos webinaires à venir, inscrivez-vous au Groupe d’utilisateurs AEM de [Adobe ](https://aem-augs.adobe.com/).
+Pour recevoir des notifications sur nos webinaires à venir, inscrivez-vous à l’adresse [Groupe d’utilisateurs Adobe AEM](https://aem-augs.adobe.com/).
