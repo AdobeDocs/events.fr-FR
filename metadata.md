@@ -2,14 +2,14 @@
 cloud: Experience Cloud
 solution: Experience Cloud
 product: experience cloud
-feature-set: Acrobat Services, Advertising, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, Document Cloud, Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience Platform, Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront
-description: Collection d’enregistrements des événements en direct de l’Adobe.
+feature-set: Acrobat Services, Advertising, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, Document Cloud, Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience Platform, Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront, Target
+description: Collection d’enregistrements des événements diffusés en direct Adobe.
 type: Event
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/events.fr-FR
 index: true
 auto-video-transcripts: true
-source-git-commit: d2e6829590d4243409652b16b13c8da253df62a5
+source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 85%
