@@ -1,6 +1,6 @@
 ---
-title: Événements EN DIRECT Experience League
-description: Collection de liens vers les événements LIVE Experience League précédents
+title: Événements Experience League LIVE
+description: Collection de liens vers les événements Experience League LIVE précédents
 solution: Experience Platform,Real-Time Customer Data Platform,Journey Optimizer,Experience Manager,Target,Audience Manager,Analytics
 feature: Use Cases
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: 6201fd942b87ec5e094a90c314d30dcb38a2b278
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 4%
@@ -17,22 +17,22 @@ ht-degree: 4%
 
 # Experience League LIVE
 
-Experience League LIVE est une émission produite par l&#39;équipe Experience League et diffusée en direct.  Elle offre l’occasion de communiquer avec des experts en produits Adobes et de découvrir des conseils pratiques, des astuces et des stratégies que vous pouvez appliquer aux applications Adobe Experience Cloud.
+Experience League LIVE est une émission produite par l’équipe d’Experience League et diffusée en direct.  Elle vous offre la possibilité de communiquer avec des experts en produits Adobe et de découvrir des conseils pratiques, des astuces et des stratégies que vous pouvez appliquer aux applications Adobe Experience Cloud.
 
 <div id="upcoming-events">
 
-## Événements LIVE Experience League à venir
+## Événements Experience League LIVE à venir
 
 <table>
 <tr>
 <td style="vertical-align: top;"><a href="episodes/exl-live-episode-02-27-25.md">
-      <img alt="Experience League EN DIRECT le 27 février" src="episodes/assets/WebBanner-02-27-25.jpg">
+      <img alt="Experience League LIVE, 27 février" src="episodes/assets/WebBanner-Feb-27-2025.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-02-27-25.md">
         <strong>Déverrouillage des informations opérationnelles avec l’assistant AI dans Adobe Experience Platform</strong>
       </a>
-      <br/><em>avec Rudi Shumpert, Namita Krishnan et Huong Vu</em>
+      <br/><em>avec Daniel Wright, Namita Krishnan et Huong Vu</em>
       <br/><em>27 février 2025</em>
     </div>
   </td>
@@ -59,7 +59,7 @@ Experience League LIVE est une émission produite par l&#39;équipe Experience L
 
 <tr>
   <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-26-24.md">
-      <img alt="Experience League EN DIRECT le 21 avril" src="episodes/assets/WebBanner-June26-2024.jpg">
+      <img alt="Experience League LIVE - Avr 21" src="episodes/assets/WebBanner-June26-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-06-26-24.md">
@@ -83,7 +83,7 @@ Experience League LIVE est une émission produite par l&#39;équipe Experience L
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
-      <img alt="Experience League EN DIRECT le 26 mai" src="episodes/assets/WebBanner-Apr24-2024.jpg">
+      <img alt="Experience League LIVE 26 mai" src="episodes/assets/WebBanner-Apr24-2024.jpg">
     </a>
     <div>
       <a href="episodes/exl-live-episode-04-24-24.md">
