@@ -8,7 +8,7 @@ event-cta-url-live: https://www.youtube.com/live/fGgFwAOZle8
 event-start-time: 2025-02-27 08:30-8
 event-guests: Daniel Wright, Rudi Shumpert, Namita Krishnan, Huong Vu
 exl-id: d04e52e5-b6d0-4f9a-b6e6-f78e8f8cb7d0
-source-git-commit: 356cf28cdd2e8d6731ce58b4ae98267a73990582
+source-git-commit: ad5d6132b2d7f522c2c7b87406f685afe7214342
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -27,4 +27,4 @@ Au cours de cette session, vous découvrirez :
 
 [![ExL LIVE 27 février 2025](assets/WebBanner-Feb-27-2025.png)](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-**Cliquez sur l’image pour définir un rappel Youtube !**
+**Cliquez sur l’image pour vous inscrire à l’événement !**
