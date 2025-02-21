@@ -2,9 +2,9 @@
 user-guide-title: Webinaires sur le succès client Adobe
 breadcrumb-title: Webinaires sur le succès client Adobe
 user-guide-description: Webinaires dirigés par la réussite client Adobe conçus pour vous aider à optimiser votre investissement dans Adobe Experience Cloud. Obtenez des informations précieuses afin d’optimiser la valeur et d’accroître l’adoption des solutions Adobe.
-source-git-commit: 2cf84ad56c96ca9e1355aa50e60d3f15124fc5bc
+source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,19 @@ ht-degree: 0%
 + [Webinaires sur le succès client Adobe](overview.md)
 + {#2025} 2025
    + [Informations numériques Adobe](2025/adobe-digital-insights.md)
+   + [Intégration d’AEM et de Workfront](2025/aem-workfront-integration.md)
    + [Création de pages web efficaces](2025/build-effective-web-pages.md)
    + [Bases de la chaîne d’approvisionnement du contenu](2025/content-supply-chain-basics.md)
    + [Élaboration de stratégies pour une mesure efficace](2025/impactful-insights.md)
+   + [Cultiver une organisation marketing agile](2025/agile-marketing-organization.md)
+   + [Distiller de données 101](2025/data-distiller-101.md)
    + [Stimuler l’engagement client](2025/driving-customer-engagement.md)
    + [Amélioration des programmes de fidélité par le biais de Personalization et des données](2025/enhance-loyalty-programs.md)
    + [Amélioration de Personalization](2025/enhancing-personalization.md)
+   + [Expérimentation GenAI](2025/gen-ai-experimentation.md)
    + [Modèle d’exploitation GenStudio for Performance Marketing](2025/genstudio-for-performance-marketing-operating-model.md)
    + [Maîtriser la logique séquentielle](2025/mastering-sequential-logic.md)
+   + [Optimiser les performances d’AEM](2025/optimize-aem-performance.md)
 + 2024 {#2024}
    + [Adobe Journey Optimizer Essentials](2024/ajo-essentials.md)
    + [Personalization piloté par l’IA d’Adobe Target](2024/ai-personalization.md)
