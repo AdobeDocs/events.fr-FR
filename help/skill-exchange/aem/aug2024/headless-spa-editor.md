@@ -1,6 +1,6 @@
 ---
-title: Déverrouiller la puissance de la SPA moderne dans AEM - Approches de l’éditeur Principal et sans tête
-description: Présentation des principes de base des applications d’une seule page Exploration de l’AEM sans interface et de son intégration avec des structures frontales Utilisation de l’AEM Éditeur pour un processus de développement simplifié Bonnes pratiques pour la création, le déploiement et la gestion de  dans AEMDne manquez pas cette occasion d’obtenir des informations d’un expert et d’élever votre stratégie numérique avec des techniques de  modernes dans."
+title: 'Tirer parti de la puissance des SPA modernes dans AEM : approches Principal découplé et éditeur de SPA'
+description: Comprendre les principes de base des applications sur une seule page Explorer AEM découplé et son intégration aux structures front-end Utiliser l’éditeur de SPA d’AEM pour un processus de développement rationalisé Les bonnes pratiques pour la création, le déploiement et la gestion des SPA dans AEM ne manquez pas cette occasion d’obtenir des informations d’un expert et d’améliorer votre stratégie numérique à l’aide des techniques de SPA modernes d’AEM. »
 solution: Experience Manager
 role: Developer, User
 level: Intermediate, Experienced
@@ -8,25 +8,26 @@ doc-type: Event
 duration: 2802
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16095
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+exl-id: 7c9fbc23-b458-4d9c-ab38-0c9b032eb704
+hidefromtoc: true
+source-git-commit: b846c1d38ce66dd6d4223d44964eebf1ccc7144c
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
+# Tirer parti de la puissance des SPA modernes dans AEM : approches Principal découplé et éditeur de SPA
 
-# Déverrouiller la puissance de la SPA moderne dans AEM : Principal sans affichage et approches de l’éditeur de l’éditeur de l’analyse de la SPA
-
-À mesure que la demande d’expériences numériques dynamiques et réactives augmente, la création d’applications d’une seule page (SPA) est devenue essentielle. Cette session abordera les approches clés de la création de SPA, y compris les méthodologies d’éditeur sans tête et SPA. Découvrez comment tirer parti d’AEM pour créer des applications interactives et transparentes qui améliorent l’engagement et l’expérience des utilisateurs.
+À mesure que la demande d’expériences digitales dynamiques et réactives augmente, la création d’applications d’une seule page (SPA) est devenue essentielle. Cette session présente les principales approches de création de SPA, y compris les méthodologies découplées et d’éditeur de SPA. Découvrez comment tirer parti d’AEM pour créer des applications interactives transparentes qui améliorent l’interaction et l’expérience des utilisateurs.
 
 ## Sujets
 
-* Présentation des principes de base des applications d’une seule page
-* Exploration de l’AEM sans tête et de son intégration aux structures frontales
-* Utilisation de l’éditeur SPA d’AEM pour un processus de développement simplifié
-* Bonnes pratiques pour la création, le déploiement et la gestion des SPA dans AEM
+* Comprendre les principes de base des applications monopages
+* Exploration d’AEM découplé et de son intégration aux structures front-end
+* Utilisation de l’éditeur de SPA d’AEM pour un processus de développement rationalisé
+* Bonnes pratiques relatives à la création, au déploiement et à la gestion des SPA dans AEM
 
-Ne manquez pas cette occasion d’obtenir des informations d’un expert et d’élever votre stratégie numérique avec des techniques SPA modernes dans AEM.&quot;
+Ne manquez pas cette occasion d’obtenir des informations d’un expert et d’améliorer votre stratégie numérique à l’aide des techniques SPA modernes d’AEM. »
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433168/?learn=on)
