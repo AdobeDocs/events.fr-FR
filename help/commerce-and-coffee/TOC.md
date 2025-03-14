@@ -1,11 +1,11 @@
 ---
-user-guide-title: Événements Commerce et Café
-breadcrumb-title: Événements Commerce et Café
-user-guide-description: Adobe Commerce and Coffee est une bibliothèque vidéo où experts et pairs ont partagé leurs réflexions et idées sur l’utilisation d’Adobe Commerce.
-source-git-commit: 1e328fb4db0a3ba6988beb4922d67d585d01e43a
+user-guide-title: Événements Commerce et Coffee
+breadcrumb-title: Événements Commerce et Coffee
+user-guide-description: Adobe Commerce and Coffee est une vidéothèque où des experts et des pairs ont partagé leurs pensées et leurs idées sur l’utilisation d’Adobe Commerce.
+source-git-commit: 93f42aa274bbe58b7996eb09582cb353b1b347f4
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 5%
+source-wordcount: '95'
+ht-degree: 6%
 
 ---
 
@@ -13,24 +13,26 @@ ht-degree: 5%
 # Commerce et café {#commerce-and-coffee-recordings}
 
 + [Vue d’ensemble](overview.md)
++ 2025 {#2025}
+   + [Libre-service dans B2B](2025/self-service-b2b.md)
 + 2024 {#2024}
-   + [Me demander tout](2024/ask-me-anything.md)
-   + [Principes élémentaires d’e-commerce](2024/ecommerce-essentials.md)
-   + [Préparation de la saison du pic](2024/peak-season-prep.md)
-   + [Personnalisation des expériences eCommerce avec l’IA](2024/personalize-ecommerce.md)
-   + [Stratégies pour le commerce électronique B2B](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
+   + [Demander n&#39;importe quoi](2024/ask-me-anything.md)
+   + [Ecommerce Essentials](2024/ecommerce-essentials.md)
+   + [Préparation de la haute saison](2024/peak-season-prep.md)
+   + [Personnaliser des expériences eCommerce avec l’IA](2024/personalize-ecommerce.md)
+   + [Stratégies pour le e-commerce B2B](2024/commerce-and-coffee-strategies-for-b2b-ecommerce.md)
 + 2023 {#2023}
-   + [Me demander tout](2023/ask-me-anything.md)
-   + [Préparation de la saison du pic](2023/peak-season-prep.md)
-   + [Croissance organique](2023/organic-growth.md)
-   + [7 méthodes de création de fidélité et de rétention des clients](2023/loyalty-retention.md)
-   + [Optimisation du succès B2B](2023/b2b.md)
+   + [Demander n&#39;importe quoi](2023/ask-me-anything.md)
+   + [Préparation de la haute saison](2023/peak-season-prep.md)
+   + [Croissance Organique](2023/organic-growth.md)
+   + [7 méthodes pour fidéliser et fidéliser les clients](2023/loyalty-retention.md)
+   + [Optimiser le succès B2B](2023/b2b.md)
 + 2022 {#2022}
    + [IA et automatisation](2022/ai-and-automation.md)
-   + [Tendances du Commerce électronique](2022/ecommerce-trends.md)
-   + [Rétrospective des vacances](2022/holiday.md)
-   + [Préparation de la saison du pic](2022/peak-season-prep.md)
-   + [Saison de pointe - Me demander quoi que ce soit](2022/peak-season-ask-anything.md)
+   + [Tendances E-Commerce](2022/ecommerce-trends.md)
+   + [Rétrospective des fêtes](2022/holiday.md)
+   + [Préparation de la haute saison](2022/peak-season-prep.md)
+   + [Haute Saison Demandez-Moi Quelque Chose](2022/peak-season-ask-anything.md)
    + [Personnalisation](2022/personalization.md)
 
 <!--+ Commerce Events {#commerce-events}
