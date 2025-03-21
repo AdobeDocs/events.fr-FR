@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 98c81f4400d80ca7991c9df94c3fa400600391c8
+source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 4%
 
 ---
@@ -25,10 +25,18 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 <table>
 <tr>
-<td>
-  Revenez sur cette page bientôt pour d’autres spectacles à venir !
+<td style="vertical-align: top;"><a href="episodes/exl-live-episode-04-10-25.md">
+      <img alt="Experience League LIVE - Avr 10" src="episodes/assets/WebBanner_Apr10_2025.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-04-10-25.md">
+        <strong>N'attendez pas... collaborez ! Présentation de Real-Time CDP Collaboration</strong>
+      </a>
+      <br/><em>avec Nina Caruso, Clayton Smith et Doug Moore</em>
+      <br/><em>10 avril 2025</em>
+    </div>
   </td>
-</tr>
+  </tr>
 </table>
 
 </div>

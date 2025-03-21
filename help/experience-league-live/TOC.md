@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 9e51315ba71324cc9990b5413a80d194839be5db
+source-git-commit: aab3785f25043242f8eccb11e304bab7e2ab7804
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '514'
 ht-degree: 4%
 
 ---
@@ -21,10 +21,11 @@ ht-degree: 4%
 
 + [Vue d’ensemble](overview.md)
 + {#episodes} des épisodes
+   + [Ep. 45 : N&#39;attendez pas... collaborez ! Présentation de Real-Time CDP Collaboration](episodes/exl-live-episode-04-10-25.md)
    + [Ep. 44 : Déverrouiller des informations opérationnelles avec l’assistant AI dans Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43 : Présentation de l’assistant AI pour les audiences pour les professionnels du marketing dans Real-Time CDP](episodes/exl-live-episode-11-13-24.md)
    + [Ep. 42 : Dévoilement de cartes de contenu pour Adobe Journey Optimizer](episodes/exl-live-episode-10-30-24.md)
-   + [Ep. 41 : harmonisation des audiences à l’aide de la composition d’audiences fédérées dans l’Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
+   + [Ep. 41 : harmonisation des audiences à l’aide de la composition d’audiences fédérées dans Experience Platform](episodes/exl-live-episode-40-2024-10-24.md)
    + [Ep. 40 : Bash IA - Libérer la puissance de l’assistant IA dans les applications et les campagnes Adobe Experience Platform](episodes/exl-live-episode-09-26-24.md)
    + [Ep. 39 : Êtes-vous prêt à mettre à niveau votre application mobile d’analyse ?](episodes/exl-live-episode-09-18-24.md)
    + [Ep. 38 : Summer Spotlight - Trois fonctionnalités incontournables de Adobe Journey Optimizer](episodes/exl-live-episode-08-28-24.md)
@@ -34,7 +35,7 @@ ht-degree: 4%
    + [Ep. 34 : Marketo Measure - Nouveaux tableaux de bord Discover](episodes/exl-live-episode-04-18-24.md)
    + [Ep. 33 : Avancer avec la nouvelle interface utilisateur d’Adobe Campaign v8](episodes/exl-live-episode-02-29-24.md)
    + [Ep. 32 : Playbooks de cas d’utilisation, modèles en libre-service pour déployer des cas d’utilisation en quelques clics](episodes/exl-live-episode-02-08-24.md)
-   + [Ep. 31 : Mise en Customer Journey Analytics de vos données et analyses Adobe Analytics](episodes/exl-live-episode-01-17-24.md)
+   + [Ep. 31 : Importer vos données et analyses Adobe Analytics dans Customer Journey Analytics](episodes/exl-live-episode-01-17-24.md)
    + [Ep. 30 : compte à rebours jusqu’en 2024 avec les 5 principales nouvelles fonctionnalités d’Adobe Real-Time CDP](episodes/exl-live-episode-12-14-23.md)
    + [Ep. 29 : Tirez le meilleur parti de vos données d’événement comportemental dans Real-Time CDP et AJO.](episodes/exl-live-episode-11-14-23.md)
    + [Ep. 28 : Séance d’immersion sur la version de Workfront - nouvelle page d’accueil de Workfront](episodes/exl-live-episode-10-26-23.md)
@@ -56,7 +57,7 @@ ht-degree: 4%
    + [Ep. 12 : Notifications push avec Journey Optimizer](episodes/exl-live-episode-05-12-22.md)
    + [Ep. 11 : AAM et Real-time CDP - Comment gérer toutes ces audiences ?](episodes/exl-live-episode-04-28-22.md)
    + [Ep. 10 : AEM de Headfull à Headless (et pas que)](episodes/exl-live-episode-04-21-22.md)
-   + [Ep. 9 : Présentation de toutes les nouvelles démonstrations de référence dans AEM](episodes/exl-live-episode-02-03-22.md)
+   + [Ep. 9 : présentation de toutes les nouvelles démonstrations de référence dans AEM](episodes/exl-live-episode-02-03-22.md)
    + [Ep. 8 : Customer Journey Analytics : Le Scoop intérieur](episodes/exl-live-episode-08.md)
    + [Ep. 7 : Extension d’AEM avec Adobe App Builder](episodes/exl-live-episode-07.md)
    + [Ep. 6 : Mesurez les personnes plutôt que les appareils](episodes/exl-live-episode-06.md)
@@ -64,5 +65,5 @@ ht-degree: 4%
    + [Ep. 4 : Qui a cliqué là-dessus ? Et que sʼest-il passé ensuite ?](episodes/exl-live-episode-04.md)
    + [Ep. 3 : Conseils d’experts pour que vos campagnes de vacances se démarquent](episodes/exl-live-episode-03.md)
    + [Ep. 2 : Rendez votre prochain segment ciblé plus intelligent que jamais](episodes/exl-live-episode-02.md)
-   + [Ep. 1 : Mes trois Adobes favoris [!DNL Analytics] Conseils de mise en œuvre](episodes/exl-live-episode-01.md)
-+ [ASSETS EN DIRECT EXPERIENCE LEAGUE](exl-live-assets.md)
+   + [Ep. 1 : Mes trois meilleurs conseils de mise  [!DNL Analytics]  œuvre d’Adobe](episodes/exl-live-episode-01.md)
++ [EXPERIENCE LEAGUE LIVE ASSETS](exl-live-assets.md)
