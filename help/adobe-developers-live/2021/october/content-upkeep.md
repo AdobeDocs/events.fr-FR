@@ -1,26 +1,26 @@
 ---
-title: Maintenance du contenu
-description: Démontrez les fonctionnalités disponibles dans la suite d’outils de modernisation de Adobe Experience Manager. Découvrez comment les équipes de développement peuvent l’utiliser pour consolider, convertir ou mettre à niveau du contenu afin de réduire la charge sur les auteurs à mesure que la bibliothèque de composants évolue.
+title: Gestion de contenu
+description: Montrez les fonctionnalités disponibles dans la suite d’outils de modernisation de Adobe Experience Manager. Découvrez comment les équipes de développement peuvent l’utiliser pour consolider, convertir ou mettre à niveau le contenu afin de réduire la charge des auteurs à mesure que la bibliothèque de composants évolue.
 solution: Experience Manager
 role: User
 level: Beginner
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9135
 type: Event
 exl-id: da237121-7d66-49fc-864f-6132e3936fed
 duration: 1843
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 12%
 
 ---
 
-# Maintenance du contenu
+# Gestion de contenu
 
-Démontrez les fonctionnalités disponibles dans la suite d’outils de modernisation de Adobe Experience Manager. Découvrez comment les équipes de développement peuvent l’utiliser pour consolider, convertir ou mettre à niveau du contenu afin de réduire la charge sur les auteurs à mesure que la bibliothèque de composants évolue.
+Montrez les fonctionnalités disponibles dans la suite d’outils de modernisation de Adobe Experience Manager. Découvrez comment les équipes de développement peuvent l’utiliser pour consolider, convertir ou mettre à niveau le contenu afin de réduire la charge des auteurs à mesure que la bibliothèque de composants évolue.
 
-Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3zJuUBH)**.
+Poursuivez la conversation dans **[Experience League Communities](https://adobe.ly/3zJuUBH)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337577/?quality=12&learn=on&hidetitle=true)
 

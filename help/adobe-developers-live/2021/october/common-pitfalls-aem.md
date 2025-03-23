@@ -1,28 +1,28 @@
 ---
-title: Histoires de première ligne - comment éviter les pièges courants dans les systèmes de CS Experience Manager
-description: Apprenez des erreurs les plus courantes que les autres ont faites pour que vous puissiez les éviter vous-même ! Au cours de cette session, nous examinerons certains des problèmes courants que nos ingénieurs de l’assistance et de l’assistance ont identifiés et discuterons des bonnes pratiques pour vous assurer que vous pouvez les éviter dans votre propre mise en oeuvre Adobe Experience Manager as a Cloud Service.
+title: 'Témoignages en première ligne : comment éviter les pièges courants dans Experience Manager CS'
+description: Apprenez des erreurs les plus courantes que d'autres ont commises afin que vous puissiez les éviter vous-même ! Au cours de cette session, nous allons examiner certains des problèmes courants rencontrés par nos ingénieurs d’appel et d’assistance et discuter des bonnes pratiques pour vous assurer que vous pouvez éviter ces problèmes dans votre propre mise en œuvre d’Adobe Experience Manager as a Cloud Service.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9179
 type: Event
 exl-id: a96e31ec-8079-412f-818c-ebf82b512bbd
 duration: 1889
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 7%
 
 ---
 
-# Histoires de première ligne - comment éviter les pièges courants dans les systèmes de CS Experience Manager
+# Témoignages en première ligne : comment éviter les pièges courants dans Experience Manager CS
 
-Apprenez des erreurs les plus courantes que les autres ont faites pour que vous puissiez les éviter vous-même ! Au cours de cette session, nous examinerons certains des problèmes courants que nos ingénieurs de l’assistance et de l’assistance ont identifiés et discuterons des bonnes pratiques pour vous assurer que vous pouvez les éviter dans votre propre mise en oeuvre Adobe Experience Manager as a Cloud Service.
+Apprenez des erreurs les plus courantes que d&#39;autres ont commises afin que vous puissiez les éviter vous-même ! Au cours de cette session, nous allons examiner certains des problèmes courants rencontrés par nos ingénieurs d’appel et d’assistance et discuter des bonnes pratiques pour vous assurer que vous pouvez éviter ces problèmes dans votre propre mise en œuvre d’Adobe Experience Manager as a Cloud Service.
 
-Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3kLQK3j)**.
+Poursuivez la conversation dans **[Experience League Communities](https://adobe.ly/3kLQK3j)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337852/?quality=12&learn=on&hidetitle=true)
 

@@ -2,7 +2,7 @@
 title: 'Efficacité d’AEM Sites : optimisation des performances, configuration et dépannage'
 description: Le webinaire sur l’efficacité des sites AMP a porté sur l’optimisation des performances, la configuration du Dispatcher, les bonnes pratiques de gestion des droits et les stratégies permettant de résoudre les problèmes de performances.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -10,7 +10,7 @@ duration: 3452
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16353
 exl-id: 55f7c1d8-7c2c-4392-894a-2aa9b3cc0e4a
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%

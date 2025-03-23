@@ -1,8 +1,8 @@
 ---
-title: Masquage du contenu et des fragments d’expérience
-description: Révolutionnez la manière dont vous créez du contenu et déverrouillez tout son potentiel grâce à ce webinaire sur la convivialité du contenu.
+title: Maîtriser le contenu et les fragments d’expérience
+description: Révolutionnez la façon dont vous créez du contenu et libérez son plein potentiel avec ce webinaire sur la réutilisation du contenu.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Assets, Experience Manager Sites
 feature: Content Fragments, Experience Fragments, Learn From Your Peers
 topic: Content Management
@@ -15,25 +15,25 @@ thumbnail: 3419557.jpeg
 event-start-time: 2023-5-16 08:30-8
 exl-id: 13aa3a2f-0a66-4bb2-92c5-93da0f2e62fb
 duration: 3560
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
-# Webinaire sur la gestion du contenu et des fragments d’expérience à la demande
+# Webinaire À La Demande Maîtriser Le Contenu Et Les Fragments D’Expérience
 
-Révolutionnez la manière dont vous créez du contenu et déverrouillez tout son potentiel grâce à ce webinaire sur la convivialité du contenu. Au cours de cette session, nous allons approfondir les fonctionnalités de contenu et de mise en page de création de pages en apprenant à combiner et à utiliser des fragments de contenu et des fragments d’expérience comme blocs de construction pour atteindre vos objectifs de contenu stratégique.
+Révolutionnez la façon dont vous créez du contenu et libérez son plein potentiel avec ce webinaire sur la réutilisation du contenu. Au cours de cette session, nous aborderons en détail la création de pages et les fonctionnalités de mise en page en apprenant à combiner et à utiliser des fragments de contenu et des fragments d’expérience en tant que blocs de création pour atteindre vos objectifs stratégiques de contenu.
 
-Rejoignez le champion Adobe Experience Manager, Greg Dimeris, en expliquant comment élaborer une stratégie de contenu évolutive qui s’adaptera à votre activité.
+Rejoignez Greg Dimeris, champion de Adobe Experience Manager, qui explique comment créer une stratégie de contenu évolutive qui évoluera en même temps que votre entreprise.
 
-Au cours de cette session, vous allez apprendre :
+Au cours de cette session, vous apprendrez :
 
 * Bonnes pratiques relatives aux fragments de contenu et d’expérience
-* Conseils et astuces sur les modèles modifiables
-* Regroupement des éléments pour créer des blocs de création de contenu puissants
+* Conseils et astuces concernant les modèles modifiables
+* Les rassembler pour créer de puissants blocs de création de contenu
 
-Vous pouvez accéder aux diapositives de présentation [ici](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
+Vous pouvez accéder aux diapositives de la présentation [ici](../../assets/experience-manager/may2023/mastering-content-and-experience-fragments/AEM_Content_fragments_and_Experience_Fragments_Webinar_Session_Final.pdf).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419557/?learn=on)

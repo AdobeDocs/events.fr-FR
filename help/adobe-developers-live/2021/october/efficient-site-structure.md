@@ -1,28 +1,28 @@
 ---
-title: Structure de sites efficace - Amélioration des performances
-description: Présentation détaillée de certaines des bonnes pratiques pour les développeurs concernant les copies de langue, les Live Copies et les opérations de déplacement ou de copie encombrantes.
+title: Structure de sites efficace - Performances améliorées
+description: Présentation détaillée de certaines des bonnes pratiques à appliquer par les développeurs et développeuses lorsqu’ils traitent des copies de langue, des Live Copies et des opérations de déplacement ou de copie volumineuses.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Beginner, Intermediate, Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9182
 type: Event
 exl-id: 89fe9e3d-6202-4112-a9ef-9ccc1cc2a475
 duration: 1165
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 15%
 
 ---
 
-# Structure de sites efficace - Amélioration des performances
+# Structure de sites efficace - Performances améliorées
 
-Présentation détaillée de certaines des bonnes pratiques pour les développeurs concernant les copies de langue, les Live Copies et les opérations de déplacement ou de copie encombrantes.
+Présentation détaillée de certaines des bonnes pratiques à appliquer par les développeurs et développeuses lorsqu’ils traitent des copies de langue, des Live Copies et des opérations de déplacement ou de copie volumineuses.
 
-Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/39DoIQT)**.
+Poursuivez la conversation dans **[Experience League Communities](https://adobe.ly/39DoIQT)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337723/?quality=12&learn=on&hidetitle=true)
 

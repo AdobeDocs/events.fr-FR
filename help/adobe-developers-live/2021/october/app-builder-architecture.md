@@ -1,28 +1,28 @@
 ---
-title: Architecture d’App Builder et exploration approfondie technique
-description: En savoir plus sur App Builder à mesure que nous parcourons l’architecture des applications App Builder qui étendent Adobe Experience Manager.
+title: Exploration approfondie de l’architecture et de la technique App Builder
+description: Apprenez-en davantage sur App Builder en parcourant l’architecture d’application des applications App Builder qui étendent Adobe Experience Manager.
 solution: Experience Manager
 feature: Developer Tools
 topic: Development
 role: Developer, Architect
 level: Experienced
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 kt: 9214
 type: Event
 exl-id: c49d6c31-1b37-4c02-aa48-0dfd7362e628
 duration: 2093
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 16%
 
 ---
 
-# Architecture d’App Builder et exploration approfondie technique
+# Exploration approfondie de l’architecture et de la technique App Builder
 
-En savoir plus sur App Builder à mesure que nous parcourons l’architecture des applications App Builder qui étendent Adobe Experience Manager.
+Apprenez-en davantage sur App Builder en parcourant l’architecture d’application des applications App Builder qui étendent Adobe Experience Manager.
 
-Poursuivez la conversation dans **[Communautés Experience League](https://adobe.ly/3uragoI)**.
+Poursuivez la conversation dans **[Experience League Communities](https://adobe.ly/3uragoI)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337709/?quality=12&learn=on&hidetitle=true)
 

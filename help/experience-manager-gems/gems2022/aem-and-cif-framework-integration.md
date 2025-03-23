@@ -1,9 +1,9 @@
 ---
-title: Intégrer la structure AEM et CIF pour créer une expérience de commerce électronique riche et immersive
+title: Intégrer le framework AEM et CIF pour créer une expérience d’e-commerce riche et immersive
 description: Découvrez comment le framework CIF d’Adobe peut être utilisé pour créer une expérience commerciale cohérente, riche en contenu et immersive.
 solution: Experience Manager
 feature-set: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Integrations
 topic: Integrations
 role: User
@@ -11,38 +11,38 @@ level: Intermediate
 kt: 10220
 exl-id: 3f893f4f-8d4e-4877-9520-8d2012eb724a
 duration: 3561
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 9%
 
 ---
 
-# Intégrer la structure AEM et CIF pour créer une expérience de commerce électronique riche et immersive
+# Intégrer le framework AEM et CIF pour créer une expérience d’e-commerce riche et immersive
 
-Ce webinaire GEM AEM comprend une présentation et une démonstration pour vous aider à comprendre comment la structure CIF de l’Adobe peut être utilisée pour créer une expérience commerciale cohérente, riche en contenu et immersive. L’Experience Manager et Adobe Commerce sont intégrés de manière transparente à l’aide du Commerce integration framework (CIF). CIF permet à AEM d’accéder directement à l’instance de commerce et de communiquer avec celle-ci à l’aide des API GraphQL Adobe Commerce (consultez le programme général ci-dessous).
+Ce webinaire AEM GEMS comprend une présentation et une démonstration pour vous aider à comprendre comment le framework d’Adobe CIF peut être utilisé pour créer une expérience commerciale cohérente, riche en contenu et immersive. Experience Manager et Adobe Commerce sont intégrés de manière transparente à l’aide de Commerce integration framework (CIF). CIF permet à AEM d’accéder directement à l’instance de commerce et de communiquer avec elle à l’aide des API GraphQL Adobe Commerce (consultez le programme de haut niveau ci-dessous).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
-Ce webinaire a été organisé le 27 avril 2022 et présenté par Kunal Gaba &amp; Vinay Kumar, tous deux architectes techniques de l&#39;Adobe.
+Ce webinaire a été organisé le 27 avril 2022 et présenté par Kunal Gaba et Vinay Kumar, tous deux architectes techniques chez Adobe.
 
 >[!MORELIKETHIS]
 >
 >* [Page Événement de groupe d’utilisateurs Adobe Experience Manager correspondant](https://adobe.ly/3O0uXl5/)
 >* [Thread contextuel correspondant](https://adobe.ly/3jorz5r)
->* Inscrivez-vous au [groupe d’utilisateurs AEM d’Adobe](https://aem-augs.adobe.com/) pour être averti des webinaires à venir.
+>* Inscrivez-vous au [Groupe d’utilisateurs Adobe AEM](https://aem-augs.adobe.com/) pour être averti des webinaires à venir.
 
 **Programme de haut niveau :**
 
-* Qu&#39;est-ce CIF et pourquoi utiliser CIF ?
+* Qu’est-ce que CIF et pourquoi utiliser CIF ?
 
-* CIF types d’intégration et comment utiliser CIF avec les 
+* Types d’intégration de CIF et utilisation de CIF avec AEM
 
 * Bibliothèque de composants CIF
 
-   * AEM CIF composants principaux
+   * Composants principaux d’AEM CIF
 
-   * Composants réactifs de la bibliothèque PWA Studio
+   * Composants react de la bibliothèque PWA studio
 
 * Considérations relatives à la configuration multi-marque et multi-magasin
 

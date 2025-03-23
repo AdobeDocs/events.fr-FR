@@ -2,7 +2,7 @@
 title: Prise en main de Edge Delivery Services pour AEM Forms
 description: Découvrez comment créer et publier des AEM Forms à l’aide de Edge Delivery Services, dans les domaines de la création basée sur des documents et sur AEM, de la configuration de projet pour la personnalisation et de l’utilisation d’AEM Forms as a Cloud Service pour le traitement back-end.
 solution: Experience Manager
-version: Cloud Service
+version: Experience Manager as a Cloud Service
 feature: Edge Delivery Services
 topic: Development
 role: Developer
@@ -10,7 +10,7 @@ level: Intermediate
 doc-type: Event
 duration: 3600
 exl-id: 0361b404-1c6c-4343-876c-ac6a200ba3b9
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
