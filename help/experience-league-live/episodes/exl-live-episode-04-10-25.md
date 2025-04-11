@@ -8,7 +8,7 @@ event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
 exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
-source-git-commit: ca10c0d6d26fe2348776cb92eeb306fc0511737f
+source-git-commit: 3599290ac96cb3791f555bb8ef75ee33a44a57e3
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 1%
@@ -26,9 +26,6 @@ Au cours de cette session, nous avons exploré les points suivants :
 * Cas d’utilisation pris en charge maintenant et futurs
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
-<!-- 
-**Continue the discussion on the Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-unlocking-operational-insights-with/td-p/738208){target="_blank"}** 
--->
 
 ## Ressources supplémentaires
 
