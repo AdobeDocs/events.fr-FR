@@ -8,7 +8,7 @@ event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
 exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
-source-git-commit: 3599290ac96cb3791f555bb8ef75ee33a44a57e3
+source-git-commit: 67295e039205f8e84a4de2e1876ed88f5f1595d4
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Initialement diffusé le 10 avril 2025, nos experts ont discuté de la manière 
 
 Au cours de cette session, nous avons exploré les points suivants :
 
-* Pourquoi nous avons conçu ce produit et comment il permet de résoudre les problèmes de confidentialité des consommateurs et d’audience avec simplicité et interopérabilité
+* Pourquoi nous avons conçu le produit et comment il permet de résoudre les problèmes de confidentialité des consommateurs et d’audience avec simplicité et interopérabilité
 * Real-Time CDP Collaboration en action, avec des démonstrations de produits
 * Cas d’utilisation pris en charge maintenant et futurs
 
