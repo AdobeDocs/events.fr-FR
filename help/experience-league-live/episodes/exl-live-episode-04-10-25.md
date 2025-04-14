@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
 exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
-source-git-commit: 67295e039205f8e84a4de2e1876ed88f5f1595d4
+source-git-commit: c9cc13f4716b68fac1243f3fabb1ba12a36268a2
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '155'
 ht-degree: 1%
 
 ---
@@ -26,6 +26,8 @@ Au cours de cette session, nous avons exploré les points suivants :
 * Cas d’utilisation pris en charge maintenant et futurs
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
+
+**Poursuivez la discussion sur Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le[...]ive-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}**
 
 ## Ressources supplémentaires
 
