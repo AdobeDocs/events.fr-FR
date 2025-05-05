@@ -13,7 +13,7 @@ ht-degree: 11%
 # Enregistrements d’événements Adobe Experience League {#experience-league-recorded-events}
 
 + [Vue d’ensemble](overview.md)
-+ Par {#series} de série
++ Par de série {#series}
    + [Webinaires Acrobat Sign](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
    + [Adobe Campaign Insider Series](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
    + [Webinaires Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/events/mbi-webinars-recordings/overview.html)
@@ -41,10 +41,10 @@ ht-degree: 11%
    + [Échange de compétences](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + [Réveil avec Workfront](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
    + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
-+ Par {#solution} de solution
-   + {#as} Acrobat Sign
++ Par de solution {#solution}
+   + Acrobat Sign{#as}
       + [Webinaires Acrobat Sign](https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html)
-   + {#aas} des services Adobe Acrobat
+   + des services Adobe Acrobat{#aas}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
    + Adobe Audience Manager {#aam}
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
@@ -56,7 +56,7 @@ ht-degree: 11%
       + [Apprenez de vos pairs](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Développement des compétences](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
       + [Échange de compétences](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
-   + {#ac} Adobe Campaign
+   + Adobe Campaign{#ac}
       + [Adobe Campaign Insider Series](https://experienceleague.adobe.com/docs/events/adobe-campaign-insider-recordings/overview.html)
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [Sessions techniques Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
@@ -70,7 +70,7 @@ ht-degree: 11%
       + [Commerce et café](https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html)
       + [Sessions techniques Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Développement des compétences](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
-   + {#cja} Adobe Customer Journey Analytics
+   + Adobe Customer Journey Analytics{#cja}
       + [Webinaires sur le succès client Adobe](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html)
       + [Développement des compétences](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
    + Adobe Experience Manager   {#aem}
@@ -90,9 +90,9 @@ ht-degree: 11%
       + [Voix pour la gestion des données client](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=fr)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Sessions techniques Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
-   + {#agspm} Adobe GenStudio for Performance Marketing
+   + Adobe GenStudio for Performance Marketing{#agspm}
       + [Adobe GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/events/genstudio-for-performance-marketing-events/overview.html)
-   + {#am} Adobe Marketo
+   + Adobe Marketo{#am}
       + [Plongées profondes](https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html)
       + [Sessions techniques Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Apprenez de vos pairs](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
@@ -102,7 +102,7 @@ ht-degree: 11%
       + [Échange de compétences](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
    + Adobe Journey Optimizer {#ajo}
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
-   + {#rtcdp} d’Adobe Real-time CDP
+   + d’Adobe Real-time CDP{#rtcdp}
       + [Voix pour la gestion des données client](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=fr)
       + [Sessions techniques Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
@@ -111,12 +111,12 @@ ht-degree: 11%
       + [Experience League Live](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html)
       + [Sessions techniques Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Développement des compétences](https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html)
-   + {#aw} Adobe Workfront
+   + Adobe Workfront{#aw}
       + [Adobe Developers Live](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html)
       + [Sessions techniques Experience Cloud](https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html)
       + [Apprenez de vos pairs](https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html)
       + [Échange de compétences](https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html)
       + [Réveil avec Workfront](https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html)
       + [Workfront](https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html)
-   + {#hidden} cachées
+   + cachées{#hidden}
       + [API REST Adobe Pass v2](../single-events/adobe-pass-rest-api-v2.md)

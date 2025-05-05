@@ -298,7 +298,7 @@ Découvrez par des experts d’Adobe comment maîtriser de nouveaux workflows de
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/notarize" title="Intégration de réseau"> {Notarize Integration</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/notarize" title="Intégration de réseau"> &lbrace;Notarize Integration</a>
                     </p>
                     <p class="is-size-6">Intégration de notifications : méthode plus rapide et plus simple de certification de vos documents.</p>
                 </div>

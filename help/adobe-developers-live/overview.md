@@ -222,7 +222,7 @@ Les équipes produit Adobe de Adobe Experience Cloud, Document Cloud et Creative
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/nov/edge-delivery-services.md" target="_blank" rel="referrer" title="Edge Delivery Services - Un An De Plus, Six Voies De Meilleur"> Edge Delivery Services - Un an plus tard, six façons mieux{1</a>
+                        <a href="2024/nov/edge-delivery-services.md" target="_blank" rel="referrer" title="Edge Delivery Services - Un An De Plus, Six Voies De Meilleur"> Edge Delivery Services - Un an plus tard, six façons mieux&lbrace;1</a>
                     </p>
                     <p class="is-size-6">Améliorez l’expérience utilisateur et les taux de conversion avec les Edge Delivery Services Adobe Experience Manager (AEM), qui offrent une vitesse élevée, une simplicité, une haute disponibilité, une composabilité, des sites de référentiel pour un développement efficace et des informations sur les données fiables sans collecter les informations d’identification personnelle.</p>
                 </div>

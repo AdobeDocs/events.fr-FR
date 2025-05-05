@@ -57,5 +57,5 @@ Un exemple de cas d’utilisation présenté dans cette session est un cas d’u
 * **[Prise en main des classeurs de cas d’utilisation](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=fr){target="_blank"}**
   *Découvrez comment configurer votre compte pour les classeurs de cas d’utilisation, conçus pour Real-Time Customer Data Platform et Adobe Journey Optimizer.*
 
-* **[{target="_blank"}** ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=fr)
+* **[** ](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/playbooks-list.html?lang=fr){target="_blank"}
   *Lisez cette page pour obtenir un aperçu de tous les playbooks disponibles que vous pouvez découvrir et utiliser dans Real-time Customer Data Platform et Adobe Journey Optimizer.*

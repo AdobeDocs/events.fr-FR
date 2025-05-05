@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Demandez à l’expert - Surchargez les rapports de mode de texte de base à l’aide de l’explorateur d’API.
 
-Découvrez l’ [[!UICONTROL  API Explorer]](https://developer.adobe.com/workfront/api-explorer/), comment l’utiliser et comment améliorer vos rapports en utilisant le mode de texte de base. Ce webinaire a été enregistré le 22 janvier 2020.
+Découvrez l’ [[!UICONTROL &#x200B; API Explorer]](https://developer.adobe.com/workfront/api-explorer/), comment l’utiliser et comment améliorer vos rapports en utilisant le mode de texte de base. Ce webinaire a été enregistré le 22 janvier 2020.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341124/?quality=12)
 

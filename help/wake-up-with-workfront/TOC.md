@@ -21,7 +21,7 @@ ht-degree: 0%
 # Réveil avec Workfront {#wake-up-with-workfront-recordings}
 
 + [Réveil avec Workfront](overview.md)
-+ {#2025} 2025
++ 2025{#2025}
    + [Demander n&#39;importe quoi](2025/ask-me-anything.md)
    + [Optimisation de la productivité avec Workfront Fusion](2025/maximize-productivity.md)
    + [Optimisation et maintenance de votre environnement](2025/optimize-maintain-environment.md)

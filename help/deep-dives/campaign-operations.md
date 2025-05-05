@@ -33,7 +33,7 @@ Dans cette plongée approfondie, nous allons vous montrer comment commencer à u
 ## Points clés
 
 * **Focus** La session a porté sur l’automatisation et la rationalisation des opérations de campagne à l’aide de l’API Marketo.
-* **Importance de l’API** Les API sont essentielles pour automatiser les tâches répétitives, ce qui permet aux systèmes de communiquer et de gagner du temps et de l’argent. Principes de base de l’API** Explication de ce qu’est une * **API, y compris la différence entre les demandes Get et Post, et leur fonctionnement.
+* **Importance de l’API** Les API sont essentielles pour automatiser les tâches répétitives, ce qui permet aux systèmes de communiquer et de gagner du temps et de l’argent. Principes de base de l’API **&#x200B; Explication de ce qu’est une * &#x200B;** API, y compris la différence entre les demandes Get et Post, et leur fonctionnement.
 
 ### Cas d’utilisation
 

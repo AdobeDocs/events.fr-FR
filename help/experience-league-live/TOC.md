@@ -20,7 +20,7 @@ ht-degree: 4%
 # Événements Experience League Live {#experience-league-live-recordings}
 
 + [Vue d’ensemble](overview.md)
-+ {#episodes} des épisodes
++ des épisodes{#episodes}
    + [Ep. 45 : N&#39;attendez pas... collaborez ! Présentation de Real-Time CDP Collaboration](episodes/exl-live-episode-04-10-25.md)
    + [Ep. 44 : Déverrouiller des informations opérationnelles avec l’assistant AI dans Adobe Experience Platform](episodes/exl-live-episode-02-27-25.md)
    + [Ep. 43 : Présentation de l’assistant AI pour les audiences pour les professionnels du marketing dans Real-Time CDP](episodes/exl-live-episode-11-13-24.md)

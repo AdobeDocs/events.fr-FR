@@ -14,7 +14,7 @@ ht-degree: 4%
 
 + [Vue d’ensemble](overview.md)
 + 2024 {#2024}
-   + {#nov2024} novembre
+   + novembre{#nov2024}
       + [Keynote](2024/nov/keynote.md)
       + AEM Cloud Service {#aem-cloud-service}
          + [API AEM et mode Eventing](2024/nov/apis-eventing.md)
@@ -44,7 +44,7 @@ ht-degree: 4%
          + [Edge Delivery Services et Adobe Commerce](2024/nov/commerce-storefront-eds.md)
          + [Orchestration des API Commerce pour les implémentations sans affichage](2024/nov/commerce-api-headless.md)
 + 2023 {#2023}
-   + {#nov2023} novembre
+   + novembre{#nov2023}
       + [Clé d’ouverture](2023/november/keynote.md)
       + [Clé d’ouverture (APAC)](2023/november/keynote-apac.md)
       + [Automatisation des workflows de contenu avec App Builder](2023/november/content-workflows.md)

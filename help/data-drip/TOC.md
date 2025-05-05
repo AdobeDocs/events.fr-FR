@@ -20,7 +20,7 @@ ht-degree: 0%
 # Goutte-à-goutte de données {#data-drip-recordings}
 
 + [Goutte-à-goutte de données](overview.md)
-+ {#2025} 2025
++ 2025{#2025}
    + [Bases d’Adobe Analytics et au-delà](2025/adobe-analytics-basics-beyond.md)
    + [Canaux marketing et modélisation d’attribution](2025/marketing-channel-attribution-modeling.md)
 

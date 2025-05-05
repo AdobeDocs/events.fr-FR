@@ -20,7 +20,7 @@ ht-degree: 4%
 # Marketo et Mochas {#marketo-and-mochas-recordings}
 
 + [Vue d’ensemble](overview.md)
-+ {#2025} 2025
++ 2025{#2025}
    + [5 fonctionnalités Marketo à connaître](2025/5-features-to-know.md)
 + 2024 {#2024}
    + [Demander n&#39;importe quoi](2024/ask-me-anything.md)
