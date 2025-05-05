@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Intégration de notifications : méthode plus rapide et plus simple de certification de vos documents.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454374/?learn=on&captions=fre_fr)
 
 ## Rubriques clés abordées
 

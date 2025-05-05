@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Développez la manière dont vous utilisez vos applications Microsoft telles que Word, Outlook et SharePoint en ajoutant Adobe Acrobat Sign à vos workflows existants. Cette session vous apprendra à rationaliser les processus de document dans les applications Microsoft courantes afin que vous n’ayez pas besoin de changer de contexte uniquement pour obtenir une signature ou vérifier un état.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428185/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455051/?learn=on&captions=fre_fr)
 
 ## Quelles sont les applications prises en charge par l’intégration Acrobat Sign ?
 

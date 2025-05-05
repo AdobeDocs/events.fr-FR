@@ -28,4 +28,4 @@ Découvrez comment gérer la hiérarchisation des flux de données pour l’orch
 - Comprendre l’importance et les bonnes pratiques de la hiérarchisation des flux de données
 - Optimiser les campagnes marketing en temps réel
 
->[!VIDEO](https://video.tv.adobe.com/v/3427302/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456807/?learn=on&captions=fre_fr)

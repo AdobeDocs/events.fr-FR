@@ -22,7 +22,7 @@ ht-degree: 10%
 
 Aujourdʼhui, les spécialistes du marketing sont noyés dans le flot dʼinformations consacrées aux pratiques en matière dʼidentité. Et seulement 37% des professionnels du marketing ont dit qu&#39;ils étaient très préparés pour un avenir sans cookie, selon des recherches récentes d&#39;Adobe et de [!DNL Advanis]. Dans cet Adobe de webinaire, vous découvrirez le niveau de compréhension et de préparation des publicitaires et des éditeurs pour un avenir sans cookie, l’impact sur leurs cas d’utilisation et leur perception de l’écosystème dans son ensemble.
 
->[!VIDEO](https://video.tv.adobe.com/v/332060/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457413/?quality=12&learn=on&captions=fre_fr)
 
 Pour compléter cette vidéo, vous pouvez également [télécharger un livre blanc](./../assets/whitepaper-a-tale-of-two-perceptions.pdf)
 

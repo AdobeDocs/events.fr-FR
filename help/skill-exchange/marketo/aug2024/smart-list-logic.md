@@ -26,4 +26,4 @@ Les campagnes intelligentes sont les puissants moteurs qui optimisent l’automa
 * Exploration approfondie des quatre niveaux de logique pour configurer et personnaliser vos audiences
 * Conseils pour résoudre votre logique et vérifier que vous avez correctement ciblé votre audience prévue
 
->[!VIDEO](https://video.tv.adobe.com/v/3432943/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457300/?learn=on&captions=fre_fr)

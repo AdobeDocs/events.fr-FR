@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Découvrez les principes de base d’Acrobat Sign pour commencer à obtenir des documents signés rapidement. Nous vous montrerons comment : Préparer et envoyer vos documents pour signature électronique Affichez ce que vos signataires voient Gérer et suivre l’avancement des accords Créez votre propre signature, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455467/?learn=on&captions=fre_fr)
 
 ## Points clés
 

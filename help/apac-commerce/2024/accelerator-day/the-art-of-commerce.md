@@ -24,6 +24,6 @@ Présentation d’exemples de clients en direct sur Adobe Commerce, montrant la 
 
 + Présenté par Carl Screwvala, ingénieur en solutions senior - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429274/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455490/?learn=on&captions=fre_fr)
 
 [&lt; Retour à la journée de l’accélérateur Adobe Commerce](./overview.md)

@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Niveau vers le haut - Formation de l’utilisateur de Workspace occasionnel
 
->[!VIDEO](https://video.tv.adobe.com/v/3425993/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456686/?learn=on&captions=fre_fr)

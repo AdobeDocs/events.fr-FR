@@ -33,4 +33,4 @@ Vous verrez également une démonstration en direct de la plateforme pour donner
 
 L’IMS simplifie la création de rapports avec des tableaux de bord qui affichent tout, de la valeur de commande moyenne à la valeur de durée de vie du client et les taux de rétention. Grâce à ces informations puissantes, vous pouvez agir et générer une valeur incrémentielle pour votre entreprise en ligne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410646/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413903/?quality=12&learn=on&captions=fre_fr)

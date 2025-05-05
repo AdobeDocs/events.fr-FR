@@ -27,6 +27,6 @@ Cette session permet aux développeurs de commencer à utiliser Commerce sur Ado
 
 Poursuivez la conversation dans **[Experience League Communities](https://adobe.ly/36Yd3v6)**.
 
->[!VIDEO](https://video.tv.adobe.com/v/331851/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454729/?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 Cliquez **[ici](/help/adobe-developers-live/assets/content-commerce.pdf)** pour les diapositives de la session.

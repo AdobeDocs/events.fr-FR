@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Rejoignez Achim Koch, architecte technique principal chez Adobe, pour découvrir comment migrer un DAM hérité vers Adobe Experience Manager Assets. Obtenez des informations sur l’analyse des parties prenantes, la planification des ressources, la transformation des données et les bonnes pratiques, telles que l’utilisation de fichiers CSV pour la gestion des données. Créez une feuille de route pour vos propres projets de migration Adobe Experience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440403/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440441/?learn=on&enablevpops&captions=fre_fr)
 
 ## Discussions communautaires
 

@@ -24,6 +24,6 @@ Les derniers détails et la démonstration sur les Edge Delivery Services rapide
 
 + Présenté par Kam Radhakrishnan, ingénieur en solutions senior - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429271/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455313/?learn=on&captions=fre_fr)
 
 [&lt; Retour à la journée de l’accélérateur Adobe Commerce](./overview.md)

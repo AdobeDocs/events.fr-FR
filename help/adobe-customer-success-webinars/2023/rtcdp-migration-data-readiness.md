@@ -25,4 +25,4 @@ Découvrez la stratégie de préparation de l’entreprise du point de vue de la
 * Découvrez comment vous aligner sur les cas pratiques professionnels en tant qu’organisation
 * Ressources et actions clés pour la préparation de la plateforme CDP en temps réel
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457065/?learn=on&captions=fre_fr)

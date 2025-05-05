@@ -31,4 +31,4 @@ Comment ils ont évolué à la fois leur processus et leur infrastructure au fil
 Conseils pratiques pour intégrer Workfront à votre tech stack plus large et aux workflows clés matures
 Comment IPG pose les bases de la chaîne d’approvisionnement en contenu
 
->[!VIDEO](https://video.tv.adobe.com/v/3425810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456658/?learn=on&captions=fre_fr)

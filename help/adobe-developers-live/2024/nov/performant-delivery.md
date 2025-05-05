@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Rejoignez Riya Midha, responsable produit senior chez Adobe, pour découvrir les bonnes pratiques de configuration d’Adobe Experience Manager Assets Dynamic Media. Découvrez comment optimiser la diffusion de ressources, améliorer la diffusion vidéo en continu, configurer des visionneuses et mesurer et améliorer les performances.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440399/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440419/?learn=on&enablevpops&captions=fre_fr)
 
 ## Discussions communautaires
 

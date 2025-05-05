@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Dans cette présentation passionnante, nous abordons notre histoire &quot;Better Together&quot;, dans laquelle Adobe Commerce s’intègre de manière transparente à notre suite technologique complète. Découvrez comment cette synergie favorise l’efficacité, l’innovation et les expériences client holistiques, ce qui élève votre entreprise vers de nouveaux sommets.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426311/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455980/?learn=on&captions=fre_fr)

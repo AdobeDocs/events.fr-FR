@@ -80,7 +80,7 @@ Les équipes produit Adobe de Adobe Experience Cloud, Document Cloud et Creative
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/ai-and-personalization.md" title="Acheminement de l’IA et de Personalization vers les Edge Delivery Services Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440405/?format=jpeg&nocache=1733162925381" alt="Acheminement de l’IA et de Personalization vers les Edge Delivery Services Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440408/?format=jpeg&nocache=1733162925381&captions=fre_fr" alt="Acheminement de l’IA et de Personalization vers les Edge Delivery Services Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Les équipes produit Adobe de Adobe Experience Cloud, Document Cloud et Creative
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/cdn-waf-aemcs.md" title="Configuration du réseau de diffusion de contenu et de WAF dans Adobe Experience Manager as a Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440401/?format=jpeg&nocache=1733162925358" alt="Configuration du réseau de diffusion de contenu et de WAF dans Adobe Experience Manager as a Cloud Service"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440604/?format=jpeg&nocache=1733162925358&captions=fre_fr" alt="Configuration du réseau de diffusion de contenu et de WAF dans Adobe Experience Manager as a Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -237,7 +237,7 @@ Les équipes produit Adobe de Adobe Experience Cloud, Document Cloud et Creative
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/extension-manager.md" title="Extension Manager pour Adobe Experience Manager Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440404/?format=jpeg&nocache=1733162926516" alt="Extension Manager pour Adobe Experience Manager Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440430/?format=jpeg&nocache=1733162926516&captions=fre_fr" alt="Extension Manager pour Adobe Experience Manager Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -390,7 +390,7 @@ Les équipes produit Adobe de Adobe Experience Cloud, Document Cloud et Creative
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/asset-migration-blueprint.md" title="Plan directeur de la migration Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440403/?format=jpeg&nocache=1733162927528" alt="Plan directeur de la migration Assets"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440441/?format=jpeg&nocache=1733162927528&captions=fre_fr" alt="Plan directeur de la migration Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -413,7 +413,7 @@ Les équipes produit Adobe de Adobe Experience Cloud, Document Cloud et Creative
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/nov/performant-delivery.md" title="Bonnes pratiques de diffusion performante" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440399/?format=jpeg&nocache=1733162927540" alt="Bonnes pratiques de diffusion performante"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440419/?format=jpeg&nocache=1733162927540&captions=fre_fr" alt="Bonnes pratiques de diffusion performante"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

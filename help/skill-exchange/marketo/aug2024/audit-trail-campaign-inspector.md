@@ -26,4 +26,4 @@ Au cours de cette session, vous apprendrez :
 * Bonnes pratiques pour l’utilisation du journal d’audit, notamment les éléments à vérifier, la fréquence et les raisons de son importance, ainsi que les avantages supplémentaires de la dernière version de juin 2024.
 * Comment utiliser l’Inspecteur de campagne pour passer régulièrement en revue les campagnes intelligentes, y compris les éléments à rechercher (volume, lot par rapport au déclencheur, campagnes déclencheurs à latence élevée qui peuvent ralentir votre instance, etc.).
 
->[!VIDEO](https://video.tv.adobe.com/v/3432944/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456953/?learn=on&captions=fre_fr)

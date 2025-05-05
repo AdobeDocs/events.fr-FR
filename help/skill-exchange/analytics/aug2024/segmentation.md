@@ -26,4 +26,4 @@ Les segments dans Adobe Analytics peuvent être très puissants, mais avec cette
 * La puissance de la logique d’exclusion
 * Choix de la configuration appropriée pour réussir
 
->[!VIDEO](https://video.tv.adobe.com/v/3432748/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456931/?learn=on&captions=fre_fr)

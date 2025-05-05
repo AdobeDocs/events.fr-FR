@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Le webinaire montrera comment l’intégration de ces concepts peut stimuler l’efficacité, améliorer l’expérience client et soutenir la prise de décisions fondée sur les données au sein des organisations.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432998/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457010/?learn=on&captions=fre_fr)
 
 ## Principales acquisitions
 

@@ -28,6 +28,6 @@ Les orateurs :
 + Matt Palmer, responsable des ventes principal chez les partenaires - Adobe
 + Graham Bell, responsable des ventes ANZ - DotDigital
 
->[!VIDEO](https://video.tv.adobe.com/v/3429273/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455513/?learn=on&captions=fre_fr)
 
 [&lt; Retour à la journée de l’accélérateur Adobe Commerce](./overview.md)

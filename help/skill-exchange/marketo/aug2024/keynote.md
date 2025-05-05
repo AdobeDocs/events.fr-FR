@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Ouverture d’un Keynote avec Raj Patel
 
->[!VIDEO](https://video.tv.adobe.com/v/3432957/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453057/?learn=on&captions=fre_fr)

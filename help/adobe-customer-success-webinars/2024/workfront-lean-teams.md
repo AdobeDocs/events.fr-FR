@@ -26,7 +26,7 @@ Des stratégies judicieuses et des approches pratiques pour les organisations qu
 * Utilisation de Workfront pour la prise en charge de la gestion de projet allégée
 * Apprentissage continu et adaptation
 
->[!VIDEO](https://video.tv.adobe.com/v/3429287/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456708/?learn=on&captions=fre_fr)
 
 ## Présentation de la réunion
 

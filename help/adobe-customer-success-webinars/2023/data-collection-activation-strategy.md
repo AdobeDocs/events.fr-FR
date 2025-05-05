@@ -25,4 +25,4 @@ Tirez parti de votre stratégie de collecte de données et activez-la afin de ga
 * Présentation de l’architecture de haut niveau
 * Points à prendre en compte pour votre stratégie de collecte et d’activation de données
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456226/?learn=on&captions=fre_fr)

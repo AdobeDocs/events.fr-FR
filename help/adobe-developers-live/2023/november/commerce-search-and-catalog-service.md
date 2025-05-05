@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Découvrez les services de recherche et de catalogue pour améliorer et optimiser vos expériences de storefront.  Cette démonstration explique le connecteur des services de commerce et comment l’exploiter avec votre vitrine à l’aide de GraphQL.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425806/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454728/?learn=on&captions=fre_fr)

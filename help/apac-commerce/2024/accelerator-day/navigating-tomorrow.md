@@ -24,6 +24,6 @@ Résumé des sessions Adobe Commerce du Summit 2024, quelques-unes des nouvelles
 
 + Présenté par Scott Rigby, responsable produit Adobe Commerce JAPAC
 
->[!VIDEO](https://video.tv.adobe.com/v/3429264/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454561/?learn=on&captions=fre_fr)
 
 [&lt; Retour à la journée de l’accélérateur Adobe Commerce](./overview.md)

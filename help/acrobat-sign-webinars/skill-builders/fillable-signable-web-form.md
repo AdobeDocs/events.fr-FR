@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Découvrez comment créer un formulaire web permettant à n’importe qui de le remplir et de le signer, sans avoir à lancer la transaction ou même connaître l’adresse électronique du signataire. Vous découvrirez également comment préparer un modèle de document qui peut être utilisé pour les transactions de signature individuelles, ainsi que pour la publication sur une URL unique pour un large partage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428187/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455446/?learn=on&captions=fre_fr)
 
 ## Points clés
 

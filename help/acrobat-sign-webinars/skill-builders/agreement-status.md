@@ -19,6 +19,6 @@ ht-degree: 0%
 
 Découvrez les avantages et les inconvénients des outils de gestion des accords et les bonnes pratiques afin que vous puissiez connaître à tout moment le statut de vos accords. Cette session aborde : les actions que vous pouvez effectuer sur des documents à partir de l’onglet Gérer , comment traiter et utiliser les données des formulaires web et des envois en masse et comment rechercher et filtrer les documents dont vous avez besoin.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428190/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455003/?learn=on&captions=fre_fr)
 
 Au cours de cette session, l’orateur discute de la gestion et du suivi des accords à l’aide de Adobe Acrobat Sign. &#x200B; Ils expliquent les différents statuts des accords, montrent les actions qui peuvent être entreprises sur les accords en cours et fournissent des ressources pour la formation continue.

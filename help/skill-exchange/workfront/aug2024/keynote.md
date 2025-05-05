@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Workfront : ouvrir le mot-clé
 
->[!VIDEO](https://video.tv.adobe.com/v/3433193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454484/?learn=on&captions=fre_fr)

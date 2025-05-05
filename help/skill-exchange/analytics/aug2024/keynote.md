@@ -26,4 +26,4 @@ L&#39;autonomisation des équipes à l&#39;aide de données est essentielle pour
 * Découvrez les bonnes pratiques pour fournir le contexte approprié et assurer une utilisation efficace des données.
 * Découvrez comment Adobe Analytics et Customer Journey Analytics peuvent aider vos équipes à disposer de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453589/?learn=on&captions=fre_fr)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Au cours de cette session, vous découvrirez les outils disponibles pour surveiller l’intégrité, la sécurité et la qualité de la plateforme Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/340624/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456856/?quality=12&learn=on&captions=fre_fr)

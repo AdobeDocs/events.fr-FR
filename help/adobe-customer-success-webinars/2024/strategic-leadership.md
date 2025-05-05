@@ -24,4 +24,4 @@ Acquérir les tactiques nécessaires pour atteindre efficacement les objectifs d
 - Définition de la marche à suivre pour une réussite à long terme
 - Orienter efficacement les initiatives stratégiques
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456785/?learn=on&captions=fre_fr)

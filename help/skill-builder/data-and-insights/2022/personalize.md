@@ -21,4 +21,4 @@ Rejoignez cette session pour découvrir les concepts de base de l’automatisati
 
 *Matthias Kolitsch* Formation multi-solution senior EMEA / Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/343821/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457380/?quality=12&learn=on&captions=fre_fr)

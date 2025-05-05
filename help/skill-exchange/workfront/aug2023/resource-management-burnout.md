@@ -30,4 +30,4 @@ Au cours de cette session, Tia Calvert, chef de produit, et Erin Kuchera, respon
 * Comment incorporer le suivi des temps de pause
 * Exemples d’utilisation d’Analytics et de Resource Manager par Mayo Clinic pour fournir de la transparence aux équipes et planifier de nouveaux travaux
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457098/?learn=on&captions=fre_fr)

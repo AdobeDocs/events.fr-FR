@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Lancer l’avenir d’Adobe Commerce Découvrez notre présentation de pointe sur les dernières améliorations apportées à notre plateforme Commerce, optimisée par les technologies 3D et IA génératives. Découvrez comment ces innovations redéfinissent l’engagement des clients et favorisent le succès de l’entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426312/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456458/?learn=on&captions=fre_fr)

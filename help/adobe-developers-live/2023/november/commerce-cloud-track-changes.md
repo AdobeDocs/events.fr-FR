@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Effectuez le suivi des événements de déploiement de projet Commerce dans New Relic en créant une intégration de script. Activez facilement la fonction Modifications du suivi New Relic pour surveiller les événements de déploiement sur votre projet d’infrastructure cloud Commerce. La collecte de données Déploiements permet d’analyser l’impact des modifications de déploiement sur les performances globales, telles que le processeur, la mémoire, les temps de réponse aux transactions, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426313/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456444/?learn=on&captions=fre_fr)

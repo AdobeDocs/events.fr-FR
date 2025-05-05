@@ -21,4 +21,4 @@ ht-degree: 0%
 
 À propos des segments - Comment découper et découper vos données pour obtenir des informations
 
->[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456609/?learn=on&captions=fre_fr)

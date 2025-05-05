@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Écoutez Nicholas Twillie et Alma Martinez de Walgreens parler du temps de suivi, à travers les feuilles de temps, à Workfront. Alors regardez Christian Barnes vous montrer le côté technique de la feuille de temps.
 
->[!VIDEO](https://video.tv.adobe.com/v/341228/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457333/?quality=12&learn=on&captions=fre_fr)

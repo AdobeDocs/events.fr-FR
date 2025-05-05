@@ -28,6 +28,6 @@ Présentateurs :
 + Omaya Robinson, chef d’équipe de création PowerBoard, chef de produit - CBA
 + Luke Jericho, chef d’équipe, chef du commerce électronique - CBA
 
->[!VIDEO](https://video.tv.adobe.com/v/3429270/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455478/?learn=on&captions=fre_fr)
 
 [&lt; Retour à la journée de l’accélérateur Adobe Commerce](./overview.md)

@@ -20,7 +20,7 @@ Effectuez une personnalisation en temps réel sur n’importe quel canal à l’
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=fr">
-      <img alt="Personnaliser et automatiser avec Adobe Target" src="https://video.tv.adobe.com/v/343821?format=jpeg" />
+      <img alt="Personnaliser et automatiser avec Adobe Target" src="https://video.tv.adobe.com/v/3457380?format=jpeg&captions=fre_fr" />
     </a>
      <div>
       <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/data-and-insights/2022/personalize.html?lang=fr">

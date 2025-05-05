@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Dans le monde cross-canal et numérique d&#39;aujourd&#39;hui, les consommateurs sont habilités à interagir où, quand et comme ils le souhaitent. Et le spécialiste marketing doit être prêt, sinon il risque une mauvaise expérience client, ou pire, une attrition. La réponse n’est pas seulement une plateforme marketing qui prend en charge l’orchestration des messages sur plusieurs canaux, mais également une organisation marketing qui prend en charge la planification, l’exécution et la mesure des campagnes marketing sur tous les canaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/343871/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457043/?quality=12&learn=on&captions=fre_fr)

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Déverrouillez tout le potentiel du réseau de diffusion de contenu géré par Adobe avec des règles de réseau de diffusion de contenu personnalisables, la protection WAF et le pipeline de configuration. Marius Petria, ingénieur informaticien Adobe, Quentin Vecchio, ingénieur du développement logiciel à l&#39;Adobe, et Florian Froese, ingénieur du développement logiciel à l&#39;Adobe, partagent des stratégies pour améliorer les performances et la sécurité des applications Adobe Experience Manager as a Cloud Service.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440401/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440604/?learn=on&enablevpops&captions=fre_fr)
 
 ## Discussions communautaires
 

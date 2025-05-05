@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Adobe Analytics comporte un nombre apparemment sans fin de fonctions. Nous avons sélectionné quelques-uns de nos clients et de nos secteurs d’activité les plus sous-utilisés, mais puissants. Au cours de cette session, vous apprendrez à les appliquer à votre workflow d’analyse et à augmenter rapidement la valeur de vos informations pour votre organisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425990/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456587/?learn=on&captions=fre_fr)

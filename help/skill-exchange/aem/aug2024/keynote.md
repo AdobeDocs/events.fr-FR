@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Clé d’ouverture Adobe Experience Manager
 
->[!VIDEO](https://video.tv.adobe.com/v/3433161/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454959/?learn=on&captions=fre_fr)

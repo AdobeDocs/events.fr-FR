@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Découvrez trois façons simples de configurer vos documents pour la signature électronique. Qu’il s’agisse de fichiers PDF, de fichiers Microsoft 365 ou même d’un fichier image simple, cette session vous dotera des outils dont vous avez besoin pour que ce document soit signé. Nous allons aborder trois méthodes : l’environnement de création simple par glisser-déplacer de Adobe Acrobat Sign Configuration d’un formulaire PDF dans Adobe Acrobat Utilisez des balises de texte pour une création rapide de documents.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428184/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455946/?learn=on&captions=fre_fr)
 
 ## Quel est l’avantage de l’utilisation de balises de texte avec Microsoft Word ?
 
