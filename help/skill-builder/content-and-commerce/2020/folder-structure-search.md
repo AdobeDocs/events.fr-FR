@@ -31,13 +31,13 @@ Principes de base de la configuration et de l’utilisation de la gestion des re
 
 ## Ressources
 
-* [Guide de l’utilisateur AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html)
-* [Configuration de la structure de dossiers AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html)
+* [Guide de l’utilisateur AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-65/assets/home.html?lang=fr)
+* [Configuration de la structure de dossiers AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-folders.html?lang=fr)
 * [Configurer des autorisations de dossier AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/baseline-permissions.html?lang=fr)
-* [Utilisation des collections pour organiser et partager des ressources](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html)
-* [Recherche de ressources visuellement similaires avec le machine learning](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Obtenez des résultats de recherche précis et précis avec des facettes de recherche dynamiques](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html)
-* [Syntaxe de recherche avancée de texte intégral](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=en#using)
+* [Utilisation des collections pour organiser et partager des ressources](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/collections.html?lang=fr)
+* [Recherche de ressources visuellement similaires avec le machine learning](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=fr)
+* [Obtenez des résultats de recherche précis et précis avec des facettes de recherche dynamiques](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/search.html?lang=fr)
+* [Syntaxe de recherche avancée de texte intégral](https://experienceleague.adobe.com/docs/experience-manager-64/assets/using/gql-search.html?lang=fr#using)
 
 ## Enregistrements de séries
 

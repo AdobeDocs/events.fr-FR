@@ -24,7 +24,7 @@ Présentation des cahiers de travail des cas d’utilisation - un catalogue prat
 
 >[!BEGINSHADEBOX &quot;Vous avez des questions ?&quot;]
 
-Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643#M488) de Adobe Experience League.
+Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-use-case/m-p/651643?profile.language=fr#M488) de Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
@@ -51,7 +51,7 @@ Un exemple de cas d’utilisation présenté dans cette session est un cas d’u
 
 ## Ressources supplémentaires
 
-* **[Présentation des classeurs de cas d’utilisation](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html){target="_blank"}**
+* **[Présentation des classeurs de cas d’utilisation](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/overview.html?lang=fr){target="_blank"}**
   *Les classeurs de cas d’utilisation peuvent vous aider à résoudre le problème lorsque vous commencez à utiliser Real-Time CDP ou Adobe Journey Optimizer alors que vous ne savez peut-être pas exactement par quoi commencer ou comment créer les ressources appropriées afin d’atteindre les cas d’utilisation souhaités.*
 
 * **[Prise en main des classeurs de cas d’utilisation](https://experienceleague.adobe.com/docs/experience-platform/use-case-playbooks/playbooks/get-started.html?lang=fr){target="_blank"}**

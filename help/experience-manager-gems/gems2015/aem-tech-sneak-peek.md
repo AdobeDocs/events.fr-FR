@@ -28,5 +28,5 @@ Découvrez ce sur quoi nous avons travaillé pour la prochaine génération de A
 
 [Obtenir le fichier](assets/aem-technical-sneak-peek.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

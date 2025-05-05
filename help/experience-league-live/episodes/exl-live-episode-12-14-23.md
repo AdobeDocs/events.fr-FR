@@ -25,7 +25,7 @@ Découvrez comment les nouvelles fonctionnalités publiées en 2023 peuvent vous
 
 >[!BEGINSHADEBOX &quot;Vous avez des questions ?&quot;]
 
-Poursuivez la discussion sur ce sujet sur la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558#M14){target="_blank"} de Adobe Experience League.
+Poursuivez la discussion sur ce sujet sur la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-league-live-post-session-discussion-countdown-to-2024/m-p/639558?profile.language=fr#M14){target="_blank"} de Adobe Experience League.
 
 >[!ENDSHADEBOX]
 

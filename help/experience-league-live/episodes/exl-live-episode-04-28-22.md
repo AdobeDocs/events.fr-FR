@@ -21,5 +21,5 @@ Rejoignez l’hôte Doug Moore et les invités Nick Cammuso et Jackie Chevallier
 
 >[!VIDEO](https://video.tv.adobe.com/v/342611/?quality=12&learn=on)
 
-Pour poursuivre la conversation sur cette session, consultez le [billet de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340#M419), où nous répondrons également aux questions auxquelles nous n’avons pas eu le temps de répondre en direct dans la session.
+Pour poursuivre la conversation sur cette session, consultez le [billet de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-audience-manager/experience-league-live-post-session-discussion-how-do-i-handle/m-p/450340?profile.language=fr#M419), où nous répondrons également aux questions auxquelles nous n’avons pas eu le temps de répondre en direct dans la session.
 

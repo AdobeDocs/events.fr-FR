@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Préparation du Marketo Engage sur l’identité de l’Adobe
 
-Il s’agit d’une formation sur la migration pour les [abonnements Adobe Marketo Engage à intégrer au système Identity Management Adobe](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Le contenu est plus adapté aux administrateurs de Marketo Engage. Cette formation vous dotera des connaissances essentielles pour préparer votre organisation de manière interfonctionnelle et éduquer les utilisateurs internes sur ce changement à venir.
+Il s’agit d’une formation sur la migration pour les [abonnements Adobe Marketo Engage à intégrer au système Identity Management Adobe](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Le contenu est plus adapté aux administrateurs de Marketo Engage. Cette formation vous dotera des connaissances essentielles pour préparer votre organisation de manière interfonctionnelle et éduquer les utilisateurs internes sur ce changement à venir.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430920/?learn=on)

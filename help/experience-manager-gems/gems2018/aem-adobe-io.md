@@ -29,5 +29,5 @@ François Le Droff, informaticien senior, intégration cloud, Adobe
 [Obtenir le fichier](assets/gem-2018-05-aem-events.pdf)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

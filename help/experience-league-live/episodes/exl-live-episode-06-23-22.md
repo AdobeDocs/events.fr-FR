@@ -22,7 +22,7 @@ Lors de cette deuxième session de diffusion en direct sur la collecte de donné
 
 >[!VIDEO](https://video.tv.adobe.com/v/344251/?quality=12&learn=on)
 
-**Poursuivez la discussion** dans la [communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195#M285){target="_blank"} !
+**Poursuivez la discussion** dans la [communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-real-time-cdp/m-p/458195?profile.language=fr#M285){target="_blank"} !
 
 ## Sessions LIVE Experience League supplémentaires de cette série de collecte de données
 

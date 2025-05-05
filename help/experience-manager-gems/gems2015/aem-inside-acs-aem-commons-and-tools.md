@@ -34,5 +34,5 @@ Au cours de cette session, Justin Edelson, évangéliste global pour AEM et co-c
 
 [Obtenir le fichier](assets/08262015-commons-and-tools.pptx)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

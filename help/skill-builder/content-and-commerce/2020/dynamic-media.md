@@ -31,7 +31,7 @@ Automatisez la sortie des ressources pour tous les canaux et écrans avec Dynami
 
 ## Ressources
 
-*[ Vidéos Dynamic Media ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html#dynamic-media)
+*[ Vidéos Dynamic Media ](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-overview-feature-video-use.html?lang=fr#dynamic-media)
 *[Guide de démarrage rapide de la stratégie Rich Media](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-kickstart-guide-2019.pdf)
 *[Guide des paramètres prédéfinis d’image de la stratégie Rich Media](https://www.adobe.com/content/dam/www/us/en/experience-manager/pdfs/dynamic-media-image-preset-guide.pdf)
 *[L&#39;image est tout Blog Series](https://business.adobe.com/blog/basics/image-is-everything-part-1-has-your-rich-media-strategy-expired)

@@ -30,5 +30,5 @@ Lors de cette session en direct Experience League, des experts Adobes vous expli
 
 **Cliquez sur l’image ci-dessus pour regarder le programme !**
 
-Poursuivez la discussion sur la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273#M132).
+Poursuivez la discussion sur la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-api-triggered/m-p/614273?profile.language=fr#M132).
 

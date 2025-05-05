@@ -38,5 +38,5 @@ Découvrez le moteur de requête d’Oak et comment il se compare à Jackrabbit 
 [Documentation Oak](https://jackrabbit.apache.org/oak/docs/)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

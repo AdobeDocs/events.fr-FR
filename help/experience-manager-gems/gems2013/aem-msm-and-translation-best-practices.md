@@ -31,4 +31,4 @@ Pour en savoir plus sur les bonnes pratiques dans la documentation Adobe Experie
 
 * [ Bonnes pratiques de gestion multisite ](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [Meilleures pratiques de traduction](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
-* [Revenir à l’aperçu](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+* [Revenir à l’aperçu](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)

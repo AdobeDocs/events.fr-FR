@@ -36,12 +36,12 @@ Diapositives du présentateur - 11/21/18
 
 ## Liens connexes {#related-links}
 
-[Tutoriel sur le week-end](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html)
+[Tutoriel sur le week-end](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=fr)
 
-[Documentation](https://helpx.adobe.com/experience-manager/6-4/sites/developing/using/spa-overview.html)
+[Documentation](https://helpx.adobe.com/fr/experience-manager/6-4/sites/developing/using/spa-overview.html)
 
 [Sample - We retail journal](https://github.com/adobe/aem-sample-we-retail-journal)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

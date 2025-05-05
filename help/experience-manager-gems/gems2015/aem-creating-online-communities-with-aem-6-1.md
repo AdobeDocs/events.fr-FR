@@ -28,5 +28,5 @@ Imaginez être en mesure de mettre en place un site communautaire en quelques he
 
 [Obtenir le fichier](assets/aem-6-1-communities-gems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

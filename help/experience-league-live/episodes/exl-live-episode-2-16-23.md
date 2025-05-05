@@ -27,5 +27,5 @@ Les temps de chargement du site et les performances globales ont un impact direc
 
 Regardez la vidéo ci-dessus pour visionner cet événement en direct, où des experts en diffusion d’expérience d’Adobe ont discuté des éléments à prendre en compte et des mesures à prendre pour améliorer les performances.
 
-**Vous avez des questions à ce sujet ?** Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513#M36836) de Adobe Experience League.
+**Vous avez des questions à ce sujet ?** Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-live-post-session-discussion-speeding-up-your/m-p/575513?profile.language=fr#M36836) de Adobe Experience League.
 

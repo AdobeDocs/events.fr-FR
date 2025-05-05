@@ -33,5 +33,5 @@ Diapositives du présentateur - Rekawek
 
 [Obtenir le fichier](assets/aemgems-upgrades-2015-trekaewk.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

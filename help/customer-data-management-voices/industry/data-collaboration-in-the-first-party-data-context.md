@@ -31,8 +31,8 @@ Tenez votre engagement en matière dʼexpérience, avec un accès à moins de do
 
 ## Informations supplémentaires 
 
-[Vue d’ensemble de la correspondance de segments](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
+[Vue d’ensemble de la correspondance de segments](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=fr)
 
-[Audience Marketplace pour les acheteurs de données](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
+[Audience Marketplace pour les acheteurs de données](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=fr)
 
 [Destinations basées sur les personnes](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=fr)

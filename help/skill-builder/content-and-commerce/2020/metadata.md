@@ -31,12 +31,12 @@ Mettre en place une stratégie claire pour optimiser la découvrabilité.
 
 ## Ressources
 
-*[Utilisez des schémas de métadonnées pour gérer les métadonnées des ressources](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html)
+*[Utilisez des schémas de métadonnées pour gérer les métadonnées des ressources](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/metadata.html?lang=fr)
 *[Extension de schémas de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-schemas.html?lang=fr)
 *[Optimisation de la création de métadonnées avec des métadonnées en cascade](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use.html?lang=fr)
 *[Appliquer automatiquement des métadonnées aux ressources à l’aide de profils de métadonnées](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/metadata-profiles.html?lang=fr)
-*[Schémas De Métadonnées AEM](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=en#administer)
-*[Gestion des métadonnées des ressources](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=en#RegisteringacustomnamespacewithinAEM)
+*[Schémas De Métadonnées AEM](https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/metadata-schemas.html?lang=fr#administer)
+*[Gestion des métadonnées des ressources](https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/metadata.html?lang=fr#RegisteringacustomnamespacewithinAEM)
 
 ## Enregistrements de séries
 

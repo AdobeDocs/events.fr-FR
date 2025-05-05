@@ -33,5 +33,5 @@ Dans ce fichier GEM, découvrez comment :
 * Gilles Knobloch, ingénieur en chef, Adobe
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

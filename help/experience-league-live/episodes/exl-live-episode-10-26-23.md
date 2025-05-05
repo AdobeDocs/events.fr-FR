@@ -27,5 +27,5 @@ La page d’accueil entièrement repensée de Workfront est devenue un moteur de
 
 Lors de cette session en direct Experience League, l’expert produit Ben Robbins vous guidera tout au long de la nouvelle expérience d’accueil, y compris les nouvelles commandes de mise en page d’administration et les améliorations intéressantes de 2024. Et Jamie Smith, client de Workfront, partagera des informations sur la manière dont la nouvelle expérience personnelle stimule la productivité à AT&amp;T.
 
-**Pour continuer la discussion, veuillez visiter la [Communauté Experience League Post!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470){target="_blank"}**
+**Pour continuer la discussion, veuillez visiter la [Communauté Experience League Post!](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/10-26-webinar-q-amp-a-thread-workfront-release-deep-dive-new/td-p/627470?profile.language=fr){target="_blank"}**
 

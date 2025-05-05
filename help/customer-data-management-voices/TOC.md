@@ -21,8 +21,8 @@ ht-degree: 6%
    + [Amélioration des expériences avec les profils client](cdm/building-better-experiences-with-customer-profiles.md)
    + [Amélioration des stratégies de gestion des données par les équipes marketing](cdm/how-marketing-teams-are-improving-data-management-strategies.md)
 + Gouvernance et confidentialité des données d’audience et de profil {#governance}
-   + [10 considérations à prendre en compte pour une gestion des données client responsable](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
-   + [Élever le rôle du marketeur en tant que responsable des données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
+   + [10 considérations à prendre en compte pour une gestion des données client responsable](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=fr)
+   + [Élever le rôle du marketeur en tant que responsable des données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=fr)
    + [Gouvernance et confidentialité des données du profil d’audience](governance/healthcare-shield.md)
 + Discussions sur le secteur {#industry}
    + [Création d’expériences superbes avec vos données propriétaires](industry/build-superb-experiences-with-your-first-party-data.md)

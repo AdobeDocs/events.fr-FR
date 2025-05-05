@@ -28,5 +28,5 @@ Antonio Sanso, ingénieur logiciel, Adobe
 
 [Obtenir le fichier](assets/oauth-server-functionality-in-aem-7-23-14.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

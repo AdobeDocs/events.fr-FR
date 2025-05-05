@@ -28,5 +28,5 @@ Date : 08/22/2018
 
 [Obtenir le fichier](assets/aem-gems-aem-queryandindextroubleshooting-08222018.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

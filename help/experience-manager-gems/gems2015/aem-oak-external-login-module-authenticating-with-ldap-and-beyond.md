@@ -28,5 +28,5 @@ Voir le nouveau module de connexion externe d’Apache Jackrabbit Oak. Découvre
 
 [Obtenir le fichier](assets/oak-ldap-cqgems.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

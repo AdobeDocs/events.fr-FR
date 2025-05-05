@@ -33,5 +33,5 @@ Au cours de ce webinaire enregistré, vous apprendrez à calculer le retour sur 
 
 ## Ressources utiles
 
-[Visite du Gestionnaire de Data Warehouse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-[Connecter vos données](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+[Visite du Gestionnaire de Data Warehouse](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html?lang=fr)
+[Connecter vos données](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html?lang=fr)

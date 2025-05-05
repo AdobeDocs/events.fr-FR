@@ -22,7 +22,7 @@ Découvrez comment utiliser l’extension Edge Bridge pour combler le fossé de 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434575/?quality=12&learn=on)
 
-**Pour continuer la discussion, veuillez visiter la [discussion sur la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990#M550){target="_blank"}.**
+**Pour continuer la discussion, veuillez visiter la [discussion sur la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-are-you-ready-to/m-p/704990?profile.language=fr#M550){target="_blank"}.**
 
 
 **Afficher les détails** :

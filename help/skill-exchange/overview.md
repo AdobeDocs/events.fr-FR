@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # L&#39;Expérience Met L&#39;Exchange Des Compétences {#overview}
 
-<img alt="L&apos;Expérience Met L&apos;Exchange Des Compétences" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png" />
+<img alt="L&apos;Expérience Met L&apos;Exchange Des Compétences" src="https://cdn.experienceleague.adobe.com/thumb/the-skill-exchange.png?lang=fr" />
 
 Experience Makers L’Exchange de compétences est une série mondiale d’événements d’apprentissage client virtuels, axés sur l’exploration des solutions Adobe Experience Cloud. Ce programme offre l’occasion de découvrir des experts et des pairs experts d’Adobe en partageant les bonnes pratiques et les conseils et astuces.
 

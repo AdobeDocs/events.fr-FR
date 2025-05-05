@@ -28,4 +28,4 @@ La plupart des parcours clients étant aujourd’hui multi-surface et multi-poin
 
 Lors de cet événement de diffusion en direct, des experts Adobes ont présenté les dernières fonctionnalités de classement intelligent des offres et ont montré comment ajouter des offres aux parcours et aux campagnes dans Adobe Journey Optimizer.  Ils ont également montré comment les offres peuvent être placées dans des canaux Journey Optimizer natifs tels que les e-mails, les SMS et les applications mobiles, ainsi que dans des systèmes externes et des applications intégrées telles qu’Adobe Target.
 
-Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802#M55) de Adobe Experience League.
+Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-deliver-the-right/m-p/554802?profile.language=fr#M55) de Adobe Experience League.

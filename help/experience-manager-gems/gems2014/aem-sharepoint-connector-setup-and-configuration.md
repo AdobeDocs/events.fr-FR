@@ -33,5 +33,5 @@ Tarun Aggarwal, ingénieur logiciel en chef, Adobe
 
 [Obtenir le fichier](assets/cq-gems-sharepoint-connector.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

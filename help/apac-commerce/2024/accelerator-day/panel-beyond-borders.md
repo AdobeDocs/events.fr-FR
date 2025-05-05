@@ -9,7 +9,7 @@ duration: 2234
 last-substantial-update: 2024-05-21T00:00:00Z
 jira: KT-15539
 hidefromtoc: true
-badgeEvent: label="Journée de l’accélérateur Adobe Commerce" type="positive" url="https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/overview"
+badgeEvent: label="Journée de l’accélérateur Adobe Commerce" type="positive" url="https://experienceleague.adobe.com/fr/docs/events/apac-commerce-recordings/2024/overview"
 exl-id: 44174e44-f84e-4a94-ab4b-2c31f2684612
 source-git-commit: 0ebc7343e2d19e91f27c1bbba20f290ef7df5377
 workflow-type: tm+mt

@@ -24,7 +24,7 @@ Découvrez tout sur les composants principaux et leurs fonctionnalités associé
 
 Gabriel Walt, chef de produit, Adobe
 
-[Documentation sur les composants principaux AEM](https://helpx.adobe.com/experience-manager/core-components/user-guide.html)
+[Documentation sur les composants principaux AEM](https://helpx.adobe.com/fr/experience-manager/core-components/user-guide.html)
 
 AEM Gems - AEM Core Components - Date : 12/05/2018
 

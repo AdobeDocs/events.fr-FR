@@ -77,7 +77,7 @@ Rejoignez le webinaire sur la mise à jour des produits Adobe Commerce pour déc
           <em>Release date June 2023 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Release notes</a>
       <p>
     </td>
     <td>
@@ -92,7 +92,7 @@ Rejoignez le webinaire sur la mise à jour des produits Adobe Commerce pour déc
           <em>Release date Mar 2023 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Release notes</a>
       <p>
     </td>
     <td>
@@ -107,7 +107,7 @@ Rejoignez le webinaire sur la mise à jour des produits Adobe Commerce pour déc
           <em>Release date  Feb 2023 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Release notes</a>
       <p>
     </td>
   </tr>  
@@ -124,7 +124,7 @@ Rejoignez le webinaire sur la mise à jour des produits Adobe Commerce pour déc
           <em>Release date  Oct 13, 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Release notes</a>
       <p>
     </td>
     <td>
@@ -139,7 +139,7 @@ Rejoignez le webinaire sur la mise à jour des produits Adobe Commerce pour déc
           <em>Release date  Sept 1, 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Release notes</a>
       <p>
     </td>
     <td>
@@ -154,7 +154,7 @@ Rejoignez le webinaire sur la mise à jour des produits Adobe Commerce pour déc
           <em>Release date  Aug 8, 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Release notes</a>
       <p>
     </td>
 </tr>
@@ -171,7 +171,7 @@ Rejoignez le webinaire sur la mise à jour des produits Adobe Commerce pour déc
           <em>Release date  June 30, 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Release notes</a>
       <p>
     </td>
     <td>
@@ -186,7 +186,7 @@ Rejoignez le webinaire sur la mise à jour des produits Adobe Commerce pour déc
           <em>Release date  June 9, 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Release notes</a>
       <p>
     </td>
     <td>
@@ -201,7 +201,7 @@ Rejoignez le webinaire sur la mise à jour des produits Adobe Commerce pour déc
           <em>Released  May 5, 2022 </em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">Release notes</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr">Release notes</a>
       <p>
     </td>
   </tr>

@@ -21,4 +21,4 @@ Le nouveau canal web permet aux marketeurs de créer des campagnes web avec un c
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420129/?learn=on)
 
-Vous avez des questions à ce sujet ? Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366#M121) de Adobe Experience League.
+Vous avez des questions à ce sujet ? Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-explore-the/m-p/599366?profile.language=fr#M121) de Adobe Experience League.

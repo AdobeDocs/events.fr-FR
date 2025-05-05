@@ -27,5 +27,5 @@ Si vous découvrez les outils de collecte de données modernes d’Adobe et que 
 
 Commencez la vidéo ci-dessus pour voir une relecture de cet événement de diffusion en direct.
 
-Vous avez des questions à ce sujet ? Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754#M476) de Adobe Experience League.
+Vous avez des questions à ce sujet ? Poursuivez la discussion sur ce sujet dans la [publication communautaire](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-get-data/m-p/589754?profile.language=fr#M476) de Adobe Experience League.
 

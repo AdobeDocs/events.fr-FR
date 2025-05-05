@@ -31,6 +31,6 @@ Ce webinaire a été organisé le 25 janvier 2022 et présenté par Bertrand de 
 
 >[!MORELIKETHIS]
 >
->* [Page Événement de groupe d’utilisateurs Adobe Experience Manager correspondant](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266)
+>* [Page Événement de groupe d’utilisateurs Adobe Experience Manager correspondant](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-adobe-experience-manager-aem-as-a-cloud-service-2021/ba-p/437266?profile.language=fr)
 >* [Thread contextuel correspondant](https://adobe.ly/3rqbSOz)
 >* Inscrivez-vous au [Groupe d’utilisateurs Adobe AEM](https://aem-augs.adobe.com/) pour être averti des webinaires à venir.

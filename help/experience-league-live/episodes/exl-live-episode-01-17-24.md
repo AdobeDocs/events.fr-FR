@@ -25,7 +25,7 @@ Rejoignez Bryan, Eric et Doug alors qu&#39;ils discutent de la façon de se rapp
 
 >[!BEGINSHADEBOX &quot;Vous avez des questions ?&quot;]
 
-Poursuivez la discussion sur le [forum de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+Poursuivez la discussion sur le [forum de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=fr#M3582).
 
 >[!ENDSHADEBOX]
 

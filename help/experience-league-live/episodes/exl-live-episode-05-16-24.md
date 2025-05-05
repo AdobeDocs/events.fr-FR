@@ -26,8 +26,8 @@ Découvrez la méthode la plus récente et la plus performante (NEW) pour migrer
 
 Nous configurons un flux de données sur la périphérie, et installons et configurons l’extension SDK Web dans notre propriété Tags. Nous montrons comment migrer différents types de règles de l’extension Analytics vers le SDK Web.
 
-Pour poser des questions ou interagir avec des experts en Adobe ainsi qu&#39;avec vos pairs, consultez la [discussion de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538){target="_blank"}.
+Pour poser des questions ou interagir avec des experts en Adobe ainsi qu&#39;avec vos pairs, consultez la [discussion de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-data/experience-league-live-post-session-discussion-this-is-the-way/m-p/673538?profile.language=fr){target="_blank"}.
 
-Pour obtenir de la documentation supplémentaire, voir [Mise en oeuvre d’Adobe Analytics à l’aide du SDK Web Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/analytics/implementation/aep-edge/web-sdk/overview).
+Pour obtenir de la documentation supplémentaire, voir [Mise en oeuvre d’Adobe Analytics à l’aide du SDK Web Adobe Experience Platform](https://experienceleague.adobe.com/fr/docs/analytics/implementation/aep-edge/web-sdk/overview).
 
 Pour assister à un **webinaire sur les étapes stratégiques de mise en oeuvre du SDK Web**, inscrivez-vous [ICI](https://engage.adobe.com/step_by_step_guide_implement.html).

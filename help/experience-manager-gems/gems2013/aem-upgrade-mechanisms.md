@@ -33,5 +33,5 @@ Bertrand Delacretaz, développeur senior, Adobe
 [Documentation](https://docs.adobe.com/docs/en/cq/current/deploying/upgrading.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

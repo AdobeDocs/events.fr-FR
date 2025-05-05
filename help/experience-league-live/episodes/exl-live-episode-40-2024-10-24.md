@@ -21,7 +21,7 @@ Découvrez comment la composition d’audiences fédérées offre une approche c
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436457?quality=12&learn=on)
 
-**Pour continuer la discussion, veuillez visiter notre [discussion sur la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976#M636){target="_blank"}.**
+**Pour continuer la discussion, veuillez visiter notre [discussion sur la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/adobe-experience-league-live-harmonize-audiences-in-experience/m-p/718976?profile.language=fr#M636){target="_blank"}.**
 
 **Afficher les détails** :
 Accédez aux entrepôts de données d’entreprise pour composer des audiences et optimiser les expériences lancées sur la marque et en temps réel.

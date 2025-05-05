@@ -31,4 +31,4 @@ Au cours de cette session, David abordera :
 **Diapositives du présentateur**
 
 [Obtenir un fichier](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
-[Revenir à l’aperçu](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Revenir à l’aperçu](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)

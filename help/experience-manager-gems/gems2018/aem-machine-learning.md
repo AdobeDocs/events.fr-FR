@@ -29,10 +29,10 @@ Jonas Dahl, chef de produit, Adobe
 
 ## Ressources {#resources}
 
-[Balises intelligentes améliorées - AEM Assets](https://helpx.adobe.com/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
+[Balises intelligentes améliorées - AEM Assets](https://helpx.adobe.com/fr/experience-manager/6-4/assets/using/enhanced-smart-tags.html)
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
 
 >[!MORELIKETHIS]

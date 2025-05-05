@@ -96,7 +96,7 @@ Pensez-vous à migrer votre mise en oeuvre vers le nouveau SDK Web Adobe ?  Nous
 
 <br> 
 
-Poursuivez la discussion sur ce sujet dans la [discussion de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620#M240).
+Poursuivez la discussion sur ce sujet dans la [discussion de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-useful-extensions/m-p/542620?profile.language=fr#M240).
 <br> 
 
 ## Sessions LIVE Experience League supplémentaires de cette série de collecte de données

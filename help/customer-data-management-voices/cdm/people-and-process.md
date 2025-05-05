@@ -25,5 +25,5 @@ Découvrez comment tirer le meilleur parti de votre plateforme de données clien
 ## Informations supplémentaires 
 
 * [Rationalisation de votre premier fichier de gestion des données](first-mile.md)
-* [Élever le rôle du marketeur en tant que responsable des données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
-* [10 considérations à prendre en compte pour une gestion des données client responsable](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+* [Élever le rôle du marketeur en tant que responsable des données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=fr)
+* [10 considérations à prendre en compte pour une gestion des données client responsable](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=fr)

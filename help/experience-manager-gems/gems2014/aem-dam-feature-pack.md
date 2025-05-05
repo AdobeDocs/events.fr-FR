@@ -31,5 +31,5 @@ La session démontrera également la capacité de la configuration de la surface
 Varun Nagpal, informaticien, Adobe
 
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

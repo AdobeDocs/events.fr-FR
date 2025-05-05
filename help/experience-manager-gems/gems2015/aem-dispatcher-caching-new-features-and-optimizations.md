@@ -33,5 +33,5 @@ Pour optimiser votre expérience AEM, il est important d’affiner votre cache D
 
 [Obtenir le fichier](assets/aemgems-dispatcher-caching-part2-jan-28-2015.pdf)
 <!--
-[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get back to the Overview](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)
 -->

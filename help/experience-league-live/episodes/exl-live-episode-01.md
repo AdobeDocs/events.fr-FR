@@ -21,5 +21,5 @@ Vous l’avez vu sur scène au cours de l’Adobe Summit. Vous l’avez entendu
 
 >[!VIDEO](https://video.tv.adobe.com/v/335921/?quality=12&learn=on)
 
-Pour discuter de cette session, consultez la [discussion dans la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498){target="_blank"}.
+Pour discuter de cette session, consultez la [discussion dans la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/questions-and-discussion-for-experience-league-live-ep-1-my/td-p/419498?profile.language=fr){target="_blank"}.
 
