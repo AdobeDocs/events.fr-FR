@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: e1d87cd15d45ea0c9ea94bfe8063e7a5ace97214
+source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '89'
 ht-degree: 3%
 
 ---
@@ -36,5 +36,6 @@ ht-degree: 3%
    + [Optimiser la délivrabilité des e-mails](maximize-email-deliverability.md)
    + [Optimisez votre instance avec une petite équipe](small-team-instance.md)
    + [Notation de processus complexes dans le journal d’activité](activity-log.md)
+   + [Mise à niveau de la synchronisation en arrière-plan de Salesforce et surveillance de l’utilisation](salesforce-background-sync.md)
    + [Déverrouiller le marketing global](global-marketing.md)
    + [Utilisation de Webhooks pour transférer des données](webhooks.md)
