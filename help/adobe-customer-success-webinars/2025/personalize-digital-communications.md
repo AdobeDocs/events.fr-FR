@@ -8,13 +8,13 @@ doc-type: Event
 duration: 2971
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18065
-source-git-commit: 9ea63767cb9164dba3568b7b0985493dd47a2fbb
+exl-id: d8814206-7a6d-42a5-845f-232839f9a05c
+source-git-commit: 59fbdc672cf8faee7d18d0922eb90268e7202490
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
-
 
 # Personnaliser les communications numériques dans les services financiers avec AEM Forms
 
@@ -32,7 +32,7 @@ Découvrez comment AEM Forms peut aider les sociétés de services financiers à
    * Le traitement en personne est 42 fois plus coûteux que le traitement numérique.
    * L’intégration d’un client en personne coûte 55 $ de plus qu’en ligne.
 
-* **Capacités d&#39;AMForms** AMForms est une solution de bout en bout qui favorise l&#39;efficacité opérationnelle et les expériences utilisateur exceptionnelles. Les fonctionnalités clés incluent les formulaires omnicanaux, les workflows automatisés, les communications personnalisées aux clients et clientes, ainsi que l’intégration à Adobe Experience Cloud et AMSight. Ces fonctionnalités aident les entreprises à réduire de 63 % l’abandon de formulaire, à augmenter de 113 % le libre-service et à améliorer de 58 % la vitesse de remplissage des formulaires.
+* **Fonctionnalités d’AEM Forms** AEM Forms est une solution de bout en bout qui améliore l’efficacité opérationnelle et offre des expériences utilisateur exceptionnelles. Les fonctionnalités clés incluent les formulaires omnicanaux, les workflows automatisés, les communications personnalisées aux clients et clientes, ainsi que l’intégration à Adobe Experience Cloud et AEM Sights. Ces fonctionnalités aident les entreprises à réduire de 63 % l’abandon de formulaire, à augmenter de 113 % le libre-service et à améliorer de 58 % la vitesse de remplissage des formulaires.
 
 * **Innovations en matière de conception de formulaire** l’introduction d’un concepteur basé sur le cloud simplifie la création de formulaires avec des fonctionnalités de glisser-déposer, des fragments pour le contenu réutilisable et l’intégration aux modèles de données. Cet outil modernisé réduit la dépendance à l’informatique et permet des mises à jour plus rapides, ce qui réduit le délai d’exécution de huit semaines pour les changements de formulaire dans certaines entreprises.
 
