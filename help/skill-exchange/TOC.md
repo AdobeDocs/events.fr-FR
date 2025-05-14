@@ -3,9 +3,9 @@ user-guide-title: L’échange de compétences
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Collection d’enregistrements d’Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 974518ee6e9955f64cfbbd1ac0b4d45a5bf1aebe
+source-git-commit: 3df61129609f91640357ef9346f0e82fe0fff7b3
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '663'
 ht-degree: 9%
 
 ---
@@ -186,6 +186,7 @@ ht-degree: 9%
       + [Avenir d’Adobe Workfront Proof](workfront/apr2022/workfront-proof.md)
       + [Gros plan sur les créateurs d’expérience](workfront/apr2022/grow-track-spotlight.md)
       + [Découvrir les créateurs d’expérience en vedette](workfront/apr2022/learn-track-spotlight.md)
+      + [Maîtriser les dates et les chronologies de projets](workfront/apr2022/projects-dates-timelines.md)
       + [Présentation des objets dans Workfront](workfront/apr2022/understanding-objects.md)
 + Morsures Numériques {#digital-bites}
    + [Optimisez votre efficacité opérationnelle grâce à un modèle opérationnel haut de gamme](digital-bites/operational-model.md)
