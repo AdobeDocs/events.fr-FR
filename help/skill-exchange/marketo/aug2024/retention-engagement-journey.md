@@ -26,4 +26,4 @@ Au cours de cette session, vous apprendrez :
 * Utilisez différents types de programmes et des techniques d’automatisation pour segmenter votre audience et la faire passer en toute simplicité par les étapes d’engagement, de vente de produits et de renouvellement.
 * Créez du contenu hyper-personnalisé avec des jetons au niveau de la personne ou du programme et des scripts Velocity
 
->[!VIDEO](https://video.tv.adobe.com/v/3432946/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456852/?learn=on&captions=fre_fr)
