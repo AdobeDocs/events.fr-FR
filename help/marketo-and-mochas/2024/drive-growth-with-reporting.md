@@ -1,7 +1,7 @@
 ---
-title: Marketo et Mochas - Stimuler la croissance avec la création de rapports (Maturity Pt 3)
-description: Rejoignez les conseillers commerciaux d’Adobe, Cynthia Chang et Carly Gaver, pour la troisième partie de la série de webinaires sur la maturité Marketo, en explorant la manière d’exploiter les outils de reporting Marketo pour stimuler la croissance de l’entreprise, surveiller les performances et fournir des mesures d’impact, avec des questions-réponses en direct.
-solution: Marketo
+title: Marketo et Mochas - Stimuler la croissance grâce au reporting (maturité Pt 3)
+description: Rejoignez Cynthia Chang et Carly Gaver, conseillères d’entreprise Adobe, pour la troisième partie de la série de webinaires sur la maturité de Marketo, qui exploreront la manière d’exploiter les outils de création de rapports de Marketo pour stimuler la croissance de l’entreprise, surveiller les performances et fournir des mesures d’impact, avec des questions-réponses en direct.
+solution: Marketo Engage
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,54 +9,54 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
 
 ---
 
-# Marketo et Mochas : stimuler la croissance avec les rapports (Maturity Pt 3)
+# Marketo et Mochas : stimuler la croissance grâce au reporting (maturité Pt 3)
 
-Rejoignez les conseillers aux affaires de l’Adobe, Cynthia Chang et Carly Gaver, pour la troisième partie de notre série de webinaires sur la maturité de Marketo sur la stimulation de la croissance de l’entreprise avec les outils de reporting Marketo. Dans le dernier webinaire de la série, nous discutons de l’utilisation des fonctionnalités de reporting de Marketo pour vous aider à parfaire votre utilisation de Marketo. Nous commençons par des conseils sur la manière d’exploiter les fonctionnalités natives de Marketo et la création de rapports pour surveiller les performances de votre instance. Nous vous proposons ensuite de parcourir Marketo en  des rapports de base et avancés pour obtenir des mesures précises et pertinentes qui améliorent votre processus de prise de décision et permettent d’atteindre vos objectifs commerciaux. Ne manquez pas cette opportunité pour optimiser le potentiel de vos analyses et rapports marketing. Comme toujours, nous répondons à vos questions en direct pendant la session de questions-réponses !
+Rejoignez Cynthia Chang et Carly Gaver, consultantes et conseillers d’entreprise Adobe, pour la partie 3 de notre série de webinaires sur la maturité de Marketo, consacrée à la stimulation de la croissance des entreprises avec les outils de création de rapports de Marketo. Dans notre dernier webinaire de la série, nous discutons de la manière d’utiliser les fonctionnalités de création de rapports de Marketo pour vous aider à faire évoluer votre utilisation de Marketo. Nous commençons par vous donner des conseils sur la manière d’exploiter les fonctionnalités natives de Marketo et les rapports pour surveiller les performances de votre instance. Nous examinons ensuite comment naviguer dans les rapports de base et avancés de Marketo afin de fournir des mesures précises et percutantes qui améliorent votre processus de prise de décision et vous aident à atteindre vos objectifs commerciaux. Ne manquez pas cette occasion d’optimiser le potentiel de vos analyses et rapports marketing. Comme toujours, nous répondons à vos questions en direct pendant la session de questions-réponses !
 
-## Maturité Partie 3, Contour
+## Échéance Partie 3, Plan
 
-Maturité La troisième partie de la série Maturité de Marketo se concentre sur la stimulation de la croissance grâce aux rapports. En résumé,
+Maturité La partie 3 est la troisième partie de la série Maturité de Marketo, qui se concentre sur la croissance avec le reporting. Pour résumer,
 
-* La première partie était axée sur la phase d’analyse, qui pose les bases de l’instance Marketo.
-* La deuxième partie couvrait la phase de marche, optimisant et développant l&#39;utilisation.
-* La troisième partie porte sur la phase d’exécution, la mise à l’échelle et l’amélioration de l’efficacité.
+* La première partie était axée sur la phase d’analyse, jetant les bases de l’instance Marketo.
+* La partie 2 couvrait la phase de marche, l&#39;optimisation et l&#39;expansion de l&#39;utilisation.
+* La partie 3 porte sur la phase d’exécution, la mise à l’échelle et l’amélioration de l’efficacité.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435407/?learn=on)
 
-## Présentateurs
+## Présentateurs et présentatrices
 
 * Cynthia Chang et Carly Gaver étaient les présentateurs.
-* Cynthia est avec Adobe depuis deux ans, elle a travaillé auparavant dans le conseil et en tant que client Marketo.
-* Carly est avec Adobe depuis trois ans, avec une formation en marketing numérique et en automatisation du marketing.
+* Cynthia travaille chez Adobe depuis deux ans. Elle a auparavant travaillé dans le conseil et en tant que cliente Marketo.
+* Carly travaille pour Adobe depuis trois ans et possède une formation en marketing numérique et en automatisation du marketing.
 
-## Principales acquisitions
+## Principaux points à retenir
 
-* **Surveillance** Effectuant une surveillance continue des performances de l’instance, notamment de la délivrabilité et de l’intégrité de la base de données.
-* **Audit** Vérification de l’accès des utilisateurs, des autorisations et de la synchronisation CRM.
-* **Reporting** Utilisation de fonctionnalités natives et de puissantes fonctionnalités de reporting pour obtenir des informations exploitables.
+* **Surveillance** Surveiller en permanence les performances de l’instance, y compris la délivrabilité et l’intégrité de la base de données.
+* **Audit** Vérification de l’accès des utilisateurs et utilisatrices, des autorisations et de la synchronisation CRM.
+* **Création de rapports** Utilisez les fonctionnalités natives et les puissantes fonctionnalités de création de rapports pour obtenir des informations exploitables.
 
 ### Outils et bonnes pratiques
 
-* **Rapport Performance des emails** Surveillez les mesures des emails comme la délivrabilité, les taux d’ouverture et les taux de désabonnement.
-* **Email Insights** **Tableau de bord visuel pour les performances des emails, exportable vers Excel, PDF ou PowerPoint.
-* **Rapport Performance du programme** Suivi des états et des performances du programme.
-* **Inspecteur de campagne** Surveillez les campagnes par lots et les déclencheurs actifs pour éviter les retards.
-* **Rapport Performance des personnes** Analyser les tendances de croissance de la base de données et les variations de données.
+* **Rapport sur les performances des e-mails** Surveillance des mesures relatives aux e-mails, telles que la délivrabilité, les taux d’ouverture et de désabonnement.
+* **Informations sur les e-mails** **Tableau de bord visuel pour les performances des e-mails, exportable vers Excel, PDF ou PowerPoint.
+* **Rapport sur le rendement du programme** Suivi des états et du rendement du programme.
+* **Inspecteur de campagne** Surveillance des déclencheurs actifs et des campagnes par lots pour éviter les retards.
+* **Rapport sur les performances des personnes** Analyse des tendances de croissance des bases de données et des variations de données.
 
 ### Problèmes courants et solutions
 
-* **Backlog de campagne** en raison de l’empilement de plusieurs processus, d’un trop grand nombre de campagnes de déclenchement et de listes intelligentes inefficaces.
-* **Problèmes de synchronisation CRM** Les problèmes courants incluent les autorisations, la validation des champs, la limite de l’unité centrale apex et les modifications des valeurs de liste de sélection.
-* **Accès des utilisateurs et gouvernance** Contrôlez régulièrement l’accès des utilisateurs et garantissez le respect des bonnes pratiques de gouvernance.
+* **liste d’attente des campagnes** due à l’empilement de plusieurs processus, à un trop grand nombre de campagnes de déclenchement et à des listes intelligentes inefficaces.
+* **Problèmes de synchronisation CRM** Les problèmes courants incluent les autorisations, la validation des champs, la limite apex CPU et les modifications des valeurs de la liste de sélection.
+* **Accès des utilisateurs et utilisatrices et gouvernance** Contrôlez régulièrement l’accès des utilisateurs et utilisatrices et assurez-vous du respect des bonnes pratiques de gouvernance.
 
-### Création de rapports et analyses avancés
+### Rapports et analyses avancés
 
 * **Marketo Measure** Un produit complémentaire offrant des modèles d’attribution avancés et un suivi complet.
-* **Analyses de Parcours avancées** Pour la création de rapports sur le cycle de vie et la modélisation visuelle.
+* **Analytique de Parcours avancée** pour le reporting et la modélisation visuelle du cycle de vie.
