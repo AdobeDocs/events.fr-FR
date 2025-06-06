@@ -7,13 +7,15 @@ feature: Integrations, Email Design, Personalization
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-06-05 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Amarnath Vannarath, Rohan Bhatt
+last-substantial-update: 2025-06-06T00:00:00Z
 exl-id: 0f8157a2-b0d1-4d46-a682-0268dadb65c5
-source-git-commit: 3dd5c359900bf76fa45f0a774d778eed171e20d9
+source-git-commit: 389135f15fe353f4cc3e1100f65ae3fabaee141a
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
+
 
 # Workflows agiles pour contenu personnalisé à grande échelle
 
@@ -23,8 +25,4 @@ Que vos équipes créent du contenu directement dans AJO, participent à des sé
 
 Ne manquez pas cette occasion de transformer vos stratégies marketing et d&#39;engager votre public comme jamais auparavant.
 
-[Inscrivez-vous dès maintenant](https://engage.adobe.com/ExpLeagueLive-250605.html) et participez à la révolution de l’engagement client !
-
-![bannière web](/help/experience-league-live/assets/WebBannerExLLive-June05-2025.png)
-
-Vous n&#39;y arrivez pas ? Inscrivez-vous quand même et nous vous enverrons l&#39;enregistrement après. Nous espérons vous y voir !
+>[!VIDEO](https://video.tv.adobe.com/v/3463407/?quality=12&learn=on)
