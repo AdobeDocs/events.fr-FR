@@ -1,6 +1,6 @@
 ---
-title: AEM Forms
-description: AEM Forms améliore la gestion des performances en offrant une efficacité opérationnelle et des expériences utilisateur exceptionnelles. Les principaux avantages incluent des taux de remplissage de formulaires plus élevés, des taux de conversion plus élevés, des expériences utilisateur améliorées et une réduction des erreurs client. Les fonctionnalités couvrent les formulaires omnicanaux, les workflows automatisés, les communications client interactives et l’intégration à Adobe Experience Cloud, prises en charge par l’IA pour une personnalisation améliorée. Les impacts sur l’entreprise incluent une augmentation de 2,5 fois des taux de conversion d’inscription en ligne, une modification des formulaires 85 % plus rapide et une diminution de 50 % des erreurs client. Les performances natives dans le cloud garantissent que les formulaires sont à jour, évolutifs, sécurisés et disponibles. Les innovations comprennent la création basée sur des documents, les formulaires conversationnels et la prise en charge de l’éditeur universel. L’IA aide à créer des formulaires, à automatiser les tests et à améliorer l’efficacité. Accédez aux premières innovations en contactant Adobe. Les sessions du Summit comprennent un leadership éclairé, des innovations majeures et des études de cas. Accédez aux ressources, inscrivez-vous au sommet et contactez les responsables de compte des solutions pour obtenir de l’aide.
+title: Expressos et Experience Manager - AEM Forms
+description: AEM Forms améliore les performances grâce aux formulaires omnicanaux, à la personnalisation optimisée par l’IA et à l’évolutivité native du cloud, ce qui entraîne des conversions 2,5 fois plus rapides, des modifications 85 % plus rapides et 50 % moins d’erreurs.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +8,9 @@ duration: 3297
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17535
 exl-id: cb810398-5e62-4128-8338-71ea1bccc6f9
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
