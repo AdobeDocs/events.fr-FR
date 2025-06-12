@@ -26,4 +26,4 @@ Points clés de la discussion
 * Examinez les cas d’utilisation clés, l’application des fonctionnalités, ainsi que des conseils et astuces pour la progression de la maturité.
 * Discutez des fonctionnalités et améliorations à venir de l’outil
 
->[!VIDEO](https://video.tv.adobe.com/v/3463357/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463360/?learn=on&enablevpops&captions=fre_fr)
