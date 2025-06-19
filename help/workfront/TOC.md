@@ -3,9 +3,9 @@ user-guide-title: Événements Workfront
 breadcrumb-title: Événements Workfront
 user-guide-description: Événements Workfront
 solution: Workfront
-source-git-commit: 2dc76496062fdb4cf7b0c8bd09a1d1afd90fdb08
+source-git-commit: 594aa341ffe96b91b2b8535f8748b770f1baf349
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -47,4 +47,6 @@ ht-degree: 0%
 + Files d’attente des demandes et admission {#request-queues-and-intake}
    + [Files d’attente de demandes et Forms d’entrée](user-groups/request-queues-and-intake-forms.md)
 + Versions {#releases}
+   + [Version 25.4](webinars/25-4-release-webinar.md)
    + [Version 24.1](webinars/24-1-release-webinar.md)
+
