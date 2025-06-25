@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 3fb60f3db95b4e760287da7c538cce7f559e0181
+source-git-commit: 65bbb2d2658a343005abfc597bf13aa814b8cc82
 workflow-type: tm+mt
-source-wordcount: '539'
-ht-degree: 4%
+source-wordcount: '553'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 4%
 
 + [Vue d’ensemble](overview.md)
 + Épisodes {#episodes}
+   + [EP.49 : alimenter du contenu personnalisé dans Journey Optimizer avec des fragments de contenu AEM et Dynamic Media](episodes/exl-live-episode-07-31-25.md)
    + [Ep. 48 : Capping De La Fréquence Des Principal Et Hiérarchisation Des Conflits](episodes/exl-live-episode-06-18-25.md)
    + [Ep. 47 : Workflows agiles pour du contenu personnalisé à grande échelle](episodes/exl-live-episode-47-2025-06-05.md)
    + [Ep. 46 : Content Analytics : Optimisation des performances avec les informations d’IA](episodes/exl-live-episode-05-22-25.md)
