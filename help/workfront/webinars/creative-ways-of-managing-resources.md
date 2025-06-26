@@ -24,6 +24,6 @@ Si vous avez manqué la session en direct, l’enregistrement est publié ici et
 * [Workfront Slide Deck PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Creative+Ways+of+Managing+Resources+in+Adobe+Workfront+052025.pdf)
 * [Diaporama de l&#39;Université Western Governors](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Rick+C.s+Presentation+for+Workfront+Event_+Creative+Ways+of+Managing+Resources.pdf)
 * [Pont coulissant d&#39;entrepôt de chaussures de Designer DSW](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/DSW+SLIDES+FINAL+V2+-+Creative+Ways+of+Managing+Resources+in+Workfront+.pdf)
-* [Publication de la communauté Experience League avec des ressources supplémentaires](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-creative-ways-of-managing-resources-in-adobe/td-p/755145)
+* [Publication de la communauté Experience League avec des ressources supplémentaires](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-creative-ways-of-managing-resources-in-adobe/td-p/755145?profile.language=fr)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464296/?learn=on&enablevpops)
