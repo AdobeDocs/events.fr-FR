@@ -34,7 +34,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-5-0.md" title="Vidéo De Présentation De La Version 2025.5.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464307/?format=jpeg&nocache=1751033557118" alt="Vidéo De Présentation De La Version 2025.5.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464352/?format=jpeg&nocache=1751033557118&captions=fre_fr" alt="Vidéo De Présentation De La Version 2025.5.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,7 +57,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-4-0.md" title="Vidéo De Présentation De La Version 2025.04.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463991/?format=jpeg&nocache=1751033557127" alt="Vidéo De Présentation De La Version 2025.04.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464004/?format=jpeg&nocache=1751033557127&captions=fre_fr" alt="Vidéo De Présentation De La Version 2025.04.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,7 +80,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-3-0.md" title="Vidéo De Présentation De La Version 2025.3.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463859/?format=jpeg&nocache=1751033557157" alt="Vidéo De Présentation De La Version 2025.3.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463867/?format=jpeg&nocache=1751033557157&captions=fre_fr" alt="Vidéo De Présentation De La Version 2025.3.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +126,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="Vidéo De Présentation De La Version 2025.01.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1751033557182" alt="Vidéo De Présentation De La Version 2025.01.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456076/?format=jpeg&nocache=1751033557182&captions=fre_fr" alt="Vidéo De Présentation De La Version 2025.01.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -197,7 +197,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="Vidéo De Présentation De La Version 2025.01.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1751033557530" alt="Vidéo De Présentation De La Version 2025.01.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456076/?format=jpeg&nocache=1751033557530&captions=fre_fr" alt="Vidéo De Présentation De La Version 2025.01.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -220,7 +220,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-11-0.md" title="Vidéo De Présentation De La Version 2024.11.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?format=jpeg&nocache=1751033557575" alt="Vidéo De Présentation De La Version 2024.11.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440922/?format=jpeg&nocache=1751033557575&captions=fre_fr" alt="Vidéo De Présentation De La Version 2024.11.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -358,7 +358,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="Vidéo De Présentation De La Version 2024.5.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1751033557683" alt="Vidéo De Présentation De La Version 2024.5.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448064/?format=jpeg&nocache=1751033557683&captions=fre_fr" alt="Vidéo De Présentation De La Version 2024.5.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -381,7 +381,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-4-0.md" title="Vidéo De Présentation De La Version 2024.4.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1751033557649" alt="Vidéo De Présentation De La Version 2024.4.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446306/?format=jpeg&nocache=1751033557649&captions=fre_fr" alt="Vidéo De Présentation De La Version 2024.4.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -404,7 +404,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="Vidéo De Présentation De La Version 2024.3.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1751033557714" alt="Vidéo De Présentation De La Version 2024.3.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450609/?format=jpeg&nocache=1751033557714&captions=fre_fr" alt="Vidéo De Présentation De La Version 2024.3.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -427,7 +427,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="Vidéo De Présentation De La Version 2024.1.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1751033557666" alt="Vidéo De Présentation De La Version 2024.1.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448931/?format=jpeg&nocache=1751033557666&captions=fre_fr" alt="Vidéo De Présentation De La Version 2024.1.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
