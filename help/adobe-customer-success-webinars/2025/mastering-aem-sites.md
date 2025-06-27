@@ -27,4 +27,4 @@ Cette session offre une compréhension fondamentale de trois aspects essentiels 
 * Créer une navigation conviviale pour une expérience de site optimale
 * Poser les bases du SEO dans AEM Sites
 
->[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464317/?learn=on&enablevpops&captions=fre_fr)
