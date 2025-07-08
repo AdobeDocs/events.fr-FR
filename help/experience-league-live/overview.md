@@ -8,9 +8,9 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 0ee7c933d4278a09b3c69373c4bbc21274279ec8
+source-git-commit: 1617cde0fc7e455a4cf9dfb3d1082d9abe79620d
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '156'
 ht-degree: 4%
 
 ---
@@ -28,10 +28,6 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-31-25.md">
               <img alt="Experience League LIVE 31 juillet" src="episodes/assets/WebBanner-31July2025.png">
             </a>
-            <div>
-              <a href="episodes/exl-live-episode-07-31-25.md">
-                <strong>Limitation De La Fréquence Des Principal Et Hiérarchisation Des Conflits</strong>
-              </a>
             </div>
         </td>
     </tr>
@@ -100,5 +96,5 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
 
