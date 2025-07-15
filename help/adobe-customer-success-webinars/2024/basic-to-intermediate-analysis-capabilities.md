@@ -1,5 +1,5 @@
 ---
-title: Démarrage rapide Adobe Analytics et CJA pour les fonctionnalités d’analyse de base à intermédiaire
+title: Démarrage rapide Adobe Analytics et CJA pour des fonctionnalités d’analyse de base à intermédiaire
 description: La session a porté sur la configuration des fonctionnalités analytiques, la comparaison entre Adobe Analytics et Customer Journey Analytics, ainsi que sur les fonctionnalités clés des rapports marketing.
 solution: Customer Journey Analytics, Analytics
 role: Admin, Developer, Leader, User
@@ -9,7 +9,7 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Adobe Analytics et CJA : démarrage rapide pour les fonctionnalités d’analyse de base à intermédiaire
 
-Découvrez comment commencer rapidement à utiliser Adobe Analytics et Customer Journey Analytics (CJA) pour prendre en charge vos activités marketing avec des décisions axées sur les données : découvrez comment configurer votre organisation pour obtenir des fonctionnalités analytiques fiables, déterminez quand utiliser au mieux quelle solution d’analyse et mappez les fonctionnalités Analytics et CJA aux niveaux de maturité d’analyse pour créer des rapports marketing essentiels.
+Découvrez comment commencer rapidement à utiliser Adobe Analytics et Customer Journey Analytics (CJA) pour prendre en charge vos activités marketing avec des décisions basées sur les données : découvrez comment configurer votre organisation pour obtenir des fonctionnalités analytiques fiables, déterminez quand utiliser au mieux quelle solution d’analyse et mappez les fonctionnalités Analytics et CJA aux niveaux de maturité d’analyse pour créer des rapports marketing essentiels.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440933/?learn=on&enablevpops)
 
@@ -30,7 +30,7 @@ Découvrez comment commencer rapidement à utiliser Adobe Analytics et Customer 
 
 * **Présentation des orateurs**
    * Frederick, responsable principal du succès client chez Adobe, a présenté la session.
-   * Le Dr Kirsten Schaffer, responsable principale du succès client chez Adobe, est le présentateur.
+   * Le Dr Kerstin Schäfer, stratégiste principal du succès client chez Adobe, est le présentateur.
 
 * **Contenu de la session**
    * La session couvre la configuration d’une organisation pour des fonctionnalités analytiques fiables, des aspects de gouvernance et l’exécution de chemins d’accès pour les analyses et l’analyse des parcours client.
@@ -38,7 +38,7 @@ Découvrez comment commencer rapidement à utiliser Adobe Analytics et Customer 
 
 * **Principaux sujets abordés**
    * **Forces externes et internes** Impact sur l’analyse numérique, y compris les évolutions du marché, la confidentialité et la gouvernance, la démocratie des données et la complexité des données.
-   * **Construire une base analytique solide** Stratégie de mesure, collecte de données, informations et analyse, apprentissage, gouvernance des données.
+   * **Construire une base analytique solide** Stratégie de mesure, Collecte de données, insight et analyse, Apprentissage, Gouvernance des données.
    * **Configuration d’une équipe Digital Analytics** Rôles et responsabilités, création d’une équipe hybride et gestion efficace des requêtes Analytics.
    * **Options d’activation d’Adobe** Experience League, cours à la demande, cours dispensés par des formateurs, assistance de la communauté.
 
