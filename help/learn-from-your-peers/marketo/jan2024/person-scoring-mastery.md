@@ -37,6 +37,6 @@ Dans ce webinaire, vous apprendrez :
 * Thread de webinaire de la communauté de Marketing Nation - [Discussion](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
 * Notation des personnes/prospects lors d’exercices d’influence locale - [Télécharger la feuille de calcul](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * La grande liste des règles d’évaluation des leads - [Afficher la feuille de calcul](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
-* Bibliothèque d’importation de programme Marketo Engage - [Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* Bibliothèque d’importation de programme Marketo Engage - [Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=fr){target="_blank"}
 * Lead notant tout ce qu’il faut savoir sur le processus avant, pendant et après - [Webinaire à la demande](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * Le point de vue du champion sur le score des leads - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}
