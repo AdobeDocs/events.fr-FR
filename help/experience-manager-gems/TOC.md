@@ -2,7 +2,8 @@
 user-guide-title: Événements Adobe Experience Manager GEMS
 user-guide-description: Découvrez AEM Gems, une série de sessions d’immersion réalisées par des experts Adobe Experience Manager.
 breadcrumb-title: Événements AEM GEMS
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+solution: Experience Manager
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '770'
 ht-degree: 1%

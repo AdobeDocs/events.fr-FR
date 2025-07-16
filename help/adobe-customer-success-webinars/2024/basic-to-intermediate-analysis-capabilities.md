@@ -9,7 +9,7 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: a36ab2aa1a741baae0e23a4b8ad8f8418fcdbe59
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Découvrez comment commencer rapidement à utiliser Adobe Analytics et Customer 
 ## Points principaux
 
 * **Présentation de la session**
-   * La session s&#39;intitule « Démarrage rapide pour les capacités d&#39;analyse intermédiaire de base » et est dirigée par la Dre Kirsten Schaffer.
+   * Cette session, intitulée « Quickstart for Basic Intermediate Analysis Capabilities », est animée par Mme Kerstin Schäfer.
    * La session est en cours d&#39;enregistrement et le lien vers l&#39;enregistrement sera envoyé à tous les participants inscrits.
 
 * **Présentation des orateurs**

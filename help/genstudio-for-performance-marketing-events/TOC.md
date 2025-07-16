@@ -1,8 +1,10 @@
 ---
-user-guide-title: « [!DNL GenStudio for Performance Marketing Events] »
+user-guide-title: '[!DNL GenStudio for Performance Marketing Events]'
 user-guide-breadcrumb: "[!DNL GenStudio for Performance Marketing Events]"
-user-guide-description: "Collection d'enregistrements d'événement pour [!DNL GenStudio for Performance Marketing Events]"
-source-git-commit: f42a65f6101e2e7b2a423567396b58124b0699cf
+user-guide-description: Collecte des enregistrements d’événements pour  [!DNL GenStudio for Performance Marketing Events]
+solution: GenStudio for Performance Marketing
+type: Event
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 0%
@@ -13,4 +15,4 @@ ht-degree: 0%
 # [!DNL GenStudio for Performance Marketing Events] {#genstudio-for-performance-marketing-events}
 
 + [Événements GenStudio for Performance Marketing](overview.md)
-+ [Création de contenu à l’échelle à l’aide de l’IA générique](./adobe-marketing-gen-ai.md)
++ [Création de contenu à grande échelle avec Generative AI](./adobe-marketing-gen-ai.md)

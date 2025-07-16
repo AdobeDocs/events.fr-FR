@@ -1,31 +1,32 @@
 ---
-title: Création d’un webinaire sur le centre d’excellence Workfront
-description: Apprenez des experts de Mattel et d’Adobe Workfront sur la création d’un Centre d’excellence Workfront (CoE) dans notre webinaire à la demande. Découvrez les composants clés, les outils et les étapes incrémentielles d’une administration durable et évolutive, en améliorant l’adoption par les utilisateurs et en améliorant l’utilisation des produits et l’intégrité des données.
+title: Établir un webinaire sur le centre d’excellence Workfront
+description: Écoutez les experts Mattel et Adobe Workfront vous parler de la création d’un centre d’excellence (CE) Workfront dans notre webinaire à la demande. Découvrez les composants clés, les outils et les étapes incrémentielles permettant une administration durable et évolutive, ce qui améliore l’adoption par les utilisateurs ainsi que l’utilisation des produits et l’intégrité des données.
 role: Admin, Leader
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3715
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15824
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 02d88c39-f53c-4529-ab0e-aebf0f2dff42
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
 
-
-# Création d’un centre d’excellence Workfront
+# Mise en place d&#39;un centre d&#39;excellence Workfront
 
 Qu’est-ce qu’un centre d’excellence et pourquoi en créer un pour Workfront ?
 
-Dans ce webinaire à la demande, Neal Gardner, responsable des opérations de gestion des ressources marketing à Mattel, et Samantha Bagley, responsable principal du succès client à Adobe Workfront, parcourront les composants d’un centre d’excellence Workfront (CoE).
+Dans ce webinaire à la demande, Neal Gardner, responsable des opérations de gestion des actifs marketing chez Mattel, et Samantha Bagley, responsable principale du succès client chez Adobe Workfront, passeront en revue les composants d’un centre d’excellence Workfront.
 
-Ensemble, ils partageront leur expérience de la manière dont investir le temps d&#39;avance pour établir un CoE facilitera l&#39;administration continue de Workfront, sans parler de la durabilité et de l&#39;évolutivité à long terme. Ce n&#39;est pas aussi dur que vous pourriez le penser ! Elles couvriront :
+Ensemble, ils partageront leur expérience sur la manière dont l’investissement de temps en amont pour établir un centre d’excellence facilitera l’administration continue de Workfront, sans parler de sa durabilité et de son évolutivité sur le long terme. Ce n&#39;est pas aussi difficile qu&#39;on pourrait le croire ! Elles couvriront :
 
-* Composants d’un centre d’excellence réussi
-* Les &quot;facilitateurs&quot; que vous pouvez rechercher tout au long du chemin
-* Démarrage et recherche d’un succès incrémentiel
-* La création d’un CoE à Mattel a permis d’améliorer considérablement l’adoption par les utilisateurs finaux, l’engagement des administrateurs de groupe, l’ampleur de l’utilisation des produits et l’intégrité des données.
+* Composantes d&#39;un centre d&#39;excellence réussi
+* Les « outils » que vous pouvez rechercher en cours de route
+* Comment commencer et trouver un succès incrémentiel en cours de route
+* Comment l’établissement d’un CE chez Mattel a permis d’améliorer considérablement l’adoption par les utilisateurs finaux, l’engagement des administrateurs de groupe, l’utilisation des produits et l’intégrité des données
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431018/?learn=on)

@@ -1,31 +1,32 @@
 ---
-title: Conception d’un webinaire d’expérience utilisateur idéal
-description: Découvrez les informations des pairs afin de comprendre les besoins des utilisateurs, d’optimiser les expériences avec les modèles et les tableaux de bord, de gérer les requêtes et d’apprendre du succès Workfront de Liberty Mutual.
+title: Concevoir un webinaire sur l’expérience utilisateur idéale
+description: Découvrez les informations des pairs pour comprendre les besoins des utilisateurs, optimiser les expériences avec les modèles et les tableaux de bord, gérer les demandes et tirer parti du succès de Workfront de Liberty Mutual.
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3640
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15811
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: f7acb26b-528a-41fc-a38d-73ed078bfda6
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-
 # Concevoir une expérience utilisateur idéale
 
-Maintenant que vos utilisateurs sont configurés et organisés dans Workfront, comment créer pour eux une expérience si délicieuse, non seulement ils l&#39;utilisent, mais ils AIMENT l&#39;utiliser ?
+Maintenant que vos utilisateurs sont configurés et organisés dans Workfront, comment leur créer une expérience si agréable, qu’ils ne l’utilisent pas seulement, mais qu’ils AIMENT l’utiliser ?
 
-L’adoption d’une solution de gestion du travail comme Workfront comporte de nombreuses facettes, mais l’une des plus fondamentales est de créer une expérience conçue de manière réfléchie pour le fonctionnement de vos utilisateurs. S&#39;ils le voient comme un goulot d&#39;étranglement, ou comme &quot;juste un autre outil&quot;, vous allez tomber d&#39;un obstacle à l&#39;adoption.
+L’adoption d’une solution de gestion du travail telle que Workfront comporte de nombreuses facettes, mais l’une des plus fondamentales consiste à créer une expérience soigneusement conçue pour le fonctionnement de vos utilisateurs. S&#39;ils le voient comme un goulot d&#39;étranglement, ou comme « un outil de plus », vous rencontrerez obstacle après obstacle avec l&#39;adoption.
 
-Dans ce webinaire à la demande, nous allons couvrir :
+Dans ce webinaire à la demande, nous aborderons les sujets suivants :
 
 * Comment mieux comprendre les besoins de vos utilisateurs
-* Conseils pour optimiser l’expérience de l’utilisateur à l’aide de modèles de mise en page, de tableaux de bord et d’épingles
-* Exemples de files d’attente de demandes d’administration système et de tableaux de bord de gestion des utilisateurs
-* Comment Liberty Mutual a utilisé le nouveau déploiement de l’expérience Workfront pour accroître considérablement l’adoption de la nouvelle version.
+* Conseils pour optimiser l’expérience de votre utilisateur à l’aide de modèles de disposition, de tableaux de bord et d’épingles
+* Exemple de files d’attente de demandes d’administration système et de tableaux de bord de gestion des utilisateurs
+* Comment Liberty Mutual a utilisé le déploiement de la nouvelle expérience Workfront pour augmenter considérablement l&#39;adoption.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431005/?learn=on)

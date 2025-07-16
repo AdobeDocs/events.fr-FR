@@ -1,22 +1,23 @@
 ---
-title: '[!DNL Adobe Analytics] Conseils et astuces concernant le champion'
-description: Rejoignez les cinq  [!DNL Adobe Analytics] champions du monde entier qui partagent les conseils et astuces qui les ont aidés à maîtriser [!DNL Adobe Analytics].
+title: Conseils et astuces [!DNL Adobe Analytics] Champion
+description: Rejoignez cinq  [!DNL Adobe Analytics]  du monde entier qui partagent des conseils et des astuces qui les ont aidés à maîtriser [!DNL Adobe Analytics].
 role: User
+solution: Analytics
 doc-type: Event
 last-substantial-update: 2023-02-09T00:00:00Z
 kt: 11845
 thumbnail: 3414191.jpeg
 exl-id: e15bafe6-f559-426f-9770-ee31a9a628a1
 duration: 3630
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# [!DNL Adobe Analytics] Conseils et astuces concernant les champions
+# Conseils et astuces [!DNL Adobe Analytics] Champion
 
-Rejoignez cinq [!DNL Adobe Analytics] champions du monde entier en partageant les conseils et astuces qui les ont aidés à maîtriser [!DNL Adobe Analytics].
+Rejoignez cinq [!DNL Adobe Analytics] Champions du monde qui partagent des conseils et des astuces qui les ont aidés à maîtriser la [!DNL Adobe Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414191/?quality=12&learn=on)

@@ -9,7 +9,8 @@ event-background-image: exl-event-behind-the-brew.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+solution: Commerce
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 15%

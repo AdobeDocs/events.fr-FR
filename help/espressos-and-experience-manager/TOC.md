@@ -2,6 +2,7 @@
 user-guide-title: Expressos et Experience Manager
 user-guide-breadcrumb: Espressos & Experience Manager
 user-guide-description: Liste des enregistrements Expressos & Experience Manager
+solution: Experience Manager
 type: Event
 mini-toc-levels: 2
 event-series: Espressos & Experience Manager
@@ -9,7 +10,7 @@ event-background-image: exl-event-espressos-and-experience-manager.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 17%

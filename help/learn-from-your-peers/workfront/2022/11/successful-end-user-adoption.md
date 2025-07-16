@@ -1,31 +1,32 @@
 ---
-title: Webinars d’adoption des utilisateurs finaux performants
-description: Découvrez le rôle d’un administrateur système Adobe Workfront auprès de vos pairs. Découvrez dans notre webinaire à la demande des conseils sur l’amélioration de l’adoption par les utilisateurs, l’efficacité de la communication et les informations sur le monde réel de Truist.
+title: Webinaires sur l’adoption des utilisateurs finaux réussis
+description: Renseignez-vous auprès de vos pairs sur le rôle d’administrateur système Adobe Workfront. Découvrez des conseils sur l’amélioration de l’adoption des utilisateurs et utilisatrices, une communication efficace et des informations du monde réel grâce à Trust dans notre webinaire à la demande.
 role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
+solution: Workfront
 duration: 3647
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15818
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: e9f90ac6-2b16-4495-b7d5-ba29237160b7
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
+# Adoption réussie par l’utilisateur final
 
-# adoption réussie des utilisateurs finaux
+Être administrateur système Adobe Workfront ne se limite pas à la compréhension du logiciel et à l’implémentation de ses fonctionnalités. Les administrateurs système sont chargés de communiquer une connexion claire à vos utilisateurs finaux. Ils doivent EXPLIQUER POURQUOI votre entreprise utilise Workfront ET, le cas échéant, ce qu’elle en retire.
 
-Être administrateur système Adobe Workfront ne se limite pas à comprendre le logiciel et les fonctionnalités d’implémentation. Les administrateurs système ont la responsabilité de communiquer clairement avec vos utilisateurs finaux pour SAVOIR POURQUOI votre organisation utilise Workfront - ET ce qu’il y a dedans pour eux.
+Dans ce webinaire à la demande, Cynthia Boon et Leslie Spier, responsables du succès client (et anciens clients !) chez Workfront, seront rejoints par Karlton Harrison, vice-président, ingénieur Data Platform chez Trust. Entre eux, ils ont des ANNÉES d&#39;expérience dans ce domaine, et ils couvriront :
 
-Dans ce webinaire à la demande, Cynthia Boon et Leslie Spier, responsables du succès client (et anciens clients !) avec Workfront, sera rejoint par Karlton Harrison, vice-président, ingénieur de plateforme de données de Truist. Entre eux, ils ont des ANNÉES d&#39;expérience dans ce domaine, et ils couvriront :
-
-* Comment identifier les raisons d&#39;une mauvaise adoption par les utilisateurs finaux
+* Comment identifier les raisons de la mauvaise adoption par les utilisateurs finaux
 * Conseils pour documenter et communiquer les attentes en matière d’adoption
-* Exemples de grandes communications
-* Bonnes pratiques d&#39;apprentissage
-* Expériences de Truist sur le monde réel grâce à l’intégration de nouveaux utilisateurs
-* Création de systèmes pour dimensionner votre instance
+* Exemples de bonnes communications
+* Bonnes pratiques de formation
+* Apprentissages réels de Trust sur son expérience d’intégration de nouveaux utilisateurs
+* Création de systèmes pour la mise à l’échelle de votre instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431012/?learn=on)

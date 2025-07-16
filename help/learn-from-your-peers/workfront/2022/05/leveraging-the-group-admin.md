@@ -1,36 +1,37 @@
 ---
-title: Utilisation du webinaire de l’administrateur de groupe
-description: Apprenez de vos pairs sur l’évolution des rôles du système Workfront et des administrateurs de groupe. Découvrez les rôles, les bonnes pratiques, la documentation et la défense des droits dans notre webinaire à la demande.
+title: Utilisation du webinaire destiné aux administrateurs de groupe
+description: Écoutez vos pairs vous parler de l’évolution des rôles des administrateurs système et de groupe de Workfront. Explorez les rôles, les bonnes pratiques, la documentation et le plaidoyer dans notre webinaire à la demande.
 topic: Administration
 role: Admin
+solution: Workfront
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3667
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15812
-source-git-commit: 3685a942f3027d41a891ce8830afb085e328a97c
+exl-id: 22a90abe-f339-4d18-8cfe-0822b86f570d
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
 
 ---
 
+# Utilisation des services d’administration de groupe
 
-# Utilisation de l’administrateur de groupe
+Administrateur de groupe ou administrateur système. Qui possède quoi ?
 
-Administrateur de groupe et administrateur système. Qui possède quoi ?
-
-Au cours des dernières années, Adobe Workfront a ajouté une grande flexibilité à la manière dont les préférences peuvent être définies globalement, puis optimisées au niveau du groupe pour répondre aux besoins uniques de chaque service. Cela a introduit un changement dans la réflexion sur le rôle de l’administrateur système et de l’administrateur du groupe. Il a aussi introduit quelques questions !
+Au cours des dernières années, Adobe Workfront a ajouté une GRANDE flexibilité à la manière dont les préférences peuvent être définies globalement, puis optimisées au niveau du groupe pour répondre aux besoins uniques de chaque service. Cela a entraîné un changement dans la conception du rôle de l’administrateur système et de l’administrateur de groupe. Il a aussi introduit quelques questions !
 
 Dans ce webinaire à la demande, nous passerons en revue l’évolution du rôle de l’administrateur du groupe Workfront, notamment :
 
-* Comment déterminer quand il est temps d’ajouter une administration de groupe
+* Comment déterminer le moment où il est temps d’ajouter l’administration des groupes
 * Rôles et responsabilités communs
-* Bonnes pratiques relatives à la définition des pratiques standard entre les groupes
-* Exemples de documents et de communication des modifications
-* Comment les administrateurs de groupe peuvent-ils être un défenseur et un champion pour leurs équipes ?
+* Bonnes pratiques pour définir des pratiques standard entre les groupes
+* Exemples de documents à documenter et de méthodes de communication des modifications
+* Comment les administrateurs de groupe peuvent être les défenseurs et les champions de leurs équipes
 * Et bien plus encore !
 
-Si vous disposez d’administrateurs de groupe, nous vous encourageons vivement à partager ce webinaire avec eux.
+Si vous avez des administrateurs de groupe, nous vous encourageons vivement à partager ce webinaire avec eux.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431006/?learn=on)

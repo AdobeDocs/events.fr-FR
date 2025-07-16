@@ -1,78 +1,79 @@
 ---
-title: Démarrage rapide de votre productivité avec l’assistant d’IA dans Adobe Experience Platform
-description: Rejoignez Rachel Hanessian et Ariel Sultan pour un webinaire instructif, où vous apprendrez à configurer, démarrer et explorer des cas d’utilisation avec l’assistant d’IA pour améliorer la productivité dans Real-Time CDP, Journey Optimizer et Customer Journey Analytics.
+title: Optimisez votre productivité avec l’assistant AI dans Adobe Experience Platform
+description: Rejoignez Rachel Hanessian et Ariel Sultan pour un webinaire instructif, où vous apprendrez à configurer, à commencer et à explorer des cas d’utilisation avec l’assistant IA pour stimuler la productivité dans Real-Time CDP, Journey Optimizer et Customer Journey Analytics.
 role: Admin
 level: Beginner
 doc-type: Event
+solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
 exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
-source-git-commit: 745121bd9c9a88634a54c0bff67d913035378e83
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
 
 ---
 
-# Démarrage rapide de votre productivité avec l’assistant d’IA dans Adobe Experience Platform
+# Optimisez votre productivité avec l’assistant AI dans Adobe Experience Platform
 
-Un webinaire riche en informations, où vous apprendrez à configurer, à démarrer et à explorer des cas d’utilisation avec l’assistant d’IA pour améliorer la productivité dans Real-Time CDP, Journey Optimizer et Customer Journey Analytics.
+Un webinaire instructif, où vous apprendrez à configurer, à commencer et à explorer des cas d’utilisation avec l’assistant AI pour stimuler la productivité dans Real-Time CDP, Journey Optimizer et Customer Journey Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435344/?learn=on)
 
 **Présentateurs**
 
-* Rachel Hanessian, chef de produit avec une expertise en IA et Adobe Experience Platform génératives.
-* Ariel Sultan travaille dans l’équipe Adobe Journey Optimizer et dans le marketing produit pour l’assistant d’IA.
+* Rachel Hanessian, chef de produit avec une expertise en IA générative et Adobe Experience Platform.
+* Ariel Sultan travaille pour l’assistant IA au sein de l’équipe Adobe Journey Optimizer et dans le domaine du marketing produit.
 
-## Programme du webinaire
+## Ordre du jour du webinaire
 
-* Présentation de l’assistant d’IA et d’IA.
-* Exemples d’invites et démonstration.
-* Discussions sur la confiance et l’utilisation des données.
-* Accès à l’assistant AI.
+* Présentation de l’IA et de l’assistant d’IA.
+* Exemples d’invites et une démonstration.
+* Discussion sur la confiance et l’utilisation des données.
+* Accéder à l’assistant d’IA.
 
 ## Points clés
 
 ### Paysage de l’IA
 
-L’IA générique est rapidement adoptée, avec 89 % des marketeurs convaincus qu’elle aidera à personnaliser les expériences client.
-42 % des sondés considèrent les applications marketing comme l’utilisation la plus prometteuse de l’IA générative.
+L’IA générative est rapidement adoptée et 89 % des professionnels du marketing estiment qu’elle aidera à personnaliser les expériences client.
+42 % des répondants à l&#39;enquête considèrent les applications marketing comme l&#39;utilisation la plus prometteuse de l&#39;IA générative.
 
 ### Présentation de l’assistant AI
 
-* L’assistant d’IA est une interface conversationnelle alimentée par une IA générative.
-* Il est conçu pour la plateforme de données clients en temps réel, Journey Optimizer et Customer Journey Analytics.
-* Il permet d’obtenir des connaissances sur les produits, des informations opérationnelles et de rationaliser les workflows.
+* L’assistant d’IA est une interface conversationnelle optimisée par une IA générative.
+* Il est conçu pour Real-time CDP, Journey Optimizer et Customer Journey Analytics.
+* Il permet d’acquérir des connaissances sur les produits, des informations opérationnelles et de rationaliser les workflows.
 
-### Fonctionnalités et acteurs impliqués
+### Fonctionnalités et rôles
 
 * Généralement disponible pour les connaissances sur les produits et en version bêta publique pour les informations opérationnelles.
-* Utile pour les équipes de données et d’IA, les équipes marketing et les équipes marketing.
+* Utile pour les équipes de données et d’IA, les équipes opérationnelles marketing et les équipes marketing.
 
 ### Exemples d’invites
 
-* Connaissances produit : apprentissage, découverte ouverte et dépannage.
-* Informations opérationnelles : utilisation, lignage et hygiène des données.
+* Connaissance des produits : apprentissage, découverte ouverte et dépannage.
+* Informations opérationnelles : utilisation, parenté et hygiène des données.
 
-### Résumé de démonstration
+### Résumé de la démonstration
 
-* Explication de l’utilisation de l’assistant d’IA pour diverses tâches, telles que la liste des audiences, la compréhension des attributs et la recherche de bonnes pratiques.
-* Ajout de l’intégration à la recherche unifiée et possibilité de poser des questions de relance.
+* Vous avez démontré comment utiliser l’assistant d’IA pour différentes tâches, telles que la création de listes d’audiences, la compréhension des attributs et la recherche de bonnes pratiques.
+* Présente l’intégration à la recherche unifiée et la possibilité de poser des questions de suivi.
 
 ### Approbation et utilisation des données
 
-* L’assistant d’IA est désactivé par défaut et nécessite des autorisations d’administrateur.
-* Prend en charge le contrôle d’accès basé sur les rôles, basé sur les objets et basé sur les attributs.
-* Ne tient pas compte des données des consommateurs finaux et utilise Azure Open AI pour le traitement.
+* L’assistant AI est désactivé par défaut et nécessite des autorisations d’administrateur.
+* Prend en charge le contrôle d’accès basé sur les rôles, les objets et les attributs.
+* Ne regarde pas les données des consommateurs finaux et utilise Azure Open AI pour le traitement.
 
-### Accès
+### Obtention d’accès
 
 * Trois étapes : accès organisationnel, autorisations d’administrateur et accord utilisateur.
 * Les autorisations peuvent être définies pour différents produits et fonctionnalités.
 
-### Feuille de route et futures fonctionnalités
+### Feuille de route et fonctionnalités futures
 
 * Les fonctionnalités actuelles incluent la récupération d’informations et la génération de contenu.
-* Les futures fonctionnalités incluront l’analyse des données, l’assistance clientèle, l’optimisation et l’automatisation des workflows.
+* Les futures fonctionnalités comprendront l’analyse des données, le service clientèle, l’optimisation et l’automatisation des workflows.

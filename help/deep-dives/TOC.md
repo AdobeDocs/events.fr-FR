@@ -3,13 +3,14 @@ user-guide-title: Immersion dans les profondeurs
 user-guide-breadcrumb: Deep Dives
 user-guide-description: Une liste des enregistrements de plongée approfondie
 type: Event
+solution: Marketo Engage
 mini-toc-levels: 2
 event-series: Deep Dives
 event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 3%
