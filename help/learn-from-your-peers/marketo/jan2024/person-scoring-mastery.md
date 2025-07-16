@@ -30,7 +30,7 @@ Dans ce webinaire, vous apprendrez :
 * Comment configurer un modèle de notation de personne transparent et évolutif
 * La meilleure façon d’implémenter cela dans Marketo Engage, en permettant la flexibilité du marché local tout en préservant la logique et la cohérence du modèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457441/?learn=on&captions=fre_fr)
 
 ## Ressources partagées dans le webinaire
 
