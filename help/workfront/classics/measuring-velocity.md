@@ -27,7 +27,7 @@ Gagnez du temps en copiant et collant les calculs ci-dessous.
 >[!NOTE]
 >
 >La syntaxe des calculs des champs personnalisés a changé depuis la présentation de 2019, mais les concepts et autres instructions présentés dans la présentation restent exacts.
->>**Les calculs inclus ci-dessous ont été mis à jour pour prendre en compte les dernières règles de syntaxe.**
+>&#x200B;>**Les calculs inclus ci-dessous ont été mis à jour pour prendre en compte les dernières règles de syntaxe.**
 
 **Première date d&#39;engagement**
 
