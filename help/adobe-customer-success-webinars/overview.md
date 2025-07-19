@@ -3,10 +3,10 @@ title: Webinaires sur le succès client Adobe
 description: Webinaires pilotés par la réussite client Adobe conçus pour vous aider à optimiser votre investissement dans Experience Cloud d’Adobe. Obtenez des informations précieuses afin d’optimiser la valeur et d’accroître l’adoption des solutions Adobe.
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
 duration: 42
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
-source-wordcount: '3963'
-ht-degree: 0%
+source-wordcount: '4233'
+ht-degree: 1%
 
 ---
 
@@ -20,26 +20,18 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
 
 {cta = Watch}
 
-* 2025/mastering-aem-sites.md
-* 2025/workfront-and-jira.md
-* 2025/transforming-b2b-commerce.md
-* 2025/journey-optimizer-essentials.md
-* 2025/unlock-efficiency-ai-drive-automation-workfront.md
-* 2025/ai-beyond-basics.md
 * 2025/accelerating-digital-experience-optimization.md
-* 2025/mastering-dam-aem-content-hub.md
-* 2025/digital-trends-preparing-future.md
-* 2025/northstar-architecture.md
-* 2025/new-relic-essentials-aem-cloud.md
 * 2025/adobe-digital-insights.md
 * 2025/adobe-workfront-fusion-best-practices.md
 * 2025/aem-genai.md
 * 2025/aem-workfront-integration.md
 * 2025/agile-marketing-organization.md
 * 2025/ai-adobe-target.md
+* 2025/ai-beyond-basics.md
 * 2025/build-effective-web-pages.md
 * 2025/content-supply-chain-basics.md
 * 2025/data-distiller-101.md
+* 2025/digital-trends-preparing-future.md
 * 2025/driving-customer-engagement.md
 * 2025/enhance-loyalty-programs.md
 * 2025/enhancing-personalization.md
@@ -47,68 +39,31 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
 * 2025/gen-ai-experimentation.md
 * 2025/genstudio-for-performance-marketing-operating-model.md
 * 2025/impactful-insights.md
+* 2025/journey-optimizer-essentials.md
+* 2025/mastering-aem-sites.md
+* 2025/mastering-dam-aem-content-hub.md
 * 2025/mastering-sequential-logic.md
 * 2025/model-xdm-schemas.md
+* 2025/new-relic-essentials-aem-cloud.md
+* 2025/northstar-architecture.md
 * 2025/optimize-aem-performance.md
 * 2025/personalize-digital-communications.md
 * 2025/sequential-logic-start-stop.md
 * 2025/smarter-marketing-starts-here-integrating-google-and-adobe.md
+* 2025/state-of-digital-and-genai-adoption-webinar.md
+* 2025/transforming-b2b-commerce.md
+* 2025/unlock-efficiency-ai-drive-automation-workfront.md
+* 2025/workfront-and-jira.md
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlock Efficiency - AI-Driven Automation in Adobe Workfront">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="2025/unlock-efficiency-ai-drive-automation-workfront.md" title="Déverrouiller l’efficacité - Automatisation pilotée par l’IA dans Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463352/?format=jpeg&nocache=1749832505324" alt="Déverrouiller l’efficacité - Automatisation pilotée par l’IA dans Adobe Workfront"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/unlock-efficiency-ai-drive-automation-workfront.md" target="_blank" rel="referrer" title="Déverrouiller l’efficacité - Automatisation pilotée par l’IA dans Adobe Workfront">Déverrouiller l’efficacité - Automatisation pilotée par l’IA dans Adobe Workfront</a>
-                    </p>
-                    <p class="is-size-6">Découvrez comment l’automatisation basée sur l’IA dans Adobe Workfront simplifie la gestion de projet, améliore l’efficacité et prend en charge des décisions plus intelligentes basées sur les données.</p>
-                </div>
-                <a href="2025/unlock-efficiency-ai-drive-automation-workfront.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AI Assistant – Beyond the Basics">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="2025/ai-beyond-basics.md" title="Assistant d’IA - Au-delà des principes de base" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463360/?format=jpeg&nocache=1749832505279&captions=fre_fr" alt="Assistant d’IA - Au-delà des principes de base"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/ai-beyond-basics.md" target="_blank" rel="referrer" title="Assistant d’IA - Au-delà des principes de base">Assistant IA - Au-delà des principes de base</a>
-                    </p>
-                    <p class="is-size-6">Découvrez comment utiliser en toute confiance l’assistant AI dans AEP. Vous découvrirez notamment sa configuration, des cas d’utilisation clés, des conseils pratiques et des fonctionnalités à venir pour améliorer l’efficacité des workflows et l’impact marketing.</p>
-                </div>
-                <a href="2025/ai-beyond-basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
-                </a>
-            </div>
-        </div>
-    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Accelerating Digital Experience Optimization with AI-Powered Insights">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/accelerating-digital-experience-optimization.md" title="Accélérer l’optimisation de l’expérience digitale avec des informations optimisées par l’IA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1749832505298" alt="Accélérer l’optimisation de l’expérience digitale avec des informations optimisées par l’IA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463354/?format=jpeg&nocache=1752782382963" alt="Accélérer l’optimisation de l’expérience digitale avec des informations optimisées par l’IA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -121,99 +76,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment l’IA dans Adobe Analytics, Target et CJA améliore la vitesse, la personnalisation et l’optimisation cross-canal d’insight pour des décisions marketing plus intelligentes et plus rapides.</p>
                 </div>
                 <a href="2025/accelerating-digital-experience-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Mastering Digital Asset Management - Best Practices with Adobe ContentHub">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="2025/mastering-dam-aem-content-hub.md" title="Maîtriser la gestion des ressources numériques - Bonnes pratiques avec Adobe ContentHub" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463353/?format=jpeg&nocache=1749832505312" alt="Maîtriser la gestion des ressources numériques - Bonnes pratiques avec Adobe ContentHub"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/mastering-dam-aem-content-hub.md" target="_blank" rel="referrer" title="Maîtriser la gestion des ressources numériques - Bonnes pratiques avec Adobe ContentHub">Maîtriser la gestion des ressources numériques - Bonnes pratiques avec Adobe ContentHub</a>
-                    </p>
-                    <p class="is-size-6">Découvrez comment Adobe ContentHub s’intègre à AEM Assets pour rationaliser les workflows, améliorer l’accès et la gestion des ressources au sein des équipes et des secteurs d’activité.</p>
-                </div>
-                <a href="2025/mastering-dam-aem-content-hub.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Digital Trends and Preparing for the Future">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="2025/digital-trends-preparing-future.md" title="Tendances numériques et préparation de l&apos;avenir" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463356/?format=jpeg&nocache=1749832505337" alt="Tendances numériques et préparation de l&apos;avenir"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/digital-trends-preparing-future.md" target="_blank" rel="referrer" title="Tendances numériques et préparation de l&apos;avenir">Tendances numériques et préparation de l’avenir</a>
-                    </p>
-                    <p class="is-size-6">Explorez les principales tendances de 2025, leur impact sur les workflows et les rapports, et comment vous adapter aux solutions Adobe. Couvre les tendances mondiales, l’agilité et la mesure.</p>
-                </div>
-                <a href="2025/digital-trends-preparing-future.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="EA Northstar Architecture Planning">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="2025/northstar-architecture.md" title="Planification de l&apos;architecture EA Northstar" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463355/?format=jpeg&nocache=1749832505386" alt="Planification de l&apos;architecture EA Northstar"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/northstar-architecture.md" target="_blank" rel="referrer" title="Planification de l&apos;architecture EA Northstar">EA Northstar Architecture Planning</a>
-                    </p>
-                    <p class="is-size-6">Le webinaire sur la conception de l’architecture entre solutions a porté sur la valeur et la création des diagrammes Northstar, avec des informations clés pour les développeurs, les dirigeants et les utilisateurs.</p>
-                </div>
-                <a href="2025/northstar-architecture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New Relic Essentials for AEM Cloud">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="2025/new-relic-essentials-aem-cloud.md" title="New Relic Essentials pour AEM Cloud" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463351/?format=jpeg&nocache=1749832505354" alt="New Relic Essentials pour AEM Cloud"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/new-relic-essentials-aem-cloud.md" target="_blank" rel="referrer" title="New Relic Essentials pour AEM Cloud">New Relic Essentials pour AEM Cloud</a>
-                    </p>
-                    <p class="is-size-6">Découvrez comment utiliser New Relic pour surveiller, dépanner et optimiser les performances d’AEM Cloud à l’aide de mesures clés, de conseils réels et des bonnes pratiques exploitables.</p>
-                </div>
-                <a href="2025/new-relic-essentials-aem-cloud.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -223,7 +86,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-digital-insights.md" title="Adobe Digital Insights - Résultats des fêtes 2024 et tendances début 2025" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446271/?format=jpeg&nocache=1749832505419" alt="Adobe Digital Insights - Résultats des fêtes 2024 et tendances début 2025"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446271/?format=jpeg&nocache=1752782382975" alt="Adobe Digital Insights - Résultats des fêtes 2024 et tendances début 2025"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -236,7 +99,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Rejoignez le webinaire d’Adobe pour obtenir des informations sur les tendances d’achats pour les fêtes de fin d’année 2024 et les prévisions de marché du début de l’année 2025, explorez les catégories de produits à forte croissance et découvrez les bonnes pratiques pour créer des expériences d’achat personnalisées à l’aide de l’IA et des technologies avancées.</p>
                 </div>
                 <a href="2025/adobe-digital-insights.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -246,7 +109,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/adobe-workfront-fusion-best-practices.md" title="Bonnes pratiques et bases d’Adobe Workfront Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1749832505445" alt="Bonnes pratiques et bases d’Adobe Workfront Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458043/?format=jpeg&nocache=1752782382989" alt="Bonnes pratiques et bases d’Adobe Workfront Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -259,7 +122,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les bases de Workfront Fusion pour automatiser les workflows, accroître la productivité et intégrer des outils à l’aide de solutions à faible code, de modèles et de bonnes pratiques.</p>
                 </div>
                 <a href="2025/adobe-workfront-fusion-best-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -269,7 +132,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-genai.md" title="AEM avec GenAI - Transformer la création et la diffusion de contenu à grande échelle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1749832505457" alt="AEM avec GenAI - Transformer la création et la diffusion de contenu à grande échelle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458044/?format=jpeg&nocache=1752782382948" alt="AEM avec GenAI - Transformer la création et la diffusion de contenu à grande échelle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -282,7 +145,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment AEM utilise Generative AI, Firefly et Express pour stimuler la création de contenu, l’optimisation des sites et les expériences personnalisées tout en assurant la gouvernance de la marque.</p>
                 </div>
                 <a href="2025/aem-genai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -292,7 +155,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-workfront-integration.md" title="Intégration d’AEM et de Workfront à l’aide du connecteur natif" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1749832505401" alt="Intégration d’AEM et de Workfront à l’aide du connecteur natif"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444451/?format=jpeg&nocache=1752782382957" alt="Intégration d’AEM et de Workfront à l’aide du connecteur natif"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -305,7 +168,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Cette session a porté sur les stratégies d’intégration pour Workfront, les avantages du connecteur natif avec AEM, le mappage et la synchronisation des métadonnées, les dossiers et mécanismes de sécurisation liés, ainsi que des cas d’utilisation pratiques présentés au moyen d’une démonstration en direct.</p>
                 </div>
                 <a href="2025/aem-workfront-integration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -315,7 +178,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/agile-marketing-organization.md" title="Cultiver une organisation marketing agile" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1749832505470" alt="Cultiver une organisation marketing agile"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444450/?format=jpeg&nocache=1752782382967" alt="Cultiver une organisation marketing agile"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -328,7 +191,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La séance sur la culture d'une organisation de marketing agile a mis en évidence les principes du marketing agile, ses avantages, les défis liés à l'approche traditionnelle en cascade, la nécessité d'un changement culturel et d'une gestion du changement, ainsi que les rôles et la structure essentiels à la réussite du marketing agile.</p>
                 </div>
                 <a href="2025/agile-marketing-organization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -338,7 +201,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-adobe-target.md" title="Libérer la puissance de l’IA - Expérimentation avancée avec Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1749832505369" alt="Libérer la puissance de l’IA - Expérimentation avancée avec Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458079/?format=jpeg&nocache=1752782382953" alt="Libérer la puissance de l’IA - Expérimentation avancée avec Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -351,7 +214,30 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les bonnes pratiques en matière de tests A/B et de personnalisation de l’IA avec Adobe Target, CJA et RTCDP afin de générer du contenu et des informations dynamiques sur plusieurs plateformes.</p>
                 </div>
                 <a href="2025/ai-adobe-target.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="AI Assistant – Beyond the Basics">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/ai-beyond-basics.md" title="Assistant d’IA - Au-delà des principes de base" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1752782382970" alt="Assistant d’IA - Au-delà des principes de base"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/ai-beyond-basics.md" target="_blank" rel="referrer" title="Assistant d’IA - Au-delà des principes de base">Assistant IA - Au-delà des principes de base</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment utiliser en toute confiance l’assistant AI dans AEP. Vous découvrirez notamment sa configuration, des cas d’utilisation clés, des conseils pratiques et des fonctionnalités à venir pour améliorer l’efficacité des workflows et l’impact marketing.</p>
+                </div>
+                <a href="2025/ai-beyond-basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -361,7 +247,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/build-effective-web-pages.md" title="Création de pages web efficaces dans AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1749832505538" alt="Création de pages web efficaces dans AEM Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444455/?format=jpeg&nocache=1752782382991" alt="Création de pages web efficaces dans AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -374,7 +260,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Rejoignez notre webinaire AEM Sites destiné aux débutants pour en savoir plus sur la création de pages, les composants de base, la structuration de contenu et la conception réactive, avec des points clés sur la création dans AEM, les modèles modifiables, les composants principaux et la publication de pages.</p>
                 </div>
                 <a href="2025/build-effective-web-pages.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -384,7 +270,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/content-supply-chain-basics.md" title="Principes de base de la chaîne d’approvisionnement de contenu - Intégration d’AEM, d’Analytics/CJA et d’Adobe Target pour les nouveaux utilisateurs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1749832505481" alt="Principes de base de la chaîne d’approvisionnement de contenu - Intégration d’AEM, d’Analytics/CJA et d’Adobe Target pour les nouveaux utilisateurs"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444459/?format=jpeg&nocache=1752782382979" alt="Principes de base de la chaîne d’approvisionnement de contenu - Intégration d’AEM, d’Analytics/CJA et d’Adobe Target pour les nouveaux utilisateurs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -397,7 +283,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">L’intégration de Adobe Experience Manager, d’Adobe Analytics et d’Adobe Target simplifie la diffusion, la personnalisation et les tests de contenu, favorisant une approche marketing agile et une optimisation continue grâce à des informations et à une automatisation pilotées par l’IA.</p>
                 </div>
                 <a href="2025/content-supply-chain-basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -407,7 +293,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/data-distiller-101.md" title="Distiller de données 101" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1749832505493" alt="Distiller de données 101"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444454/?format=jpeg&nocache=1752782382997" alt="Distiller de données 101"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -420,7 +306,30 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire Data Distiller 101 met en avant ses fonctionnalités de segmentation, d’enrichissement et d’intégration de l’IA/ML des données, offrant des solutions évolutives aux architectes des données et aux entités marketing afin d’améliorer la prise de décision axée sur les données.</p>
                 </div>
                 <a href="2025/data-distiller-101.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Digital Trends and Preparing for the Future">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/digital-trends-preparing-future.md" title="Tendances numériques et préparation de l&apos;avenir" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463356/?format=jpeg&nocache=1752782382983" alt="Tendances numériques et préparation de l&apos;avenir"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/digital-trends-preparing-future.md" target="_blank" rel="referrer" title="Tendances numériques et préparation de l&apos;avenir">Tendances numériques et préparation de l’avenir</a>
+                    </p>
+                    <p class="is-size-6">Explorez les principales tendances de 2025, leur impact sur les workflows et les rapports, et comment vous adapter aux solutions Adobe. Couvre les tendances mondiales, l’agilité et la mesure.</p>
+                </div>
+                <a href="2025/digital-trends-preparing-future.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -430,7 +339,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/driving-customer-engagement.md" title="Stimuler l’engagement des clients dans l’espace des payeurs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444127/?format=jpeg&nocache=1749832505504" alt="Stimuler l’engagement des clients dans l’espace des payeurs"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444127/?format=jpeg&nocache=1752782383004" alt="Stimuler l’engagement des clients dans l’espace des payeurs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -443,7 +352,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment AEM Forms révolutionne l’engagement des clients dans le secteur de l’assurance maladie en rationalisant le traitement des sinistres et l’inscription des clients, ce qui améliore la conversion, l’efficacité et la conformité.</p>
                 </div>
                 <a href="2025/driving-customer-engagement.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -453,7 +362,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/enhance-loyalty-programs.md" title="Améliorez les programmes de fidélité par le biais de Personalization et des données grâce à la puissance des solutions Adobe." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1749832505527" alt="Améliorez les programmes de fidélité par le biais de Personalization et des données grâce à la puissance des solutions Adobe."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443130/?format=jpeg&nocache=1752782383010" alt="Améliorez les programmes de fidélité par le biais de Personalization et des données grâce à la puissance des solutions Adobe."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -466,7 +375,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment les solutions Adobe améliorent les programmes de fidélité par le biais de la personnalisation et des données, en prenant en charge les parcours clients, de la sensibilisation à la fidélisation dans divers secteurs d’activité.</p>
                 </div>
                 <a href="2025/enhance-loyalty-programs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -476,7 +385,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/enhancing-personalization.md" title="Amélioration de Personalization - Integration Essentials pour Adobe Target avec CJA et AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1749832505516" alt="Amélioration de Personalization - Integration Essentials pour Adobe Target avec CJA et AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444456/?format=jpeg&nocache=1752782382994" alt="Amélioration de Personalization - Integration Essentials pour Adobe Target avec CJA et AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -489,7 +398,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment améliorer votre stratégie de personnalisation en intégrant Adobe Target à CJA et AEM, en explorant les bonnes pratiques, les informations clés et les stratégies exploitables pour optimiser l’engagement des clients et offrir des expériences personnalisées sur tous les canaux.</p>
                 </div>
                 <a href="2025/enhancing-personalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -499,7 +408,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/exec-sponsorship-aep-projects.md" title="Un parrainage exécutif gagnant pour des projets Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1749832505560" alt="Un parrainage exécutif gagnant pour des projets Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458041/?format=jpeg&nocache=1752782383029" alt="Un parrainage exécutif gagnant pour des projets Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -512,7 +421,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment transformer des projets passionnés en initiatives percutantes en alignant la vision sur les objectifs commerciaux, en obtenant l’adhésion des dirigeants et en utilisant AEP/RT-CDP pour créer de la valeur.</p>
                 </div>
                 <a href="2025/exec-sponsorship-aep-projects.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -522,7 +431,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="Expérience GenAI dans AJO et sa relation avec Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444461/?format=jpeg&nocache=1749832505582&captions=fre_fr" alt="Expérience GenAI dans AJO et sa relation avec Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1752782383024" alt="Expérience GenAI dans AJO et sa relation avec Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -535,7 +444,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La réunion a mis en évidence les capacités de l’accélérateur de contenu d’IA à générer du texte, des images et des HTML, l’expérimentation de contenu via Adobe Journey Optimizer, l’intégration à Adobe Target pour l’optimisation et la personnalisation, divers cas d’utilisation d’outils combinés et les développements futurs, y compris les fonctionnalités améliorées d’IA.</p>
                 </div>
                 <a href="2025/gen-ai-experimentation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -545,7 +454,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/genstudio-for-performance-marketing-operating-model.md" title="GenStudio pour le marketing de performance - Modèle opérationnel et stratégie de gouvernance" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1749832505605" alt="GenStudio pour le marketing de performance - Modèle opérationnel et stratégie de gouvernance"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444446/?format=jpeg&nocache=1752782383000" alt="GenStudio pour le marketing de performance - Modèle opérationnel et stratégie de gouvernance"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -558,7 +467,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire sur Adobe GenStudio for Performance Marketing aborde la création d’un cadre de gouvernance pour améliorer les processus créatifs, la collaboration et l’efficacité, tout en fournissant des informations sur la préparation organisationnelle, les bonnes pratiques pour les modèles de fonctionnement et les principes de marketing agile pour maximiser l’investissement.</p>
                 </div>
                 <a href="2025/genstudio-for-performance-marketing-operating-model.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -568,7 +477,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/impactful-insights.md" title="Informations percutantes - Élaboration de stratégies pour une mesure efficace" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1749832505549" alt="Informations percutantes - Élaboration de stratégies pour une mesure efficace"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444457/?format=jpeg&nocache=1752782383007" alt="Informations percutantes - Élaboration de stratégies pour une mesure efficace"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -581,7 +490,76 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Une stratégie de mesure bien mise en œuvre améliore l’efficacité opérationnelle, favorise la prise de décisions axée sur les données et améliore l’expérience client, offrant ainsi aux entreprises un avantage concurrentiel.</p>
                 </div>
                 <a href="2025/impactful-insights.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Journey Optimizer Essentials">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/journey-optimizer-essentials.md" title="Journey Optimizer Essentials" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464440/?format=jpeg&nocache=1752782383015" alt="Journey Optimizer Essentials"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/journey-optimizer-essentials.md" target="_blank" rel="referrer" title="Journey Optimizer Essentials">Journey Optimizer Essentials</a>
+                    </p>
+                    <p class="is-size-6">Rejoignez-nous pour explorer Adobe Journey Optimizer et découvrez comment créer des parcours clients personnalisés et pilotés par l’IA sur l’ensemble des canaux, pour un engagement plus intelligent et rationalisé.</p>
+                </div>
+                <a href="2025/journey-optimizer-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Mastering AEM Sites - Templates, Navigation, and SEO">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/mastering-aem-sites.md" title="Maîtriser AEM Sites - Modèles, navigation et SEO" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1752782383017" alt="Maîtriser AEM Sites - Modèles, navigation et SEO"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/mastering-aem-sites.md" target="_blank" rel="referrer" title="Maîtriser AEM Sites - Modèles, navigation et SEO">Maîtriser AEM Sites - Modèles, navigation et SEO</a>
+                    </p>
+                    <p class="is-size-6">Découvrez les principes de base d’AEM Sites : comment utiliser les modèles de page, concevoir une navigation intuitive et appliquer les principales pratiques d’optimisation du moteur de recherche pour améliorer la visibilité et les performances du site.</p>
+                </div>
+                <a href="2025/mastering-aem-sites.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Mastering Digital Asset Management - Best Practices with Adobe ContentHub">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/mastering-dam-aem-content-hub.md" title="Maîtriser la gestion des ressources numériques - Bonnes pratiques avec Adobe ContentHub" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463353/?format=jpeg&nocache=1752782383012" alt="Maîtriser la gestion des ressources numériques - Bonnes pratiques avec Adobe ContentHub"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/mastering-dam-aem-content-hub.md" target="_blank" rel="referrer" title="Maîtriser la gestion des ressources numériques - Bonnes pratiques avec Adobe ContentHub">Maîtriser la gestion des ressources numériques - Bonnes pratiques avec Adobe ContentHub</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment Adobe ContentHub s’intègre à AEM Assets pour rationaliser les workflows, améliorer l’accès et la gestion des ressources au sein des équipes et des secteurs d’activité.</p>
+                </div>
+                <a href="2025/mastering-dam-aem-content-hub.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -591,7 +569,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-sequential-logic.md" title="Maîtriser la logique séquentielle dans AA et CJA - Un framework visuel" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1749832505571" alt="Maîtriser la logique séquentielle dans AA et CJA - Un framework visuel"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443129/?format=jpeg&nocache=1752782383021" alt="Maîtriser la logique séquentielle dans AA et CJA - Un framework visuel"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -604,7 +582,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Apprenez à maîtriser la logique séquentielle dans Adobe Analytics et Customer Journey Analytics avec un cadre visuel pour traduire les scénarios en plans exploitables et créer des segments séquentiels efficaces.</p>
                 </div>
                 <a href="2025/mastering-sequential-logic.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -614,7 +592,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/model-xdm-schemas.md" title="Bonnes pratiques et informations pour la modélisation des schémas XDM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1749832505594" alt="Bonnes pratiques et informations pour la modélisation des schémas XDM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458042/?format=jpeg&nocache=1752782383040" alt="Bonnes pratiques et informations pour la modélisation des schémas XDM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -627,7 +605,53 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Modélisation des données de Principal dans AEP avec des schémas XDM, la gestion des identités et les bonnes pratiques pour une personnalisation et une segmentation évolutives en temps réel.</p>
                 </div>
                 <a href="2025/model-xdm-schemas.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New Relic Essentials for AEM Cloud">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/new-relic-essentials-aem-cloud.md" title="New Relic Essentials pour AEM Cloud" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463351/?format=jpeg&nocache=1752782383026" alt="New Relic Essentials pour AEM Cloud"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/new-relic-essentials-aem-cloud.md" target="_blank" rel="referrer" title="New Relic Essentials pour AEM Cloud">New Relic Essentials pour AEM Cloud</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment utiliser New Relic pour surveiller, dépanner et optimiser les performances d’AEM Cloud à l’aide de mesures clés, de conseils réels et des bonnes pratiques exploitables.</p>
+                </div>
+                <a href="2025/new-relic-essentials-aem-cloud.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="EA Northstar Architecture Planning">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/northstar-architecture.md" title="Planification de l&apos;architecture EA Northstar" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463355/?format=jpeg&nocache=1752782383037" alt="Planification de l&apos;architecture EA Northstar"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/northstar-architecture.md" target="_blank" rel="referrer" title="Planification de l&apos;architecture EA Northstar">EA Northstar Architecture Planning</a>
+                    </p>
+                    <p class="is-size-6">Le webinaire sur la conception de l’architecture entre solutions a porté sur la valeur et la création des diagrammes Northstar, avec des informations clés pour les développeurs, les dirigeants et les utilisateurs.</p>
+                </div>
+                <a href="2025/northstar-architecture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -637,7 +661,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/optimize-aem-performance.md" title="Optimisation des performances d’AEM - Stratégies et techniques de mise en cache" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1749832505617" alt="Optimisation des performances d’AEM - Stratégies et techniques de mise en cache"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444452/?format=jpeg&nocache=1752782383034" alt="Optimisation des performances d’AEM - Stratégies et techniques de mise en cache"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -650,7 +674,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session a couvert les stratégies et techniques de mise en cache, les mécanismes et les niveaux de mise en cache, la gestion dynamique du contenu, les problèmes de mise en cache de débogage et la synchronisation de l’invalidation du cache entre le Dispatcher et le réseau CDN.</p>
                 </div>
                 <a href="2025/optimize-aem-performance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -660,7 +684,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/personalize-digital-communications.md" title="Personnaliser les communications numériques dans les services financiers avec AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458104/?format=jpeg&nocache=1749832505628" alt="Personnaliser les communications numériques dans les services financiers avec AEM Forms"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458104/?format=jpeg&nocache=1752782383045" alt="Personnaliser les communications numériques dans les services financiers avec AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -673,7 +697,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment AEM Forms aide les services financiers à fournir des communications personnalisées et évolutives qui renforcent l’engagement, l’efficacité et la conformité.</p>
                 </div>
                 <a href="2025/personalize-digital-communications.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -683,7 +707,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/sequential-logic-start-stop.md" title="Maîtriser la logique séquentielle dans Adobe Analytics et Customer Journey Analytics - Démarrages et arrêts" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1749832505653" alt="Maîtriser la logique séquentielle dans Adobe Analytics et Customer Journey Analytics - Démarrages et arrêts"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458040/?format=jpeg&nocache=1752782383069" alt="Maîtriser la logique séquentielle dans Adobe Analytics et Customer Journey Analytics - Démarrages et arrêts"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -696,7 +720,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Principal de la logique séquentielle dans Adobe Analytics avec une segmentation avancée, des contrôles de portée et des champs dérivés pour découvrir les modèles de comportement des clients et clientes et améliorer la précision des données.</p>
                 </div>
                 <a href="2025/sequential-logic-start-stop.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -706,7 +730,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/smarter-marketing-starts-here-integrating-google-and-adobe.md" title="Le marketing plus intelligent commence ici : intégrer Google et Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458047/?format=jpeg&nocache=1749832505640" alt="Le marketing plus intelligent commence ici : intégrer Google et Adobe"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458047/?format=jpeg&nocache=1752782383043" alt="Le marketing plus intelligent commence ici : intégrer Google et Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -719,7 +743,99 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Rejoignez Charles Farina, vice-président de la stratégie numérique d’Adswerve, et Danielle Doolin, responsable marketing principal des produits chez Adobe, pour un webinaire instructif explorant le pouvoir de transformation de l’intégration de plateformes de pointe.</p>
                 </div>
                 <a href="2025/smarter-marketing-starts-here-integrating-google-and-adobe.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Digital Insights - State of Digital & GenAI Adoption Webinar">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/state-of-digital-and-genai-adoption-webinar.md" title="Adobe Digital Insights - Webinaire sur l’état du numérique et l’adoption de GenAI" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458483/?format=jpeg&nocache=1752782383088" alt="Adobe Digital Insights - Webinaire sur l’état du numérique et l’adoption de GenAI"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/state-of-digital-and-genai-adoption-webinar.md" target="_blank" rel="referrer" title="Adobe Digital Insights - Webinaire sur l’état du numérique et l’adoption de GenAI">Adobe Digital Insights - Webinaire sur l’état du numérique et l’adoption de GenAI</a>
+                    </p>
+                    <p class="is-size-6">Découvrez les principales tendances de la vente au détail et des voyages dans Adobe, optimisées par les visites de sites 1T+ : GenAI, mobiles, KPI et informations sur les consommateurs pour stimuler la croissance.</p>
+                </div>
+                <a href="2025/state-of-digital-and-genai-adoption-webinar.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Transforming B2B & B2B2C Commerce with Personalization & Automation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/transforming-b2b-commerce.md" title="Transformation de Commerce B2B et B2B2C avec Personalization et automatisation" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464441/?format=jpeg&nocache=1752782383031" alt="Transformation de Commerce B2B et B2B2C avec Personalization et automatisation"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/transforming-b2b-commerce.md" target="_blank" rel="referrer" title="Transformation de Commerce B2B et B2B2C avec Personalization et automatisation">Transformation de B2B et B2B2C Commerce avec Personalization et automatisation</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment le commerce B2B peut adapter la personnalisation à l’aide d’AEM, de Target et d’AEP afin d’optimiser les expériences B2B2C et de générer du contenu et des offres unifiés et pilotés par les données.</p>
+                </div>
+                <a href="2025/transforming-b2b-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Unlock Efficiency - AI-Driven Automation in Adobe Workfront">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/unlock-efficiency-ai-drive-automation-workfront.md" title="Déverrouiller l’efficacité - Automatisation pilotée par l’IA dans Adobe Workfront" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463352/?format=jpeg&nocache=1752782383080" alt="Déverrouiller l’efficacité - Automatisation pilotée par l’IA dans Adobe Workfront"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/unlock-efficiency-ai-drive-automation-workfront.md" target="_blank" rel="referrer" title="Déverrouiller l’efficacité - Automatisation pilotée par l’IA dans Adobe Workfront">Déverrouiller l’efficacité - Automatisation pilotée par l’IA dans Adobe Workfront</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment l’automatisation basée sur l’IA dans Adobe Workfront simplifie la gestion de projet, améliore l’efficacité et prend en charge des décisions plus intelligentes basées sur les données.</p>
+                </div>
+                <a href="2025/unlock-efficiency-ai-drive-automation-workfront.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workfront and JIRA - Connecting your Marketing Work Management and Development Execution Systems">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/workfront-and-jira.md" title="Workfront et JIRA - Connexion de vos systèmes de gestion du travail marketing et d’exécution du développement" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464442/?format=jpeg&nocache=1752782383097" alt="Workfront et JIRA - Connexion de vos systèmes de gestion du travail marketing et d’exécution du développement"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/workfront-and-jira.md" target="_blank" rel="referrer" title="Workfront et JIRA - Connexion de vos systèmes de gestion du travail marketing et d’exécution du développement">Workfront et JIRA - Connexion de vos systèmes de gestion du travail marketing et d’exécution du développement</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment configurer et développer l’intégration Adobe Workfront + JIRA pour prendre en charge les workflows connectés entre les systèmes d’enregistrement pour les besoins actuels et futurs.</p>
+                </div>
+                <a href="2025/workfront-and-jira.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -777,7 +893,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/adobe-admin-console.md" title="Maîtriser le Adobe Admin Console" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1749832508511" alt="Maîtriser le Adobe Admin Console"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440937/?format=jpeg&nocache=1752782384183" alt="Maîtriser le Adobe Admin Console"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -790,7 +906,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Adobe Admin Console est une plateforme centralisée de gestion des solutions d’entreprise Adobe qui propose des fonctions de gestion des utilisateurs et des produits, de sécurité et de conformité, des ressources d’assistance et des bonnes pratiques évolutives pour les entreprises.</p>
                 </div>
                 <a href="2024/adobe-admin-console.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -800,7 +916,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aem-authoring-concepts.md" title="Principes de base d’AEM Présentation des concepts et fonctionnalités clés de la création dans AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1749832508496" alt="Principes de base d’AEM Présentation des concepts et fonctionnalités clés de la création dans AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435747/?format=jpeg&nocache=1752782384203" alt="Principes de base d’AEM Présentation des concepts et fonctionnalités clés de la création dans AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -813,7 +929,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session de bases de création AEM a couvert les concepts clés, le modèle d’environnement double, les défis liés à la création de contenu, les outils de création, les fonctionnalités de collaboration et de traduction et les services de diffusion Edge.</p>
                 </div>
                 <a href="2024/aem-authoring-concepts.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -823,7 +939,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aem-sites-efficiencies.md" title="Efficacité d’AEM Sites : optimisation des performances, configuration et dépannage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1749832508536" alt="Efficacité d’AEM Sites : optimisation des performances, configuration et dépannage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435114/?format=jpeg&nocache=1752782384193" alt="Efficacité d’AEM Sites : optimisation des performances, configuration et dépannage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -836,7 +952,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire sur l’efficacité des sites AMP a porté sur l’optimisation des performances, la configuration du Dispatcher, les bonnes pratiques de gestion des droits et les stratégies permettant de résoudre les problèmes de performances.</p>
                 </div>
                 <a href="2024/aem-sites-efficiencies.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -846,7 +962,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-apps-services-integrations.md" title="Découvrez les intégrations des services d’application AEP pour les cas d’utilisation client" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1749832508524" alt="Découvrez les intégrations des services d’application AEP pour les cas d’utilisation client"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432053/?format=jpeg&nocache=1752782384237" alt="Découvrez les intégrations des services d’application AEP pour les cas d’utilisation client"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -859,7 +975,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Cette session présente les plans directeurs d’AEP, quatre cas d’utilisation d’intégration impliquant AJO, Marketo et Target, ainsi que l’architecture des campagnes déclenchées par l’API AEP et AJO.</p>
                 </div>
                 <a href="2024/aep-apps-services-integrations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -869,7 +985,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Principes fondamentaux de l’intégration de Real-Time Customer Data Platform et de Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433670/?format=jpeg&nocache=1749832508605&captions=fre_fr" alt="Principes fondamentaux de l’intégration de Real-Time Customer Data Platform et de Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1752782384212" alt="Principes fondamentaux de l’intégration de Real-Time Customer Data Platform et de Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -882,7 +998,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Les principes de base de l’intégration de Real-Time Customer Data Platform et de Marketo explorent la manière dont Adobe AEP/RTCDP et Marketo fonctionnent ensemble pour améliorer la communication, rationaliser les processus et offrir des expériences client personnalisées.</p>
                 </div>
                 <a href="2024/aep-marketo-integration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -892,7 +1008,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-use-case-planning.md" title="De la vision à la valeur - Planification de cas d’utilisation AEP" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1749832508549" alt="De la vision à la valeur - Planification de cas d’utilisation AEP"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433025/?format=jpeg&nocache=1752782384220" alt="De la vision à la valeur - Planification de cas d’utilisation AEP"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -905,7 +1021,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session de planification de cas d’utilisation AEP couvre la correspondance des valeurs, l’alignement des stratégies et l’optimisation de la valeur commerciale par le biais de KPI. Il aide les entreprises à aligner leurs objectifs sur les résultats commerciaux et à exploiter les solutions Adobe pour offrir des expériences client percutantes.</p>
                 </div>
                 <a href="2024/aep-use-case-planning.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -915,7 +1031,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-copywriting.md" title="Accélération du contenu avec l’écriture basée sur l’IA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1749832508581" alt="Accélération du contenu avec l’écriture basée sur l’IA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433223/?format=jpeg&nocache=1752782384277" alt="Accélération du contenu avec l’écriture basée sur l’IA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -928,7 +1044,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Ce webinaire expliquera comment l’adoption d’une approche de rédaction et de test basée sur l’IA avec Adobe peut améliorer la personnalisation du contenu à grande échelle, tout en relevant les défis du maintien de la confiance, de la cohérence de la marque et des performances.</p>
                 </div>
                 <a href="2024/ai-copywriting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -938,7 +1054,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-customer-experience.md" title="RTCDP Insights - Exploiter l’IA pour l’expérience client" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1749832508571" alt="RTCDP Insights - Exploiter l’IA pour l’expérience client"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434919/?format=jpeg&nocache=1752782384254" alt="RTCDP Insights - Exploiter l’IA pour l’expérience client"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -951,7 +1067,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire RTCDP Insights a montré comment Adobe Real-Time Customer Data Platform utilise l’IA pour améliorer l’analyse du marché, créer des modèles prédictifs et optimiser les expériences client.</p>
                 </div>
                 <a href="2024/ai-customer-experience.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -961,7 +1077,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ai-personalization.md" title="Optimiser les expériences utilisateur avec Adobe Target AI-Driven Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1749832508660" alt="Optimiser les expériences utilisateur avec Adobe Target AI-Driven Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440934/?format=jpeg&nocache=1752782384302" alt="Optimiser les expériences utilisateur avec Adobe Target AI-Driven Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -974,7 +1090,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session de John Magnusson sur la personnalisation pilotée par l’IA d’Adobe Target a mis en évidence des fonctionnalités et des exemples clés, en mettant l’accent sur le framework Engage, Expand et Embed.</p>
                 </div>
                 <a href="2024/ai-personalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -984,7 +1100,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ajo-essentials.md" title="Adobe Journey Optimizer Essentials : création de campagnes, de Parcours client et de pages de destination" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1749832508560" alt="Adobe Journey Optimizer Essentials : création de campagnes, de Parcours client et de pages de destination"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433000/?format=jpeg&nocache=1752782384244" alt="Adobe Journey Optimizer Essentials : création de campagnes, de Parcours client et de pages de destination"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -997,7 +1113,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session Adobe Journey Optimizer Essentials a porté sur la création de campagnes, le mappage des parcours client et la création de pages de destination, en mettant l’accent sur les expériences client personnalisées sur divers canaux.</p>
                 </div>
                 <a href="2024/ajo-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1007,7 +1123,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/basic-to-intermediate-analysis-capabilities.md" title="Démarrage rapide Adobe Analytics et CJA pour des fonctionnalités d’analyse de base à intermédiaire" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1749832508594" alt="Démarrage rapide Adobe Analytics et CJA pour des fonctionnalités d’analyse de base à intermédiaire"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440933/?format=jpeg&nocache=1752782384229" alt="Démarrage rapide Adobe Analytics et CJA pour des fonctionnalités d’analyse de base à intermédiaire"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1020,7 +1136,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session a porté sur la configuration des fonctionnalités analytiques, la comparaison entre Adobe Analytics et Customer Journey Analytics, ainsi que sur les fonctionnalités clés des rapports marketing.</p>
                 </div>
                 <a href="2024/basic-to-intermediate-analysis-capabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1030,7 +1146,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="Hiérarchisation des flux de données" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456807/?format=jpeg&nocache=1749832508615&captions=fre_fr" alt="Hiérarchisation des flux de données"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1752782384261" alt="Hiérarchisation des flux de données"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1043,7 +1159,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment gérer la hiérarchisation des flux de données pour l’orchestration des campagnes afin d’optimiser la capacité de votre entreprise à exécuter des Personalization pilotées par les données.</p>
                 </div>
                 <a href="2024/data-stream-prioritization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1053,7 +1169,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/edge-delivery-services.md" title="Optimiser la diffusion de contenu - Tirer parti de la puissance des services Edge" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1749832508627" alt="Optimiser la diffusion de contenu - Tirer parti de la puissance des services Edge"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440938/?format=jpeg&nocache=1752782384285" alt="Optimiser la diffusion de contenu - Tirer parti de la puissance des services Edge"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1066,7 +1182,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session sur Edge Delivery Services (EDS) a porté sur son architecture, son intégration à la création basée sur des documents et sur AEM, la création rapide de sites, les options de personnalisation et les bonnes pratiques pour maintenir des performances élevées.</p>
                 </div>
                 <a href="2024/edge-delivery-services.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1076,7 +1192,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/edge-network-mobile-personalization.md" title="Informations sur Edge Network et Mobile Personalization avec les solutions Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1749832508649" alt="Informations sur Edge Network et Mobile Personalization avec les solutions Adobe"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433328/?format=jpeg&nocache=1752782384269" alt="Informations sur Edge Network et Mobile Personalization avec les solutions Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1089,7 +1205,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment améliorer les stratégies mobiles, l’engagement des utilisateurs et fournir des expériences personnalisées de manière efficace à l’aide des solutions Adobe.</p>
                 </div>
                 <a href="2024/edge-network-mobile-personalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1099,7 +1215,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/effective-change-management.md" title="Naviguer dans le changement - Un webinaire de la haute direction sur la gestion efficace du changement" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1749832508637" alt="Naviguer dans le changement - Un webinaire de la haute direction sur la gestion efficace du changement"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429286/?format=jpeg&nocache=1752782384293" alt="Naviguer dans le changement - Un webinaire de la haute direction sur la gestion efficace du changement"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1112,7 +1228,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Explorez les nuances de la gestion du changement et fournissez des informations stratégiques pour vous permettre de guider votre organisation à travers des parcours transformationnels.</p>
                 </div>
                 <a href="2024/effective-change-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1122,7 +1238,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/empowering-lean-teams.md" title="Donner des moyens aux équipes allégées" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1749832508715" alt="Donner des moyens aux équipes allégées"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427800/?format=jpeg&nocache=1752782384318" alt="Donner des moyens aux équipes allégées"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1135,7 +1251,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment les intégrations de produits peuvent rationaliser la gestion des workflows numériques, améliorer la collaboration entre les équipes, garantir l’efficacité de votre équipe et adapter vos processus d’entreprise.</p>
                 </div>
                 <a href="2024/empowering-lean-teams.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1145,7 +1261,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/expedia-aa-to-cja.md" title="Expedia et les principales marques transforment leur organisation d’Adobe Analytics en Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428762/?format=jpeg&nocache=1749832508692" alt="Expedia et les principales marques transforment leur organisation d’Adobe Analytics en Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428762/?format=jpeg&nocache=1752782384359" alt="Expedia et les principales marques transforment leur organisation d’Adobe Analytics en Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1158,7 +1274,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Rejoignez les leaders du secteur d’Adswerve, d’Expedia et d’Adobe qui partagent des informations, des tendances et des bonnes pratiques pour tirer parti d’Adobe Customer Journey Analytics afin de transformer l’analyse organisationnelle dans ce webinaire obligatoire.</p>
                 </div>
                 <a href="2024/expedia-aa-to-cja.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1168,7 +1284,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/getting-started-ajo-analysis.md" title="Prise en main de l’analyse Adobe Journey Optimizer dans Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1749832508671" alt="Prise en main de l’analyse Adobe Journey Optimizer dans Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432996/?format=jpeg&nocache=1752782384416" alt="Prise en main de l’analyse Adobe Journey Optimizer dans Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1181,7 +1297,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Cette session a pour but de montrer la manière dont Customer Journey Analytics et Adobe Journey Optimizer fonctionnent ensemble pour rationaliser la mesure de plusieurs campagnes et parcours Adobe Journey Optimizer.</p>
                 </div>
                 <a href="2024/getting-started-ajo-analysis.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1191,7 +1307,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/getting-started-rtcdp.md" title="Real-Time Customer Data Platform - Prise en main" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1749832508681" alt="Real-Time Customer Data Platform - Prise en main"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433224/?format=jpeg&nocache=1752782384309" alt="Real-Time Customer Data Platform - Prise en main"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1204,7 +1320,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment Real-Time CDP peut unifier des sources de données disparates, créer des profils clients complets et les activer sur plusieurs canaux. Découvrez les fonctionnalités et les bonnes pratiques de RTCDP qui peuvent vous aider à créer un parcours client plus efficace​.</p>
                 </div>
                 <a href="2024/getting-started-rtcdp.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1214,7 +1330,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Maturité de Personalization - Le chemin de l’hyperpersonnalisation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457347/?format=jpeg&nocache=1749832508737&captions=fre_fr" alt="Maturité de Personalization - Le chemin de l’hyperpersonnalisation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1752782384343" alt="Maturité de Personalization - Le chemin de l’hyperpersonnalisation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1227,7 +1343,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Informez-vous sur la nouvelle ère de l’hyperpersonnalisation. Nous allons établir une base sur un modèle de maturité de personnalisation, discuter des bloqueurs courants et fournir des conseils tactiques pour commencer.Points de discussion clés : le Parcours client moderne​ Le chemin de l’hyperpersonnalisation​ Comment démarrer au sein de votre organisation</p>
                 </div>
                 <a href="2024/hyperpersonalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1237,7 +1353,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/journey-optimizer-mobile-capabilities.md" title="Fonctionnalités mobiles de Journey Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1749832508703" alt="Fonctionnalités mobiles de Journey Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433001/?format=jpeg&nocache=1752782384326" alt="Fonctionnalités mobiles de Journey Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1250,7 +1366,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Cette session d’introduction à Adobe Journey Optimizer permettra aux débutants de créer des expériences client de canaux SMS et de notifications push qui génèrent des résultats à l’aide de la personnalisation. Nous discuterons de l’utilisation et de la personnalisation des fragments.</p>
                 </div>
                 <a href="2024/journey-optimizer-mobile-capabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1260,7 +1376,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="Optimiser l’efficacité - Équipes allégées et Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457010/?format=jpeg&nocache=1749832508759&captions=fre_fr" alt="Optimiser l’efficacité - Équipes allégées et Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1752782384334" alt="Optimiser l’efficacité - Équipes allégées et Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1273,7 +1389,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire montrera comment l’intégration de ces concepts peut accroître l’efficacité, améliorer les expériences client et soutenir la prise de décision axée sur les données au sein des entreprises.</p>
                 </div>
                 <a href="2024/lean-teams-cja.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1283,7 +1399,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/mastering-cookies-data-privacy.md" title="Privacy-First Analytics : maîtrise des cookies et de la confidentialité des données dans Adobe Analytics et Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1749832508748" alt="Privacy-First Analytics : maîtrise des cookies et de la confidentialité des données dans Adobe Analytics et Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432997/?format=jpeg&nocache=1752782384367" alt="Privacy-First Analytics : maîtrise des cookies et de la confidentialité des données dans Adobe Analytics et Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1296,7 +1412,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Dans le monde actuel de la confidentialité des données, la gestion de la consommation des données et du consentement des cookies est d’une importance majeure. Dans cette vidéo, vous découvrirez les bonnes pratiques d’Adobe pour les outils prêts à l’emploi Analytics et Customer Journey Analytics.</p>
                 </div>
                 <a href="2024/mastering-cookies-data-privacy.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1306,7 +1422,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/organizational-readiness-content-supply-chain.md" title="Tirer parti de la préparation organisationnelle d’Adobe GenStudio pour relever les défis de la chaîne d’approvisionnement de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1749832508771" alt="Tirer parti de la préparation organisationnelle d’Adobe GenStudio pour relever les défis de la chaîne d’approvisionnement de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440932/?format=jpeg&nocache=1752782384392" alt="Tirer parti de la préparation organisationnelle d’Adobe GenStudio pour relever les défis de la chaîne d’approvisionnement de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1319,7 +1435,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Cette session a souligné l’importance d’une chaîne logistique de contenu connectée pour améliorer les performances, d’une vision d’Adobe Gen Studio pour optimiser les workflows de contenu et des fonctionnalités d’IA de Adobe Experience Manager, Workfront et Experience Platform pour améliorer la création de contenu, la planification et l’efficacité opérationnelle.</p>
                 </div>
                 <a href="2024/organizational-readiness-content-supply-chain.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1329,7 +1445,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/rtcdp-migration-readiness.md" title="Préparation à la migration vers Real-time Customer Data Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1749832508726" alt="Préparation à la migration vers Real-time Customer Data Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432995/?format=jpeg&nocache=1752782384351" alt="Préparation à la migration vers Real-time Customer Data Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1342,7 +1458,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment migrer vers la plateforme de données clients en temps réel d’Adobe (RTCDP) et le niveau d’effort requis :- Migration depuis une plateforme de données clients existante- Impact sur les cas d’utilisation existants (Personalization et optimisation)- Changements organisationnels requis pour prendre en charge la gestion des données client en temps réel.</p>
                 </div>
                 <a href="2024/rtcdp-migration-readiness.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1352,7 +1468,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/sequential-logic.md" title="Maîtriser la logique séquentielle dans Adobe Analytics et Customer Journey Analytics - Principes de base" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1749832508782" alt="Maîtriser la logique séquentielle dans Adobe Analytics et Customer Journey Analytics - Principes de base"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3442925/?format=jpeg&nocache=1752782384400" alt="Maîtriser la logique séquentielle dans Adobe Analytics et Customer Journey Analytics - Principes de base"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1365,7 +1481,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Principal de la segmentation séquentielle et des filtres dans AA et CJA avec des aspects fondamentaux, des exemples pratiques et des applications commerciales, comme traité dans la session d’Andy Powers.</p>
                 </div>
                 <a href="2024/sequential-logic.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1375,7 +1491,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="Leadership stratégique" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456785/?format=jpeg&nocache=1749832508850&captions=fre_fr" alt="Leadership stratégique"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1752782384374" alt="Leadership stratégique"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1388,7 +1504,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Acquérir les tactiques pour atteindre efficacement les objectifs organisationnels par l'influence stratégique.- Augmenter le parrainage des dirigeants avec de l'influence - Fixer le cap du succès à long terme - Mener efficacement des initiatives stratégiques</p>
                 </div>
                 <a href="2024/strategic-leadership.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1398,7 +1514,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/streamline-authentication.md" title="Rationalisation de l’authentification : migration du compte de service (JWT) vers les informations d’identification de serveur à serveur OAuth" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1749832508805" alt="Rationalisation de l’authentification : migration du compte de service (JWT) vers les informations d’identification de serveur à serveur OAuth"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440936/?format=jpeg&nocache=1752782384447" alt="Rationalisation de l’authentification : migration du compte de service (JWT) vers les informations d’identification de serveur à serveur OAuth"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1411,7 +1527,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire Adobe, dirigé par Jeff Homequest et Marco Lara, ingénieurs de terrain expérimentés, a porté sur la migration du JWT du compte de service vers les informations d’identification de serveur à serveur OAuth. Il a mis en évidence la date limite d’obsolescence de janvier 2025, les étapes de migration, les avantages d’OAuth et des considérations spéciales pour AEM, avec une prise en charge et une documentation complètes fournies pour le processus.</p>
                 </div>
                 <a href="2024/streamline-authentication.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1421,7 +1537,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/target-personalization.md" title="Personalization Target - Prise en main de Recommendations et affinité catégorielle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1749832508816" alt="Personalization Target - Prise en main de Recommendations et affinité catégorielle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432999/?format=jpeg&nocache=1752782384383" alt="Personalization Target - Prise en main de Recommendations et affinité catégorielle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1434,7 +1550,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment créer une base solide pour commencer à utiliser Recommendations. Bénéficiez d’une meilleure compréhension des algorithmes qui alimentent les recommandations et de la manière d’exploiter ces dernières avec succès.</p>
                 </div>
                 <a href="2024/target-personalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1444,7 +1560,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/turning-data-into-action.md" title="Le pouvoir stratégique de la mesure - Transformer les données en action" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1749832508793" alt="Le pouvoir stratégique de la mesure - Transformer les données en action"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440935/?format=jpeg&nocache=1752782384426" alt="Le pouvoir stratégique de la mesure - Transformer les données en action"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1457,7 +1573,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Des stratégies de mesure efficaces renforcent la confiance et l’autonomisation en impliquant les parties prenantes, en assurant la familiarité des données et en favorisant la confiance dans la prise de décisions, tandis que la confiance est établie par la transparence, la gouvernance des données et l’alignement des parties prenantes, et l’autonomisation est obtenue par la formation, les outils accessibles et les données exploitables, tout en contribuant à démontrer la valeur de l’analyse par l’impact sur l’entreprise et l’efficacité opérationnelle.</p>
                 </div>
                 <a href="2024/turning-data-into-action.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1467,7 +1583,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/use-case-mapping.md" title="Real-Time CDP - Mise en correspondance de cas d’utilisation avec les fonctionnalités de la solution" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1749832508827" alt="Real-Time CDP - Mise en correspondance de cas d’utilisation avec les fonctionnalités de la solution"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429290/?format=jpeg&nocache=1752782384408" alt="Real-Time CDP - Mise en correspondance de cas d’utilisation avec les fonctionnalités de la solution"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1480,7 +1596,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Ce webinaire explore les principales façons d’explorer et de classer par priorité les cas d’utilisation, de les mapper à des fonctionnalités Real-time CDP spécifiques et d’assurer l’alignement sur les résultats commerciaux et la valeur.</p>
                 </div>
                 <a href="2024/use-case-mapping.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1490,7 +1606,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/web-sdk-migration.md" title="Principes de migration de Web SDK" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1749832508874" alt="Principes de migration de Web SDK"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429291/?format=jpeg&nocache=1752782384436" alt="Principes de migration de Web SDK"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1503,7 +1619,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Comprenez les différences entre App Measurement/AT.js et Web SDK, la procédure de migration, les considérations relatives au calendrier de la migration, les options de migration et les différences de données attendues.</p>
                 </div>
                 <a href="2024/web-sdk-migration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1513,7 +1629,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-admin-guardianship.md" title="Principes fondamentaux du système Workfront et de la tutelle des administrateurs de groupe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1749832508839" alt="Principes fondamentaux du système Workfront et de la tutelle des administrateurs de groupe"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433002/?format=jpeg&nocache=1752782384487" alt="Principes fondamentaux du système Workfront et de la tutelle des administrateurs de groupe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1526,7 +1642,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les bonnes pratiques pour déterminer le bon équilibre entre les administrateurs système et les administrateurs de groupe de Workfront, répartir les charges de travail et maintenir l’intégrité des données afin de faire évoluer votre entreprise de manière efficace et sécurisée.</p>
                 </div>
                 <a href="2024/workfront-admin-guardianship.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1536,7 +1652,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Webinaire Optimiser l’efficacité avec Adobe Workfront - Équipes au plus juste" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456708/?format=jpeg&nocache=1749832508862&captions=fre_fr" alt="Webinaire Optimiser l’efficacité avec Adobe Workfront - Équipes au plus juste"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1752782384458" alt="Webinaire Optimiser l’efficacité avec Adobe Workfront - Équipes au plus juste"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1549,7 +1665,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Explorez les stratégies et les approches pratiques pour stimuler la productivité et rationaliser les opérations à l’aide de méthodologies de lean avec Adobe Workfront, présentées par des experts du secteur.</p>
                 </div>
                 <a href="2024/workfront-lean-teams.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1559,7 +1675,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-mastery.md" title="Maîtrise de Workfront - Stratégies pour réussir" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1749832508885" alt="Maîtrise de Workfront - Stratégies pour réussir"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1752782384470" alt="Maîtrise de Workfront - Stratégies pour réussir"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1572,7 +1688,7 @@ Webinaires pilotés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Donnez à votre équipe les moyens d’exploiter tout le potentiel d’Adobe Workfront. Au cours de cette session, nos experts vous guideront à travers les bonnes pratiques qui offrent de la valeur, simplifient la gouvernance et favorisent l’adoption.</p>
                 </div>
                 <a href="2024/workfront-mastery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>

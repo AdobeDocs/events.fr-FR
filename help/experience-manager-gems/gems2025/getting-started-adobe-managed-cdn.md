@@ -1,26 +1,27 @@
 ---
-title: AEM GEMs - Prise en main du réseau CDN géré par l’Adobe
-description: Découvrez comment configurer le réseau CDN géré par l’Adobe dans AEM Cloud Service pour améliorer les performances et la sécurité avec les nouvelles fonctionnalités de configuration du réseau CDN.
+title: AEM GEMs - Prise en main du réseau CDN géré par Adobe
+description: Découvrez comment configurer le réseau CDN géré par Adobe dans AEM Cloud Service pour améliorer les performances et la sécurité avec les nouvelles fonctionnalités de configuration du réseau CDN.
 role: Developer, User
 level: Intermediate
+feature: Edge Delivery Services
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30T00:00:00Z
 jira: KT-17227
-source-git-commit: 1cfa9cdb0e973e6d088b1faeaa63539b0a7fba36
+exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
+source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 0%
 
 ---
 
-
-# AEM GEMs - Prise en main du réseau CDN géré par l’Adobe
+# AEM GEMs - Prise en main du réseau CDN géré par Adobe
 
 Découvrez le réseau CDN géré par Adobe dans AEM Cloud Service et comment le configurer. Rejoignez-nous pour explorer les nouvelles fonctionnalités de configuration du réseau CDN qui peuvent être utilisées pour améliorer les performances et la sécurité de vos applications AEM as a Cloud Service. Au cours de cette session, vous découvrirez :
 
-* Qu’est-ce que le réseau CDN d’Adobe ?
-* Topologies pertinentes pour AEMaaCS et les Edge Delivery Services
+* Qu’est-ce que le réseau CDN Adobe ?
+* Topologies pertinentes pour AEMaaCS et Edge Delivery Services
 * Cas d’utilisation standard pouvant être mis en œuvre avec des règles CDN
 * Utilisation des RDE pour tester et déployer rapidement des configurations de réseau CDN
 
@@ -28,7 +29,7 @@ Découvrez le réseau CDN géré par Adobe dans AEM Cloud Service et comment le 
 
 *Enregistrement le 22 janvier 2025*
 
-Vous avez une question, peut-être un commentaire?  Rejoignez la discussion dans les [communautés Experience League ](https://adobe.ly/4haufPK) !
+Vous avez une question, peut-être un commentaire?  Rejoignez la discussion dans les [communautés Experience League](https://adobe.ly/4haufPK) !
 
 ## Principaux points à retenir
 
@@ -36,7 +37,7 @@ Vous avez une question, peut-être un commentaire?  Rejoignez la discussion dans
 
 * **Domaines et certificats personnalisés** Essentiel pour héberger des domaines et certificats personnalisés et établir des connexions sécurisées.
 * **Mise en cache** La diffusion des réponses HTTP à partir du cache est beaucoup plus rapide (moins de 10 millisecondes) que la récupération à partir de l’origine (des centaines de millisecondes).
-* L’Adobe **réseau CDN prêt à l’emploi et personnalisé** fournit un réseau CDN géré prêt à l’emploi, mais les utilisateurs peuvent également apporter leur propre réseau CDN.
+* **Réseau de diffusion de contenu prêt à l’emploi et personnalisé** Adobe fournit un réseau de diffusion de contenu géré prêt à l’emploi, mais les utilisateurs peuvent également apporter leur propre réseau de diffusion de contenu.
 
 ### Options de configuration
 
@@ -50,11 +51,11 @@ Vous avez une question, peut-être un commentaire?  Rejoignez la discussion dans
 
 * **Pipeline de configuration** Déployez les fichiers YAML pour configurer les règles CDN.
 * **Protection du trafic** utilisez des règles de filtrage du trafic pour bloquer, consigner et alerter le trafic en fonction de modèles.
-* **Limitation de débit** Protect contre les attaques DDoS en limitant le nombre de requêtes par adresse IP.
+* **Limitation de débit** Protégez-vous contre les attaques DDoS en limitant le nombre de requêtes par adresse IP.
 
 ### Outils et analyses
 
-* **Pile Kibana Elasticsearch** Analysez l&#39;utilisation et le trafic avec les tableaux de bord fournis.
+* **Pile Elasticsearch Kibana** Analysez l’utilisation et le trafic à l’aide des tableaux de bord fournis.
 * **Transfert de journal** Transférez les journaux vers une instance Splunk pour analyse.
 
 ### Faits saillants de la démonstration
