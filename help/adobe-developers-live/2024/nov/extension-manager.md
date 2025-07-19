@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Découvrez comment étendre les fonctionnalités de Adobe Experience Manager pour les auteurs sur les surfaces de modification découplée et l’éditeur universel avec Iryna Lagno, ingénieure logicielle principale chez Adobe. Activez les extensions de l’interface utilisateur interorganisations et publiez-les pour que d’autres personnes puissent les utiliser via Extension Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440404/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440430/?learn=on&enablevpops&captions=fre_fr)
 
 ## Discussion Communautaire
 
