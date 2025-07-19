@@ -18,16 +18,16 @@ ht-degree: 0%
 
 # Top 3 - Approches Creative avec plans directeurs
 
-Hé tout le monde ! C’est moi, votre « CSM Workfront à la demande » et je reviens avec une autre vidéo Top 3 !  Cette fois, parlons des [plans directeurs](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview). Vous m’avez probablement entendu dire que les plans directeurs sont le raccourci de votre « travail Workfront », mais quelles sont les autres façons d’utiliser les plans directeurs pour accélérer le suivi des besoins de votre entreprise ?
+Hé tout le monde ! C’est moi, votre « CSM Workfront à la demande » et je reviens avec une autre vidéo Top 3 !  Cette fois, parlons des [plans directeurs](https://experienceleague.adobe.com/fr/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview). Vous m’avez probablement entendu dire que les plans directeurs sont le raccourci de votre « travail Workfront », mais quelles sont les autres façons d’utiliser les plans directeurs pour accélérer le suivi des besoins de votre entreprise ?
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465271/?learn=on&enablevpops)
 
-Si vous souhaitez d’abord tester avant d’installer quoi que ce soit en production, ne vous inquiétez pas !  Il vous suffit d’abord de jouer avec eux dans votre [environnement de prévisualisation Sandbox](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment).
+Si vous souhaitez d’abord tester avant d’installer quoi que ce soit en production, ne vous inquiétez pas !  Il vous suffit d’abord de jouer avec eux dans votre [environnement de prévisualisation Sandbox](https://experienceleague.adobe.com/fr/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment).
 
 Vous souhaitez découvrir les derniers plans directeurs ?
 
-* [Publication du plan directeur : formation Workfront pour les nouveaux utilisateurs](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734)
-* [Plan directeur publié : tableau de bord de People Manager](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545#M3247)
-* [Liste complète des plans directeurs disponibles](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Publication du plan directeur : formation Workfront pour les nouveaux utilisateurs](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/blueprint-released-workfront-training-for-new-users/ba-p/739734?profile.language=fr)
+* [Plan directeur publié : tableau de bord de People Manager](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545?profile.language=fr#M3247)
+* [Liste complète des plans directeurs disponibles](https://experienceleague.adobe.com/fr/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
 
-Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire à nos ateliers à venir sur notre page [Événements Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront). Nous espérons vous voir bientôt !
+Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire à nos ateliers à venir sur notre page [Événements Experience League](https://experienceleague.adobe.com/fr/events?filters=Workfront). Nous espérons vous voir bientôt !
