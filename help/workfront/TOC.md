@@ -3,9 +3,9 @@ user-guide-title: Événements Workfront
 breadcrumb-title: Événements Workfront
 user-guide-description: Événements Workfront
 solution: Workfront
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 6925343d683d029536f93cfedd93ec2290bea78d
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -13,14 +13,19 @@ ht-degree: 1%
 
 # Événements Workfront {#workfront-recordings}
 
-+ [Groupes d’utilisateurs et webinaires Workfront](overview.md)
++ [Ateliers à la demande sur Workfront](overview.md)
 
++ Webinaires de mise à jour {#releases}
+   + [Version 25.7](releases/25-7-release-webinar.md)
+   + [Version 25.4](releases/25-4-release-webinar.md)
+   + [Version 25.1](releases/25-1-release-webinar.md)
+   + [Version 24.1](releases/24-1-release-webinar.md)
 + Top 3 {#top3}
    + [Approches Creative avec plans directeurs](top3/blueprints.md)
 + Contre ! {#versus}
    + [Groupes ou équipes](versus/groups-vs-teams.md)
 + Informations d’experts {#expert-insights}
-+[Files d’attente de demandes avec Lyndsy Denk](expert-insights/request-queues.md)
+   + [Files d&#39;attente de demandes avec Lyndy Denk](expert-insights/request-queues.md)
 + Rembobinage de l&#39;atelier {#workshop-rewind}
    + Workflow {#workflow}
       + [Creative et gestion des ressources](classics/creative-ways-of-managing-resources.md)
@@ -63,9 +68,5 @@ ht-degree: 1%
    + Files d’attente des demandes et admission {#request-queues-and-intake}
       + [Files d’attente de demandes et Forms d’entrée](user-groups/request-queues-and-intake-forms.md)
 
-+ Versions {#releases}
-   + [Version 25.7](releases/25-7-release-webinar.md)
-   + [Version 25.4](releases/25-4-release-webinar.md)
-   + [Version 25.1](releases/25-1-release-webinar.md)
-   + [Version 24.1](releases/24-1-release-webinar.md)
+
 
