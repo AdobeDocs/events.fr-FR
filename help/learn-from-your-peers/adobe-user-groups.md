@@ -8,13 +8,13 @@ doc-type: Event
 duration: 3492
 last-substantial-update: 2025-08-01T00:00:00Z
 jira: KT-18677
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+exl-id: b0344cef-66f3-4882-b0d8-eb2e298a08d2
+source-git-commit: 64d09d3316d604d92d1186e3785e64ac1bbaa800
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # Explorer les groupes d’utilisateurs Adobe dans Experience Cloud
 
@@ -26,11 +26,7 @@ Si vous travaillez avec des solutions Adobe Experience Cloud et que vous souhait
 
 ## Session overview
 
-Cette session a porté sur les sujets suivants :
-
 * Découvrez ce que sont les groupes d’utilisateurs et comment ils prennent en charge la collaboration, la résolution de problèmes et le renforcement des compétences.
 * Obtenez des conseils pratiques sur la façon d’adhérer à un Groupe d’utilisateurs ou d’en former un , y compris les ressources, les outils et l’assistance disponibles dans Adobe.
 * Écoutez directement les dirigeants des groupes d’utilisateurs actifs dans AEM, Analytics, Marketo Engage et Workfront raconter comment l’apprentissage entre pairs les a aidés à se développer professionnellement et à résoudre de vrais défis.
 * Explorez les opportunités de leadership telles que devenir leader d’un groupe d’utilisateurs ou participer en tant que membre du groupe d’utilisateurs.
-
-
