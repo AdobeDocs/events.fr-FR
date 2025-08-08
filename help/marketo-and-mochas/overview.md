@@ -3,16 +3,16 @@ title: Marketo et Mochas
 description: Les événements à la demande de Marketo sont une bibliothèque vidéo dans laquelle des experts et des pairs ont partagé leurs pensées et leurs idées sur la meilleure utilisation d’Adobe Marketo.
 exl-id: eab06791-de71-4c26-bbb6-cbdeb9f6f8ec
 duration: 15
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
 workflow-type: tm+mt
-source-wordcount: '1309'
+source-wordcount: '1347'
 ht-degree: 0%
 
 ---
 
 # Marketo et Mochas
 
-Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, combinées à la [documentation](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=fr) et aux [tutoriels](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr) d’Adobe Marketo, vous comprenez mieux comment utiliser Adobe Marketo pour prendre en charge votre entreprise.
+Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, combinées à la [documentation](https://experienceleague.adobe.com/docs/marketo-engage.html) et aux [tutoriels](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) d’Adobe Marketo, vous comprenez mieux comment utiliser Adobe Marketo pour prendre en charge votre entreprise.
 
 ## Enregistrements 2025
 
@@ -23,6 +23,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
 * 2025/inheriting-bizible-instance.md
 * 2025/auditing-inherited-instance.md
 * 2025/5-features-to-know.md
+* 2025/salesforce-sync.md
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -31,7 +32,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/inheriting-bizible-instance.md" title="Marketo Measure et mochas - Héritage d’une instance Bizible nouvelle ou actuelle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459038/?format=jpeg&nocache=1749739012261" alt="Marketo Measure et mochas - Héritage d’une instance Bizible nouvelle ou actuelle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459038/?format=jpeg&nocache=1754608683907" alt="Marketo Measure et mochas - Héritage d’une instance Bizible nouvelle ou actuelle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -44,7 +45,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
                     <p class="is-size-6">Rejoignez Carly Gaver et Kate Colbert dans notre webinaire Marketo Measure et Mochas pour découvrir les bonnes pratiques de contrôle et d’optimisation de la configuration, de la configuration, des canaux et des rapports de votre instance Marketo Measure (Bizible).</p>
                 </div>
                 <a href="2025/inheriting-bizible-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -54,7 +55,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/auditing-inherited-instance.md" title="Marketo et mochas - Audit d’une instance héritée ou actuelle" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459034/?format=jpeg&nocache=1749739012233" alt="Marketo et mochas - Audit d’une instance héritée ou actuelle"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459034/?format=jpeg&nocache=1754608683897" alt="Marketo et mochas - Audit d’une instance héritée ou actuelle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -67,7 +68,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
                     <p class="is-size-6">Avez-vous hérité ou souhaitez-vous auditer votre instance Marketo ? Rejoignez les conseillers d’Adobe Cynthia Chang et Carly Gaver pour découvrir les 5 étapes clés de l’audit et de l’optimisation de votre Marketo Engage.</p>
                 </div>
                 <a href="2025/auditing-inherited-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -77,7 +78,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/5-features-to-know.md" title="Marketo et Mochas - 5 fonctionnalités Marketo à connaître en 2025" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444165/?format=jpeg&nocache=1749739012247" alt="Marketo et Mochas - 5 fonctionnalités Marketo à connaître en 2025"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444165/?format=jpeg&nocache=1754608683871" alt="Marketo et Mochas - 5 fonctionnalités Marketo à connaître en 2025"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +91,30 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
                     <p class="is-size-6">Regardez notre première session Marketo &amp; Mochas de l'année avec nos experts Marketo Engage, Carly Gaver et Kate Colbert. Carly et Kate ont présenté plus de 5 fonctionnalités complètes dans votre package Marketo qui peuvent améliorer l'expérience client et stimuler la demande en 2025. Connectez-vous et exploitez tout le potentiel de votre plateforme Marketo !</p>
                 </div>
                 <a href="2025/5-features-to-know.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Marketo & Mochas - Salesforce Sync">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/salesforce-sync.md" title="Marketo et mochas - Synchronisation de Salesforce" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470624/?format=jpeg&nocache=1754608683887" alt="Marketo et mochas - Synchronisation de Salesforce"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/salesforce-sync.md" target="_blank" rel="referrer" title="Marketo et mochas - Synchronisation de Salesforce">Marketo et mochas - Synchronisation Salesforce</a>
+                    </p>
+                    <p class="is-size-6">Effectuez le Principal de la synchronisation Marketo-Salesforce avec des conseils d’experts sur les autorisations, la visibilité des champs, la collaboration entre administrateurs et administratrices et les bonnes pratiques pour garantir une intégration fluide et optimisée.</p>
+                </div>
+                <a href="2025/salesforce-sync.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -119,7 +143,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/ask-me-anything.md" title="Demander n&apos;importe quoi" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1749739013183" alt="Demander n&apos;importe quoi"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3438195/?format=jpeg&nocache=1754608685142" alt="Demander n&apos;importe quoi"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -142,7 +166,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/attribution-dashboard-recording.md" title="Marketo et mochas - Principes fondamentaux de l’enregistrement des tableaux de bord d’attribution" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1749739013155" alt="Marketo et mochas - Principes fondamentaux de l’enregistrement des tableaux de bord d’attribution"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427255/?format=jpeg&nocache=1754608685125" alt="Marketo et mochas - Principes fondamentaux de l’enregistrement des tableaux de bord d’attribution"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -165,7 +189,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/drive-growth-with-reporting.md" title="Marketo et Mochas - Stimuler la croissance grâce au reporting (maturité Pt 3)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1749739013210" alt="Marketo et Mochas - Stimuler la croissance grâce au reporting (maturité Pt 3)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435407/?format=jpeg&nocache=1754608685116" alt="Marketo et Mochas - Stimuler la croissance grâce au reporting (maturité Pt 3)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -188,7 +212,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lead-nurture-success.md" title="Marketo et Mochas - Jeter les bases de la réussite de l’apprentissage par les leads" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1749739013195" alt="Marketo et Mochas - Jeter les bases de la réussite de l’apprentissage par les leads"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429436/?format=jpeg&nocache=1754608685081" alt="Marketo et Mochas - Jeter les bases de la réussite de l’apprentissage par les leads"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -211,7 +235,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/marketo-measure-and-mochas-activities-and-custom-models.md" title="Activités Marketo Measure &amp; Mochas et modèles personnalisés" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1749739013169" alt="Activités Marketo Measure &amp; Mochas et modèles personnalisés"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432603/?format=jpeg&nocache=1754608685092" alt="Activités Marketo Measure &amp; Mochas et modèles personnalisés"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -234,7 +258,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/maturity-part1-foundation.md" title="Marketo &amp; Mochas - Maturité Partie 1 - Poser les bases" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1749739013247" alt="Marketo &amp; Mochas - Maturité Partie 1 - Poser les bases"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432499/?format=jpeg&nocache=1754608685104" alt="Marketo &amp; Mochas - Maturité Partie 1 - Poser les bases"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -257,7 +281,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/new-discover-dashboard.md" title="Nouveaux tableaux de bord Discover" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1749739013235" alt="Nouveaux tableaux de bord Discover"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428405/?format=jpeg&nocache=1754608685150" alt="Nouveaux tableaux de bord Discover"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -280,7 +304,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/optimize-marketo-usage.md" title="Marketo et Mochas - Partie 2 sur la maturité - Optimisation de l’utilisation de Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1749739013222" alt="Marketo et Mochas - Partie 2 sur la maturité - Optimisation de l’utilisation de Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434699/?format=jpeg&nocache=1754608685134" alt="Marketo et Mochas - Partie 2 sur la maturité - Optimisation de l’utilisation de Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -322,7 +346,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/attribution.md" title="Marketo et Mochas - Attribution Marketo Measure" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1749739013472" alt="Marketo et Mochas - Attribution Marketo Measure"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3413506/?format=jpeg&nocache=1754608685652" alt="Marketo et Mochas - Attribution Marketo Measure"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -345,7 +369,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/deliverability-part-one.md" title="Marketo et Mochas - Délivrabilité (Partie 1)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1749739013447" alt="Marketo et Mochas - Délivrabilité (Partie 1)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3416666/?format=jpeg&nocache=1754608685668" alt="Marketo et Mochas - Délivrabilité (Partie 1)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -368,7 +392,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/deliverability-part-two.md" title="Marketo et Mochas - Délivrabilité (Partie 2)" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1749739013485" alt="Marketo et Mochas - Délivrabilité (Partie 2)"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3418668/?format=jpeg&nocache=1754608685679" alt="Marketo et Mochas - Délivrabilité (Partie 2)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -391,7 +415,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/lead-scoring.md" title="Marketo et Mochas - Score du lead" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1749739013460" alt="Marketo et Mochas - Score du lead"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3412722/?format=jpeg&nocache=1754608685689" alt="Marketo et Mochas - Score du lead"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -414,7 +438,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/lifecycle-modeling.md" title="Gestion du Parcours client - Modélisation du cycle de vie" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1749739013497" alt="Gestion du Parcours client - Modélisation du cycle de vie"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420763/?format=jpeg&nocache=1754608685698" alt="Gestion du Parcours client - Modélisation du cycle de vie"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -437,7 +461,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/msi-best-practices.md" title="Bonnes pratiques et optimisation de MSI" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1749739013521" alt="Bonnes pratiques et optimisation de MSI"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422797?format=jpeg&nocache=1754608685715" alt="Bonnes pratiques et optimisation de MSI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -460,7 +484,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/online-offline.md" title="Canaux en ligne et hors ligne" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1749739013534" alt="Canaux en ligne et hors ligne"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422363/?format=jpeg&nocache=1754608685707" alt="Canaux en ligne et hors ligne"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -483,7 +507,7 @@ Bienvenue dans les enregistrements Marketo et Mochas. Grâce à ces ressources, 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2023/program-management.md" title="Marketo et Mochas - Bonnes pratiques de gestion de programme" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1749739013509" alt="Marketo et Mochas - Bonnes pratiques de gestion de programme"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3425070/?format=jpeg&nocache=1754608685722" alt="Marketo et Mochas - Bonnes pratiques de gestion de programme"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
