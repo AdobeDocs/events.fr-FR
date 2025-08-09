@@ -21,7 +21,7 @@ ht-degree: 3%
 
 # Maîtriser Dynamic Media avec l’API ouverte
 
-Ce webinaire est destiné aux professionnels qui connaissent bien Dynamic Media traditionnel et qui cherchent à comprendre et à implémenter [Dynamic Media Ultimate](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) avec l’API Open.  Nous allons explorer le fonctionnement de haut niveau de Dynamic Media Ultimate avec l’API ouverte et le comparer à Dynamic Media traditionnel. Notre objectif est de fournir une compréhension complète des différences entre ces deux approches, ce qui permet aux participants qui connaissent Dynamic Media de s’adapter facilement au modèle d’API ouverte.
+Ce webinaire est destiné aux professionnels qui connaissent bien Dynamic Media traditionnel et qui cherchent à comprendre et à implémenter [Dynamic Media Ultimate](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate) avec l’API Open.  Nous allons explorer le fonctionnement de haut niveau de Dynamic Media Ultimate avec l’API ouverte et le comparer à Dynamic Media traditionnel. Notre objectif est de fournir une compréhension complète des différences entre ces deux approches, ce qui permet aux participants qui connaissent Dynamic Media de s’adapter facilement au modèle d’API ouverte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470620/?learn=on&enablevpops)
 

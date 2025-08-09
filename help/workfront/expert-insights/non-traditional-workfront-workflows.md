@@ -37,7 +37,7 @@ Vous serez surpris par toutes les idées fantastiques qu’elle partage, notamme
 
 ## Ressources
 
-Au cours de l’événement, Kiersten a mentionné deux ressources que nous avons jointes à la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315).
+Au cours de l’événement, Kiersten a mentionné deux ressources que nous avons jointes à la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=fr).
 * **Exemple De Rapport** - Rapport De Tâche Après Les Heures De Bureau 
 * **Mécanismes de sécurisation du routage des commentaires DSW** Ceci est un exemple fantastique de la manière d’apprendre à vos utilisateurs à fournir des mises à jour dans Workfront ! 
 

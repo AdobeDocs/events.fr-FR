@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Informations d’experts - Files d’attente de demandes avec Lyndy Denk
 
-Bienvenue dans les informations d’experts !  Je suis Cynthia Boon, votre CSM Workfront « à la demande » et pour cet épisode, nous avons Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167) ! Nous discuterons de l’histoire de Lyndy sur Workfront, puis nous approfondirons son étude sur la file d’attente des demandes du Help Desk.
+Bienvenue dans les informations d’experts !  Je suis Cynthia Boon, votre CSM Workfront « à la demande » et pour cet épisode, nous avons Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=fr) ! Nous discuterons de l’histoire de Lyndy sur Workfront, puis nous approfondirons son étude sur la file d’attente des demandes du Help Desk.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
 
@@ -36,15 +36,15 @@ Pendant notre conversation, Lyndy a partagé,
 
 Comme promis, voici les ressources dont nous avons discuté, ainsi que quelques liens supplémentaires pour Files d’attente de demandes et Rubriques de file d’attente :
 
-* Les ressources sur la [gestion d’une instance héritée](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) incluent le lien vers le webinaire et des détails sur le tutoriel [Plan directeur](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
+* Les ressources sur la [gestion d’une instance héritée](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance) incluent le lien vers le webinaire et des détails sur le tutoriel [Plan directeur](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-request-queues)
 
-* Documentation sur les files d’attente des demandes : [Créer des rubriques de file d’attente](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
+* Documentation sur les files d’attente des demandes : [Créer des rubriques de file d’attente](https://experienceleague.adobe.com/fr/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* Présentation du webinaire de Lyndsy pour [Principes de base de l’administration système](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096) : communication avec les utilisateurs finaux (cette page comprend également un lien vers le [ Manuel des communications de l’utilisateur final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
+* Présentation du webinaire de Lyndsy pour [Principes de base de l’administration système](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=fr) : communication avec les utilisateurs finaux (cette page comprend également un lien vers le [ Manuel des communications de l’utilisateur final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=fr))
 
-* Lyndsy’s [ressources de présentation pour l’échange de compétences](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
+* Lyndsy’s [ressources de présentation pour l’échange de compétences](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=fr#M3642)
 
-* Et n&#39;oubliez pas de consulter le [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798) Ask Me ANYTHING about Workfront Proof où Lyndsy, Monique Evans et Richard Carlson ont répondu à vos questions sur la relecture !
+* Et n&#39;oubliez pas de consulter le [Workfront AMA](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-proof/ev-p/748798?profile.language=fr) Ask Me ANYTHING about Workfront Proof où Lyndsy, Monique Evans et Richard Carlson ont répondu à vos questions sur la relecture !
 
 ## À propos du conférencier 
 

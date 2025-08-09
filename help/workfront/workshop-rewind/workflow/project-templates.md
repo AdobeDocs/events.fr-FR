@@ -25,7 +25,7 @@ Cet atelier a été enregistré le 8 avril 2025 et a mis en vedette Ross Barton 
 En plus de l’enregistrement à la demande, nous avons inclus le jeu de diapositives et les conseils qui ont été partagés dans le chat :  
 
 * [Diaporama PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
+* [Publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=fr)
 
 ## Conseils
 
@@ -39,4 +39,4 @@ En plus de l’enregistrement à la demande, nous avons inclus le jeu de diaposi
 
 L’un des thèmes les plus importants que nous avons vus dans la conversation était le défi consistant à essayer de garder les modèles de projet simples, mais en même temps à suivre l’effort et à s’assurer que les équipes réalisent toutes les étapes nécessaires pour terminer le projet. 
 
- Nous espérons vous voir lors des futurs ateliers sur le succès client !  Veillez à consulter les [Événements Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) sur Experience League pour obtenir la liste complète et vous inscrire.
+ Nous espérons vous voir lors des futurs ateliers sur le succès client !  Veillez à consulter les [Événements Workfront](https://experienceleague.adobe.com/events/?lang=fr&filters=Workfront) sur Experience League pour obtenir la liste complète et vous inscrire.
