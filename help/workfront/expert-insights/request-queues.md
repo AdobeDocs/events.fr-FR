@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Bienvenue dans les informations d’experts !  Je suis Cynthia Boon, votre CSM Workfront « à la demande » et pour cet épisode, nous avons Workfront Celebrity, [@Lyndsy-Denk](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/17573167?profile.language=fr) ! Nous discuterons de l’histoire de Lyndy sur Workfront, puis nous approfondirons son étude sur la file d’attente des demandes du Help Desk.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465272/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469291/?learn=on&enablevpops&captions=fre_fr)
 
 Pendant notre conversation, Lyndy a partagé,
 

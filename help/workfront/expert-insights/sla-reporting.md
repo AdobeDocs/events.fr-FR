@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Bienvenue dans une autre partie d’Expert Insights !  Workfront Je m’appelle Cynthia Boon et je suis ravie de vous annoncer que nous avons la seule et unique Madalyn Destafney, qui partage une partie de sa vaste expérience pour aider les clients à mettre en œuvre et à mesurer les accords de niveau de service (SLA) à l’aide de Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469980/?learn=on&enablevpops&captions=fre_fr)
 
 Comme promis dans la vidéo, la présentation de Madalyn est liée à ses pas, à ses expressions calculées et à des exemples de rapports. 
 
