@@ -1,19 +1,20 @@
 ---
 title: Informations percutantes - Élaboration de stratégies pour une mesure efficace
 description: Une stratégie de mesure bien mise en œuvre améliore l’efficacité opérationnelle, favorise la prise de décisions axée sur les données et améliore l’expérience client, offrant ainsi aux entreprises un avantage concurrentiel.
+solution: General
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 2814
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17378
-source-git-commit: 5d4308bd92d8285e2380725ad72e341319347cc4
+exl-id: f40c7d75-1b2e-43d5-80dd-99f87c003cac
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
 
 ---
-
 
 # Informations percutantes : élaborer des stratégies pour une mesure efficace
 

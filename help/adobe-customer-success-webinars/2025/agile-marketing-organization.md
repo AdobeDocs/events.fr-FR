@@ -1,19 +1,20 @@
 ---
 title: Cultiver une organisation marketing agile
 description: La séance sur la culture d'une organisation de marketing agile a mis en évidence les principes du marketing agile, ses avantages, les défis liés à l'approche traditionnelle en cascade, la nécessité d'un changement culturel et d'une gestion du changement, ainsi que les rôles et la structure essentiels à la réussite du marketing agile.
+solution: General
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3333
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17371
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: c4cce472-9730-41d8-8292-663d5a2e03a5
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
 
 ---
-
 
 # Cultiver une organisation marketing agile
 

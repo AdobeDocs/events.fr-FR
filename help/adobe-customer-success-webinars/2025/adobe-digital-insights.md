@@ -1,19 +1,20 @@
 ---
 title: Adobe Digital Insights - Résultats des fêtes 2024 et tendances début 2025
 description: Rejoignez le webinaire d’Adobe pour obtenir des informations sur les tendances d’achats pour les fêtes de fin d’année 2024 et les prévisions de marché du début de l’année 2025, explorez les catégories de produits à forte croissance et découvrez les bonnes pratiques pour créer des expériences d’achat personnalisées à l’aide de l’IA et des technologies avancées.
+solution: General
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Digital Insights : présentation des résultats des vacances 2024 et des tendances du début de l’année 2025
 

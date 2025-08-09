@@ -1,19 +1,20 @@
 ---
 title: Adobe Digital Insights - Webinaire sur l’état du numérique et l’adoption de GenAI
 description: 'Découvrez les principales tendances de la vente au détail et des voyages dans Adobe, optimisées par les visites de sites 1T+ : GenAI, mobiles, KPI et informations sur les consommateurs pour stimuler la croissance.'
+solution: General
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3531
 last-substantial-update: 2025-05-20T00:00:00Z
 jira: KT-18108
-source-git-commit: 5168d412d6bba7db7e99d1c2a3e32a794334a161
+exl-id: 2158dece-ff41-42e7-b000-96172a707599
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Webinaire Adobe Digital Insights : état du numérique et adoption de GenAI
 

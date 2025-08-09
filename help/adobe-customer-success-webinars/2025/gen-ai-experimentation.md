@@ -1,6 +1,7 @@
 ---
 title: Expérience GenAI dans AJO et sa relation avec Adobe Target
 description: La réunion a mis en évidence les capacités de l’accélérateur de contenu d’IA à générer du texte, des images et des HTML, l’expérimentation de contenu via Adobe Journey Optimizer, l’intégration à Adobe Target pour l’optimisation et la personnalisation, divers cas d’utilisation d’outils combinés et les développements futurs, y compris les fonctionnalités améliorées d’IA.
+solution: Journey Optimizer, Target
 feature: AI Assistant, Generative AI
 topic: Artificial Intelligence
 role: Admin, Developer, Leader, User
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2016
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17374
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: f085fe77-4025-4121-bd2a-24ec1436be93
+source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
 
 ---
-
 
 # Expérience GenAI dans AJO et sa relation avec Adobe Target
 
@@ -27,7 +28,7 @@ Ce webinaire explique comment l’accélérateur de contenu de l’assistant d�
 * Expériences et optimisation de contenu
 * IA générative
 
->[!VIDEO](https://video.tv.adobe.com/v/3444461/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
 
 ## Principaux points à retenir
 
