@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Au cours de notre quatrième session, nous examinons comment l&#39;absence de parrainage exécutif solide retardera la prise de décisions, l&#39;allocation du budget et la gestion du changement. Dans ce webinaire, nous explorons le rôle essentiel que jouent les dirigeants dans la promotion des programmes Adobe Customer Journey Analytics, l’alignement des équipes transversales et la création de résultats opérationnels mesurables. Découvrez des stratégies pratiques pour impliquer les principales parties prenantes, communiquer efficacement la valeur et créer une culture de prise de décision axée sur les données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470856/?learn=on&enablevpops&captions=fre_fr)
 
 ## Créer des dossiers commerciaux
 

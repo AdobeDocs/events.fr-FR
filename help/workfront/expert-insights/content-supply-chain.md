@@ -31,7 +31,7 @@ Corre est un CSM véritablement stratégique qui nous donne le ton sur l’utili
 * Commencez par identifier vos points de peinture de processus et allez-y. Ne laissez pas la technologie dépasser l’objectif.
 * Connectez-vous à d’autres clients qui se trouvent sur un parcours similaire dans la communauté ou lors d’événements ! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469996/?learn=on&enablevpops&captions=fre_fr)
 
 ## Ressources
 
