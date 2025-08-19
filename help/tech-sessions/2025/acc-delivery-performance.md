@@ -1,7 +1,6 @@
 ---
 title: Performances de diffusion de Adobe Campaign Classic - Dépannage
 description: Cette session a couvert les principales stratégies permettant d’améliorer les performances des diffusions par e-mail et SMS à l’aide d’Adobe Campaign. Elle a permis de relever des défis courants tels que les retards de diffusion, le faible débit et la lenteur des transactions, en offrant des solutions tels que l’optimisation des lots, la journalisation SQL et la surveillance des performances du serveur. Les bonnes pratiques en matière de délivrabilité incluent l'authentification correcte des e-mails (SPF, DKIM, DMARC), la surveillance des listes noires et les vérifications de spam. Pour de meilleures performances, les experts recommandent de nettoyer les workflows, de limiter les règles et d’éviter les conteneurs partagés. Conseils de diffusion SMS axés sur la configuration correcte du compte externe et l’analyse des journaux. La session a également mis l’accent sur la validation du suivi, la maintenance de la base de données à l’aide de rapports de surcharge et l’application de règles de pression/fatigue pour stimuler l’engagement. Un enregistrement de session sera partagé par e-mail et publié sur le site d’Adobe Experience Platform.
-version: Classic v7
 solution: Campaign Classic v7
 product: Adobe Campaign
 feature: SMS, Deliverability, Troubleshooting
@@ -11,13 +10,13 @@ doc-type: Event
 duration: 2257
 last-substantial-update: 2025-04-25T00:00:00Z
 jira: KT-17869
-source-git-commit: 373605f79b3122382e221252232a26535ff3109b
+exl-id: a7e1e198-b63b-4a2a-9ffc-7f72bf4c61c1
+source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 0%
 
 ---
-
 
 # Sessions techniques : Performances de diffusion Adobe Campaign Classic - Dépannage
 

@@ -2,9 +2,9 @@
 user-guide-title: Webinaires sur le succès client Adobe
 breadcrumb-title: Webinaires sur le succès client Adobe
 user-guide-description: Webinaires dirigés par la réussite client Adobe conçus pour vous aider à optimiser votre investissement dans Adobe Experience Cloud. Obtenez des informations précieuses afin d’optimiser la valeur et d’accroître l’adoption des solutions Adobe.
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '484'
 ht-degree: 4%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 4%
    + Commerce {#commerce2025}
       + [Transformation de Commerce B2B et B2B2C](2025/transforming-b2b-commerce.md)
    + Customer Journey Analytics {#cja2025}
+      + [Créer un parrainage exécutif](2025/cja-success.md)
+      + [Stratégies de gestion du changement](2025/cja-adoption.md)
       + [Conception d’un modèle opérationnel pour le succès de CJA](2025/cja-operating-model.md)
       + [Architecture de base](2025/cja-vision.md)
       + [Migration vers CJA à partir d’Adobe Analytics](2025/analytics-to-cja-migration.md)
@@ -35,6 +37,7 @@ ht-degree: 4%
       + [New Relic Essentials pour AEM Cloud](2025/new-relic-essentials-aem-cloud.md)
       + [Optimiser les performances d’AEM](2025/optimize-aem-performance.md)
       + [Personnaliser les communications numériques](2025/personalize-digital-communications.md)
+      + [Présentation de l’éditeur universel](2025/modern-aem-authoring.md)
    + Experience Platform {#aep2025}
       + [IA - Au-delà des principes de base](2025/ai-beyond-basics.md)
       + [Bonnes pratiques et informations pour la modélisation des schémas XDM](2025/model-xdm-schemas.md)

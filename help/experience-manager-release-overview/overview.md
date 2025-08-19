@@ -4,10 +4,10 @@ description: Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe
 user-guide-breadcrumb: AEM Release Events
 exl-id: 5406adc9-173b-461b-bd91-59913d961aa0
 duration: 91
-source-git-commit: 51dfbfe124b46f609fb0349dbcfa2add442a026d
+source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
 workflow-type: tm+mt
-source-wordcount: '1175'
-ht-degree: 8%
+source-wordcount: '1221'
+ht-degree: 9%
 
 ---
 
@@ -20,6 +20,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
 <!-- CARDS
 {cta = Watch}
 
+* 2025/2025-6-0.md
 * 2025/2025-5-0.md
 * 2025/2025-4-0.md
 * 2025/2025-3-0.md
@@ -29,12 +30,35 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2025.06.0 AEM Release Overview Video">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/2025-6-0.md" title="Vidéo De Présentation De La Version 2025.06.0 D’AEM" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470878/?format=jpeg&nocache=1755640186432" alt="Vidéo De Présentation De La Version 2025.06.0 D’AEM"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/2025-6-0.md" target="_blank" rel="referrer" title="Vidéo De Présentation De La Version 2025.06.0 D’AEM">Vidéo de vue d’ensemble de la version 2025.06.0 d’AEM</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment ajouter des sous-titres WebVTT dans Adobe Dynamic Media Classic pour améliorer l’accessibilité, l’optimisation du moteur de recherche et la portée mondiale de vos vidéos.</p>
+                </div>
+                <a href="2025/2025-6-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="2025.5.0 AEM Release Overview Video">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-5-0.md" title="Vidéo De Présentation De La Version 2025.5.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464352/?format=jpeg&nocache=1751033557118&captions=fre_fr" alt="Vidéo De Présentation De La Version 2025.5.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464307/?format=jpeg&nocache=1755640186479" alt="Vidéo De Présentation De La Version 2025.5.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -47,7 +71,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Cette version comprend des mises à jour d’AEM Sites, de Forms et d’Assets, notamment la diffusion OpenAPI, la prise en charge de Java 21, les balises intelligentes, le connecteur Figma et Dynamic Media pour AJO B2C.</p>
                 </div>
                 <a href="2025/2025-5-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -57,7 +81,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-4-0.md" title="Vidéo De Présentation De La Version 2025.04.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464004/?format=jpeg&nocache=1751033557127&captions=fre_fr" alt="Vidéo De Présentation De La Version 2025.04.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463991/?format=jpeg&nocache=1755640186489" alt="Vidéo De Présentation De La Version 2025.04.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -70,7 +94,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Cette version apporte des mises à jour à AEM Sites, Forms, Assets et Cloud Foundation, y compris de nouvelles interfaces utilisateur, la prise en charge d’Edge Delivery et l’authentification OpenAPI.</p>
                 </div>
                 <a href="2025/2025-4-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -80,7 +104,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-3-0.md" title="Vidéo De Présentation De La Version 2025.3.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463867/?format=jpeg&nocache=1751033557157&captions=fre_fr" alt="Vidéo De Présentation De La Version 2025.3.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463859/?format=jpeg&nocache=1755640186459" alt="Vidéo De Présentation De La Version 2025.3.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -93,7 +117,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Cette version ajoute des fonctionnalités AEM Sites telles que Générer des variations, la prise en charge des passerelles dans l’éditeur universel et un nouveau lancement de produit dans Sites Optimizer.</p>
                 </div>
                 <a href="2025/2025-3-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -103,7 +127,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-2-0.md" title="Vidéo De Présentation De La Version 2025.2.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1751033557143" alt="Vidéo De Présentation De La Version 2025.2.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1755640186470" alt="Vidéo De Présentation De La Version 2025.2.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -116,7 +140,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Découvrez les nouvelles fonctionnalités d’AEM pour la génération de contenu intelligente, une activation plus rapide et une prise en charge robuste du cloud, y compris le balisage automatique, l’édition de ressources à distance et 99,99 % de SLA.</p>
                 </div>
                 <a href="2025/2025-2-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -126,7 +150,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="Vidéo De Présentation De La Version 2025.01.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456076/?format=jpeg&nocache=1751033557182&captions=fre_fr" alt="Vidéo De Présentation De La Version 2025.01.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1755640186447" alt="Vidéo De Présentation De La Version 2025.01.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -139,7 +163,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">La vidéo Adobe Experience Manager 2025.1 présente les améliorations apportées aux fragments de contenu, aux formulaires et aux ressources, y compris dynamic media, aux outils de collaboration et à la prise en charge de Java 21.</p>
                 </div>
                 <a href="2025/2025-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -174,7 +198,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-2-0.md" title="Vidéo De Présentation De La Version 2025.2.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1751033557546" alt="Vidéo De Présentation De La Version 2025.2.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3458080/?format=jpeg&nocache=1755640186880" alt="Vidéo De Présentation De La Version 2025.2.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -187,7 +211,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Découvrez les nouvelles fonctionnalités d’AEM pour la génération de contenu intelligente, une activation plus rapide et une prise en charge robuste du cloud, y compris le balisage automatique, l’édition de ressources à distance et 99,99 % de SLA.</p>
                 </div>
                 <a href="2025/2025-2-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -197,7 +221,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="Vidéo De Présentation De La Version 2025.01.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456076/?format=jpeg&nocache=1751033557530&captions=fre_fr" alt="Vidéo De Présentation De La Version 2025.01.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1755640186852" alt="Vidéo De Présentation De La Version 2025.01.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -210,7 +234,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">La vidéo Adobe Experience Manager 2025.1 présente les améliorations apportées aux fragments de contenu, aux formulaires et aux ressources, y compris dynamic media, aux outils de collaboration et à la prise en charge de Java 21.</p>
                 </div>
                 <a href="2025/2025-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -220,7 +244,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-11-0.md" title="Vidéo De Présentation De La Version 2024.11.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440922/?format=jpeg&nocache=1751033557575&captions=fre_fr" alt="Vidéo De Présentation De La Version 2024.11.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440920/?format=jpeg&nocache=1755640186871" alt="Vidéo De Présentation De La Version 2024.11.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -233,7 +257,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Cette version met en évidence les mises à jour importantes apportées à Adobe Experience Manager (AEM) Sites et Assets, notamment l’extensibilité améliorée de l’interface, les nouvelles options de rendu, les modificateurs d’image avancés et les améliorations apportées à Edge Delivery Services avec l’éditeur universel dans AEM.</p>
                 </div>
                 <a href="2024/2024-11-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -243,7 +267,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-10-0.md" title="Vidéo De Présentation De La Version 2024.10.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440501/?format=jpeg&nocache=1751033557588" alt="Vidéo De Présentation De La Version 2024.10.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3440501/?format=jpeg&nocache=1755640186863" alt="Vidéo De Présentation De La Version 2024.10.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -256,7 +280,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Les fonctionnalités de cette version sont axées sur les innovations de Experience Manager Assets et de Cloud Service et comprennent les éléments suivants : AEM Assets Nouveaux prix et packaging pour AEM Assets avec Assets Ultimate et Asset PrimeAEM Cloud Service Transférer les journaux vers d’autres destinations Redirections d’URL sans pipeline pour les utilisateurs professionnels ​ les RDE prennent en charge la configuration du pipeline YAML ​ Interactive AEM Developer Console</p>
                 </div>
                 <a href="2024/2024-10-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -266,7 +290,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-9-0.md" title="Vidéo De Présentation De La Version 2024.9.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434847/?format=jpeg&nocache=1751033557561" alt="Vidéo De Présentation De La Version 2024.9.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3434847/?format=jpeg&nocache=1755640186899" alt="Vidéo De Présentation De La Version 2024.9.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -279,7 +303,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Les fonctionnalités de cette version sont axées sur les innovations de Experience Manager Assets et de Cloud Service et comprennent les éléments suivants : AEM Assets - Amélioration du sélecteur de ressources pour la prise en charge des collections​ Assets Content Hub - prise en charge de la gestion des droits numériques (ressources expirées et sous licence)​AEM Cloud Service - prise en charge de Cloud Manager pour Edge Delivery​ Edge Side Includes (ESI) ​ authentification de base​ Interactive AEM Developer Console</p>
                 </div>
                 <a href="2024/2024-9-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -289,7 +313,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-8-0.md" title="Vidéo De Présentation De La Version 2024.8.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433381/?format=jpeg&nocache=1751033557621" alt="Vidéo De Présentation De La Version 2024.8.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433381/?format=jpeg&nocache=1755640186908" alt="Vidéo De Présentation De La Version 2024.8.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -302,7 +326,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Les fonctionnalités de cette version se concentrent sur les innovations d’AEM Assets et Dynamic Media, de Forms, de Sites et de Cloud Foundation et incluent les éléments suivants : Modèles composables Dynamic Media pour l’éditeur universel de l’assistant Forms GenAI 1:1 avec une nouvelle intégration de structure de contenu AEM​ Gérer le cycle de vie des certificats DV et la prise en charge de Edge Delivery Services via le tableau de bord de contrôle de l’expérience Cloud Manager Améliorations des performances du pipeline</p>
                 </div>
                 <a href="2024/2024-8-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -312,7 +336,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-7-0.md" title="Vidéo De Présentation De La Version 2024.7.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1751033557607" alt="Vidéo De Présentation De La Version 2024.7.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3431707/?format=jpeg&nocache=1755640186889" alt="Vidéo De Présentation De La Version 2024.7.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -325,7 +349,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Les fonctionnalités de cette version sont axées sur les innovations de Experience Manager Assets et de Cloud Service et comprennent les éléments suivants : AEM Assets:Content Credentials dans les légendes AEM Assets​AI optimisées pour la vidéo avec les améliorations du sélecteur de ressources Dynamic Media pour le chargement​ ​Cloud Manager:configuration en libre-service des informations d’identification de réseau CDN gérées par le client​Purge du réseau CDN​alertes des règles de filtrage de trafic​</p>
                 </div>
                 <a href="2024/2024-7-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -335,7 +359,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-6-0.md" title="vidéo de présentation de la version 2024.6.0 d’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430779/?format=jpeg&nocache=1751033557634" alt="vidéo de présentation de la version 2024.6.0 d’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430779/?format=jpeg&nocache=1755640186917" alt="vidéo de présentation de la version 2024.6.0 d’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -348,7 +372,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Les fonctionnalités de la version de juin 2024 se concentrent sur AEM Assets avec Content Hub, Dynamic Media avec les fonctionnalités OpenAPI, les améliorations apportées au sélecteur Assets (balises et ressources expirées), les modèles de fragment de contenu dans Admin Console de fragments de contenu, Cloud Foundation (Ajout de référentiels privés dans Cloud Manager) et Cloud Foundation (Restauration de contenu).</p>
                 </div>
                 <a href="2024/2024-6-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -358,7 +382,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-5-0.md" title="Vidéo De Présentation De La Version 2024.5.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448064/?format=jpeg&nocache=1751033557683&captions=fre_fr" alt="Vidéo De Présentation De La Version 2024.5.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429503/?format=jpeg&nocache=1755640186927" alt="Vidéo De Présentation De La Version 2024.5.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -371,7 +395,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Les fonctionnalités de cette version se concentrent sur : - Nouvelles options de publication pour AEM et les améliorations de l’éditeur universel Dynamic Media Migration des composants de base de Forms adaptatif vers les composants principaux Prise en charge supplémentaire de Captcha dans les améliorations de la base cloud de Forms adaptatif</p>
                 </div>
                 <a href="2024/2024-5-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -381,7 +405,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-4-0.md" title="Vidéo De Présentation De La Version 2024.4.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3446306/?format=jpeg&nocache=1751033557649&captions=fre_fr" alt="Vidéo De Présentation De La Version 2024.4.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429111/?format=jpeg&nocache=1755640186936" alt="Vidéo De Présentation De La Version 2024.4.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -394,7 +418,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Les fonctionnalités de cette version sont axées sur les innovations de Experience Manager Assets et de Cloud Service et incluent les éléments suivants : AEM Assets:1-cliquez sur le changement de nom de ressource/dossier dans l’affichage AssetsExpérience de recherche simplifiée à l’aide du langage naturelAperçu des rendus dynamiques, y compris le recadrage intelligent à partir d’Assets Afficher Modifier facilement les vidéos dans AEM avec des actions rapides expressCloud Manager:Optimisations et réglage du réseau CDNconfiguration en libre-service de la purge de version et des tâches de maintenance de la purge des journaux d’auditÉtendre la diffusion en continu des journaux aux fournisseurs au-delà de Splunk, avec une prise en charge IP dédiée en libre-service et dédiéePrise en charge CDN pour ESI, également via SDII</p>
                 </div>
                 <a href="2024/2024-4-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -404,7 +428,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-3-0.md" title="Vidéo De Présentation De La Version 2024.3.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3450609/?format=jpeg&nocache=1751033557714&captions=fre_fr" alt="Vidéo De Présentation De La Version 2024.3.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428344/?format=jpeg&nocache=1755640186944" alt="Vidéo De Présentation De La Version 2024.3.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -417,7 +441,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Expériences à fort impact Création AEM avec Edge Delivery Services Edge Delivery Services pour FormsContenu pour tous, pour tous Éditeur universel Intelligence exploitable AEM Sites - Générer des variations de contenu (GenAI)Développement rapide API ouvertes CruD pour les fragments et modèles de contenuCloud Service Foundation Mise en réseau avancéeAutres améliorations notables Comparer les versions de fragments de contenu Prise en charge de la gestion multisite pour les fragments d’expérience Importateur de contenu mis à jour v1.51.0 Extension Sidekick v6.41.0</p>
                 </div>
                 <a href="2024/2024-3-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -427,7 +451,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/2024-1-0.md" title="Vidéo De Présentation De La Version 2024.1.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3448931/?format=jpeg&nocache=1751033557666&captions=fre_fr" alt="Vidéo De Présentation De La Version 2024.1.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427041/?format=jpeg&nocache=1755640186954" alt="Vidéo De Présentation De La Version 2024.1.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -440,7 +464,7 @@ Obtenez un aperçu rapide des dernières fonctionnalités d’Adobe Experience M
                     <p class="is-size-6">Les fonctionnalités de cette version sont axées sur les innovations Experience Manager Assets et Cloud Service et comprennent les éléments suivants : AEM Assets - Intégration d’AEM Assets Cloud Service et de Adobe Journey Optimizer, Liste bloquée de balises intelligentes, rendu d’aperçu vidéo prêt à l’emploi, Cloud Manager - Autorisations personnalisées</p>
                 </div>
                 <a href="2024/2024-1-0.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
