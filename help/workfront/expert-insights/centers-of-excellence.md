@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Bienvenue à nouveau dans les informations d’experts !  Je m’appelle Cynthia Boon et je suis votre responsable du succès client (CSM) Workfront « On-Demand ». Dans cet épisode, Danielle Johnston nous rejoint !  Elle partage ses idées sur la façon de commencer, les façons d’utiliser Workfront pour soutenir vos efforts de gouvernance et de centre d’excellence et nous encourage à être le changement positif que nous voulons voir dans Workfront ! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469897/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470007/?learn=on&enablevpops&captions=fre_fr)
 
 ## Conseils
 

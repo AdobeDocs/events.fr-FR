@@ -27,7 +27,7 @@ Pour mémoire, elle est tout aussi géniale, intelligente et généreuse avec qu
 
 Rejoignez-moi, votre CSM Workfront On-Demand, alors que je discute avec Nichole de la façon dont elle est devenue notre gourou du reporting, de ses fonctionnalités et conseils préférés, et de la façon dont nous pouvons tous « ressembler davantage à Nichole » ! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469967/?learn=on&enablevpops&captions=fre_fr)
 
 ## Conseils
 

@@ -33,7 +33,7 @@ Vous serez surpris par toutes les idées fantastiques qu’elle partage, notamme
 * Lancer des révisions succinctes de Creative pour répondre aux besoins de leurs utilisateurs et de leurs projets. 
 * *BONUS !* Elle partage également un exemple de l’un de ses cas d’utilisation préférés de Fusion !
 
->[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469941/?learn=on&enablevpops&captions=fre_fr)
 
 ## Ressources
 
