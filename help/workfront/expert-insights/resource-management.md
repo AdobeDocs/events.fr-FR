@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Vous recherchez des conseils sur la prise en main de la gestion des ressources ? Rejoignez votre CSM Workfront On-Demand pour une interview avec Corinna Jevons, notre experte en gestion des ressources Adobe Workfront, et explorez les questions courantes et les bonnes approches pour mettre en œuvre cette fonctionnalité de Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469890/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469905/?learn=on&enablevpops&captions=fre_fr)
 
 ## Ressources
 
