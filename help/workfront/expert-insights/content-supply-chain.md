@@ -11,13 +11,13 @@ doc-type: Event
 duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: f8600288-a19b-440c-b60d-94078014353e
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
-
 
 # Avis d’expert - Chaîne d’approvisionnement de contenu avec Core Kombol
 
@@ -31,7 +31,7 @@ Corre est un CSM véritablement stratégique qui nous donne le ton sur l’utili
 * Commencez par identifier vos points de peinture de processus et allez-y. Ne laissez pas la technologie dépasser l’objectif.
 * Connectez-vous à d’autres clients qui se trouvent sur un parcours similaire dans la communauté ou lors d’événements ! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469996/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
 
 ## Ressources
 
@@ -53,4 +53,4 @@ Elle est douée pour identifier les besoins des clients, développer des solutio
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com](mailto:CSatScale@adobe.com).

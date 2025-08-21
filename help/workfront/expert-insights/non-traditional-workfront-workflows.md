@@ -11,13 +11,13 @@ doc-type: Event
 duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
-
 
 # Informations d’experts : workflows Workfront non traditionnels avec Kiersten Kollins
 
@@ -33,11 +33,11 @@ Vous serez surpris par toutes les idées fantastiques qu’elle partage, notamme
 * Lancer des révisions succinctes de Creative pour répondre aux besoins de leurs utilisateurs et de leurs projets. 
 * *BONUS !* Elle partage également un exemple de l’un de ses cas d’utilisation préférés de Fusion !
 
->[!VIDEO](https://video.tv.adobe.com/v/3469941/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## Ressources
 
-Au cours de l’événement, Kiersten a mentionné deux ressources que nous avons jointes à la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=fr).
+Au cours de l’événement, Kiersten a mentionné deux ressources que nous avons jointes à la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315).
 * **Exemple De Rapport** - Rapport De Tâche Après Les Heures De Bureau 
 * **Mécanismes de sécurisation du routage des commentaires DSW** Ceci est un exemple fantastique de la manière d’apprendre à vos utilisateurs à fournir des mises à jour dans Workfront ! 
 
@@ -49,6 +49,4 @@ Avec plus d&#39;une décennie d&#39;expérience dans le domaine de la création 
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
-
-
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com](mailto:CSatScale@adobe.com).

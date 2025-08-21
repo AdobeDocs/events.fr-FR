@@ -9,13 +9,13 @@ doc-type: Event
 duration: 3590
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18694
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: 70a11781-ad10-4e3b-94f3-f1a5a98d725c
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 0%
 
 ---
-
 
 # Conception d’un modèle opérationnel pour le succès de CJA
 

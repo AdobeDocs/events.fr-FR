@@ -11,19 +11,19 @@ doc-type: Event
 duration: 1616
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18623
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: 0d870372-4605-4d42-b539-5de2943a2682
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-
 # Informations d’experts : création de rapports SLA dans Workfront avec Madalyn Destafney
 
 Bienvenue dans une autre partie d’Expert Insights !  Workfront Je m’appelle Cynthia Boon et je suis ravie de vous annoncer que nous avons la seule et unique Madalyn Destafney, qui partage une partie de sa vaste expérience pour aider les clients à mettre en œuvre et à mesurer les accords de niveau de service (SLA) à l’aide de Workfront. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469980/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3469901/?learn=on&enablevpops)
 
 Comme promis dans la vidéo, la présentation de Madalyn est liée à ses pas, à ses expressions calculées et à des exemples de rapports. 
 
@@ -33,15 +33,15 @@ Comme promis dans la vidéo, la présentation de Madalyn est liée à ses pas, �
 
 Au cours de la présentation, Madalyn a partagé ses formulaires personnalisés et ses champs calculés. Par conséquent, si vous débutez avec ces fonctionnalités, voici quelques liens pour vous orienter dans la bonne direction. 
 
-* Tutoriel sur la liste de lecture - [Créer et partager du Forms personnalisé](https://experienceleague.adobe.com/fr/playlists/workfront-create-and-manage-custom-forms)
+* Tutoriel sur la liste de lecture - [Créer et partager du Forms personnalisé](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
 
-* Article - [Prise en main des champs calculés et des expressions](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Article - [Prise en main des champs calculés et des expressions](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Conseils et astuces - [Champs calculés que tout le monde doit connaître - et comment les utiliser pour créer des rapports !](https://experienceleague.adobe.com/fr/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Conseils et astuces - [Champs calculés que tout le monde doit connaître - et comment les utiliser pour créer des rapports !](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Vous souhaitez d&#39;autres conseils de Madalyn ? Découvrez sa série de conseils et d’astuces dans la communauté Workfront ! 
 
-* [Octets techniques du mardi](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=fr#M2742)
+* [Octets techniques du mardi](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
 
 ## À propos du conférencier 
 

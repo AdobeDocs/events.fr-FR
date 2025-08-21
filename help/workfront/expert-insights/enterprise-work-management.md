@@ -11,13 +11,13 @@ doc-type: Event
 duration: 2547
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18620
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: db16e693-cd95-4e67-858b-b57829d1e704
+source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
-
 
 # Informations d’expert - Gestion du travail en entreprise avec Daniel Clarke
 
@@ -44,6 +44,4 @@ J&#39;ai le plaisir de diriger une équipe de concepteurs, de consultants et d&#
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com|mailto:CSatScale@adobe.com].
-
-
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
