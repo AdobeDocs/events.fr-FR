@@ -52,12 +52,12 @@ Rejoignez-moi, votre CSM On-Demand Workfront, alors que je discute avec Leslie d
 
 ## Ressources
 
-* Vous recherchez d’autres exemples ? Consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) pour découvrir d’autres idées partagées dans les commentaires !
-* [Tout sur les plans directeurs](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
-* [Rapport sur les dernières notes](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
-* [Ajouter une mise en forme conditionnelle de base à une vue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
-* [Ajout de tableaux de bord au panneau de navigation de gauche](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
-* [Modèles de disposition - Épinglage](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
+* Vous recherchez d’autres exemples ? Consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=fr) pour découvrir d’autres idées partagées dans les commentaires !
+* [Tout sur les plans directeurs](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=fr)
+* [Rapport sur les dernières notes](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=fr)
+* [Ajouter une mise en forme conditionnelle de base à une vue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=fr)
+* [Ajout de tableaux de bord au panneau de navigation de gauche](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=fr)
+* [Modèles de disposition - Épinglage](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=fr)
 
 ## À propos du conférencier
 

@@ -41,15 +41,15 @@ Rejoignez-moi, votre CSM Workfront On-Demand, alors que je discute avec Nichole 
 
 ## Ressources
 
-* **Blog** - [Gagnez Du Temps Grâce Aux Champs Personnalisés Calculés](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
-* **Article** - [Expressions de données calculées]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=en#:~:text=Vous pouvez utiliser des expressions de données qui génèrent un nouveau champ.&amp;text=Pour plus d&#39;informations sur la création de données dans un formulaire personnalisé.)
-* **Suivi des événements** - [atelier sur les champs personnalisés calculés](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
-* **Community** - [Reporting Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
-* **Blog** - [Utilisez des plans directeurs Workfront pour optimiser votre environnement de gestion du travail !](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
+* **Blog** - [Gagnez Du Temps Grâce Aux Champs Personnalisés Calculés](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=fr)
+* **Article** - [Expressions de données calculées]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=fr#:~:text=Vous pouvez utiliser des expressions de données qui génèrent un nouveau champ.&amp;text=Pour plus d&#39;informations sur la création de données dans un formulaire personnalisé.)
+* **Suivi des événements** - [atelier sur les champs personnalisés calculés](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=fr)
+* **Community** - [Reporting Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=fr#M1406)
+* **Blog** - [Utilisez des plans directeurs Workfront pour optimiser votre environnement de gestion du travail !](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=fr)
    * *Prise en main* - Ce blog vous permet de trouver plus d’informations sur le tableau de bord de maintenance du système et les lots de rapports du tableau de bord d’utilisation. 
    * *Conseil bonus !* - Abonnez-vous au blog pour recevoir des notifications lorsque de nouveaux plans directeurs sont publiés. 
-* **Article** - [Variables De Filtre De Caractères Génériques](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en)
-* **Article** - [Ajouter une mise en forme conditionnelle de base à une vue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* **Article** - [Variables De Filtre De Caractères Génériques](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=fr)
+* **Article** - [Ajouter une mise en forme conditionnelle de base à une vue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=fr)
 
 ## À propos du conférencier
 
