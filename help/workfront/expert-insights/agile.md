@@ -34,9 +34,9 @@ Natalie a partagé ses ressources préférées d&#39;Agile pendant l&#39;intervi
 
 Vous recherchez des moyens simples de commencer ? Consultez ces articles et ces courtes vidéos de démonstration :
 
-* [Fonctionnalité d’opt-in anticipé aux tableaux Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [Créer ou modifier un panorama : comprend des descriptions de chaque modèle de panorama](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Tableaux Adobe Workfront - courtes démonstrations vidéo](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Fonctionnalité d’opt-in anticipé aux tableaux Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=fr)
+* [Créer ou modifier un panorama : comprend des descriptions de chaque modèle de panorama](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=fr)
+* [Tableaux Adobe Workfront - courtes démonstrations vidéo](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=fr)
 
 ## À propos du conférencier
 
