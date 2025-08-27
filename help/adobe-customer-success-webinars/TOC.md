@@ -2,9 +2,9 @@
 user-guide-title: Webinaires sur le succès client Adobe
 breadcrumb-title: Webinaires sur le succès client Adobe
 user-guide-description: Webinaires dirigés par la réussite client Adobe conçus pour vous aider à optimiser votre investissement dans Adobe Experience Cloud. Obtenez des informations précieuses afin d’optimiser la valeur et d’accroître l’adoption des solutions Adobe.
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '490'
 ht-degree: 4%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 4%
       + [Cultiver une organisation marketing agile](2025/agile-marketing-organization.md)
       + [Tendances numériques et préparation de l&#39;avenir](2025/digital-trends-preparing-future.md)
       + [Architecture Northstar](2025/northstar-architecture.md)
+      + [Playbooks de croissance et de performances optimisés par l’IA](2025/ai-driven-growth.md)
       + [État de l’adoption du numérique et de l’IA généralisée](2025/state-of-digital-and-genai-adoption-webinar.md)
    + Workfront {#workfront2025}
       + [Automatisation du lecteur d’IA dans Workfront](2025/unlock-efficiency-ai-drive-automation-workfront.md)
