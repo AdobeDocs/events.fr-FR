@@ -3,9 +3,9 @@ user-guide-title: L’échange de compétences
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Collection d’enregistrements d’Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
+source-git-commit: b8f3c336420c4c56561539183e7542d9830eb1af
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '722'
 ht-degree: 9%
 
 ---
@@ -133,6 +133,9 @@ ht-degree: 9%
       + [Conseils pour faire face aux Parcours complexes dans Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
       + [Parcours au-delà de l’e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
+   + Août 2025 {#aug2025}
+      + [Amélioration de la catégorisation des données](marketo/2025/aug/data-categorization-with-ai.md)
+      + [Rationalisation Des Suivis](marketo/2025/aug/follow-ups-customer-lifecycle.md)
    + Août 2024 {#aug2024}
       + [Keynote d’ouverture](marketo/aug2024/keynote.md)
       + [Applications avancées des programmes d’engagement](marketo/aug2024/advanced-applications-engagment-programs.md)
@@ -166,6 +169,12 @@ ht-degree: 9%
       + [Création de rapports dans  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Conseils et astuces Ultimate pour votre Forms](marketo/feb2021/forms-tips-and-tricks.md)
 + Workfront {#workfront}
+   + Août 2025 {#aug2025}
+      + [Keynote d’ouverture](workfront/2025/aug/keynote.md)
+      + [Mode texte avancé](workfront/2025/aug/advanced-text-mode.md)
+      + [Automatisation de la création de comptes d’utilisateurs avec Fusion](workfront/2025/aug/fusion-user-account-creation.md)
+      + [Centre d&#39;excellence](workfront/2025/aug/center-of-excellence.md)
+      + [Maîtriser les outils d’IA de Workfront](workfront/2025/aug/workfront-ai-tools.md)
    + Août 2024 {#aug2024}
       + [Keynote d’ouverture](workfront/aug2024/keynote.md)
       + [Personnalisation de l’équilibreur de charge de travail](workfront/aug2024/workload-balancer.md)
