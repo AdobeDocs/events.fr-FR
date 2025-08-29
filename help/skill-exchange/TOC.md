@@ -3,9 +3,9 @@ user-guide-title: L’échange de compétences
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Collection d’enregistrements d’Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 3df61129609f91640357ef9346f0e82fe0fff7b3
+source-git-commit: a633bfda2c2067c6eb34a8743665993dbceea660
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '695'
 ht-degree: 9%
 
 ---
@@ -125,6 +125,13 @@ ht-degree: 9%
          + [Le pouvoir de la réutilisation](aem/aug2022/reusability.md)
          + [Augmentez la valeur commerciale grâce à la personnalisation du contenu dans AEM](aem/aug2022/personalization.md)
          + [Optimisation De La Mise En Œuvre D’AEM](aem/aug2022/implementation.md)
++ Adobe Experience Platform {#aep}
+   + Août 2025 {#aug2025}
+      + [Keynote d’ouverture](aep-apps/2025/aug/opening-keynote.md)
+      + [Trouver le juste équilibre entre Personalization, confidentialité et sécurité des données](aep-apps/2025/aug/personalization-privacy-data-security.md)
+      + [Investissements dans les médias et Adobe Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+      + [Conseils pour faire face aux Parcours complexes dans Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+      + [Parcours au-delà de l’e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Marketo {#marketo}
    + Août 2024 {#aug2024}
       + [Keynote d’ouverture](marketo/aug2024/keynote.md)
