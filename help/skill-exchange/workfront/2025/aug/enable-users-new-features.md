@@ -21,7 +21,7 @@ ht-degree: 0%
 
 « L&#39;agitation est le contraire de la stagnation - l&#39;un est la vie, l&#39;autre est la mort » ~Ernestine Rose En tant qu&#39;administratrice système, les notes de mise à jour peuvent être considérées comme la prochaine intrigue sur la façon dont nous pouvons continuer à améliorer nos systèmes et résoudre plus de problèmes, mais pour beaucoup de nos utilisateurs, le changement n&#39;est pas toujours accepté aussi facilement. Rejoignez-nous alors que nous explorons des moyens efficaces de créer une culture du changement, de présenter des solutions aux bonnes parties prenantes et d&#39;améliorer continuellement nos systèmes afin de continuer à ajouter de la valeur, que le système soit tout neuf ou qu&#39;il fonctionne à plein régime. Système (gouvernance) de partage des mises à jour générales du système Conseils pour bâtir une culture du changement - favoriser l&#39;adoption par les utilisateurs Identifier le meilleur retour sur investissement pour le changement - valeur élevée, faible effort d&#39;abord Rapports sur les niveaux de référence et les impacts.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471494/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471540/?learn=on&enablevpops&captions=fre_fr)
 
 ## Favoriser l’innovation et l’adoption dans Workfront
 

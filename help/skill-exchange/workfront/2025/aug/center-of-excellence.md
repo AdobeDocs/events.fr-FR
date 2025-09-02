@@ -27,7 +27,7 @@ L&#39;établissement d&#39;un centre d&#39;excellence est essentiel pour stimule
 * **Considérations relatives à la dotation** Explorez les aspects essentiels de la dotation en personnel de votre CE en identifiant les rôles et responsabilités clés de votre pratique d’administration. Découvrez comment constituer une équipe capable de soutenir et de piloter efficacement les initiatives de votre centre d’excellence.
 * **Conseils et astuces** Obtenez des informations pratiques et des bonnes pratiques pour gérer et maintenir votre centre d’excellence. Découvrez des stratégies pour surmonter les défis communs, favoriser la collaboration et assurer une amélioration continue. Rejoignez-nous pour acquérir les connaissances et les outils nécessaires à la création d’un centre d’excellence prospère au sein de votre organisation Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471586/?learn=on&enablevpops&captions=fre_fr)
 
 ## Étapes clés de lancement de votre code
 
