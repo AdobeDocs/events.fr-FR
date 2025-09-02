@@ -1,6 +1,7 @@
 ---
 title: Résolution de Parcours Adobe au-delà de l’e-mail
 description: Découvrez comment concevoir et tester des parcours multicanaux avec Adobe Journey Optimizer, à l’aide de profils de test, de données d’événement et de scénarios réels pour un engagement optimal.
+solution: Journey Optimizer
 feature: Email, Direct Mail, Journeys
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,7 +10,7 @@ duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18850
 exl-id: e611a377-0e3c-4ccd-ac9c-280638b6ea36
-source-git-commit: 603629137b4bc29d8470517eb509bbc5f0bcdea4
+source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
