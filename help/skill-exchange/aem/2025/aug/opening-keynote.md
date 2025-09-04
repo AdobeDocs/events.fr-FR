@@ -29,7 +29,7 @@ Rejoignez Haresh Kumar, chef de la stratégie et des produits pour Adobe Experie
 * Nouveaux outils d’optimisation tels que Sites Optimizer et le gestionnaire de contenu pour un meilleur engagement et une meilleure conversion.
 * Comment faire évoluer la personnalisation un-à-un de manière sécurisée et efficace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471398/?learn=on&enablevpops&captions=fre_fr)
 
 
 ## Déverrouiller l’avenir des expériences de contenu

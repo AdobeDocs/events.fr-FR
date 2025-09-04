@@ -27,7 +27,7 @@ Au cours de cette session, Katie Junge et Melanie Bartlett partageront leurs con
 * Évolutivité et pérennisation de la gestion des ressources numériques
 * Optimisation de la visibilité des ressources
 
->[!VIDEO](https://video.tv.adobe.com/v/3471385/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471424/?learn=on&enablevpops&captions=fre_fr)
 
 ## Déverrouiller la gestion évolutive des ressources numériques
 
