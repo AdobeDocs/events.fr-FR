@@ -3,9 +3,9 @@ user-guide-title: L’échange de compétences
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Collection d’enregistrements d’Experience Makers The Skill Exchange
 event-series: The Skill Exchange
-source-git-commit: 85cd991ce4cce6e25f31df39400b21702c2a43cf
+source-git-commit: d942871683ff1319d5f7b16e6f114c23825530b4
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '797'
 ht-degree: 9%
 
 ---
@@ -21,7 +21,21 @@ ht-degree: 9%
       + [Extensibilité effective](commerce/aug2024/extensibility.md)
       + [Optimisation du référencement tout au long des workflows de migration](commerce/aug2024/seo-migration-workflows.md)
       + [Personnaliser l’expérience client](commerce/aug2024/personalization.md)
++ Adobe Experience Platform {#aep}
+   + Août 2025 {#aug2025}
+      + [Keynote d’ouverture](aep-apps/2025/aug/opening-keynote.md)
+      + [Trouver le juste équilibre entre Personalization, confidentialité et sécurité des données](aep-apps/2025/aug/personalization-privacy-data-security.md)
+      + [Démystifier les mesures courantes](analytics/2025/aug/demystifying-common-metrics.md)
+      + [Investissements dans les médias et Adobe Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
+      + [Conseils pour faire face aux Parcours complexes dans Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
+      + [Parcours au-delà de l’e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
 + Analytics {#analytics}
+   + Août 2025 {#aug2025}
+      + [Personnalisations dans Adobe Analytics Workspace](analytics/2025/aug/analysis-workspace-customizations.md)
+      + [Les tableaux de bord ne fournissent pas d’informations](analytics/2025/aug/dashboards-insights.md)
+      + [Workflows d’analyse évolutifs](analytics/2025/aug/scalable-workflows.md)
+      + [Segmentation et personnalisation](analytics/2025/aug/segmentation-personalization.md)
+      + [Fonctionnalités de Workspace que vous devriez utiliser](analytics/2025/aug/workspace-features.md)
    + Août 2024 {#aug2024}
       + [Keynote d’ouverture](analytics/aug2024/keynote.md)
       + [Alertes et annotations](analytics/aug2024/alerts-annotations.md)
@@ -129,13 +143,9 @@ ht-degree: 9%
          + [Le pouvoir de la réutilisation](aem/aug2022/reusability.md)
          + [Augmentez la valeur commerciale grâce à la personnalisation du contenu dans AEM](aem/aug2022/personalization.md)
          + [Optimisation De La Mise En Œuvre D’AEM](aem/aug2022/implementation.md)
-+ Adobe Experience Platform {#aep}
++ Customer Journey Analytics {#cja}
    + Août 2025 {#aug2025}
-      + [Keynote d’ouverture](aep-apps/2025/aug/opening-keynote.md)
-      + [Trouver le juste équilibre entre Personalization, confidentialité et sécurité des données](aep-apps/2025/aug/personalization-privacy-data-security.md)
-      + [Investissements dans les médias et Adobe Real-Time CDP Collaboration](aep-apps/2025/aug/real-time-cdp-collaboration.md)
-      + [Conseils pour faire face aux Parcours complexes dans Adobe Journey Optimizer](aep-apps/2025/aug/tips-for-tackling-journeys.md)
-      + [Parcours au-delà de l’e-mail](aep-apps/2025/aug/journeys-beyond-email.md)
+      + [Recettes de l’AA dévoilées dans la modernité](cja/2025/aug/modern-takes-classic-aa.md)
 + Marketo {#marketo}
    + Août 2025 {#aug2025}
       + [Keynote d’ouverture](marketo/2025/aug/opening-keynote.md)
