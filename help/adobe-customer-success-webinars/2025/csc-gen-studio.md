@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Ce webinaire présente de manière générale la chaîne d’approvisionnement du contenu moderne, en illustrant comment les entreprises peuvent accélérer, simplifier et régir la création et la diffusion de contenu sur chaque canal et audience. Les spectateurs découvriront la puissance intégrée d’Adobe GenStudio en tant que suite de produits, avec AEM Sites, AEM Assets, Workfront et Creative Cloud, pour déverrouiller la collaboration en temps réel, automatiser les workflows et permettre une exécution créative évolutive sur la marque. Cette session a pour but de former les dirigeants informatiques et professionnels à la manière dont une plateforme de chaîne logistique de contenu unifiée peut stimuler l’agilité marketing, l’impact créatif et la croissance mesurable de l’entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/3472978/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3472981/?learn=on&enablevpops&captions=fre_fr)
 
 ## Déverrouiller la création de contenu transparente avec Adobe
 
