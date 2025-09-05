@@ -2,9 +2,9 @@
 user-guide-title: Sessions techniques Experience Cloud
 user-guide-breadcrumb: Experience Cloud Tech Sessions
 user-guide-description: Experience Cloud Tech Sessions est une approche proactive de la déviation des cas en proposant aux clients des webinaires spécifiques à une solution.
-source-git-commit: 7db60ca1557fb99ae5fb8bd7181317710ed5f90f
+source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '171'
 ht-degree: 14%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 14%
 + [Sessions techniques Experience Cloud](overview.md)
 + 2025 {#2025}
    + [Résolution des problèmes de performances de diffusion Adobe Campaign Classic](2025/acc-delivery-performance.md)
+   + [Gestion des sous-domaines et SSL d’Adobe Campaign](2025/subdomain-ssl-management.md)
    + [Configurations de Dispatcher dans AEM as a Cloud Service](2025/dispatcher-configurations.md)
    + [Tirer le meilleur parti de Marketo Measure](2025/getting-most-marketo-measure.md)
    + [Fastly et Adobe Commerce](2025/fastly-and-adobe-commerce.md)
@@ -25,7 +26,7 @@ ht-degree: 14%
 + 2024 {#2024}
    + Real-Time Content Data Platform {#rtcdp-office-hours-2024}
       + [Dépannage d’AEP Web SDK](2024/aep-web-sdk-troubleshooting.md)
-      + [Assistant IA](2024/ai-assistant.md)
+      + [Assistant IA](2024/ai-assistant.md)
       + [Délais d’exécution de Real-Time Content Data Platform](2024/rtcdp-timings.md)
    + Adobe Experience Manager {#aem-office-hours-2024}
       + [Tracking des visiteurs](2024/tracking-visitors.md)
