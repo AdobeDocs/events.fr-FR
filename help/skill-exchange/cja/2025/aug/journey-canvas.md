@@ -24,7 +24,7 @@ Les participants apprendront à utiliser l’analyse au niveau du parcours pour 
 
 Enfin, nous étudierons les stratégies permettant de mettre à l’échelle ces informations dans l’ensemble de l’organisation en connectant les résultats de la zone de travail de Parcours à des tableaux de bord granulaires, ce qui permet une optimisation continue à chaque point de contact. Que vous soyez débutant dans CJA ou un praticien chevronné, cette session vous fournira une méthodologie claire pour utiliser Parcours Canvas afin d’améliorer vos programmes CX et obtenir des résultats tangibles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471216/?learn=on&enablevpops&captions=fre_fr)
 
 ## Zone de travail de parcours : de l’analyse à l’activation
 

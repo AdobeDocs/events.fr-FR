@@ -31,4 +31,4 @@ Découvrez comment Adobe Experience Platform et l’IA dédiée aux agences remo
 Tirez parti de ces informations pour rationaliser vos workflows, améliorer la personnalisation et pérenniser votre expertise en gestion de l’expérience digitale.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3471327/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471357/?learn=on&enablevpops&captions=fre_fr)

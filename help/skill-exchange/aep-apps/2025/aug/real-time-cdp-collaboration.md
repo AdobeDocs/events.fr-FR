@@ -28,7 +28,7 @@ Découvrez comment transformer stratégiquement les objectifs de campagne en cli
 
 Tous les clients Real-Time CDP Prime et Ultimate disposent désormais d’un accès intégré à Collaboration. Participez à cette session pour découvrir comment tirer parti d’une collaboration sur les données facile à utiliser et centrée sur la confidentialité dès aujourd’hui !
 
->[!VIDEO](https://video.tv.adobe.com/v/3471329/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471333/?learn=on&enablevpops&captions=fre_fr)
 
 ## Déverrouiller le Collaboration de données en quatre étapes
 

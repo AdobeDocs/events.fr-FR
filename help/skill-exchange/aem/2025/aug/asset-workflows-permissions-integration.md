@@ -26,7 +26,7 @@ Au cours de cette session, les administrateurs et les bibliothécaires de la ges
 * Compréhension et application des autorisations et du contrôle d’accès dans la gestion des ressources numériques
 * Fonctionnalités de la gestion des ressources numériques, bonnes pratiques et stratégies d’intégration avec la gestion des ressources numériques
 
->[!VIDEO](https://video.tv.adobe.com/v/3471383/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471454/?learn=on&enablevpops&captions=fre_fr)
 
 ## Déverrouiller une gestion efficace des ressources numériques
 

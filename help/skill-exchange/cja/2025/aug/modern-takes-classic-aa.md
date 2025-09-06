@@ -25,7 +25,7 @@ Prêt à raccrocher votre ancien tablier Adobe Analytics et à entrer dans une c
 Que vous manquiez vos règles de traitement ou que vous essayiez de trouver le plan parfait (vue de données) pour votre prochaine analyse, cette session vous guidera à travers la cuisine de l’analyse moderne, étape par étape.
 Venez à la recherche d’informations et partez avec un menu complet de techniques adaptées à CJA
 
->[!VIDEO](https://video.tv.adobe.com/v/3471110/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471242/?learn=on&enablevpops&captions=fre_fr)
 
 ## Transformer Analytics avec CJA : principaux points à retenir
 
