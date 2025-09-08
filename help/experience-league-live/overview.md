@@ -8,16 +8,16 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 1617cde0fc7e455a4cf9dfb3d1082d9abe79620d
+source-git-commit: aac0d6689d2911380fa548f5fe31a5665f120084
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 4%
+source-wordcount: '157'
+ht-degree: 20%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE est une émission produite par l’équipe d’Experience League et diffusée en direct.  Elle vous offre la possibilité de communiquer avec des experts en produits Adobe et de découvrir des conseils pratiques, des astuces et des stratégies que vous pouvez appliquer aux applications Adobe Experience Cloud.
+Experience League LIVE est une émission produite par l’équipe d’Experience League et diffusée en direct.  Elle vous offre la possibilité d’entrer en contact avec des expertes et experts en produits Adobe et de découvrir des conseils pratiques, des astuces et des stratégies à mettre en pratique avec les applications Adobe Experience Cloud.
 
 <div id="upcoming-events">
 
@@ -25,8 +25,8 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 <table>
     <tr>
-        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-31-25.md">
-              <img alt="Experience League LIVE 31 juillet" src="episodes/assets/WebBanner-31July2025.png">
+        <td style="vertical-align: top;"><a href="episodes/exl-live-episode-09-30-25.md">
+              <img alt="Experience League LIVE 30 septembre 2025" src="../experience-league-live/assets/30Sept2025_WebBanner.png">
             </a>
             </div>
         </td>
@@ -96,5 +96,5 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
 
