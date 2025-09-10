@@ -54,7 +54,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/opening-keynote.md" title="Keynote d’ouverture d’Adobe Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471124/?format=jpeg&nocache=1757465008519" alt="Keynote d’ouverture d’Adobe Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471183/?format=jpeg&nocache=1757465008519&captions=fre_fr" alt="Keynote d’ouverture d’Adobe Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -192,7 +192,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/scalable-workflows.md" title="Data in Motion - Workflows d’analyse évolutifs pour les équipes pilotées par Insight" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471118/?format=jpeg&nocache=1757465008536" alt="Data in Motion - Workflows d’analyse évolutifs pour les équipes pilotées par Insight"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471231/?format=jpeg&nocache=1757465008536&captions=fre_fr" alt="Data in Motion - Workflows d’analyse évolutifs pour les équipes pilotées par Insight"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -238,7 +238,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="analytics/2025/aug/workspace-features.md" title="Fonctionnalités de Workspace que vous devriez utiliser" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471117/?format=jpeg&nocache=1757465008539" alt="Fonctionnalités de Workspace que vous devriez utiliser"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471253/?format=jpeg&nocache=1757465008539&captions=fre_fr" alt="Fonctionnalités de Workspace que vous devriez utiliser"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -279,7 +279,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/opening-keynote.md" title="Keynote d’ouverture de Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471108/?format=jpeg&nocache=1757465009661" alt="Keynote d’ouverture de Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471126/?format=jpeg&nocache=1757465009661&captions=fre_fr" alt="Keynote d’ouverture de Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -302,7 +302,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/modern-takes-classic-aa.md" title="Cuisiner avec CJA - Modern Prend sur les recettes classiques AA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471110/?format=jpeg&nocache=1757465009634" alt="Cuisiner avec CJA - Modern Prend sur les recettes classiques AA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471242/?format=jpeg&nocache=1757465009634&captions=fre_fr" alt="Cuisiner avec CJA - Modern Prend sur les recettes classiques AA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -348,7 +348,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="cja/2025/aug/journey-canvas.md" title="Stimuler le succès de l’expérience client avec la zone de travail du Parcours Adobe Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471112/?format=jpeg&nocache=1757465009648" alt="Stimuler le succès de l’expérience client avec la zone de travail du Parcours Adobe Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471216/?format=jpeg&nocache=1757465009648&captions=fre_fr" alt="Stimuler le succès de l’expérience client avec la zone de travail du Parcours Adobe Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -435,7 +435,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/asset-workflows-permissions-integration.md" title="Masterclass AEM - Workflows de ressources, autorisations et intégration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471383/?format=jpeg&nocache=1757465010597" alt="Masterclass AEM - Workflows de ressources, autorisations et intégration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471454/?format=jpeg&nocache=1757465010597&captions=fre_fr" alt="Masterclass AEM - Workflows de ressources, autorisations et intégration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -504,7 +504,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/scalable-asset-management.md" title="Taxonomie et structure - Le secret d’AEM pour une gestion des ressources évolutive" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471385/?format=jpeg&nocache=1757465010621" alt="Taxonomie et structure - Le secret d’AEM pour une gestion des ressources évolutive"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471424/?format=jpeg&nocache=1757465010621&captions=fre_fr" alt="Taxonomie et structure - Le secret d’AEM pour une gestion des ressources évolutive"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -545,7 +545,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/opening-keynote.md" title="Keynote sur l’échange de compétences - L’avenir de la création d’expériences avec l’IA, Adobe Experience Platform" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471327/?format=jpeg&nocache=1757465011389" alt="Keynote sur l’échange de compétences - L’avenir de la création d’expériences avec l’IA, Adobe Experience Platform"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471357/?format=jpeg&nocache=1757465011389&captions=fre_fr" alt="Keynote sur l’échange de compétences - L’avenir de la création d’expériences avec l’IA, Adobe Experience Platform"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -591,7 +591,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aep-apps/2025/aug/real-time-cdp-collaboration.md" title="Tirez le meilleur parti de vos investissements dans les médias avec Adobe Real-Time CDP Collaboration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471329/?format=jpeg&nocache=1757465011405" alt="Tirez le meilleur parti de vos investissements dans les médias avec Adobe Real-Time CDP Collaboration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471333/?format=jpeg&nocache=1757465011405&captions=fre_fr" alt="Tirez le meilleur parti de vos investissements dans les médias avec Adobe Real-Time CDP Collaboration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -678,7 +678,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/opening-keynote.md" title="Keynote d’ouverture" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471392/?format=jpeg&nocache=1757465012333" alt="Keynote d’ouverture"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471477/?format=jpeg&nocache=1757465012333&captions=fre_fr" alt="Keynote d’ouverture"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -724,7 +724,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/2025/aug/design-studio.md" title="Déverrouiller toute la puissance de Design Studio pour les opérations marketing globales" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471389/?format=jpeg&nocache=1757465012342" alt="Déverrouiller toute la puissance de Design Studio pour les opérations marketing globales"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471421/?format=jpeg&nocache=1757465012342&captions=fre_fr" alt="Déverrouiller toute la puissance de Design Studio pour les opérations marketing globales"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -861,7 +861,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/center-of-excellence.md" title="Préparation de votre organisation Workfront pour un centre d’excellence" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471495/?format=jpeg&nocache=1757465013254" alt="Préparation de votre organisation Workfront pour un centre d’excellence"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471586/?format=jpeg&nocache=1757465013254&captions=fre_fr" alt="Préparation de votre organisation Workfront pour un centre d’excellence"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -884,7 +884,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/enable-users-new-features.md" title="Permettre aux utilisateurs de bénéficier de nouvelles fonctionnalités - Agitation is Life" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471494/?format=jpeg&nocache=1757465013227" alt="Permettre aux utilisateurs de bénéficier de nouvelles fonctionnalités - Agitation is Life"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471540/?format=jpeg&nocache=1757465013227&captions=fre_fr" alt="Permettre aux utilisateurs de bénéficier de nouvelles fonctionnalités - Agitation is Life"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -907,7 +907,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/fusion-user-account-creation.md" title="Automatisation de la création de comptes d’utilisateurs Workfront avec Fusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471496/?format=jpeg&nocache=1757465013265" alt="Automatisation de la création de comptes d’utilisateurs Workfront avec Fusion"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471573/?format=jpeg&nocache=1757465013265&captions=fre_fr" alt="Automatisation de la création de comptes d’utilisateurs Workfront avec Fusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
