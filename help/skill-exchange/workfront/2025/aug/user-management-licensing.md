@@ -22,4 +22,4 @@ Vos licences Workfront fonctionnent-elles aussi bien que vous ? Rejoignez Moniqu
 
 Découvrez comment Monique s’assure que les personnes appropriées disposent du bon accès (à l’aide de rôles, de groupes, d’équipes et de formulaires personnalisés) pour simplifier la mise à l’échelle et réduire les frais généraux d’administration. Cette session vous offrira des moyens pratiques de nettoyer votre instance, d’améliorer la gouvernance et d’optimiser votre configuration de Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473945/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3473960/?learn=on&enablevpops&captions=fre_fr)

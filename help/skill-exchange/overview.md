@@ -412,7 +412,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="aem/2025/aug/opening-keynote.md" title="Keynote d’ouverture de Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471386/?format=jpeg&nocache=1757465010566" alt="Keynote d’ouverture de Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3471398/?format=jpeg&nocache=1757465010566&captions=fre_fr" alt="Keynote d’ouverture de Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -976,7 +976,7 @@ Créateurs d’expérience L’échange de compétences est une série mondiale 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workfront/2025/aug/user-management-licensing.md" title="Optimiser votre licence Workfront - Conseils professionnels pour la gestion des utilisateurs et les licences" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473945/?format=jpeg&nocache=1757465013296" alt="Optimiser votre licence Workfront - Conseils professionnels pour la gestion des utilisateurs et les licences"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473960/?format=jpeg&nocache=1757465013296&captions=fre_fr" alt="Optimiser votre licence Workfront - Conseils professionnels pour la gestion des utilisateurs et les licences"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
