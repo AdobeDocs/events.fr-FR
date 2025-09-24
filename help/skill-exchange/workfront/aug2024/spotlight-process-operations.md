@@ -1,6 +1,6 @@
 ---
-title: Points phares d’Experience Maker - Améliorations des processus et efficacité opérationnelle
-description: Comment James Hill, vice-président de l’excellence opérationnelle à la synchronisation, évalue les avantages et les priorités des améliorations, surveille l’adoption des changements du système et, en fin de compte, relie ces changements aux résultats opérationnels réels Exemples de la façon dont Daniel Clarke, consultant Workfront principal à EMMsphere, a trouvé des gains d’efficacité pour s’assurer que les ressources de l’équipe peuvent s’étendre autant que possible. Il présentera plusieurs scénarios de Fusion réussis, la méthodologie sous-jacente à leur conception et à leur raison d'être, ainsi que la façon dont il a su montrer l'importance de ce travail avec l'équipe dirigeante."
+title: Coup de projecteur d’Experience Maker - Améliorations des processus et efficacité opérationnelle
+description: Comment James Hill, vice-président, Excellence opérationnelle chez Synchrony, estime les avantages et la priorité des améliorations, surveille l’adoption des modifications du système et associe finalement ces modifications aux résultats réels de l’entreprise Exemples de la manière dont Daniel Clarke, consultant Workfront senior chez EMMsphere, a trouvé des gains d’efficacité pour s’assurer que les ressources de l’équipe peuvent s’étendre autant que possible. Il partagera plusieurs scénarios de Fusion réussis, la méthodologie derrière la façon dont ils ont été construits et pourquoi, et comment il a été en mesure de montrer la valeur de ce travail avec l'équipe de direction
 solution: Workfront
 role: User
 level: Intermediate, Experienced
@@ -8,21 +8,21 @@ doc-type: Event
 duration: 2404
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16099
-source-git-commit: 34eef234c654a62ad30929b99dcb4d09af48c29d
+exl-id: ce5a8f39-c8ac-4a47-baaf-7b105e8b5f5a
+source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
+# Coup de projecteur d’Experience Maker : améliorations des processus et efficacité opérationnelle
 
-# Points phares d’Experience Maker : améliorations des processus et efficacité opérationnelle
-
-Tirer le meilleur parti de Workfront implique une amélioration et un changement continus. Pourtant, en tant que chefs opérationnels ou administrateurs du système, il est inévitable que les ressources, le temps et la portée soient toujours en concurrence pour attirer l&#39;attention. Alors comment &quot;garder les lumières allumées&quot; et optimiser en même temps ? Rejoignez notre session Experience Makers Spotlight pour découvrir la manière dont deux organisations différentes abordent les optimisations et les améliorations système, de la hiérarchisation à la gestion du changement en passant par la communication des résultats.
+Tirer le meilleur parti de Workfront implique une amélioration et un changement continus. Pourtant, en tant que responsables opérationnels ou administrateurs système, il est inévitable que les ressources, le temps et la portée se disputent toujours l&#39;attention. Alors, comment « garder les lumières allumées » et optimiser en même temps ? Rejoignez notre session Experience Makers Spotlight pour entendre le point de vue de deux organisations différentes sur la manière dont elles abordent les optimisations et les améliorations des systèmes, de la hiérarchisation à la gestion des changements en passant par la communication des résultats.
 
 ## Résumé
 
-* Comment James Hill, vice-président de l’excellence opérationnelle à la synchronisation, estime-t-il les avantages et la priorité des améliorations, surveille l’adoption des changements du système et, en fin de compte, relie ces changements aux résultats opérationnels réels.
-* Des exemples de la manière dont Daniel Clarke, consultant Workfront senior chez EMMsphere, a trouvé des gains d’efficacité pour s’assurer que les ressources de l’équipe peuvent s’étendre autant que possible. Il présentera plusieurs scénarios de Fusion réussis, la méthodologie sous-jacente à leur conception et à leur raison d&#39;être, ainsi que la façon dont il a su montrer l&#39;importance de ce travail avec l&#39;équipe dirigeante.&quot;
+* Comment James Hill, vice-président, Excellence opérationnelle chez Synchrony, estime les avantages et la priorité des améliorations, surveille l’adoption des modifications du système et associe finalement ces modifications aux résultats réels de l’entreprise
+* Exemples de la manière dont Daniel Clarke, consultant Workfront senior chez EMMsphere, a trouvé des gains d’efficacité pour s’assurer que les ressources de l’équipe peuvent s’étendre autant que possible. Il partagera plusieurs scénarios de Fusion réussis, la méthodologie sous-jacente à leur construction et la raison de leur réalisation, et comment il a pu démontrer la valeur de ce travail avec l’équipe de direction »
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433199/?learn=on)

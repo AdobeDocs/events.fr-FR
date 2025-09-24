@@ -1,6 +1,6 @@
 ---
-title: 'Du chaos à la clarté : amélioration de la qualité des données'
-description: Au cours de cette session, vous découvrirez des conseils pratiques et des stratégies pour développer et exécuter un plan de nettoyage des données. Exemples de rapports que vous pouvez utiliser pour découvrir des problèmes de qualité des données. Autorisation des utilisateurs de toutes les personas à organiser et à gérer des bonus sur les données ! Préparation de vos données pour la fonctionnalité croissante des tableaux de bord de canevas"
+title: Du chaos à la clarté - Améliorez la qualité de vos données
+description: Au cours de cette session, vous découvrirez des conseils pratiques et des stratégies pour développer et exécuter un plan de nettoyage des données. Exemples de rapports que vous pouvez utiliser pour identifier les problèmes de qualité des données. Permettre aux utilisateurs de toutes les personnalités de nettoyer et de gérer les données. Préparation de vos données pour les fonctionnalités croissantes des tableaux de bord de zone de travail
 solution: Workfront
 role: User
 level: Beginner
@@ -8,23 +8,23 @@ doc-type: Event
 duration: 1816
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16106
-source-git-commit: 9f58c7c83054cee5296a120f9d55dee84254f5f7
+exl-id: 81e527b6-f261-48db-8b87-7d1301f380d9
+source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
+# Du chaos à la clarté : améliorez la qualité de vos données
 
-# Du chaos à la clarté : amélioration de la qualité des données
-
-Vos rapports Workfront ne sont-ils pas à la hauteur en raison de données &quot;sales&quot; ? Tu n&#39;es pas seul ! Une mauvaise qualité des données peut avoir un impact significatif sur vos opérations quotidiennes et vos processus de prise de décision, ce qui rend essentiel le traitement de ce problème critique. Découvrez comment rassembler les données de votre entreprise dans Workfront avec Jen Desmond, l’architecte du succès client et ancien client.
+Vos rapports Workfront sont-ils insuffisants en raison de données « corrompues » ? Vous n&#39;êtes pas seul ! Une mauvaise qualité des données peut avoir un impact significatif sur vos opérations quotidiennes et vos processus décisionnels, ce qui rend essentiel le traitement de ce problème critique. Plongez-vous dans la gestion des données de votre organisation dans Workfront avec Jen Desmond, architecte du succès client et ancien client.
 
 Au cours de cette session, vous découvrirez des conseils pratiques et des stratégies pour :
 
 * Développement et exécution d’un plan de nettoyage des données
-* Exemples de rapports que vous pouvez utiliser pour découvrir des problèmes de qualité des données
-* Permettre aux utilisateurs de toutes les personnes de rassembler et gérer des données
-* Bonus ! Préparation de vos données pour la fonctionnalité croissante des tableaux de bord de canevas&quot;
+* Exemples de rapports que vous pouvez utiliser pour identifier les problèmes de qualité des données
+* Permettre aux utilisateurs de toutes les personnalités de nettoyer et de gérer les données
+* Bonus ! Préparation de vos données pour les fonctionnalités croissantes des tableaux de bord de zone de travail »
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433221/?learn=on)
