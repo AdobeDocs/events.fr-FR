@@ -2,10 +2,10 @@
 user-guide-title: Webinaires sur le succès client Adobe
 breadcrumb-title: Webinaires sur le succès client Adobe
 user-guide-description: Webinaires dirigés par la réussite client Adobe conçus pour vous aider à optimiser votre investissement dans Adobe Experience Cloud. Obtenez des informations précieuses afin d’optimiser la valeur et d’accroître l’adoption des solutions Adobe.
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 4%
+source-wordcount: '502'
+ht-degree: 3%
 
 ---
 
@@ -42,6 +42,7 @@ ht-degree: 4%
       + [IA - Au-delà des principes de base](2025/ai-beyond-basics.md)
       + [Bonnes pratiques et informations pour la modélisation des schémas XDM](2025/model-xdm-schemas.md)
       + [Distiller de données 101](2025/data-distiller-101.md)
+      + [Cas d’utilisation et dépannage du graphique d’identités](2025/identity-graph.md)
       + [Un parrainage exécutif gagnant pour des projets AEP](2025/exec-sponsorship-aep-projects.md)
    + GenStudio for Performance Marketing {#genstudio2025}
       + [Chaîne d’approvisionnement de contenu et Adobe GenStudio](2025/csc-gen-studio.md)
