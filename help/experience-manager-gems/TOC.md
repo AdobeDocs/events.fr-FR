@@ -103,7 +103,7 @@ ht-degree: 1%
    + [Module de connexion externe Oak](gems2015/aem-oak-external-login-module-authenticating-with-ldap-and-beyond.md)
    + [Sonar : un élément clé pour améliorer la qualité du produit](gems2015/aem-sonar-a-key-element-to-improve-product-quality.md)
    + [Aperçu technique d’AEM](gems2015/aem-tech-sneak-peek.md)
-   + [Conseils et astuces concernant l’interface utilisateur tactile  [!DNL AEM Sites] ](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
+   + [Conseils et astuces concernant l’interface utilisateur tactile  [!DNL AEM Sites] &#x200B;](gems2015/aem-tips-and-tricks-for-aem-sites-touch-ui.md)
    + [Suivi des mesures de qualité de votre projet JavaScript](gems2015/aem-track-quality-metrics-of-your-javascript-project.md)
 + 2014 {#gems2014}
    + [Déploiement d’Adobe Analytics sur une instance AEM locale via le service cloud de gestion dynamique des balises](gems2014/aem-adobe-analytics-dynamic-tag-management.md)
