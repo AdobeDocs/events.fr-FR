@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: c548ffe15a8b19f9ad8790ef23219ad0376bf946
+source-git-commit: d0059bf86d27b492e8a5eef175977d3be49738d0
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 15%
+source-wordcount: '236'
+ht-degree: 13%
 
 ---
 
@@ -45,6 +45,17 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
               </a>
               <br/><em>avec Daniel Wright, Namita Krishnan et Huong Vu</em>
               <br/><em>2 octobre 2025</em>
+            </div>
+        </td>
+         <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
+              <img alt="Experience League LIVE 30 octobre 2025" src="assets/exl-live-episode-10-30-25-web-banner.png">
+            </a>
+            <div>
+              <a href="episodes/exl-live-episode-10-22-25.md">
+                <strong>La prochaine ère d'expérimentation : comment l'IA agentique alimente des tests et une croissance plus intelligents</strong>
+              </a>
+              <br/><em>avec Sandra Hausmann, Brent Kostak, Justin Grover et David Arbor</em>
+              <br/><em>30 octobre 2025</em>
             </div>
         </td>
     </tr>
@@ -113,5 +124,5 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
 
