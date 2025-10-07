@@ -122,7 +122,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-success.md" title="Créer un parrainage exécutif pour soutenir le succès d’Adobe Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1759852565033" alt="Créer un parrainage exécutif pour soutenir le succès d’Adobe Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470856/?format=jpeg&nocache=1759852565033&captions=fre_fr" alt="Créer un parrainage exécutif pour soutenir le succès d’Adobe Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -424,7 +424,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="Maîtriser AEM Sites - Modèles, navigation et SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1759852569521" alt="Maîtriser AEM Sites - Modèles, navigation et SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464317/?format=jpeg&nocache=1759852569521&captions=fre_fr" alt="Maîtriser AEM Sites - Modèles, navigation et SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -627,7 +627,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="Assistant d’IA - Au-delà des principes de base" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1759852573402" alt="Assistant d’IA - Au-delà des principes de base"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463360/?format=jpeg&nocache=1759852573402&captions=fre_fr" alt="Assistant d’IA - Au-delà des principes de base"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -756,7 +756,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/csc-gen-studio.md" title="Démystifier la chaîne d’approvisionnement de contenu et Adobe GenStudio en tant que suite de produits" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1759852576825" alt="Démystifier la chaîne d’approvisionnement de contenu et Adobe GenStudio en tant que suite de produits"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472981/?format=jpeg&nocache=1759852576825&captions=fre_fr" alt="Démystifier la chaîne d’approvisionnement de contenu et Adobe GenStudio en tant que suite de produits"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -951,7 +951,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="Expérience GenAI dans AJO et sa relation avec Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1759852580906" alt="Expérience GenAI dans AJO et sa relation avec Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444461/?format=jpeg&nocache=1759852580906&captions=fre_fr" alt="Expérience GenAI dans AJO et sa relation avec Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
