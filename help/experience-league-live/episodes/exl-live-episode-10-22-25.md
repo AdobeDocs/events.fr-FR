@@ -6,18 +6,24 @@ solution: Experience Platform
 feature: AI Assistant
 event-cta-url-live: https://youtube.com/live/WS_DzRmYNzw
 event-start-time: 2025-10-22 08:30-7
-event-guests: Daniel Wright, Namita Krishnan, Huong Vu
-source-git-commit: d8a0caa950896397a6f8f4bd572959e8fbc3e842
+event-guests: Daniel Wright, Namita Krishnan, Huong Vu, Cole Connelly
+source-git-commit: facacb2fe59edc77e5add50d4b02b08e14030184
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 0%
+source-wordcount: '198'
+ht-degree: 7%
 
 ---
 
 # Expériences client et efficacité nouvelle génération avec Adobe Experience Platform Agent Orchestrator
 
-Adobe Experience Platform Agent Orchestrator est la nouvelle couche d’agent de Adobe Experience Platform. Conçu pour exploiter les données riches et les connaissances des clients de la plateforme, Experience Platform Agent Orchestrator alimente l&#39;intelligence et la logique derrière des agents Adobe Experience Platform experts spécialement conçus, leur permettant d&#39;exécuter des tâches complexes de prise de décision et de résolution de problèmes à vitesse et à l&#39;échelle, le tout avec une supervision humaine. Grâce à une interface de conversation comme l’assistant d’IA, les utilisateurs et utilisatrices pourront accéder à ces agents et à d’autres composants d’IA pour réaliser des gains de productivité et d’efficacité supérieurs.
+Adobe Experience Platform Agent Orchestrator est la nouvelle couche agentique d’Adobe Experience Platform. Conçu pour exploiter les données riches et les connaissances des clients de la plateforme, Experience Platform Agent Orchestrator alimente l&#39;intelligence et la logique derrière des agents Adobe Experience Platform experts spécialement conçus, leur permettant d&#39;exécuter des tâches complexes de prise de décision et de résolution de problèmes à vitesse et à l&#39;échelle, le tout avec une supervision humaine. Grâce à une interface de conversation comme l’assistant d’IA, les utilisateurs et utilisatrices pourront accéder à ces agents et à d’autres composants d’IA pour réaliser des gains de productivité et d’efficacité supérieurs.
 
-> ![Afficher la bannière](assets/WebBanner-Oct22-2025.jpg)
+Au cours de cette session, rejoignez l’équipe produit d’Experience Platform Agent Orchestrator qui explore les points suivants :
+
+* Présentation d’Agent Orchestrator et de ses dernières mises à jour
+* Comment Agent Orchestrator orchestre les agents experts pour fournir des résultats mesurables et prendre en charge les cas d’utilisation de bout en bout
+* comment Agent Orchestrator offre la confiance, la transparence, la sécurité et les mécanismes de sécurisation dont les marques ont besoin pour adopter en toute confiance des solutions d’IA ;
+
+> ![Afficher la bannière](assets/WebBanner-v2-Oct22-2025.jpg)
 
 [Programmez un rappel pour l&#39;émission !](https://youtube.com/live/WS_DzRmYNzw)
