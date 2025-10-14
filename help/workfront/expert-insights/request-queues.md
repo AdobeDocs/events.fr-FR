@@ -40,7 +40,7 @@ Comme promis, voici les ressources dont nous avons discuté, ainsi que quelques 
 
 * Documentation sur les files d’attente des demandes : [Créer des rubriques de file d’attente](https://experienceleague.adobe.com/fr/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* Présentation du webinaire de Lyndsy pour [Principes de base de l’administration système](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=fr) : communication avec les utilisateurs finaux (cette page comprend également un lien vers le [ Manuel des communications de l’utilisateur final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=fr))
+* Présentation du webinaire de Lyndsy pour [Principes de base de l’administration système](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096?profile.language=fr) : communication avec les utilisateurs finaux (cette page comprend également un lien vers le [&#x200B; Manuel des communications de l’utilisateur final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=fr))
 
 * Lyndsy’s [ressources de présentation pour l’échange de compétences](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841?profile.language=fr#M3642)
 

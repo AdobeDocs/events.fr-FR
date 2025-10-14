@@ -21,5 +21,5 @@ Adobe Target et Adobe Real-time Customer Data Platform peuvent être intégrés 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409425/?quality=12&learn=on)
 
-Consultez la documentation pour plus d’informations sur la [segmentation Edge](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=fr) et la [ segmentation par flux](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=fr).
+Consultez la documentation pour plus d’informations sur la [segmentation Edge](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/edge-segmentation.html?lang=fr) et la [&#x200B; segmentation par flux](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/streaming-segmentation.html?lang=fr).
 

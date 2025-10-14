@@ -77,4 +77,4 @@ Dans ce webinaire, vous découvrirez :
 * [Modifier une segmentation](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/edit-a-segmentation){target="_blank"}
 * Série de succès Marketo Engage - [Segmentation](https://nation.marketo.com/t5/product-blogs/marketo-success-series-segmentation/ba-p/304969){target="_blank"}
 * [Mises à jour du contrôle de l’intégrité de la segmentation](https://nation.marketo.com/t5/product-blogs/segmentation-health-check-updates-tips-and-tricks-for-keeping/ba-p/241963){target="_blank"} - Conseils et astuces pour maintenir votre segmentation à jour
-* [ Rapport sur les performances des e-mails ](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}
+* [&#x200B; Rapport sur les performances des e-mails &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report){target="_blank"}

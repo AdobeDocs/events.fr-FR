@@ -36,6 +36,6 @@ Diapositives du présentateur - Partie 2
 
 ## Liens connexes {#related-links}
 
-* [ Événement Apache Sling et gestion des événements ](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
+* [&#x200B; Événement Apache Sling et gestion des événements &#x200B;](https://sling.apache.org/documentation/bundles/apache-sling-eventing-and-job-handling.html)
 * [API Discovery et ses mises en oeuvre](https://sling.apache.org/documentation/bundles/discovery-api-and-impl.html)
 * [Tâches de déchargement](https://docs.adobe.com/docs/en/cq/current/deploying/offloading.html)

@@ -37,7 +37,7 @@ ht-degree: 4%
    + [7 façons de faire croître une entreprise de commerce électronique de façon organique](2024/grow-ecommerce-business.md)
 + 2023 {#2023}
    + [Personnalisation optimisée par l’IA](2023/ai-personalisation.md)
-   + [Adobe PaaS Cloud Commerce ](2023/adobes-paas-cloud-commerce.md)
+   + [Adobe PaaS Cloud Commerce &#x200B;](2023/adobes-paas-cloud-commerce.md)
    + [Optimiser les conversions en e-commerce](2023/ecommerce-conversions.md)
    + [Stratégies commerciales composables](2023/composable-commerce.md)
    + [Les marchés comme moteur de croissance](2023/marketplaces.md)

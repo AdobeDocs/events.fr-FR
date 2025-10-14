@@ -30,7 +30,7 @@ La plupart des développeurs ont découvert AEM querybuilder en tant que langage
 
 Démonstration
 
-* [AEM Query Builder](https://www.youtube.com/watch?v=yR9mcp9_MtY&amp;list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), fourni par Alexander Klimetschek
+* [AEM Query Builder](https://www.youtube.com/watch?v=yR9mcp9_MtY&list=PLHMjqSjX2bE7zaDKZ7KD-tuqVXooiKave), fourni par Alexander Klimetschek
 
 Documentation AEM
 

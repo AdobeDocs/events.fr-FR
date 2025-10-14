@@ -29,6 +29,6 @@ Le contenu original de cette session GEM de 2013 a été remplacé. L&#39;inform
 
 Pour en savoir plus sur les bonnes pratiques dans la documentation Adobe Experience Manager, reportez-vous plutôt à la section :
 
-* [ Bonnes pratiques de gestion multisite ](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
+* [&#x200B; Bonnes pratiques de gestion multisite &#x200B;](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/msm/msm-bp.html)
 * [Meilleures pratiques de traduction](https://docs.adobe.com/docs/en/aem/6-1/administer/sites/translation/tc-bp.html)
 * [Revenir à l’aperçu](https://helpx.adobe.com/fr/experience-manager/kt/eseminars/gems/aem-index.html)

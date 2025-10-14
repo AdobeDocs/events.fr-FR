@@ -38,7 +38,7 @@ ht-degree: 14%
    + Adobe Campaign {#adobe-campaign-office-hours}
       + [Présentation du canal SMS et conseils de dépannage](2023/ac-sms-channel-overview.md)
    + Adobe Commerce {#adobe-commerce-office-hours}
-      + [ Outil d’analyse à l’échelle du site ](2023/site-wide-analysis-tool.md)
+      + [&#x200B; Outil d’analyse à l’échelle du site &#x200B;](2023/site-wide-analysis-tool.md)
    + Adobe Experience Platform {#adobe-experience-platform-office-hours}
       + [Autorisations d’Admin Console](2023/aep-admin-console-permissions.md)
    + Adobe Experience Manager {#adobe-experience-manager-office-hours}

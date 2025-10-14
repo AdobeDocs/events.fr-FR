@@ -36,7 +36,7 @@ Au cours de la présentation, Jaime et Danielle ont discuté de certaines ressou
 * [Workfront Admin Chat - Cognizant](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+-+Admin+Chat+20231113+final+GBC)
 * [Enquête sur l’adoption des utilisateurs de Workfront](https://cdn.experience.workfront.com/Training/Guides/Customer+Success+at+Scale/Workfront+User+Adoption+Survey+2022+final_Admin+chat)
 
-Vous souhaitez plus d’informations sur l’adoption et l’intégration en général ? Consultez notre blog ! - [ Nouveaux clients Workfront ! Bienvenue sur le blog d’intégration du succès client Adobe Workfront !](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=fr)
+Vous souhaitez plus d’informations sur l’adoption et l’intégration en général ? Consultez notre blog ! - [&#x200B; Nouveaux clients Workfront ! Bienvenue sur le blog d’intégration du succès client Adobe Workfront !](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/new-workfront-customers-welcome-to-the-adobe-workfront-customer/ba-p/635927?profile.language=fr)
 
 ## À propos du conférencier
 

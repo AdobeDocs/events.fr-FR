@@ -36,7 +36,7 @@ Sarah Xu, développeur évangéliste, Adobe
 >[!MORELIKETHIS]
 >
 >* [Solr comme index Oak pour AEM](solr-as-an-oak-index-for-aem.md)
->* [ Déverrouillage D’Analyses De Ressources Plus Puissantes Avec AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
+>* [&#x200B; Déverrouillage D’Analyses De Ressources Plus Puissantes Avec AEM 6.4](https://helpx.adobe.com/experience-manager/kt/eseminars/experience-insider/exp-asset-analytics-64.html)
 
 <!-- this link is broken: >* [Getting the most out of digital interactions with AEM and Analytics](https://helpx.adobe.com/experience-manager/kt/eseminars/ask-the-expert/aem-getting-the-most-out-of-digital-interactions-with-aem-and-analytics.html) 
 -->

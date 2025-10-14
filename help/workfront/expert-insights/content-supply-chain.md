@@ -43,7 +43,7 @@ Corre est un CSM véritablement stratégique qui nous donne le ton sur l’utili
 ### Démonstrations du produit
 
 * [Workfront](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - car une [démonstration interactive du produit] est nécessaire pour illustrer l’étendue de ce qui peut exister dans notre solution de gestion du travail d’entreprise.  
-* [GenStudio ](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - J’adore la portée de cette approche, qui permet à nos clients de commencer à lier leurs besoins aux solutions qui existent aujourd’hui dans Adobe.
+* [GenStudio &#x200B;](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - J’adore la portée de cette approche, qui permet à nos clients de commencer à lier leurs besoins aux solutions qui existent aujourd’hui dans Adobe.
 
 ## À propos du conférencier 
 
