@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Collection d'enregistrements provenant de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 513f1b0d3fee0d3db6db9104a5153a42d354b446
+source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '354'
 ht-degree: 20%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 20%
    + Septembre {#sept2023}
       + [Séance d’immersion dans Tools for AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Juillet {#july2023}
-      + [&#x200B; Stratégies de sécurité efficaces dans Cloud Service &#x200B;](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [ Stratégies de sécurité efficaces dans Cloud Service ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + Mai {#may2023}
       + [Maîtriser le contenu et les fragments d’expérience](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
@@ -78,6 +78,8 @@ ht-degree: 20%
    + 2025 {#2025}
       + Février {#february2025}
          + [Articuler l’impact - Comment mesurer et partager la valeur de Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
+      + Octobre {#october2025}
+         + [Simplifier la planification des ressources grâce à l’automatisation](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
       + Avril {#april2024}
          + [Recrutement de personnel pour les pratiques d’administration système de Workfront](workfront/2024/04/staffing-your-workfront-system-admin-practice.md)
