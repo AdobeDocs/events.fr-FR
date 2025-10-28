@@ -3,9 +3,9 @@ title: Expressos et Experience Manager
 description: La série Expressos et Experience Manager, mettant en vedette des experts Adobe, offre aux clients AEM (Sites et Assets) de tous les niveaux de compétence des informations sur les cas d’utilisation courants, les bonnes pratiques, les démonstrations en direct et se termine par une session de questions-réponses.
 duration: 15
 exl-id: ac3902e5-bf6a-456c-83c8-cfcff806875d
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,7 @@ La série Espressos et Experience Manager met en vedette des experts Adobe et ac
 
 * 2025/aem-forms.md
 * 2025/aem-in-the-cloud.md
+* 2025/content-hub-versus-brand-portal.md
 * 2025/digital-agility.md
 * 2025/edge-delivery-services.md
 -->
@@ -30,7 +31,7 @@ La série Espressos et Experience Manager met en vedette des experts Adobe et ac
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-forms.md" title="Expressos et Experience Manager - AEM Forms" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451636/?format=jpeg&nocache=1749739198074" alt="Expressos et Experience Manager - AEM Forms"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3451636/?format=jpeg&nocache=1761688201052" alt="Expressos et Experience Manager - AEM Forms"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -53,7 +54,7 @@ La série Espressos et Experience Manager met en vedette des experts Adobe et ac
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-in-the-cloud.md" title="Pourquoi AEM est-il plus puissant dans le cloud ?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443023/?format=jpeg&nocache=1749739198088" alt="Pourquoi AEM est-il plus puissant dans le cloud ?"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443023/?format=jpeg&nocache=1761688201064" alt="Pourquoi AEM est-il plus puissant dans le cloud ?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -71,12 +72,35 @@ La série Espressos et Experience Manager met en vedette des experts Adobe et ac
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/content-hub-versus-brand-portal.md" title="non défini" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476270/?format=jpeg&nocache=1761688201041" alt="non défini"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/content-hub-versus-brand-portal.md" target="_blank" rel="referrer" title="non défini">non défini</a>
+                    </p>
+                    <p class="is-size-6">non défini</p>
+                </div>
+                <a href="2025/content-hub-versus-brand-portal.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Événement Espion</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Digital Agility with AEM">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/digital-agility.md" title="Agilité numérique avec AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443026/?format=jpeg&nocache=1749739198101" alt="Agilité numérique avec AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443026/?format=jpeg&nocache=1761688201073" alt="Agilité numérique avec AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -99,7 +123,7 @@ La série Espressos et Experience Manager met en vedette des experts Adobe et ac
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/edge-delivery-services.md" title="Expressos et Experience Manager - Edge Delivery Services" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459033/?format=jpeg&nocache=1749739198114" alt="Expressos et Experience Manager - Edge Delivery Services"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3459033/?format=jpeg&nocache=1761688201026" alt="Expressos et Experience Manager - Edge Delivery Services"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -119,3 +143,4 @@ La série Espressos et Experience Manager met en vedette des experts Adobe et ac
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+

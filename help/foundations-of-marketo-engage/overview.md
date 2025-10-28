@@ -2,9 +2,9 @@
 title: Principes de base de Marketo Engage
 description: Rejoignez le Foundational Marketo User Group afin de renforcer la confiance et les compétences de base dans Adobe Marketo Engage par le biais de sessions conviviales et de soutien pour les débutants.
 exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -21,6 +21,7 @@ Le groupe d’utilisateurs de Marketo de base est conçu spécifiquement pour le
 
 * 2025/campaigns-with-marketo-personalization.md
 * 2025/nurture-recipe.md
+* 2025/professional-exam-preparation.md
 * 2025/programs-campaigns.md
 * 2025/scoring.md
 
@@ -34,7 +35,7 @@ Le groupe d’utilisateurs de Marketo de base est conçu spécifiquement pour le
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/campaigns-with-marketo-personalization.md" title="Optimiser les campagnes avec Marketo Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1758746095385" alt="Optimiser les campagnes avec Marketo Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1761688732004" alt="Optimiser les campagnes avec Marketo Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,7 +58,7 @@ Le groupe d’utilisateurs de Marketo de base est conçu spécifiquement pour le
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/nurture-recipe.md" title="Création De Votre Recette De Culture" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1758746095385" alt="Création De Votre Recette De Culture"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1761688731994" alt="Création De Votre Recette De Culture"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -75,12 +76,35 @@ Le groupe d’utilisateurs de Marketo de base est conçu spécifiquement pour le
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Foundational Marketo User Group - Professional Exam Preparation">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2025/professional-exam-preparation.md" title="Groupe d’utilisateurs de Marketo de base - Préparation d’examens professionnels" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1761688731972" alt="Groupe d’utilisateurs de Marketo de base - Préparation d’examens professionnels"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2025/professional-exam-preparation.md" target="_blank" rel="referrer" title="Groupe d’utilisateurs de Marketo de base - Préparation d’examens professionnels">Groupe d’utilisateurs Marketo de base - Préparation d’examens professionnels</a>
+                    </p>
+                    <p class="is-size-6">Obtenez des conseils d’experts, des conseils d’étude et une assistance pédagogique optimisée par l’IA pour passer en toute confiance votre examen professionnel Marketo Engage lors de cette session de préparation ciblée.</p>
+                </div>
+                <a href="2025/professional-exam-preparation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Programs, Campaigns & Beyond">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/programs-campaigns.md" title="Programmes, Campagnes et plus" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1758746095396" alt="Programmes, Campagnes et plus"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1761688732014" alt="Programmes, Campagnes et plus"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -103,7 +127,7 @@ Le groupe d’utilisateurs de Marketo de base est conçu spécifiquement pour le
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/scoring.md" title="Score Plus Intelligent, Pas Plus Difficile" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1758746095373" alt="Score Plus Intelligent, Pas Plus Difficile"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1761688731985" alt="Score Plus Intelligent, Pas Plus Difficile"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

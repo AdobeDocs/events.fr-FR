@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Collection d'enregistrements provenant de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '361'
 ht-degree: 20%
 
 ---
@@ -45,13 +45,15 @@ ht-degree: 20%
    + Septembre {#sept2023}
       + [Séance d’immersion dans Tools for AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Juillet {#july2023}
-      + [&#x200B; Stratégies de sécurité efficaces dans Cloud Service &#x200B;](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [ Stratégies de sécurité efficaces dans Cloud Service ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + Mai {#may2023}
       + [Maîtriser le contenu et les fragments d’expérience](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + Septembre 2025 {#sept2025}
       + [Adoption de l’IA dédiée à l’échelle - Manuel pour les approbations](genai/sept2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
+   + Octobre 2025 {#oct2025}
+      + [Création d’une stratégie d’hygiène des données](marketo/oct2025/data-hygiene-strategy.md)
    + Mai 2025 {#may2025}
       + [Découvrir l’impact des webinaires interactifs](marketo/may2025/interactive-webinars.md)
    + Novembre 2024 {#nov2024}
