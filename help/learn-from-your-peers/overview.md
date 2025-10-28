@@ -363,7 +363,7 @@ Avec des experts et des pairs d’Adobe, apprenez à tirer le meilleur parti de 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="marketo/jan2024/person-scoring-mastery.md" title="Maîtrise de la notation des personnes avec Marketo Engage - Nuances localisées dans un framework global" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426914/?format=jpeg&nocache=1761686446302" alt="Maîtrise de la notation des personnes avec Marketo Engage - Nuances localisées dans un framework global"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457441/?captions=fre_fr&format=jpeg&nocache=1761686446302" alt="Maîtrise de la notation des personnes avec Marketo Engage - Nuances localisées dans un framework global"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
