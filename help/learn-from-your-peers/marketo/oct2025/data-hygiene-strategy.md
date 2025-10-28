@@ -34,6 +34,6 @@ ht-degree: 0%
 ## Ressources supplémentaires
 
 * Rejoignez la [discussion](https://nation.marketo.com/t5/product-blogs/learn-from-your-peers-webinar-building-a-data-hygiene-strategy/ba-p/358425) sur la communauté de la nation marketing, où des questions et réponses sont publiées.
-* [Hygiène des données Marketo Engage à l’aide de campagnes exécutables](https://business.adobe.com/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
-* [Maîtriser l’hygiène des données pour la synchronisation de Salesforce CRM avec Marketo Engage](https://experienceleague.adobe.com/en/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
+* [Hygiène des données Marketo Engage à l’aide de campagnes exécutables](https://business.adobe.com/fr/summit/2025/sessions/marketo-engage-data-hygiene-strategies-s212.html)
+* [Maîtriser l’hygiène des données pour la synchronisation de Salesforce CRM avec Marketo Engage](https://experienceleague.adobe.com/fr/perspectives/mastering-data-hygiene-for-salesforce-crm-sync-with-marketo-engage)
 * [Comment effectuer une déduplication à l’aide de l’API REST Marketo Engage &#x200B;](https://www.revenuepulse.com/blog/how-to-perform-deduplication-using-the-marketo-api/)
