@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
+source-git-commit: 7f05dd98e19fd3e88ca3af32bfbef89fda2d4b39
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 17%
+source-wordcount: '146'
+ht-degree: 21%
 
 ---
 
@@ -19,29 +19,30 @@ ht-degree: 17%
 
 Experience League LIVE est une émission produite par l’équipe d’Experience League et diffusée en direct.  Elle vous offre la possibilité d’entrer en contact avec des expertes et experts en produits Adobe et de découvrir des conseils pratiques, des astuces et des stratégies à mettre en pratique avec les applications Adobe Experience Cloud.
 
+<!--
 <div id="upcoming-events">
 
-## Événements Experience League LIVE à venir
+## Upcoming Experience League LIVE events
 
 <table>
     <tr>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-10-30-25.md">
-              <img alt="Experience League LIVE 30 octobre 2025" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
+              <img alt="Experience League LIVE 30 October 2025" src="assets/exl-live-episode-10-30-25-web-banner-v2.png">
             </a>
             <div>
               <a href="episodes/exl-live-episode-10-30-25.md">
-                <strong>La prochaine ère d'expérimentation : comment l'IA agentique alimente des tests et une croissance plus intelligents</strong>
+                <strong>The Next Era of Experimentation: How Agentic AI is Fueling Smarter Testing and Growth</strong>
               </a>
-              <br/><em>avec Sandra Hausmann, Brent Kostak, Justin Grover et David Arbor</em>
-              <br/><em>30 octobre 2025</em>
+              <br/><em>with Sandra Hausmann, Brent Kostak, Justin Grover and David Arbour</em>
+              <br/><em>Oct 30, 2025</em>
             </div>
         </td>
     </tr>
-
-</table>
-
+    
+</table>    
+  
 </div>
-
+-->
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -102,5 +103,5 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
 
