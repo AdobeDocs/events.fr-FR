@@ -46,7 +46,7 @@ ht-degree: 19%
    + Septembre {#sept2023}
       + [Séance d’immersion dans Tools for AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Juillet {#july2023}
-      + [ Stratégies de sécurité efficaces dans Cloud Service ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [&#x200B; Stratégies de sécurité efficaces dans Cloud Service &#x200B;](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + Mai {#may2023}
       + [Maîtriser le contenu et les fragments d’expérience](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
