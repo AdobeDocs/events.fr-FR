@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Collection d'enregistrements provenant de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+source-git-commit: a2880622b706440262b91279a69eadda493cbe81
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '376'
 ht-degree: 19%
 
 ---
@@ -37,6 +37,8 @@ ht-degree: 19%
       + [Adobe Commerce et App Builder Essentials - Des bases à l’impact](commerce/2025/commerce-and-app-builder.md)
       + [Communication, exigences et tests dans le SDLC Agile](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
+   + Novembre {#nov2025}
+      + [Embarras des métadonnées à la maîtrise](experience-manager/nov2025/metadata-mayhem.md)
    + Août {#aug2025}
       + [Balises intelligentes AEM](experience-manager/aug2025/smart-tags.md)
    + Juillet {#jul2024}
@@ -46,7 +48,7 @@ ht-degree: 19%
    + Septembre {#sept2023}
       + [Séance d’immersion dans Tools for AEM Sites](experience-manager/sept2023/aem-sites-tools.md)
    + Juillet {#july2023}
-      + [&#x200B; Stratégies de sécurité efficaces dans Cloud Service &#x200B;](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
+      + [ Stratégies de sécurité efficaces dans Cloud Service ](experience-manager/july2023/effective-security-strategies-in-cloud-service.md)
    + Mai {#may2023}
       + [Maîtriser le contenu et les fragments d’expérience](experience-manager/may2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
