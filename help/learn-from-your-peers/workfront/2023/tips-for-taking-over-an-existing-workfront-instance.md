@@ -26,6 +26,6 @@ Dans ce webinaire à la demande, Jace Newbold, responsable du conseil chez Workf
 * Ce que chaque administrateur doit faire aujourd’hui pour préparer son avenir (et celui de ses futurs administrateurs) au succès
 * Une liste de contrôle téléchargeable comprenant des questions, des ressources et des liens pour vous guider tout au long du processus d’audit et de documentation de votre instance
 
-Veillez également à consulter la Liste de contrôle et le plan directeur des instances héritées : https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
+Veillez également à consulter la Liste de contrôle et le plan directeur des instances héritées : https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431014/?learn=on)

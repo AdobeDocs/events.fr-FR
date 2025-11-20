@@ -26,6 +26,6 @@ Dans ce webinaire à la demande, Lyndsy Denk, responsable de la formation et de 
 * Conseils pour choisir les canaux à utiliser pour vos communications
 * Comment envisager votre stratégie de communication de manière itérative, en commençant par où vous en êtes et en évoluant au fur et à mesure
 
-Vous pouvez également télécharger le « Manuel de communication » avec des idées et des exemples de communications réelles que vos pairs partagent avec leurs utilisateurs ici : https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144
+Vous pouvez également télécharger le « Manuel de communication » avec des idées et des exemples de communications réelles que vos pairs partagent avec leurs utilisateurs ici : https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/bc-p/608144?profile.language=fr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431019/?learn=on)
