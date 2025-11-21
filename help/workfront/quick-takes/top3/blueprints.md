@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Hé tout le monde ! C’est moi, votre « CSM Workfront à la demande » et je reviens avec une autre vidéo Top 3 !  Cette fois, parlons des [plans directeurs](https://experienceleague.adobe.com/fr/docs/workfront/using/administration-and-setup/blueprints/blueprints-overview). Vous m’avez probablement entendu dire que les plans directeurs sont le raccourci de votre « travail Workfront », mais quelles sont les autres façons d’utiliser les plans directeurs pour accélérer le suivi des besoins de votre entreprise ?
 
->[!VIDEO](https://video.tv.adobe.com/v/3465271/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3465312/?captions=fre_fr&learn=on&enablevpops)
 
 Si vous souhaitez d’abord tester avant d’installer quoi que ce soit en production, ne vous inquiétez pas !  Il vous suffit d’abord de jouer avec eux dans votre [environnement de prévisualisation Sandbox](https://experienceleague.adobe.com/fr/docs/workfront/using/administration-and-setup/set-up-wf/testing-environments/wf-preview-sandbox-environment).
 
