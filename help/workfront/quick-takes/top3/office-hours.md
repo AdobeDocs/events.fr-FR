@@ -22,14 +22,14 @@ C’est encore moi, votre « CSM Workfront à la demande » Cynthia Boon et j’
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470053/?learn=on&enablevpops)
 
-Les heures de bureau ne sont qu’une autre partie importante de votre plan de communication Workfront. Vous recherchez d’autres idées sur la communication avec vos utilisateurs et utilisatrices ? Consultez le [guide de communication des utilisateurs finaux](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439) !
+Les heures de bureau ne sont qu’une autre partie importante de votre plan de communication Workfront. Vous recherchez d’autres idées sur la communication avec vos utilisateurs et utilisatrices ? Consultez le [guide de communication des utilisateurs finaux](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439?profile.language=fr) !
 
 Comme promis, voici le lien vers les informations d’experts où nous avons discuté de quelques idées sur la manière d’apporter du plaisir à l’adoption de Workfront. 
 
-[Workfront Expert Insights - Adoption avec Leslie Spier](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314#M2588)
+[Workfront Expert Insights - Adoption avec Leslie Spier](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/m-p/613314?profile.language=fr#M2588)
 
 Ressource bonus ! Nous avons organisé une Pause-café de la communauté où de nombreux clients fabuleux ont partagé leurs conseils d’adoption préférés ! 
 
-[Méthodes de communication Workfront Coffee Break à adopter](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879)
+[Méthodes de communication Workfront Coffee Break à adopter](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879?profile.language=fr)
 
-Avez-vous des exemples de la façon dont vous abordez vos heures de bureau Workfront ? Partagez vos bonnes pratiques dans cette [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391) !
+Avez-vous des exemples de la façon dont vous abordez vos heures de bureau Workfront ? Partagez vos bonnes pratiques dans cette [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391?profile.language=fr) !

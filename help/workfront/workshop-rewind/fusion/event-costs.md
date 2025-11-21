@@ -26,11 +26,11 @@ Cet atelier a été enregistré le 12 juin 2025 et a réuni Lucas Brito, respons
 En plus de l’enregistrement à la demande, nous avons inclus les diapositives et les conseils qui ont été partagés dans le chat :  
 * [Diapositives Workfront avec des ressources](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/061225+-+The+Workfront+Fusion+Fix+-+Ericsson’s+Smarter+Way+to+Unlock+True+Event+Cost.pdf)
 * [Diapositives de présentation de Lucas Fusion](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Ericsson+Event+Slides-+Expense+Reporting+with+Fusion.pdf)
-* [Publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188)
+* [Publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-the-workfront-fusion-fix-ericsson-s-smarter-way/td-p/759188?profile.language=fr)
 
 Commencez-vous à utiliser Fusion ? Consultez ces ressources ! 
-* [Formation Workfront Fusion sur Experience League](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
-* [Consultez la liste des modèles Fusion disponibles ici](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)- quelques nouveaux modèles ont été récemment publiés !  
+* [Formation Workfront Fusion sur Experience League](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview)
+* [Consultez la liste des modèles Fusion disponibles ici](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)- quelques nouveaux modèles ont été récemment publiés !  
 * **Conseil pro des clients dans le chat** Lors de l’apprentissage de Fusion, commencez petit avec les automatisations Workfront-to-Workfront 
 
-Nous espérons vous voir lors des futurs ateliers sur le succès client !  Veillez à consulter les [Événements Workfront](https://experienceleague.adobe.com/events/?filters=Workfront) sur Experience League pour obtenir la liste complète et vous inscrire.
+Nous espérons vous voir lors des futurs ateliers sur le succès client !  Veillez à consulter les [Événements Workfront](https://experienceleague.adobe.com/events/?lang=fr&filters=Workfront) sur Experience League pour obtenir la liste complète et vous inscrire.
