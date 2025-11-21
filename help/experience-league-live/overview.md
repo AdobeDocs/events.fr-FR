@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 021cc00ce8c98b238c75254332f518bc5eb51c2c
+source-git-commit: 45be7126bdcf2ae97d812dc3aa708efa7c173c98
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 21%
+source-wordcount: '179'
+ht-degree: 17%
 
 ---
 
@@ -19,30 +19,28 @@ ht-degree: 21%
 
 Experience League LIVE est une émission produite par l’équipe d’Experience League et diffusée en direct.  Elle vous offre la possibilité d’entrer en contact avec des expertes et experts en produits Adobe et de découvrir des conseils pratiques, des astuces et des stratégies à mettre en pratique avec les applications Adobe Experience Cloud.
 
-<!--
-<div id="upcoming-events">
 
-## Upcoming Experience League LIVE events
+
+## Événements Experience League LIVE à venir
 
 <table>
     <tr>
          <td style="vertical-align: top;"><a href="episodes/exl-live-episode-12-16-25.md">
-              <img alt="Experience League LIVE 16 December 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
+              <img alt="Experience League LIVE 16 décembre 2025" src="episodes/assets/WebBanner_Dec16_2025.jpg">
             </a>
             <div>
               <a href="episodes/exl-live-episode-12-16-25.md">
-                <strong>Simplify troubleshooting and support case management with Product Support Agent</strong>
+                <strong>Simplifiez le dépannage et la gestion des cas d’assistance avec l’agent d’assistance produit</strong>
               </a>
-              <br/><em>with Daniel Wright, Huong Vu, and Shreya Anantha Raman</em>
-              <br/><em>Dec 16, 2025</em>
+              <br/><em>avec Daniel Wright, Huong Vu et Shreya Anantha Raman</em>
+              <br/><em>16 décembre 2025</em>
             </div>
         </td>
     </tr>
-    
-</table>    
-  
-</div>
--->
+
+</table>
+
+
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -103,5 +101,5 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
 
