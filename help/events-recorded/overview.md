@@ -24,122 +24,122 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
 * https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=fr
   {title = Adobe Workfront}  
   {description = A library of recorded Workfront events where experts and peers share thoughts on how to use Workfront.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=fr
   {title = Acrobat Sign Webinars}
   {description = Learn from Adobe experts how to master new e-signature workflows in Acrobat Sign.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=fr
   {title = Adobe Commerce Product Updates}
   {description = The latest product innovations in Adobe Commerce, presented by the Adobe Commerce product team.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=fr
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html?lang=fr
   {title = APAC Adobe Commerce Webinars}
   {description = The APAC Commerce Webinar Series is a monthly cadence of workshops for Adobe Commerce customers that covers a wide range of topics from best practices to product roadmap and industry trends.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=fr
   {title = Adobe Customer Success Webinars}
   {description = Adobe Customer Success-led webinars designed to empower you in optimizing your investment in Adobe's Experience Cloud. Gain valuable insights to maximize the value and increase the adoption of Adobe solutions.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=fr
   {title = Behind the Brew}
   {description = Behind the Brew, the companion series to Commerce & Coffee, is tailored for technically inclined customers seeking to master back-end best practices, integrations, and advanced functionalities to enhance their eCommerce experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=fr
   {title = Commerce and Coffee}
   {description = The Commerce & Coffee series is for existing Adobe Commerce customers of all skill levels and features Sr. Commerce Strategy Consultant, Corey Gelato. The series focuses on Commerce strategies and tactics, supported by statistics reflective of the event topic.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=fr
   {title = Customer Data Management Voices}
   {description = Your destination as a customer data management technical and marketing practice leader and specialist. A one stop shop to hear from your peers, get inspired and learn about developments in martech.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=fr
   {title = Data Drip}
   {description = Join Adobe experts in the Data Drip series to explore the latest features and best practices in Adobe Analytics & Target, with live demonstrations ensuring customers maximize product potential and stay competitive.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=fr 
   {title = Deep Dives}
   {description = Deep Dive on-demand events recordings help you gain a better understanding how to use Adobe Marketo to support your business.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=fr
   {title = Experience League LIVE}
   {description = Experience League LIVE is a live streaming show produced by the Experience League team. It's a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=fr
   {title = Experience Manager GEMS}
   {description = Technical Adobe Experience Manager deep dives delivered by Adobe experts. This series is a compliment of the product documentation and of all other technical channels regarding Adobe Experience Manager, allowing developers to get in touch and go deep on a specific topic.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png?lang=fr}
   {cta  = View recordings}Experience Manager GEMS>
 * https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=fr
   {title = Experience Manager Release Overview}
   {description = Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service. These are short, roughly 10 minutes videos delivered by the AEM product team that share highlights of the latest release.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html?lang=fr
   {title = Learn from your Peers}  
   {description = Learn from Adobe experts and peers how to get the most from your Adobe solutions. With topics selected for practitioners, by practitioners, these interactive sessions share art of the possible use cases, best practices, and tips &amp; tricks.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/fr/docs/events/genstudio-for-performance-marketing-events/overview
   {title = GenStudio for Performance Marketing Events}  
   {description = Discover upcoming and past webinars and events designed to help you master GenStudio for Performance Marketing.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html?lang=fr
   {title = Marketo and Mochas}  
   {description = Marketo and Mochas will help you to gain a better understanding how to use Adobe Marketo to support your business.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html?lang=fr
   {title = Espressos and Experience Manager}  
   {description = The Espressos & Experience Manager series, featuring Adobe experts, offers AEM (Sites & Assets) customers of all skill levels insights into common use cases, best practices, live demonstrations, and concludes with a Q&A session.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-espressos-and-experience-manager.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-espressos-and-experience-manager.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=fr
   {title = Experience Cloud Tech Sessions}  
   {description = Unlock Adobe Experience Cloud with Adobe expert-led Tech Sessions, available live and on-demand for seamless learning.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html?lang=fr
   {title = Adobe Commerce Intelligence}  
   {description = The Adobe Commerce Intelligence (aka MBI) webinar series is a periodic event for Adobe Commerce Intelligence customers. The webinars cover a wide range of topics and best practices for using Adobe Commerce Intelligence to its fullest potential.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/fr/docs/events/the-perfect-blend/overview
   {title = The Perfect Blend}  
   {description = Discover how Adobe DX products integrate to streamline workflows, boost efficiency, and deliver smarter business outcomes with live demos and Q&A.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png?lang=fr}
   {cta  = View recordings}  
 * https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=fr
   {title = Skill Builder}  
   {description = Skill Builder is a webinar series designed to build your knowledge base and maximize your investment in Adobe Experience Cloud.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html?lang=fr
   {title = Skill Exchange}  
   {description = Experience Makers The Skill Exchange is a global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions. This program provides opportunity to learn from Adobe product experts and expert peers through sharing of best practices and tips &amp; tricks.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html?lang=fr
   {title = Wake up with Workfront}  
   {description = The Wake Up with Workfront series showcases project management and workflow best practices for all skill levels, featuring actionable strategies, live demonstrations of Workfront's key features, and a concluding Q&A session.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-wake-up-with-workfront.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-wake-up-with-workfront.png?lang=fr}
   {cta  = View recordings}
 
 -->
@@ -150,7 +150,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/workfront-recordings/overview.html?lang=fr" title="Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png" alt="Adobe Workfront"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-workfront.png?lang=fr" alt="Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -173,7 +173,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/acrobat-sign-webinars/overview.html?lang=fr" title="Webinaires Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png" alt="Webinaires Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-acrobat-sign-webinars.png?lang=fr" alt="Webinaires Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -196,7 +196,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-commerce-product-update-recordings/overview.html?lang=fr" title="Mises à jour des produits Adobe Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png" alt="Mises à jour des produits Adobe Commerce"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-product-updates.png?lang=fr" alt="Mises à jour des produits Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -219,7 +219,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=fr" title="Adobe Developers Live" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png" alt="Adobe Developers Live"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=fr" alt="Adobe Developers Live"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -242,7 +242,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/apac-commerce-recordings/overview.html?lang=fr" title="Webinaires APAC Adobe Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png" alt="Webinaires APAC Adobe Commerce"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-apac-commerce-series.png?lang=fr" alt="Webinaires APAC Adobe Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,7 +265,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/overview.html?lang=fr" title="Webinaires sur le succès client Adobe" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png" alt="Webinaires sur le succès client Adobe"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-success-webinars.png?lang=fr" alt="Webinaires sur le succès client Adobe"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -288,7 +288,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/behind-the-brew-recordings/overview.html?lang=fr" title="Derrière le Brew" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png" alt="Derrière le Brew"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-behind-the-brew.png?lang=fr" alt="Derrière le Brew"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -311,7 +311,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/commerce-and-coffee-recordings/overview.html?lang=fr" title="Commerce et café" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png" alt="Commerce et café"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-commerce-and-coffee.png?lang=fr" alt="Commerce et café"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -334,7 +334,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html?lang=fr" title="Voix pour la gestion des données client" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png" alt="Voix pour la gestion des données client"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-customer-data-management-voices.png?lang=fr" alt="Voix pour la gestion des données client"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -357,7 +357,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/data-drip-recordings/overview.html?lang=fr" title="Goutte-à-goutte de données" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png" alt="Goutte-à-goutte de données"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-data-drip.png?lang=fr" alt="Goutte-à-goutte de données"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -380,7 +380,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/deep-dives-recordings/overview.html?lang=fr" title="Immersion dans les profondeurs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png" alt="Immersion dans les profondeurs"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-deep-dives.png?lang=fr" alt="Immersion dans les profondeurs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -403,7 +403,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=fr" title="Experience League LIVE" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png" alt="Experience League LIVE"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-league-live.png?lang=fr" alt="Experience League LIVE"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -426,7 +426,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/experience-manager-gems-recordings/overview.html?lang=fr" title="EXPERIENCE MANAGER GEMS" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png" alt="EXPERIENCE MANAGER GEMS"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-aem-gems.png?lang=fr" alt="EXPERIENCE MANAGER GEMS"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -449,7 +449,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=fr" title="Présentation de la version d’Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png" alt="Présentation de la version d’Experience Manager"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-manager-release-overview.png?lang=fr" alt="Présentation de la version d’Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -472,7 +472,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/learn-from-your-peers-recordings/overview.html?lang=fr" title="Apprendre de vos pairs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png" alt="Apprendre de vos pairs"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-learn-from-your-peers.png?lang=fr" alt="Apprendre de vos pairs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -495,7 +495,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/events/genstudio-for-performance-marketing-events/overview" title="Événements GenStudio for Performance Marketing" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png" alt="Événements GenStudio for Performance Marketing"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-genstudio-for-performance-marketing-events.png?lang=fr" alt="Événements GenStudio for Performance Marketing"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -518,7 +518,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/marketo-and-mochas-recordings/overview.html?lang=fr" title="Marketo et Mochas" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png" alt="Marketo et Mochas"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-marketo-and-mochas.png?lang=fr" alt="Marketo et Mochas"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -541,7 +541,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/espressos-and-experience-manager-recordings/overview.html?lang=fr" title="Expressos et Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-espressos-and-experience-manager.png" alt="Expressos et Experience Manager"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-espressos-and-experience-manager.png?lang=fr" alt="Expressos et Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -564,7 +564,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/tech-sessions/overview.html?lang=fr" title="Sessions techniques Experience Cloud" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png" alt="Sessions techniques Experience Cloud"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-experience-cloud-tech-sessions.png?lang=fr" alt="Sessions techniques Experience Cloud"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -587,7 +587,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/commerce-intelligence-webinar-recordings/overview.html?lang=fr" title="Adobe Commerce Intelligence" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png" alt="Adobe Commerce Intelligence"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-commerce-intelligence-webinars.png?lang=fr" alt="Adobe Commerce Intelligence"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -610,7 +610,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/events/the-perfect-blend/overview" title="Le mélange parfait" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png" alt="Le mélange parfait"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-the-perfect-blend.png?lang=fr" alt="Le mélange parfait"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -633,7 +633,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/skill-builder-recordings/overview.html?lang=fr" title="Développement des compétences" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png" alt="Développement des compétences"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-builders.png?lang=fr" alt="Développement des compétences"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -656,7 +656,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/the-skill-exchange-recordings/overview.html?lang=fr" title="Échange de compétences" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png" alt="Échange de compétences"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-skill-exchange.png?lang=fr" alt="Échange de compétences"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -679,7 +679,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/wake-up-with-workfront-recordings/overview.html?lang=fr" title="Réveil avec Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-wake-up-with-workfront.png" alt="Réveil avec Workfront"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-wake-up-with-workfront.png?lang=fr" alt="Réveil avec Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
