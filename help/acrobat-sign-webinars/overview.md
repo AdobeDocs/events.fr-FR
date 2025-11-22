@@ -2,9 +2,9 @@
 title: Webinaires Acrobat Sign
 description: Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signature électronique dans Acrobat Sign.
 exl-id: e5912c6e-65a1-471b-9a5d-83ac7eaccb90
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: 3340687ab85ecca286fab6774d326ca74e54b85b
 workflow-type: tm+mt
-source-wordcount: '709'
+source-wordcount: '751'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
 * skill-builders/document-builder.md
 * skill-builders/e-signature-microsoft.md
 * skill-builders/e-signature-setup.md
+* skill-builders/acrobat-sign-admin-experience.md
 * skill-builders/fillable-signable-web-form.md
 * skill-builders/getting-started.md
 * skill-builders/notarize.md
@@ -40,7 +41,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/advanced-reporting.md" title="Rapports avancés pour Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454407/?format=jpeg&nocache=1757082643934&captions=fre_fr" alt="Rapports avancés pour Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428191/?format=jpeg&nocache=1763766925432" alt="Rapports avancés pour Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -63,7 +64,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/acrobat-july-release.md" title="Webinaire - En savoir plus sur nos dernières améliorations - Adobe Acrobat Sign Version de juillet 2025" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473003/?format=jpeg&nocache=1757082643901" alt="Webinaire - En savoir plus sur nos dernières améliorations - Adobe Acrobat Sign Version de juillet 2025"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473003/?format=jpeg&nocache=1763766925423" alt="Webinaire - En savoir plus sur nos dernières améliorations - Adobe Acrobat Sign Version de juillet 2025"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -86,7 +87,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/advanced-sending-documents-signature.md" title="Conseils avancés pour l’envoi de documents pour signature" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454881/?format=jpeg&nocache=1757082643929&captions=fre_fr" alt="Conseils avancés pour l’envoi de documents pour signature"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428186/?format=jpeg&nocache=1763766925438" alt="Conseils avancés pour l’envoi de documents pour signature"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,7 +110,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/agreement-status.md" title="Gérer les accords - Obtenez une visibilité en temps réel sur le statut des accords" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455003/?format=jpeg&nocache=1757082643906&captions=fre_fr" alt="Gérer les accords - Obtenez une visibilité en temps réel sur le statut des accords"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428190/?format=jpeg&nocache=1763766925443" alt="Gérer les accords - Obtenez une visibilité en temps réel sur le statut des accords"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -132,7 +133,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/authoring-environment.md" title="Formation avancée sur l’environnement de création" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455897/?format=jpeg&nocache=1757082643912&captions=fre_fr" alt="Formation avancée sur l’environnement de création"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428189/?format=jpeg&nocache=1763766925487" alt="Formation avancée sur l’environnement de création"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -155,7 +156,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/collect-signatures.md" title="Collecter de nombreuses signatures en un seul clic" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454893/?format=jpeg&nocache=1757082643917&captions=fre_fr" alt="Collecter de nombreuses signatures en un seul clic"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428188/?format=jpeg&nocache=1763766925458" alt="Collecter de nombreuses signatures en un seul clic"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -178,7 +179,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/create-use-workflows.md" title="Création et utilisation de workflows du début à la fin" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454901/?format=jpeg&nocache=1757082643940&captions=fre_fr" alt="Création et utilisation de workflows du début à la fin"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428192/?format=jpeg&nocache=1763766925451" alt="Création et utilisation de workflows du début à la fin"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -201,7 +202,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/document-builder.md" title="Document Builder pour Adobe Acrobat Sign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454915/?format=jpeg&nocache=1757082643924&captions=fre_fr" alt="Document Builder pour Adobe Acrobat Sign"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428193/?format=jpeg&nocache=1763766925466" alt="Document Builder pour Adobe Acrobat Sign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -224,7 +225,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/e-signature-microsoft.md" title="Utilisation des signatures électroniques dans vos applications Microsoft" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455051/?format=jpeg&nocache=1757082643952&captions=fre_fr" alt="Utilisation des signatures électroniques dans vos applications Microsoft"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428185/?format=jpeg&nocache=1763766925478" alt="Utilisation des signatures électroniques dans vos applications Microsoft"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -247,7 +248,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/e-signature-setup.md" title="Préparer vos contrats pour la signature électronique" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455946/?format=jpeg&nocache=1757082643958&captions=fre_fr" alt="Préparer vos contrats pour la signature électronique"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428184/?format=jpeg&nocache=1763766925483" alt="Préparer vos contrats pour la signature électronique"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -265,12 +266,35 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             </div>
         </div>
     </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Power Up Your Acrobat Sign Admin Experience">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="skill-builders/acrobat-sign-admin-experience.md" title="Optimisez Votre Expérience D’Administration Acrobat Sign" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477175/?format=jpeg&nocache=1763766925471" alt="Optimisez Votre Expérience D’Administration Acrobat Sign"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="skill-builders/acrobat-sign-admin-experience.md" target="_blank" rel="referrer" title="Optimisez Votre Expérience D’Administration Acrobat Sign">Optimisez Votre Expérience D’Administration Acrobat Sign</a>
+                    </p>
+                    <p class="is-size-6">Découvrez de nouvelles fonctionnalités d’administration pour rationaliser l’intégration et optimiser le potentiel d’Acrobat Sign.</p>
+                </div>
+                <a href="skill-builders/acrobat-sign-admin-experience.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Événement Espion</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Post a Fillable, Signable Web Form">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/fillable-signable-web-form.md" title="Publier un formulaire web pouvant être rempli et signé" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455446/?format=jpeg&nocache=1757082643946&captions=fre_fr" alt="Publier un formulaire web pouvant être rempli et signé"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428187/?format=jpeg&nocache=1763766925491" alt="Publier un formulaire web pouvant être rempli et signé"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -293,7 +317,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/getting-started.md" title="Acrobat Sign 101 - Prise en main" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3455467/?format=jpeg&nocache=1757082643968&captions=fre_fr" alt="Acrobat Sign 101 - Prise en main"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428183/?format=jpeg&nocache=1763766925495" alt="Acrobat Sign 101 - Prise en main"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -316,7 +340,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/notarize.md" title="Notarize Integration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454374/?format=jpeg&nocache=1757082643963&captions=fre_fr" alt="Notarize Integration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428195/?format=jpeg&nocache=1763766925499" alt="Notarize Integration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -339,7 +363,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="skill-builders/workflow-automations.md" title="Automatisations des workflows optimisées par Microsoft Power Automate" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3454926/?format=jpeg&nocache=1757082643971&captions=fre_fr" alt="Automatisations des workflows optimisées par Microsoft Power Automate"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3428194/?format=jpeg&nocache=1763766925539" alt="Automatisations des workflows optimisées par Microsoft Power Automate"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -349,7 +373,7 @@ Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signatu
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="skill-builders/workflow-automations.md" target="_blank" rel="referrer" title="Automatisations des workflows optimisées par Microsoft Power Automate">automatisations des workflows optimisées par Microsoft Power Automate</a>
                     </p>
-                    <p class="is-size-6">Exploitez toutes les fonctionnalités d’automatisation avec la solution low-code/sans code de Microsoft, Power Automate, directement dans Adobe Acrobat Sign.</p>
+                    <p class="is-size-6">Exploitez toutes les fonctionnalités d’automatisation avec la solution à faible code/sans code de Microsoft, Power Automate, directement dans Adobe Acrobat Sign.</p>
                 </div>
                 <a href="skill-builders/workflow-automations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Événement Espion</span>
