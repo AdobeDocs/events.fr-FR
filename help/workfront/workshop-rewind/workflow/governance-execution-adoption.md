@@ -25,7 +25,7 @@ Axée sur la gouvernance (pensez aux conventions de nommage), l’exécution (pr
 
 Si vous n&#39;avez pas pu y assister en direct, pas de soucis. Examinez le [diaporama](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+for+Governance%2C+Execution+and+Adoption+-+October+8%2C+2025.pdf) et regardez l’enregistrement à la demande pour le suivre.
 
-Vous cherchez un résumé de l&#39;événement et des ressources du chat ? Consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766) !
+Vous cherchez un résumé de l&#39;événement et des ressources du chat ? Consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766?profile.language=fr) !
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements Experience League](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
 

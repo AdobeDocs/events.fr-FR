@@ -25,8 +25,8 @@ et regardez l’enregistrement à la demande à suivre, car Jen donne un aperçu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
 
-Consultez les modèles Adobe Workfront [Fusion](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) actuellement disponibles.
+Consultez les modèles Adobe Workfront [Fusion](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates) actuellement disponibles.
 
-D’autres liens vers des ressources sont disponibles dans la publication de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958) !
+D’autres liens vers des ressources sont disponibles dans la publication de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fusion-decoded-what-it-is-and-why-every-org-can/td-p/784958?profile.language=fr) !
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements Experience League](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.

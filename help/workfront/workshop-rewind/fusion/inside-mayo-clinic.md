@@ -23,9 +23,9 @@ Organisée en partenariat avec Tia Calvert et Matt Lien de la Mayo Clinic, cette
 
 Examinez le [diaporama](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Inside+Mayo+Clinic+-+How+Workfront+Fusion+Helps+the+Humans+Slide+Deck.pdf) et regardez l’enregistrement à la demande pour le suivre.
 
-Fusion prend du temps et de la pratique. Si vous ne faites que commencer, apprenez-en plus sur la [formation Fusion sur Experience League](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview) (gratuite) et n’hésitez pas à demander de l’aide à d’autres clients de la [communauté Workfront Fusion](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2).
+Fusion prend du temps et de la pratique. Si vous ne faites que commencer, apprenez-en plus sur la [formation Fusion sur Experience League](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview) (gratuite) et n’hésitez pas à demander de l’aide à d’autres clients de la [communauté Workfront Fusion](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion/ct-p/workfront-fusion-2?profile.language=fr).
 
-Pour plus de ressources et un aperçu de leurs cas d’utilisation, consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-inside-mayo-clinic-how-workfront-fusion-helps/td-p/781981) !
+Pour plus de ressources et un aperçu de leurs cas d’utilisation, consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-inside-mayo-clinic-how-workfront-fusion-helps/td-p/781981?profile.language=fr) !
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements Experience League](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
 

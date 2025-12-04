@@ -24,9 +24,9 @@ Rejoignez Heather MacDonald, vice-présidente associée, Opérations marketing, 
 Si vous avez manqué la session en direct, passez en revue [les diapositives SNHU de HMac](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/SNHU_Adobe+Planning_0825.pdf) et regardez l&#39;enregistrement à la demande pour suivre.
 * (Remarque : tous les projets du dossier de présentation ne sont que des exemples)
 
-Pour plus d’informations sur les prochaines étapes de Workfront Planning, veillez à ajouter un signet à la page [Activité de publication d’Adobe Workfront Planning](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) sur Experience League.
+Pour plus d’informations sur les prochaines étapes de Workfront Planning, veillez à ajouter un signet à la page [Activité de publication d’Adobe Workfront Planning](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/planning-release-activity/planning-release-activity-article-index) sur Experience League.
 
-Avez-vous des idées à partager ou des questions de suivi sur l&#39;événement ? N’hésitez pas à les laisser dans les commentaires de la publication de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019) !
+Avez-vous des idées à partager ou des questions de suivi sur l&#39;événement ? N’hésitez pas à les laisser dans les commentaires de la publication de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-planning-reimagined-snhu-s-creative/td-p/771019?profile.language=fr) !
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements Experience League](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
 

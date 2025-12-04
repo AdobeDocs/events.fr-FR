@@ -24,7 +24,7 @@ Rejoignez Myka Bohnsack et Warren Barton qui partagent leur expertise lors de l�
 
 Si vous avez manqué l’événement en direct, passez en revue le [diaporama](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/AEM-WF_Native_Integration_10-23-25.pdf) et regardez l’enregistrement à la demande pour le suivre. L’événement offre un aperçu de l’intégration, des informations sur la préparation (y compris les processus de mappage, l’alignement des métadonnées, la garantie d’autorisations appropriées, etc.) et une démonstration de sa configuration.
 
-Avez-vous des idées à partager ou des questions de suivi sur l&#39;événement ? N’hésitez pas à les laisser dans les commentaires de la publication de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-leveraging-the-workfront-aem-native-integration/td-p/783361) !
+Avez-vous des idées à partager ou des questions de suivi sur l&#39;événement ? N’hésitez pas à les laisser dans les commentaires de la publication de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-leveraging-the-workfront-aem-native-integration/td-p/783361?profile.language=fr) !
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements Experience League](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
 

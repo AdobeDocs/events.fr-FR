@@ -23,7 +23,7 @@ Regardez l’enregistrement à la demande et jetez un coup d’œil à ses proce
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477115/?learn=on&enablevpops)
 
-Vous recherchez d’autres ressources partagées pendant l’événement ?  Consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981) !
+Vous recherchez d’autres ressources partagées pendant l’événement ?  Consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-power-templates-how-idexx-reconfigured-project/td-p/768981?profile.language=fr) !
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements Experience League](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
 

@@ -23,7 +23,7 @@ Au cours de cet atelier, ils ont partagé leur savoir-faire technique et leurs a
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477158/?learn=on&enablevpops)
 
-Avez-vous manqué la séance en direct ? Pas de soucis ! Examinez le [jeu de présentation](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550) de Skye &amp; Nathan et regardez l&#39;enregistrement à la demande pour suivre.
+Avez-vous manqué la séance en direct ? Pas de soucis ! Examinez le [jeu de présentation](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-your-dream-workfront-report-exists-two/td-p/783550?profile.language=fr) de Skye &amp; Nathan et regardez l&#39;enregistrement à la demande pour suivre.
 
 Avez-vous des idées à partager ou des questions de suivi sur l&#39;événement ? N’hésitez pas à les laisser dans les commentaires de la publication de la communauté [Experience League](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10.28.25+EXISTS+Class.pdf) !
 
