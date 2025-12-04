@@ -3,9 +3,9 @@ user-guide-title: Événements Workfront
 breadcrumb-title: Événements Workfront
 user-guide-description: Événements Workfront
 solution: Workfront
-source-git-commit: 42c0401d1ef307fd4e4d93245f472f75259d6d21
+source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '280'
 ht-degree: 1%
 
 ---
@@ -16,6 +16,7 @@ ht-degree: 1%
 + [Ateliers à la demande sur Workfront](overview.md)
 
 + Webinaires de mise à jour {#releases}
+   + [Webinaire Sur La Version Du Quatrième Trimestre 2025](releases/25-q4-release-webinar.md)
    + [Version 25.7](releases/25-7-release-webinar.md)
    + [Version 25.4](releases/25-4-release-webinar.md)
    + [Version 25.1](releases/25-1-release-webinar.md)
@@ -23,18 +24,28 @@ ht-degree: 1%
 + Rembobinage de l&#39;atelier {#workshop-rewind}
    + Fusion {#fusion}
       + [Automatisation des conventions d’affectation de noms](workshop-rewind/fusion/automating-naming-conventions.md)
+      + [Imports de données](workshop-rewind/fusion/data-imports.md)
+      + [Fusion décodée](workshop-rewind/fusion/fusion-decoded.md)
+      + [Comment Workfront Fusion aide les humains](workshop-rewind/fusion/inside-mayo-clinic.md)
       + [Navigation aisée dans les modifications des champs à sélection multiple](workshop-rewind/fusion/mulit-select-fields.md)
       + [Déverrouiller les coûts d’événement réel](workshop-rewind/fusion/event-costs.md)
+      + [Workfront Fusion + JSONata](workshop-rewind/fusion/jsonata.md)
    + Planification {#planning}
       + [Dernière version de Workfront Planning](workshop-rewind/planning/workfront-planning.md)
+      + [Cas d’utilisation de Creative par SNHU](workshop-rewind/planning/planning-reimagined.md)
       + [Succès au niveau de l’équipe avec Workfront Planning](workshop-rewind/planning/team-success-workfront-planning.md)
       + [Version et feuille de route de Workfront Planning](workshop-rewind/planning/planning-release-roadmap.md)
    + Workflow {#workflow}
-      + [Creative et gestion des ressources](classics/creative-ways-of-managing-resources.md)
+      + [Plans directeurs](workshop-rewind/workflow/blueprints.md)
+      + [Définir et communiquer la valeur de Workfront](workshop-rewind/workflow/workfront-value.md)
+      + [Conseils de gouvernance, d’exécution et d’adoption](workshop-rewind/workflow/governance-execution-adoption.md)
       + [Gestion des notifications par e-mail](workshop-rewind/workflow/email-notifications.md)
+      + [Maîtriser des instructions EXISTS](workshop-rewind/workflow/master-exists-statements.md)
+      + [Modèles d’alimentation](workshop-rewind/workflow/power-templates.md)
       + [Modèles de projet](workshop-rewind/workflow/project-templates.md)
       + [Auto-enseigné pour réussir](workshop-rewind/workflow/self-taught-to-success.md)
       + [Tirer parti de toute la puissance de Workfront Data Connect](workshop-rewind/workflow/data-connect.md)
+      + [Workfront + Intégration native d’AEM](workshop-rewind/workflow/aem-native-integration.md)
 + Prise en main rapide {#quicktakes}
    + Top 3 {#top3}
       + [Approches Creative avec plans directeurs](quick-takes/top3/blueprints.md)
@@ -73,6 +84,7 @@ ht-degree: 1%
       + [Surcharger les rapports en mode Texte de base à l’aide de l’explorateur d’API](classics/supercharge-basic-text-mode-reporting-using-the-api-explorer.md)
       + [Présentation de la combinaison et de la capacité](classics/understanding-mix-and-capacity.md)
    + Gestion des ressources {#resource-management}
+      + [Creative et gestion des ressources](classics/creative-ways-of-managing-resources.md)
       + [Planification des ressources et des capacités](user-groups/resource-and-capacity-planning.md)
       + [Gestion des ressources](user-groups/resource-management.md)
    + Vérifier et approuver le travail {#review-and-approve-work}
@@ -87,10 +99,3 @@ ht-degree: 1%
       + [Utilisation de Workfront Proof](user-groups/leveraging-workfront-proof.md)
    + Files d’attente des demandes et admission {#request-queues-and-intake}
       + [Files d’attente de demandes et Forms d’entrée](user-groups/request-queues-and-intake-forms.md)
-
-
-
-
-<!--  + Planning {#planning}
-  + Integrations {#integrations}
--->
