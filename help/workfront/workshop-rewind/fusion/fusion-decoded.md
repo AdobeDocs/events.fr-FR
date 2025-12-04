@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Regardez comment Jen Desmond décompose Workfront Fusion et nous présente quelques exemples en direct pour aider à démystifier Fusion.
 
-Si vous avez manqué l’événement en direct, passez en revue le [ diaporama ](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Fusion-Decoded_11-5-25.pdf)
+Si vous avez manqué l’événement en direct, passez en revue le [&#x200B; diaporama &#x200B;](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Fusion-Decoded_11-5-25.pdf)
 et regardez l’enregistrement à la demande à suivre, car Jen donne un aperçu de Workfront Fusion, de ce qu’il peut faire, puis montre comment créer deux scénarios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477159/?learn=on&enablevpops)
