@@ -2,9 +2,9 @@
 user-guide-title: Webinaires sur le succès client Adobe
 breadcrumb-title: Webinaires sur le succès client Adobe
 user-guide-description: Webinaires dirigés par la réussite client Adobe conçus pour vous aider à optimiser votre investissement dans Adobe Experience Cloud. Obtenez des informations précieuses afin d’optimiser la valeur et d’accroître l’adoption des solutions Adobe.
-source-git-commit: 76919cb28c46b76ad2aace48fbc4fc95ec3fa750
+source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '563'
 ht-degree: 4%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 4%
       + [Créer un parrainage exécutif](2025/cja-success.md)
       + [Stratégies de gestion du changement](2025/cja-adoption.md)
       + [CJA Data Insights Agent](2025/cja-data-insights-agent.md)
+      + [Création d’offres en 30 minutes avec CJA](2025/cja-shared-audiences.md)
       + [Conception d’un modèle opérationnel pour le succès de CJA](2025/cja-operating-model.md)
       + [Architecture de base](2025/cja-vision.md)
       + [Migration vers CJA à partir d’Adobe Analytics](2025/analytics-to-cja-migration.md)
