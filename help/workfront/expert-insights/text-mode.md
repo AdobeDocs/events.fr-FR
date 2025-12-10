@@ -41,7 +41,7 @@ Vous recherchez des ressources supplémentaires ? On les a !
 * [Guide pas à pas pour la création de rapports](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
 * Si vous êtes novice en matière de création de rapports, consultez l’article Perspective de Nichole, procédure [8 pour créer des rapports simples et efficaces dans Adobe Workfront](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
 
-Pour plus de ressources, notamment le mode Texte, consultez l’article de la communauté Experience League [](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848) !
+Pour plus de ressources, notamment le mode Texte, consultez l’article de la communauté Experience League [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848) !
 
 
 ## À propos du conférencier
