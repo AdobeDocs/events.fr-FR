@@ -21,5 +21,5 @@ Les ateliers Adobe Workfront sont un excellent moyen de se familiariser avec not
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477025/?learn=on&enablevpops)
 
-Une fois que vous avez terminé, accédez à la page [Événements Experience League](https://experienceleague.adobe.com/en/events?filters=Workfront) pour vous inscrire aux futurs ateliers.
+Une fois que vous avez terminé, accédez à la page [Événements Experience League](https://experienceleague.adobe.com/fr/events?filters=Workfront) pour vous inscrire aux futurs ateliers.
 
