@@ -9,10 +9,10 @@ doc-type: Event
 duration: 2786
 last-substantial-update: 2025-12-09T00:00:00Z
 jira: KT-19776
-source-git-commit: 8762eada888ea3ed55ddefe70d587c76ae6bfa16
+source-git-commit: 371ba5246679b71dd4710e5034eb10b9b01f6789
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 1%
+source-wordcount: '76'
+ht-degree: 0%
 
 ---
 
@@ -23,10 +23,7 @@ Découvrez comment Kohler a repensé ses briefs créatifs à l&#39;aide de Workf
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477114/?learn=on&enablevpops)
 
-## Ressources
 
-* Venez nous voir en direct lors de nos événements [texte](https://experienceleague.adobe.com/fr/events)
-* Venez nous voir en direct lors de nos événements [texte](https://experienceleague.adobe.com/fr/events)
 
 
 
