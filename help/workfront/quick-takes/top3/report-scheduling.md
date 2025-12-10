@@ -21,7 +21,7 @@ C&#39;est encore moi, votre « CSM Workfront à la demande » Cynthia Boon avec 
 
 Cette fois, je partage mes méthodes préférées pour tirer le meilleur parti de la planification des rapports. Dans la vidéo, je montre des exemples d’utilisation de cette fonctionnalité pour obtenir encore plus de tous les rapports fantastiques que vous créez.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477076/?captions=fre_fr&learn=on&enablevpops)
 
 Pour plus de ressources, consultez la publication de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285?profile.language=fr) !
 

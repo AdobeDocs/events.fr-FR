@@ -29,7 +29,7 @@ Le mode texte peut être difficile, mais les récompenses sont incroyables.  Sou
 * Tirez parti de la communauté. - Fiez-vous à Experience League, aux livres de cookie, à l’explorateur d’API et aux homologues. Ne réinvente pas la roue.
 * Persiste, mais prend des pauses. - Si coincé, fermez l&#39;ordinateur portable, faites une promenade et revenez avec des yeux neufs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477024/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477136/?captions=fre_fr&learn=on&enablevpops)
 
 
 ## Ressources
