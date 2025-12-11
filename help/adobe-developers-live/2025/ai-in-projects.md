@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment l’IA transforme les expériences digitales dans les projets Adobe par le biais d’applications réelles. Découvrez comment l’IA améliore la création de contenu, la validation de site et la planification de projet, améliorant ainsi l’efficacité et réduisant les coûts. Découvrez des articles présentant des utilisations innovantes des outils d’IA dans Adobe Experience Manager, Adobe Commerce et Edge Delivery Services.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477606/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477627/?captions=fre_fr&learn=on&enablevpops)

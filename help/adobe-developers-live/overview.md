@@ -85,7 +85,7 @@ Les équipes produit d’Adobe dans Adobe Experience Cloud, Document Cloud et Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-in-projects.md" title="Projets Adobe basés sur l’IA - Articles pratiques" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477606/?format=jpeg&nocache=1765410870539" alt="Projets Adobe basés sur l’IA - Articles pratiques"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477627/?captions=fre_fr&format=jpeg&nocache=1765410870539" alt="Projets Adobe basés sur l’IA - Articles pratiques"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -131,7 +131,7 @@ Les équipes produit d’Adobe dans Adobe Experience Cloud, Document Cloud et Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/aem-agents.md" title="Explorer les agents Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477620/?format=jpeg&nocache=1765410870551" alt="Explorer les agents Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477662/?captions=fre_fr&format=jpeg&nocache=1765410870551" alt="Explorer les agents Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
