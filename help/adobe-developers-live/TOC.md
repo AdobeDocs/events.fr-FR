@@ -2,9 +2,9 @@
 user-guide-title: Événements Adobe Developers Live
 user-guide-breadcrumb: Developers Live Events
 user-guide-description: Collection d’enregistrements de l’événement Adobe Developers Live Content
-source-git-commit: c069bbf422ed534b7459bf740c3c4df5f1f8cc3a
+source-git-commit: ea82ddf49a9cddc4292b46a1070200083135ca3d
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '929'
 ht-degree: 6%
 
 ---
@@ -13,6 +13,12 @@ ht-degree: 6%
 # Événements Adobe Developers Live {#adobe-developers-live-recordings}
 
 + [Vue d’ensemble](overview.md)
++ 2025 {#2025}
+   + [Keynote - Construire le Web Agentic Keynote](2025/keynote.md)
+   + [Évolution agentique d’AEM](2025/agentic-evolution-aem.md)
+   + [L’IA dans les projets Adobe](2025/ai-in-projects.md)
+   + [Confrontation du codage IA](2025/coding-agent.md)
+   + [Explorer les agents Adobe Experience Manager](2025/aem-agents.md)
 + 2024 {#2024}
    + Novembre {#nov2024}
       + [Keynote](2024/nov/keynote.md)
