@@ -7,10 +7,10 @@ doc-type: Event
 duration: 4240
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19962
-source-git-commit: e34a82dba6d98fc15d44a6be407c6316476b988e
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 2%
+source-wordcount: '148'
+ht-degree: 1%
 
 ---
 
@@ -20,6 +20,10 @@ ht-degree: 2%
 Découvrez comment l’IA transforme les expériences digitales dans cette allocution prononcée dans Adobe Developers Live 2025. Découvrez la vision d’Adobe pour le web d’agence, avec des informations sur les agents AEM, les services Content AI Foundational Services, Brand Concierge, etc. Cet événement rassemble des experts pour discuter de solutions innovantes pour les développeurs et les architectes du monde entier.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477589/?learn=on&enablevpops)
+
+Enregistré en direct depuis San José, ce keynote complet met en vedette Loni Stark, David Nuescheler, Mark Szulc, Shankari Panchapakesan, Cecily Liu et Deck Reyes qui dévoilent la vision d’Adobe pour le web agentique, notamment les agents AEM, les services de base de l’IA dédiée au contenu, Brand Concierge, Sites Optimizer et LLM Optimizer.
+
+Remercions tout particulièrement nos sponsors Algolia et Ensemble pour leur soutien à Adobe Developers Live 2025.
 
 ## Étapes suivantes
 

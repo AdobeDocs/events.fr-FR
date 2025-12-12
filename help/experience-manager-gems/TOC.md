@@ -3,9 +3,9 @@ user-guide-title: Événements Adobe Experience Manager GEMS
 user-guide-description: Découvrez AEM Gems, une série de sessions d’immersion réalisées par des experts Adobe Experience Manager.
 breadcrumb-title: Événements AEM GEMS
 solution: Experience Manager
-source-git-commit: 78e56de853566bed74975bb7ef44f2cbd53cde8d
+source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
@@ -34,14 +34,11 @@ ht-degree: 2%
    + [AEM Best Practices Analyzer pour les environnements On-Premise et AMS](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
    + [Cas d’utilisation client et implémentation d’AEM découplé en cours d’utilisation](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
-   + [Présentation de Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [Intégrer le framework AEM et CIF pour créer une expérience d’e-commerce riche et immersive](gems2022/aem-and-cif-framework-integration.md)
    + [Création de sites web plus rapidement avec AEM découplé et App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)
-   + [Adobe Experience Manager as a Cloud Service : bilan et perspectives 2021](gems2022/aemcloudservice-2021-review-and-outlook.md)
 + 2020 {#gems2020}
    + [AEM 6.5 au grand jour - intégration et bonnes pratiques de traduction](gems2020/aem65-readyfortheworld-translationintegration-bestpractices.md)
 + 2019 {#gems2019}
-   + [Nouveautés d’Experience Manager 6.5  [!DNL Sites]](gems2019/adobe-experience-manager-6-5-sites-whats-new.md)
    + [Séance d’immersion dans l’éditeur de texte enrichi AEM](gems2019/aem-rich-text-editor-rte-deep-dive1.md)
    + [Séance d’immersion dans les détails d’implémentation des magasins, des modules et des segments dans ContextHub](gems2019/contexthub-deep-dive.md)
    + [Création d’expériences omnicanal découplées avec AEM 6.5](gems2019/creating-headless-omnichannel-experiences-with-aem-65.md)
