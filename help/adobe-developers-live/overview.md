@@ -163,7 +163,7 @@ Les équipes produit d’Adobe dans Adobe Experience Cloud, Document Cloud et Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/app-builder-extensions.md" title="Innovations en matière de développement d’AI Commerce" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477672/?format=jpeg&nocache=1765499677619" alt="Innovations en matière de développement d’AI Commerce"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477683/?captions=fre_fr&format=jpeg&nocache=1765499677619" alt="Innovations en matière de développement d’AI Commerce"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -186,7 +186,7 @@ Les équipes produit d’Adobe dans Adobe Experience Cloud, Document Cloud et Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-content-discovery.md" title="Découverte de contenu par l’IA avec Adobe Experience Manager" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477673/?format=jpeg&nocache=1765499677611" alt="Découverte de contenu par l’IA avec Adobe Experience Manager"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477742/?captions=fre_fr&format=jpeg&nocache=1765499677611" alt="Découverte de contenu par l’IA avec Adobe Experience Manager"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +232,7 @@ Les équipes produit d’Adobe dans Adobe Experience Cloud, Document Cloud et Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/document-authoring-at-scale.md" title="Création de documents à grande échelle : les bases d’expériences intelligentes et optimisées par l’IA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477753/?format=jpeg&nocache=1765499677631" alt="Création de documents à grande échelle : les bases d’expériences intelligentes et optimisées par l’IA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477810/?captions=fre_fr&format=jpeg&nocache=1765499677631" alt="Création de documents à grande échelle : les bases d’expériences intelligentes et optimisées par l’IA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -301,7 +301,7 @@ Les équipes produit d’Adobe dans Adobe Experience Cloud, Document Cloud et Cr
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/code-optimization.md" title="Optimisation du code avec AEM Sites Optimizer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477676/?format=jpeg&nocache=1765499677637" alt="Optimisation du code avec AEM Sites Optimizer"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477719/?captions=fre_fr&format=jpeg&nocache=1765499677637" alt="Optimisation du code avec AEM Sites Optimizer"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

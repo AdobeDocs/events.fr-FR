@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Découvrez comment l’IA transforme la découverte de contenu avec Adobe Experience Manager. Découvrez comment utiliser le gestionnaire de contenu pour la recherche sémantique et les recommandations de ressources basées sur l’IA. Cette session couvre la découverte basée sur des résumés de campagne et l’accès rapide aux rendus Dynamic Media, en simplifiant la réutilisation et la diffusion du contenu via une pile OpenAPI.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477673/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477742/?captions=fre_fr&learn=on&enablevpops)
 
 Cette session (Découverte de contenu pilotée par l’IA avec des rendus prêts pour le canal) met en vedette Matt Briscoe, Deepa Gupta et Mathias Siegel. Elle montre comment les développeurs peuvent utiliser Content Advisor pour découvrir des ressources et des fragments de contenu grâce à la recherche sémantique et aux recommandations optimisées par l’IA. Découvrez comment la découverte basée sur des résumés de campagne et l’accès rapide aux rendus Dynamic Media dans Scene7 et DM simplifient la réutilisation et la diffusion du contenu par le biais d’une pile OpenAPI. Enregistré en direct depuis San José.
 

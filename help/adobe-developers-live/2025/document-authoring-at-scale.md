@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Découvrez comment Adobe Experience Manager permet la création de documents évolutive et adaptée à l’IA dans les écosystèmes d’entreprise mondiaux. Découvrez comment l’intégration d’AEM Assets, de Workfront et de workflows de traduction crée des variations de contenu pour les marchés et les langues, formant ainsi la base de l’enrichissement sémantique et de l’optimisation de l’IA. Cette session présente les informations d’Andreas Haller, architecte principal de solution chez Cognizant Netcentric, enregistrées en direct de Bâle. Découvrez comment l’écosystème Adobe prend en charge les expériences intelligentes, en assurant l’alignement avec la gouvernance d’entreprise et en améliorant les stratégies de transformation numérique.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477753/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477810/?captions=fre_fr&learn=on&enablevpops)
 
 Cette session — Document Authoring at Scale : The Foundation for Intelligent, AI-Optimized Experiences — met en vedette Andreas Haller, architecte principal de solution chez Cognizant Netcentric, enregistré en direct de Bâle. Découvrez comment la création de documents Adobe Experience Manager prend en charge les expériences mondiales prêtes pour l’IA dans les écosystèmes d’entreprise. Découvrez comment des bases évolutives basées sur des documents s’intègrent à AEM Assets, aux processus supply chain optimisés par Workfront et aux workflows de traduction pour créer des variations de contenu entre les marchés et les langues, formant la base d’un enrichissement sémantique et d’une optimisation pilotée par l’IA.
 
