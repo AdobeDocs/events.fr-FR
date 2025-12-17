@@ -25,6 +25,6 @@ Nous recevons de nombreuses questions sur l’utilisation du mode texte pour com
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
 
-Vous en cherchez plus ? Nous avons **Trois conseils bonus** sur la publication de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641) !
+Vous en cherchez plus ? Nous avons **Trois conseils bonus** sur la publication de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=fr) !
 
 

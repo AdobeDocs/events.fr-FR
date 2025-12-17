@@ -29,8 +29,8 @@ L’ajout d’un rapport jalonné au tableau de bord de votre projet ou le parta
 
 Pour plus d’informations sur les jalons, consultez ces ressources gratuites :
 
-* [Créer un chemin jalonné et des étapes jalonnées](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
-* [Utiliser la vue Jalon](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
+* [Créer un chemin jalonné et des étapes jalonnées](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones)
+* [Utiliser la vue Jalon](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/reports/report-elements/use-milestone-view)
 * [Envoyer et partager des rapports](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)
 
 

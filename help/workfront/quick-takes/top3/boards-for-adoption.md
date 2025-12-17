@@ -29,9 +29,9 @@ Si vous n’avez pas eu l’occasion d’expérimenter la fonctionnalité Tablea
 
 Comme promis dans la vidéo, nous avons beaucoup de ressources à partager, y compris des articles et de courtes vidéos de démonstration :
 
-* [Prise en main des tableaux dans Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=en)
-* [Fonctionnalité d’opt-in anticipé aux tableaux Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=en)
-* [Créer ou modifier un panorama : comprend des descriptions de chaque modèle de panorama](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=en)
-* [Tableaux Adobe Workfront - courtes démonstrations vidéo](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=en)
+* [Prise en main des tableaux dans Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/get-started-with-boards.html?lang=fr)
+* [Fonctionnalité d’opt-in anticipé aux tableaux Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-early-feature-opt-in.html?lang=fr)
+* [Créer ou modifier un panorama : comprend des descriptions de chaque modèle de panorama](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/create-edit-board.html?lang=fr)
+* [Tableaux Adobe Workfront - courtes démonstrations vidéo](https://experienceleague.adobe.com/docs/workfront/using/agile/boards-in-workfront/boards-video-demonstrations.html?lang=fr)
 
 

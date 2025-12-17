@@ -29,7 +29,7 @@ Vous commencez à peine à utiliser les pools de ressources ? D&#39;abord, quell
 
 ## Ressources supplémentaires
 
-* Pour plus d’informations, consultez l’article [Présentation des pools de ressources](https://experienceleague.adobe.com/en/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
-* Vous en cherchez plus ? Consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866) !
+* Pour plus d’informations, consultez l’article [Présentation des pools de ressources](https://experienceleague.adobe.com/fr/docs/workfront/using/manage-resources/resource-planning-in-adobe-workfront/resource-pools/work-with-resource-pools).
+* Vous en cherchez plus ? Consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-for-resource-pools/td-p/663866?profile.language=fr) !
 
 
