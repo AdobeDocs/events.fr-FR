@@ -2,9 +2,9 @@
 user-guide-title: Webinaires sur le succès client Adobe
 breadcrumb-title: Webinaires sur le succès client Adobe
 user-guide-description: Webinaires dirigés par la réussite client Adobe conçus pour vous aider à optimiser votre investissement dans Adobe Experience Cloud. Obtenez des informations précieuses afin d’optimiser la valeur et d’accroître l’adoption des solutions Adobe.
-source-git-commit: d17c517cdcdeddb2ba8d7db4c244f16d678bab96
+source-git-commit: fa067dfc5293d58cbd73c5d1a87be0ccf82b8f3e
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '569'
 ht-degree: 4%
 
 ---
@@ -59,7 +59,10 @@ ht-degree: 4%
       + [Conception d’un modèle opérationnel](2025/design-an-operating-model-ajo.md)
       + [Journey Optimizer Essentials](2025/journey-optimizer-essentials.md)
       + [Utilisation d’une architecture NorthStar](2025/northstar-architecture-enable-adobe-journey-optimzier.md)
+      + [Moderniser les campagnes](2025/ajo-adobe-campaign.md)
       + [Feuille de route vers la valeur avec Adobe Journey Optimizer](2025/ajo-roadmap-to-value.md)
+   + Marketo {#marketo2025}
+      + [Nouvel éditeur d’e-mail](2025/marketo-new-email-editor.md)
    + Solution multiple {#multisolution2025}
       + [Bases de la chaîne d’approvisionnement du contenu](2025/content-supply-chain-basics.md)
       + [Optimisation de l’expérience digitale avec les informations d’IA](2025/accelerating-digital-experience-optimization.md)
