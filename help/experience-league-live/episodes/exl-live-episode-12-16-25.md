@@ -28,4 +28,4 @@ Visionnez cette session en direct où l’équipe produit derrière l’agent de
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477984/?learn=on)
 
-[Poursuivez la discussion dans la discussion de la communauté !](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172#M1909){target="_blank"}
+[Poursuivez la discussion dans la discussion de la communauté !](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform/experience-league-live-post-session-discussion-simplify/m-p/790172?profile.language=fr#M1909){target="_blank"}
