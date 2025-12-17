@@ -23,7 +23,7 @@ C&#39;est encore moi, votre « CSM Workfront à la demande » Cynthia Boon avec 
 * Chef de projet/Planificateur
 * Collaborateur/Demandeur
 
->[!VIDEO](https://video.tv.adobe.com/v/3470072/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470178/?captions=fre_fr&learn=on&enablevpops)
 
 ## Ressources supplémentaires
 

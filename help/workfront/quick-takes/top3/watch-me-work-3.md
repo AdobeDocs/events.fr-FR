@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Top 3 des éditions spéciales ! Regardez-moi travailler - 3 méthodes [3e vidéo]
 
->[!VIDEO](https://video.tv.adobe.com/v/3470074/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470204/?captions=fre_fr&learn=on&enablevpops)
 
 Explorez les trois principales fonctionnalités qui aident les programmes de travail et les demandeurs à optimiser leur workflow dans Workfront. Découvrez comment les brouillons de requêtes, les vues de formulaire personnalisé et les tableaux peuvent améliorer la productivité et rationaliser les processus. Ces outils sont essentiels pour gérer les tâches de manière efficace, collaborer visuellement et suivre les objectifs dans le cadre de projets volumineux. Découvrez comment ces fonctionnalités peuvent vous aider dans votre travail et améliorer votre expérience dans Workfront.
 

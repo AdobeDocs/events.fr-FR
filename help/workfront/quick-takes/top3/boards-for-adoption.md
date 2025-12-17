@@ -23,7 +23,7 @@ Parlons d&#39;adoption ! Nous sommes tous à la recherche d’idées nouvelles p
 
 Si vous n’avez pas eu l’occasion d’expérimenter la fonctionnalité Tableaux, ne vous inquiétez pas ! Dans la vidéo, je partage comment donner accès à vos utilisateurs et quelques façons dont ils peuvent commencer rapidement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470075/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470091/?captions=fre_fr&learn=on&enablevpops)
 
 ## Ressources supplémentaires
 

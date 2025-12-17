@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Top 3 des éditions spéciales ! Regarder mon travail - 3 méthodes [2e vidéo]
 
->[!VIDEO](https://video.tv.adobe.com/v/3470073/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470190/?captions=fre_fr&learn=on&enablevpops)
 
 Découvrez les principales fonctionnalités utilisées par les chefs de projet dans Adobe Workfront. Découvrez comment les onglets, les panneaux de résumé et les filtres rapides peuvent améliorer votre workflow et votre efficacité. Obtenez des informations sur la gestion efficace de plusieurs tâches et projets, assurant ainsi un fonctionnement fluide et une productivité améliorée. Regardez la vidéo pour voir ces fonctionnalités en action et améliorer vos compétences en gestion de projet.

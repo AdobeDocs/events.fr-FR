@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Bonjour de votre « CSM Workfront à la demande » Cynthia Boon ! Vous souhaitez utiliser les tableaux Workfront, mais vous ne savez pas par où commencer ? Le moyen le plus simple de commencer est d’utiliser des modèles préconfigurés.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470067/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470133/?captions=fre_fr&learn=on&enablevpops)
 
 Voici un article qui fournit des instructions détaillées.
 

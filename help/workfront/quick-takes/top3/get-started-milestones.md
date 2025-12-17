@@ -23,7 +23,7 @@ Il s’agit d’un excellent rapport pour vos dirigeants aux plus hauts niveaux 
 
 L’ajout d’un rapport jalonné au tableau de bord de votre projet ou le partage de ce rapport (mieux encore, sa planification automatique pour une diffusion régulière) est un excellent moyen de maintenir l’engagement des parties intéressées, y compris les utilisateurs et utilisatrices ne faisant pas partie de Workfront, vis-à-vis de la progression des projets.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470066/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470156/?captions=fre_fr&learn=on&enablevpops)
 
 ## Ressources supplémentaires
 

@@ -23,7 +23,7 @@ Vous recherchez de nouvelles façons efficaces de présenter vos informations da
 
 Nous recevons de nombreuses questions sur l’utilisation du mode texte pour combiner des informations dans un rapport. Nous disposons donc d’une vidéo détaillée ainsi que de quelques ressources ci-dessous pour vous aider à démarrer. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470076/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470122/?captions=fre_fr&learn=on&enablevpops)
 
 Vous en cherchez plus ? Nous avons **Trois conseils bonus** sur la publication de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-create-a-shared-column-report/td-p/613641?profile.language=fr) !
 

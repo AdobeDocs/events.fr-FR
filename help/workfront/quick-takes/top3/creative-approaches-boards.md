@@ -19,7 +19,7 @@ ht-degree: 0%
 
 C&#39;est à nouveau moi, votre « CSM Workfront à la demande » Cynthia Boon et j&#39;espère vous inspirer avec des idées créatives pour utiliser les tableaux Workfront.  Je le mentionne dans la vidéo, mais au cas où, voici un rapide rappel que vous n’avez pas à travailler dans une équipe agile pour utiliser la fonctionnalité Tableaux .  Si la liste des tâches du projet ne fonctionne pas pour votre équipe, essayez les tableaux ! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470068/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470167/?captions=fre_fr&learn=on&enablevpops)
 
 Vous recherchez un exemple de la manière dont un client utilise les tableaux ? Ne cherchez pas plus loin que la présentation des tableaux de l’équipe Mattel à l’Adobe Summit 2024 ! 
 
