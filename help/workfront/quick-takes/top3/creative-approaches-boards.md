@@ -23,6 +23,6 @@ C&#39;est à nouveau moi, votre « CSM Workfront à la demande » Cynthia Boon e
 
 Vous recherchez un exemple de la manière dont un client utilise les tableaux ? Ne cherchez pas plus loin que la présentation des tableaux de l’équipe Mattel à l’Adobe Summit 2024 ! 
 
-Session Du Sommet [2024 : Comment Mattel Tire Parti Des Tableaux Workfront ](https://business.adobe.com/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
+Session Du Sommet [2024 : Comment Mattel Tire Parti Des Tableaux Workfront &#x200B;](https://business.adobe.com/summit/2024/sessions/skill-exchange-how-mattel-is-leveraging-workfront-s956.html)
 
 
