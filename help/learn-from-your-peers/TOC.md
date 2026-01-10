@@ -2,10 +2,10 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Collection d'enregistrements provenant de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 48d93e64b075db84d164a743db97fa0202b3e26c
+source-git-commit: ca4fbba56990285c87dd1dfc9b2c30b35ab99561
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 6%
+source-wordcount: '334'
+ht-degree: 7%
 
 ---
 
@@ -39,12 +39,14 @@ ht-degree: 6%
    + 2023 {#2023}
       + [Excellence des développeurs avec les composants principaux d’AEM](experience-manager/2023/core-components.md)
       + [Séance d’immersion dans Tools for AEM Sites](experience-manager/2023/aem-sites-tools.md)
-      + [&#x200B; Stratégies de sécurité efficaces dans Cloud Service &#x200B;](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [ Stratégies de sécurité efficaces dans Cloud Service ](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [Maîtriser le contenu et les fragments d’expérience](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025 {#2025}
       + [Adoption de l’IA dédiée à l’échelle - Manuel pour les approbations](genai/2025/scale-ai-adoption-a-playbook-for-approvals.md)
 + Marketo {#marketo}
+   + 2026 {#2026}
+      + [Comment Marketo Engage Email Designer A Évolué](marketo/2026/email-designer-evolved.md)
    + 2025 {#2025}
       + [Création d’une stratégie d’hygiène des données](marketo/2025/data-hygiene-strategy.md)
       + [Découvrir l’impact des webinaires interactifs](marketo/2025/interactive-webinars.md)
@@ -62,7 +64,7 @@ ht-degree: 6%
       + [Comment faire évoluer votre  [!DNL Adobe Marketo Engage]  contenu](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [Gâchis des métadonnées](https://experienceleague.adobe.com/fr/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Gâchis des métadonnées](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Articuler l’impact - Comment mesurer et partager la valeur de Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Simplifier la planification des ressources grâce à l’automatisation](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
