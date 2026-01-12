@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 04cd7f4e1881d75f6fde97c48e2fb7a4f587a9ee
+source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 19%
+source-wordcount: '185'
+ht-degree: 17%
 
 ---
 
@@ -24,15 +24,19 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 ## Événements Experience League LIVE à venir
 
 <table>
-    <tr>
-         <td style="vertical-align: top;">
-            De nouveaux spectacles sont à venir. Revenez à cette page pour afficher les programmes disponibles.
-        </td>
-    </tr>
-
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
+      <img alt="Experience League LIVE 28 janvier 2026" src="episodes/assets/WebBanner-1-28-26.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-01-28-26.md"><strong>Voir Audience Agent pour découvrir les informations sur les audiences et créer des audiences prêtes à l’emploi en quelques minutes. </strong></a>
+      <br/><em>avec Shelby Mansuri, Keara Fausett et Alyssa Espiritu</em>
+      <br/><em>28 janvier 2026 à 8 h 30 (heure du Pacifique)</em>
+      <br/><br/><a href="https://www.youtube.com/live/V7n2KuhrhqQ">Définir un rappel</a>
+    </div>
+  </td>
+</tr>
 </table>
-
-
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -93,5 +97,5 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
 

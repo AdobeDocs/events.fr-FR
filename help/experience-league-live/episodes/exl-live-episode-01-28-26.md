@@ -1,0 +1,26 @@
+---
+title: Agents au travail - Créer et activer des audiences et des parcours
+description: Consultez Audience Agent pour découvrir les informations sur les audiences et créer des audiences prêtes à l’emploi en quelques minutes. Ensuite, regardez Journey Agent transformer les invites en langage naturel en parcours à plusieurs étapes, de la qualification de l’audience à l’activation cross-canal.
+kt: KT-19993
+solution: Experience Platform
+feature: Agentic AI
+event-cta-url-live: https://www.youtube.com/live/V7n2KuhrhqQ
+event-start-time: 2026-01-28 08:30-8
+event-guests: Daniel Wright, Shelby Mansuri, Keara Fausett, Alyssa Espiritu
+source-git-commit: df3b95c0f462a8cd72318e7b33c9b1827d3ea8ed
+workflow-type: tm+mt
+source-wordcount: '150'
+ht-degree: 0%
+
+---
+
+
+# Agents au travail : création et activation d’audiences et de parcours
+
+Le marketing moderne évolue à la vitesse d’une invite. Dans ce webinaire en direct, les équipes produit d’Adobe présenteront comment Adobe Experience Platform intègre l’IA dédiée aux agents aux workflows quotidiens afin que les professionnels du marketing puissent identifier, créer et activer plus rapidement et en toute confiance.
+
+Consultez Audience Agent pour découvrir les informations sur les audiences et créer des audiences prêtes à l’emploi en quelques minutes. Ensuite, regardez Journey Agent transformer les invites en langage naturel en parcours à plusieurs étapes, de la qualification de l’audience à l’activation cross-canal.  Vous découvrirez comment les agents de Real-Time CDP et de Journey Optimizer réduisent les frictions liées à la diffusion à grande échelle des expériences client pour les utilisateurs professionnels et techniques.
+
+<img alt="Experience League LIVE 28 janvier 2026" src="./assets/WebBanner-1-28-26.jpg">
+
+[Programmer un rappel pour l&#39;émission](https://www.youtube.com/live/V7n2KuhrhqQ){target="_blank"}
