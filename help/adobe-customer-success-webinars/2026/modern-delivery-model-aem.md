@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Dans le monde numérique d’aujourd’hui, il est essentiel de fournir des expériences hautement performantes sur plusieurs canaux et régions. Découvrez pourquoi les entreprises adoptent des modèles de diffusion modernes pour améliorer la vitesse et la flexibilité. Découvrez les différences entre les services de diffusion couplés, découplés, hybrides et Edge. Découvrez comment les composants principaux et les structures de localisation prennent en charge les stratégies multi-marques et multi-régions.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478775/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478777/?captions=fre_fr&learn=on&enablevpops)
