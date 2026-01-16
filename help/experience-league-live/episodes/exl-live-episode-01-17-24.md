@@ -25,7 +25,7 @@ Rejoignez Bryan, Eric et Doug qui discutent de la manière d’utiliser rapideme
 
 >[!BEGINSHADEBOX « Vous avez des questions ? »]
 
-Poursuivez la discussion sur le forum de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093#M3582).
+Poursuivez la discussion sur le forum de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-bringing-your/m-p/646093?profile.language=fr#M3582).
 
 >[!ENDSHADEBOX]
 
