@@ -2,9 +2,9 @@
 user-guide-title: Webinaires sur le succès client Adobe
 breadcrumb-title: Webinaires sur le succès client Adobe
 user-guide-description: Webinaires dirigés par la réussite client Adobe conçus pour vous aider à optimiser votre investissement dans Adobe Experience Cloud. Obtenez des informations précieuses afin d’optimiser la valeur et d’accroître l’adoption des solutions Adobe.
-source-git-commit: 06cdd6f126950841403d201f22394a9834524fc6
+source-git-commit: b64778a37558a91bb44bd3573d6d6fb6e7e5fee9
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '599'
 ht-degree: 5%
 
 ---
@@ -15,6 +15,7 @@ ht-degree: 5%
 + [Webinaires sur le succès client Adobe](overview.md)
 + 2026 {#2026}
    + Experience Manager {#aem2026}
+      + [Optimisation des chaînes d’approvisionnement de contenu](2026/value-with-content-supply-chain.md)
       + [Modèles de diffusion modernes pour AEM Sites](2026/modern-delivery-model-aem.md)
       + [Avantages stratégiques d’AEM Cloud Service](2026/moving-to-aemcs.md)
    + Experience Platform {#aep2026}

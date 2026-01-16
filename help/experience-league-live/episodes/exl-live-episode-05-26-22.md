@@ -1,6 +1,6 @@
 ---
-title: Demandez aux experts - Principes de base du SDK Web
-description: Découvrez le SDK Web. Nous vous montrerons tous les principes de base du SDK Web, notamment son raisonnement, son fonctionnement et les cas d’utilisation importants qu’il alimente.
+title: Demandez aux experts - Principes de base de Web SDK
+description: Renseignez-vous sur le Web SDK. Nous vous montrerons tous les principes de base du Web SDK, notamment son raisonnement, son fonctionnement et les cas d’utilisation importants qu’il alimente.
 solution: Data Collection,Experience Platform
 feature: Data Collection
 kt: 10412
@@ -8,33 +8,32 @@ event-start-time: 2022-05-26 09:00-7
 event-guests: Doug Moore, Eric Matisoff, Rudi Shumpert, Jeff Chasin
 exl-id: b2ea730b-d4ad-4be0-b229-7063369cba7f
 duration: 3863
-source-git-commit: 0b2f63198af8767f24783dbafd244c9398c24f33
+source-git-commit: 31397e559777e599a86445841e6b5a134659151f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '201'
 ht-degree: 1%
 
 ---
 
-# Demandez aux experts : Principes de base du SDK Web
+# Demandez aux experts : principes de base de Web SDK
 
-Dans cette première des trois sessions en direct concernant la collecte de données pour Adobe Experience Cloud, découvrez &quot;l’avenir est maintenant&quot; de la collecte de données web avec le SDK web. Nous vous montrerons tous les principes de base du SDK Web, notamment son raisonnement, son fonctionnement et les cas d’utilisation importants qu’il alimente. Nous aurons les experts avec nous qui le savent à l&#39;intérieur et à l&#39;extérieur, nous pourrons donc répondre aux questions et montrer les bonnes pratiques.
+Dans cette première session en direct d’une série de trois portant sur la collecte de données pour le Adobe Experience Cloud, découvrez ce que l’avenir réserve à la collecte de données web avec le SDK web. Nous vous montrerons tous les principes de base du Web SDK, notamment son raisonnement, son fonctionnement et les cas d’utilisation importants qu’il alimente. Nous recevrons les experts qui connaissent le dossier de fond en comble, de sorte que nous pourrons répondre aux questions et présenter les pratiques exemplaires.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343335/?quality=12&learn=on)
 
-**Poursuivez la discussion** dans la [communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159?profile.language=fr#M283){target="_blank"} !
+**Poursuivez la discussion** dans la [Communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-platform-launch/experience-league-live-post-session-discussion-the-basics-of-web/m-p/454159#M283){target="_blank"} !
 
-## Sessions LIVE Experience League supplémentaires de cette série de collecte de données
+## Sessions Experience League LIVE supplémentaires de cette série de collecte de données
 
-* [Demandez aux experts - Connexions Real-Time CDP](exl-live-episode-06-23-22.md)
-* [Demandez aux experts - Enchères de données et préparation des données](exl-live-episode-07-21-22.md)
+* [Demandez aux experts - Real-Time CDP Connections](exl-live-episode-06-23-22.md)
 
-### Quelques liens utiles
+### Liens utiles
 
-* [Tutoriel : Mise en oeuvre de Adobe Experience Cloud avec le SDK Web](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=fr){target="_blank"}
-* [Informations collectées automatiquement dans le SDK Web](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=fr){target="_blank"}
-* [Approvisionnement gratuit du SDK Web](https://adobe.ly/websdkaccess){target="_blank"}
-* [Informations sur les identifiants d’appareils propriétaires dans le SDK Web](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html?lang=fr){target="_blank"}
-* [Présentation et téléchargement des Adobes Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=fr){target="_blank"}
-* [Documents SDK mobiles](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
-* [Informations sur la collection d’applications hybrides](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html?lang=fr){target="_blank"}
+* [Tutoriel : Implémentation de Adobe Experience Cloud avec Web SDK](https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html?lang=fr){target="_blank"}
+* [Informations collectées automatiquement dans le SDK Web](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/automatic-information.html?lang=en){target="_blank"}
+* [Approvisionnement gratuit de Web SDK](https://adobe.ly/websdkaccess){target="_blank"}
+* [Informations sur les identifiants d’appareils propriétaires dans le SDK web](https://experienceleague.adobe.com/docs/experience-platform/edge/identity/first-party-device-ids.html){target="_blank"}
+* [Présentation et téléchargement d’Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/platform-learn/data-collection/debugger/overview.html?lang=en){target="_blank"}
+* [Documentation de Mobile SDK](https://developer.adobe.com/client-sdks/documentation/){target="_blank"}
+* [Informations sur la collection d’applications hybrides](https://experienceleague.adobe.com/docs/mobile-services/ios/sdk-reference-ios/hybrid-app.html){target="_blank"}
 

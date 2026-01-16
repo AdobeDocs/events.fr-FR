@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: b1ad886252f26bc473459e6867b84b2e3a8eb395
+source-git-commit: 31397e559777e599a86445841e6b5a134659151f
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 17%
+source-wordcount: '162'
+ht-degree: 19%
 
 ---
 
@@ -32,7 +32,7 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
       <a href="episodes/exl-live-episode-01-28-26.md"><strong>Voir Audience Agent pour découvrir les informations sur les audiences et créer des audiences prêtes à l’emploi en quelques minutes. </strong></a>
       <br/><em>avec Shelby Mansuri, Keara Fausett et Alyssa Espiritu</em>
       <br/><em>28 janvier 2026 à 8 h 30 (heure du Pacifique)</em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other">Inscrivez-vous dès aujourd’hui !</a></b>
+      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&amp;mv=other">Inscrivez-vous dès aujourd’hui !</a></b>
     </div>
   </td>
 </tr>
@@ -67,16 +67,6 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
     </div>
   </td>
 
-<td style="vertical-align: top;">
-    <a href="episodes/exl-live-episode-05-16-24.md">
-      <img alt="Experience League LIVE ep8" src="episodes/assets/WebBanner-May16-2024.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-05-16-24.md"><strong>C’est ainsi que...vous pouvez migrer Analytics vers Web SDK</strong></a>
-      <br/><em>avec Mitch Rice, Joe Khoury et Doug Moore</em>
-      <br/><em>16 mai 2024</em>
-    </div>
-  </td>
 
 <td style="vertical-align: top;">
     <a href="episodes/exl-live-episode-05-26-22.md">
@@ -97,5 +87,5 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
 
