@@ -25,6 +25,6 @@ Présentation des derniers développements sur la plateforme Adobe Commerce et A
 
 + Présenté par Jason Ford, responsable de l’ingénierie de solutions ANZ - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429272/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455447/?captions=fre_fr&learn=on)
 
 [&lt; Retour à la journée de l’accélérateur Adobe Commerce](./overview.md)

@@ -24,6 +24,6 @@ Présentation et démonstrations de l’IA dans Commerce, Adobe avec l’IA gén
 
 + Présenté par Eroka O&#39;Connor, conseillère principale en solutions - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429269/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456486/?captions=fre_fr&learn=on)
 
 [&lt; Retour à la journée de l’accélérateur Adobe Commerce](./overview.md)

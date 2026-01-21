@@ -25,6 +25,6 @@ Présentation et démonstration de la personnalisation pour Commerce à l’aide
 
 + Présenté par Mike Lynch, spécialiste des Commerce d’entreprise - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429266/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454440/?captions=fre_fr&learn=on)
 
 [&lt; Retour à la journée de l’accélérateur Adobe Commerce](./overview.md)

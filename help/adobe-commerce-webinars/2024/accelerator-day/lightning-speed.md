@@ -24,6 +24,6 @@ Derniers détails et démonstration sur Adobe Lightning Fast Edge Delivery Servi
 
 + Présenté par Kam Radhakrishnan, ingénieur en solution principal - Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3429271/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455313/?captions=fre_fr&learn=on)
 
 [&lt; Retour à la journée de l’accélérateur Adobe Commerce](./overview.md)
