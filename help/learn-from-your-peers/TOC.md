@@ -64,7 +64,7 @@ ht-degree: 7%
       + [Comment faire évoluer votre  [!DNL Adobe Marketo Engage]  contenu](marketo/2023/templates-tokens-teamwork.md)
 + Workfront {#workfront}
    + 2025 {#2025}
-      + [Gâchis des métadonnées](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Gâchis des métadonnées](https://experienceleague.adobe.com/fr/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Articuler l’impact - Comment mesurer et partager la valeur de Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Simplifier la planification des ressources grâce à l’automatisation](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
