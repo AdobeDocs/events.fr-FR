@@ -1,7 +1,8 @@
 ---
 user-guide-title: Webinaires Acrobat Sign
 user-guide-description: Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signature électronique dans Acrobat Sign.
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+solution: Document Cloud
+source-git-commit: 1f319b1ce03161122a26d569f1d17181b45f983f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%
