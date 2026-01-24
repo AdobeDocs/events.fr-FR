@@ -34,7 +34,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/value-with-content-supply-chain.md" title="Optimisation des chaînes d’approvisionnement de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1768599457924" alt="Optimisation des chaînes d’approvisionnement de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479088/?captions=fre_fr&format=jpeg&nocache=1768599457924" alt="Optimisation des chaînes d’approvisionnement de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>

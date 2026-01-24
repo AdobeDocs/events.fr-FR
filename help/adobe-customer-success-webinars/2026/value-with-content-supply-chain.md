@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez une feuille de route pratique pour optimiser les chaînes d’approvisionnement en contenu. Découvrez comment l’intégration des workflows et de la planification, de la création et de la production, de la gestion des ressources, de la diffusion et de l’activation, ainsi que des rapports et des informations génère des résultats mesurables. Explorez les modèles courants du secteur, associez les objectifs aux solutions Adobe et utilisez la feuille de route pour guider vos prochaines étapes et mesurer l’impact.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479086/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479088/?captions=fre_fr&learn=on&enablevpops)
