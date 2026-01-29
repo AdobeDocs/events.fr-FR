@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 31397e559777e599a86445841e6b5a134659151f
+source-git-commit: 2ee0d38018d33911249523445375809c82567b59
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 19%
+source-wordcount: '175'
+ht-degree: 18%
 
 ---
 
@@ -25,14 +25,14 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 <table>
 <tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-01-28-26.md">
-      <img alt="Experience League LIVE 28 janvier 2026" src="episodes/assets/WebBanner-1-28-26.jpg">
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
+      <img alt="Experience League LIVE 3 mars 2026" src="episodes/assets/WebBannerExlLive-Mar03-2026.jpg">
     </a>
     <div>
-      <a href="episodes/exl-live-episode-01-28-26.md"><strong>Voir Audience Agent pour découvrir les informations sur les audiences et créer des audiences prêtes à l’emploi en quelques minutes. </strong></a>
-      <br/><em>avec Shelby Mansuri, Keara Fausett et Alyssa Espiritu</em>
-      <br/><em>28 janvier 2026 à 8 h 30 (heure du Pacifique)</em>
-      <br/><br/><b><a href="https://engage.adobe.com/ExpLeagueLive-260128.html?sdid=XFWLH5NW&mv=other">Inscrivez-vous dès aujourd’hui !</a></b>
+      <a href="episodes/exl-live-episode-03-03-26.md"><strong>Participez à une session de questions-réponses enrichissante avec Anjul Bhambhri, vice-présidente principale de Adobe Experience Cloud, pour en savoir plus sur la vision audacieuse d’Adobe en matière de fonctionnalités innovantes d’IA pour les agences.</strong></a>
+      <br/><em>avec Anjul Bhambhri et Daniel Wright</em>
+      <br/><em>3 mars 2026 à 9 h 00 (heure du Pacifique)</em>
+      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">En savoir plus sur cette session !</a></b>
     </div>
   </td>
 </tr>
@@ -87,5 +87,5 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
 
