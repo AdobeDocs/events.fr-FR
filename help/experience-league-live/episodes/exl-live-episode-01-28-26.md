@@ -23,4 +23,4 @@ Consultez Audience Agent pour découvrir les informations sur les audiences et c
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479512/?quality=12&learn=on)
 
-Vous avez des questions sur cette émission ? Poursuivez la discussion dans la [conversation Experience League.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?postid=745171#post745171){target="_blank"}
+Vous avez des questions sur cette émission ? Poursuivez la discussion dans la [conversation Experience League.](https://experienceleaguecommunities.adobe.com/adobe-experience-platform-18/experience-league-live-agents-at-work-creating-and-activating-audiences-and-journeys-aep-247707?profile.language=fr&postid=745171#post745171){target="_blank"}
