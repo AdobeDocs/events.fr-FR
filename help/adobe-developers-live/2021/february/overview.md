@@ -23,12 +23,12 @@ Connectez-vous avec d’autres développeurs et rejoignez les conversations de s
 
 ## Ressources supplémentaires
 
-* [Experience League - Explorer AEM](https://experienceleague.adobe.com/#recommended/solutions/experience-manager)
-* [Documentation de création AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html)
-* [Documentation sur le développement AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html)
-* [Documentation sur l’administration dans AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html)
+* [Experience League - Explorer AEM](https://experienceleague.adobe.com/fr#recommended/solutions/experience-manager)
+* [Documentation de création AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/home.html?lang=fr)
+* [Documentation sur le développement AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/developing/home.html?lang=fr)
+* [Documentation sur l’administration dans AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/administering/home.html?lang=fr)
 * [Documentation sur le déploiement d’AEM Sites](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr)
 * [Tutoriels AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html?lang=fr)
 * [Tutoriels sur AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/overview.html?lang=fr)
-* [Tutoriels sur AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html)
-* [Tutoriels sur AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html)
+* [Tutoriels sur AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/overview.html?lang=fr)
+* [Tutoriels sur AEM Foundation](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/overview.html?lang=fr)
