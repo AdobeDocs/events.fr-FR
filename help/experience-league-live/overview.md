@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 2ee0d38018d33911249523445375809c82567b59
+source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 18%
+source-wordcount: '218'
+ht-degree: 14%
 
 ---
 
@@ -33,6 +33,21 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
       <br/><em>avec Anjul Bhambhri et Daniel Wright</em>
       <br/><em>3 mars 2026 à 9 h 00 (heure du Pacifique)</em>
       <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">En savoir plus sur cette session !</a></b>
+    </div>
+  </td>
+</tr>
+</table>
+
+<table>
+<tr>
+    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-12-26.md">
+      <img alt="Experience League LIVE 3 mars 2026" src="episodes/assets/WebBannerExlLive-Mar12-2026.jpg">
+    </a>
+    <div>
+      <a href="episodes/exl-live-episode-03-12-26.md"><strong>Découvrez comment l’orchestration de Campaign dans Journey Optimizer gère vos programmes marketing multicanaux volumineux et multiples, de la création d’audiences au lancement.</strong></a>
+      <br/><em>avec Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva et Lee Henderson</em>
+      <br/><em>12 mars 2026 à 18 h 30 (heure du Pacifique)</em>
+      <br/><br/><b><a href="episodes/exl-live-episode-03-12-26.md">En savoir plus sur cette session !</a></b>
     </div>
   </td>
 </tr>
@@ -87,5 +102,5 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
 
