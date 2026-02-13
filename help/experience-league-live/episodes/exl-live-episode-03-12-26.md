@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/live/mPVvZIbkJq8
 event-start-time: 2026-03-03 08:30-8
 event-guests: Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva, Lee Henderson
 exl-id: 5ad4e649-d00a-4934-bfee-13d358fdad11
-source-git-commit: 76d9bd1436a8ff73126b500575d06e708bb817ad
+source-git-commit: 832697fb6afc563e89041cec13ea2649eaac49e7
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ Nous aborderons la zone de travail d’orchestration des campagnes et les schém
 
 <img alt="Experience League LIVE 3 mars 2026" src="./assets/WebBannerExlLive-Mar12-2026.jpg">
 
-[Définir un rappel](https://www.youtube.com/live/mPVvZIbkJq8){target="_blank"}
+[Inscrivez-vous dès aujourd’hui !](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}
