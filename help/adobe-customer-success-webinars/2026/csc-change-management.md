@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Découvrez comment mener votre entreprise vers une Supply chain de contenu axée sur les données à l’aide d’une lentille de gestion des changements éprouvée. Cette session montrera comment aligner les dirigeants, équiper les équipes et élaborer de nouvelles méthodes de travail pour que les équipes, l’automatisation et le partage des données se traduisent en fait par un délai de mise sur le marché plus rapide, une réutilisation plus élevée des ressources et une gouvernance plus forte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479816/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479819/?captions=fre_fr&learn=on&enablevpops)
 
 * **Diriger la transition, pas seulement les outils** Découvrez comment cadrer la transition vers une Supply chain de contenu automatisée en termes commerciaux qui suscitent une véritable adhésion, en clarifiant le « pourquoi maintenant », en alignant les dirigeants et en transformant les premiers projets pilotes en une impulsion pour l’ensemble de l’organisation.
 
