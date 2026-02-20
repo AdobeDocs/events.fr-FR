@@ -2,9 +2,9 @@
 user-guide-title: Webinaires sur le succès client Adobe
 breadcrumb-title: Webinaires sur le succès client Adobe
 user-guide-description: Webinaires dirigés par la réussite client Adobe conçus pour vous aider à optimiser votre investissement dans Adobe Experience Cloud. Obtenez des informations précieuses afin d’optimiser la valeur et d’accroître l’adoption des solutions Adobe.
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '637'
 ht-degree: 5%
 
 ---
@@ -26,6 +26,7 @@ ht-degree: 5%
    + Général {#general2026}
       + [Stratégies d’IA pour réussir vos vacances](2026/2025-holiday-results.md)
       + [Stratégies de gestion des modifications de Content Supply chain](2026/csc-change-management.md)
+      + [Parrainage exécutif de Content Supply chain](2026/csc-executive-sponsorship.md)
       + [Architecture de base de Content Supply chain](2026/csc-architecture.md)
       + [Modèle de fonctionnement de Content Supply chain](2026/csc-operating-model.md)
 + 2025 {#2025}
