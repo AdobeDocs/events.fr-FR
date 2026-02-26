@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Événements d’exploration approfondie Marketo
 
-Bienvenue dans les enregistrements d’événements à la demande de Deep Dives. Grâce à ces ressources, combinées à la [documentation](https://experienceleague.adobe.com/docs/marketo-engage.html) et aux [tutoriels](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) d’Adobe Marketo, vous comprenez mieux comment utiliser Adobe Marketo pour prendre en charge votre entreprise.
+Bienvenue dans les enregistrements d’événements à la demande de Deep Dives. Grâce à ces ressources, combinées à la [documentation](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=fr) et aux [tutoriels](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr) d’Adobe Marketo, vous comprenez mieux comment utiliser Adobe Marketo pour prendre en charge votre entreprise.
 
 <!-- CARDS
 
