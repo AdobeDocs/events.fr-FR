@@ -8,35 +8,20 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 88f804bf4c61e98f8c96011fb8315b9c4e94f64a
+source-git-commit: e9b4e1e5bc05103856aab261638fcf0e739b5d7f
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 14%
+source-wordcount: '192'
+ht-degree: 27%
 
 ---
 
 # Experience League LIVE
 
-Experience League LIVE est une émission produite par l’équipe d’Experience League et diffusée en direct.  Elle vous offre la possibilité d’entrer en contact avec des expertes et experts en produits Adobe et de découvrir des conseils pratiques, des astuces et des stratégies à mettre en pratique avec les applications Adobe Experience Cloud.
+Experience League LIVE est une émission produite par l’équipe d’Experience League et diffusée en direct.  Elle vous offre la possibilité d’entrer en contact avec des expertes et experts en produits Adobe et de découvrir des conseils pratiques, des astuces et des stratégies à mettre en pratique avec les applications Adobe Experience Cloud.
 
 
 
 ## Événements Experience League LIVE à venir
-
-<table>
-<tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-03-03-26.md">
-      <img alt="Experience League LIVE 3 mars 2026" src="episodes/assets/WebBanner_Mar03_2026-v2.jpg">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-03-03-26.md"><strong>Participez à une session de questions-réponses enrichissante avec Anjul Bhambhri, vice-présidente principale de Adobe Experience Cloud, pour en savoir plus sur la vision audacieuse d’Adobe en matière de fonctionnalités innovantes d’IA pour les agences.</strong></a>
-      <br/><em>avec Anjul Bhambhri, Gina Casagrande et Daniel Wright</em>
-      <br/><em>3 mars 2026 à 9 h 00 (heure du Pacifique)</em>
-      <br/><br/><b><a href="episodes/exl-live-episode-03-03-26.md">En savoir plus sur cette session !</a></b>
-    </div>
-  </td>
-</tr>
-</table>
 
 <table>
 <tr>
@@ -102,5 +87,5 @@ Experience League LIVE est une émission produite par l’équipe d’Experience
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
 
