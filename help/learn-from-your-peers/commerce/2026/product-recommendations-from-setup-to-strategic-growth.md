@@ -8,9 +8,9 @@ duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
 exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
-source-git-commit: 8b3d3016e819e6833851307f0b0b60ef34eb13e7
+source-git-commit: 0f5c158625fe1ed3f7762754788d280fb8527196
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -37,3 +37,6 @@ Que vous débutiez ou que vous souhaitiez optimiser avec des fonctionnalités na
 ## Ressources supplémentaires
 
 * [Diapositives de présentation](../../assets/commerce/Adobe-Commerce-Product-Recommendations-Slides.pdf)
+* [Heures d’ouverture post-webinaire avec Manav Padhariya et Michael Schenck](https://commerce-augs.adobe.com/events/details/adobe-commerce-adobe-commerce-champion-office-hours-presents-adobe-commerce-product-recommendations-from-setup-to-strategic-growth-webinar-office-hours/)
+* [Groupes d’utilisateurs Adobe Commerce](https://commerce-augs.adobe.com/)
+* [Échange de compétences Adobe Summit pour Adobe Commerce](https://reg.adobe.com/flow/adobe/as26/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&search.sessiontype=option_1672965503153&search.product=1615933990427001wslv)
