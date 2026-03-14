@@ -39,7 +39,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
 * https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=fr
   {title = Adobe Developers Live}
   {description = Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences.}
-  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png}
+  {image = https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=fr}
   {cta  = View recordings}
 * https://experienceleague.adobe.com/docs/events/adobe-commerce-webinars/overview.html?lang=fr
   {title = Adobe Commerce Webinars}
@@ -214,7 +214,7 @@ Tenez-vous informé des événements et webinaires exclusifs pour approfondir vo
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/overview.html?lang=fr" title="Adobe Developers Live" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png" alt="Adobe Developers Live"
+                        <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/exl-event-adobe-developers-live.png?lang=fr" alt="Adobe Developers Live"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
