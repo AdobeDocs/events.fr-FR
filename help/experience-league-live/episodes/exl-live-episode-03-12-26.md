@@ -8,9 +8,9 @@ event-cta-url-live: https://www.youtube.com/live/mPVvZIbkJq8
 event-start-time: 2026-03-03 08:30-8
 event-guests: Sandra Hausmann, Bridgette Darling, Chakravarthy Kalva, Lee Henderson
 exl-id: 5ad4e649-d00a-4934-bfee-13d358fdad11
-source-git-commit: 832697fb6afc563e89041cec13ea2649eaac49e7
+source-git-commit: b91477fce8357e25653647ca54e086d5808b7344
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ ht-degree: 0%
 
 Découvrez comment l’orchestration des campagnes dans Journey Optimizer gère vos programmes marketing multicanaux volumineux et multiples, de la création d’audiences au lancement.
 
-Nous aborderons la zone de travail d’orchestration des campagnes et les schémas relationnels, qui constituent la base de la gestion des campagnes complexes et des relations client, la segmentation d’entités multiples pour cibler les audiences appropriées sur des données complexes, l’affinement des audiences à la demande et le comptage par pré-envoi pour garantir la précision, ainsi que le fonctionnement transparent de cette fonctionnalité dans Journey Optimizer aujourd’hui.
+Nous avons abordé la zone de travail d’orchestration des campagnes et les schémas relationnels, qui constituent la base de la gestion de campagnes complexes et de relations client, la segmentation d’entités multiples pour cibler les audiences appropriées sur des données complexes, l’affinement des audiences à la demande et le décompte de pré-envoi pour garantir la précision, ainsi que le fonctionnement transparent de cette fonctionnalité dans Journey Optimizer.
 
-<img alt="Experience League LIVE 3 mars 2026" src="./assets/WebBannerExlLive-Mar12-2026.jpg">
+>[!VIDEO](https://video.tv.adobe.com/v/3481409/?quality=12&learn=on)
 
-[Inscrivez-vous dès aujourd’hui !](https://engage.adobe.com/ExpLeagueLive-260312.html){target="_blank"}
+Pour poursuivre la conversation sur ce sujet, veuillez consulter la [discussion de la communauté Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/post-session-discussion-experience-league-live-get-to-know-campaign-orchestration-in-adobe-journey-optimizer-249161){target="_blank"}
