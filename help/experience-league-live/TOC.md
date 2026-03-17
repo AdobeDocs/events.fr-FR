@@ -9,10 +9,10 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 220b114c82508f2c97b239c64b33a4e66feb03a7
+source-git-commit: 906af81ca9bfea0d33221278bd41136ecad48069
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 13%
+source-wordcount: '371'
+ht-degree: 12%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 13%
 
 + [Vue d’ensemble](overview.md)
 + Épisodes {#episodes}
+   + [Nouveaux cas d’utilisation pour l’engagement des clients : activités iOS Live, notifications push web et messagerie persistante](episodes/exl-live-episode-04-08-26.md)
    + [Découvrir l’orchestration des campagnes dans Adobe Journey Optimizer](episodes/exl-live-episode-03-12-26.md)
    + [Agents Adobe Experience Platform pour une efficacité marketing améliorée et de meilleurs résultats commerciaux](episodes/exl-live-episode-03-03-26.md)
    + [Agents au travail : création et activation d’audiences et de parcours](episodes/exl-live-episode-01-28-26.md)
