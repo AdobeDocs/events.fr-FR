@@ -19,6 +19,6 @@ ht-degree: 4%
 
 Découvrez les principaux aspects des approbations unifiées, y compris l’orientation, les rapports et les fonctionnalités à venir. Ce retour d’atelier fournit des informations précieuses pour vous aider à rester informé et à optimiser votre workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481851/?captions=fre_fr&learn=on&enablevpops)
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
