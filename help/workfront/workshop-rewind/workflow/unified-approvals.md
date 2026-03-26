@@ -21,4 +21,4 @@ Découvrez les principaux aspects des approbations unifiées, y compris l’orie
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.

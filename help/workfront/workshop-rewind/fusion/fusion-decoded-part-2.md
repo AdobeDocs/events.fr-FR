@@ -22,5 +22,5 @@ Découvrez la deuxième partie de Fusion Decoded pour comprendre les stratégies
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
 

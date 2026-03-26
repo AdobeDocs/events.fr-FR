@@ -23,5 +23,5 @@ La version du premier trimestre de Workfront a été déployée le 15 janvier 20
 
 Consultez les [notes de mise à jour](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/release-26-q1/26-q1-release-overview) d’Experience League, car toutes les fonctionnalités ne sont pas abordées au cours du webinaire.
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
 
