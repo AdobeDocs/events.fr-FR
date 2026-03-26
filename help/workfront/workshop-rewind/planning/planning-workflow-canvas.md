@@ -21,7 +21,7 @@ Les organisations performantes ne considèrent pas la planification, l’exécut
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481830/?learn=on&enablevpops)
 
-Vous recherchez d&#39;autres ressources pour l&#39;événement, y compris le diaporama partagé pendant la session ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160) !
+Vous recherchez d&#39;autres ressources pour l&#39;événement, y compris le diaporama partagé pendant la session ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160?profile.language=fr) !
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
 

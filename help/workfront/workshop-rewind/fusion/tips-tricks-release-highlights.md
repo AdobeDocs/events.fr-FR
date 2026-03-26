@@ -24,7 +24,7 @@ Rejoignez Sam Taylor, chef de produit senior , qui partage de nouvelles fonction
 
 Si vous avez manqué la séance, pas d&#39;inquiétude ! Examinez le [diaporama](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/012926-MaximizeFusion.pdf) et regardez l’enregistrement à la demande pour le suivre.
 
-Vous recherchez d’autres ressources ou les questions/réponses sur l’événement ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111) !
+Vous recherchez d’autres ressources ou les questions/réponses sur l’événement ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-maximize-fusion-tips-tricks-and-release-highlights-1-29-26-248111?profile.language=fr) !
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
 

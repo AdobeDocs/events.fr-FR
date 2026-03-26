@@ -22,7 +22,7 @@ Transformez les données Workfront en livrables soignés et prêts à l’emploi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481825/?learn=on&enablevpops)
 
-Vous recherchez d’autres ressources sur l’événement, notamment la présentation des diapositives et le fichier zip dont il a été question au cours de la session ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587) !
+Vous recherchez d’autres ressources sur l’événement, notamment la présentation des diapositives et le fichier zip dont il a été question au cours de la session ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-from-data-to-design-automating-branded-pdfs-with-workfront-fusion-february-17-2026-248587?profile.language=fr) !
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
 
