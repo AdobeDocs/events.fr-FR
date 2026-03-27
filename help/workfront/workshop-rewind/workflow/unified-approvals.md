@@ -20,7 +20,7 @@ ht-degree: 2%
 
 Les approbations unifiées représentent le futur des approbations dans Workfront. Rejoignez notre équipe de gestion des produits Adobe pour une session d’information au cours de laquelle ils partageront la direction du produit pour les approbations dans Workfront, ses différences par rapport à la relecture aujourd’hui et ce à quoi ressemblera la transition au fil du temps.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481834/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481851/?captions=fre_fr&learn=on&enablevpops)
 
 Si vous avez manqué la séance, pas d&#39;inquiétude ! Examinez le [diaporama](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/032626+-Understanding+Unified+Approvals.pdf) et regardez l’enregistrement à la demande pour le suivre.
 
