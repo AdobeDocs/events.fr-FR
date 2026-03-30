@@ -19,6 +19,6 @@ ht-degree: 6%
 
 # Webinaire De Mise À Jour Du Deuxième Trimestre 2026 D’Adobe Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/3481835/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481862/?captions=fre_fr&learn=on&enablevpops)
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.

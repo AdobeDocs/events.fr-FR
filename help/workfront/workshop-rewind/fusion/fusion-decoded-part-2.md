@@ -22,6 +22,6 @@ ht-degree: 3%
 
 Découvrez la deuxième partie de Fusion Decoded pour comprendre les stratégies de création fondamentales pour les workflows et les systèmes Fusion. Cette session est destinée aux administrateurs, aux développeurs et aux dirigeants qui souhaitent approfondir leurs connaissances et améliorer leurs implémentations de Fusion. Regardez l’atelier revenir en arrière pour obtenir des informations et des techniques exploitables.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481833/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481840/?captions=fre_fr&learn=on&enablevpops)
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
