@@ -3,10 +3,10 @@ user-guide-title: Principes de base de Marketo Engage
 breadcrumb-title: Principes de base de Marketo Engage
 user-guide-description: Rejoignez le Foundational Marketo User Group afin de renforcer la confiance et les compétences de base dans Adobe Marketo Engage par le biais de sessions conviviales et de soutien pour les débutants.
 solution: Marketo Engage
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 1%
+source-wordcount: '64'
+ht-degree: 3%
 
 ---
 
@@ -14,6 +14,8 @@ ht-degree: 1%
 # Principes de base des webinaires Marketo Engage {#foundations-of-marketo-engage-webinars}
 
 + [Principes de base des webinaires Marketo Engage](overview.md)
++ 2026 {#2026}
+   + [Principes fondamentaux de Marketo Engage](2026/fundamentals.md)
 + 2025 {#2025}
    + [Création De Votre Recette De Culture](2025/nurture-recipe.md)
    + [Préparation à l&#39;examen professionnel](2025/professional-exam-preparation.md)
