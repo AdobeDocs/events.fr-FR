@@ -3,9 +3,9 @@ user-guide-title: Événements Workfront
 breadcrumb-title: Événements Workfront
 user-guide-description: Événements Workfront
 solution: Workfront
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '538'
 ht-degree: 1%
 
 ---
@@ -114,6 +114,7 @@ ht-degree: 1%
    + [Enquêtes sur l&#39;adoption](expert-insights/adoption-surveys.md)
    + [Agile](expert-insights/agile.md)
    + [Supply chain de contenu](expert-insights/content-supply-chain.md)
+   + [Évolution d’une instance](expert-insights/evolution-of-an-instance.md)
    + [Fusion](expert-insights/fusion.md)
    + [Gouvernance et centres d&#39;excellence](expert-insights/centers-of-excellence.md)
    + [Mode Texte Principal](expert-insights/text-mode.md)
