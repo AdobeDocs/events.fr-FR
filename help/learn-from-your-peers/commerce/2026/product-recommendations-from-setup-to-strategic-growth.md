@@ -8,7 +8,7 @@ duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
 exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
-source-git-commit: 0f5c158625fe1ed3f7762754788d280fb8527196
+source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Webinaire Apprenez de vos pairs : Recommandations de produits Adobe Commerce - De la configuration à la croissance stratégique
 
-Rejoignez Manav Padhariya et Michael Schenck, champions d’Adobe Commerce, pour une session éducative sur la transformation des recommandations de produits Adobe Commerce d’une fonctionnalité de base en un puissant moteur stratégique natif de l’IA pour la croissance commerciale.
+Rejoignez Manav Padhariya et Michael Schenck, champions d’Adobe Commerce, pour une session éducative sur la transformation des recommandations de produits Adobe Commerce, d’une fonctionnalité de base en un puissant moteur stratégique natif de l’IA pour la croissance commerciale.
 
 Reconnus comme les meilleurs spécialistes en matière d’innovation dans l’écosystème commercial, Michael et Manav montrent comment l’orchestration stratégique des recommandations de produits en les alignant sur les objectifs commerciaux peut directement améliorer la vente des stocks par l’intermédiaire de , la valeur ajoutée (AOV) et la fidélisation des clients.
 
@@ -27,7 +27,7 @@ Reconnus comme les meilleurs spécialistes en matière d’innovation dans l’�
 
 * Élaborer des recommandations stratégiques : aligner le type de recommandation sur les KPI réels (autorisation, AOV, conservation)
 * Effacer l&#39;inventaire : comment augmenter l&#39;exposition et vendre des stocks à évolution lente
-* Augmentez AOV : ajoutez une paire « achetée fréquemment ensemble » avec un réglage de l&#39;interface utilisateur pour augmenter les taux d&#39;attachement
+* Augmentez AOV : associez « fréquemment achetés ensemble » avec un ajustement de l’interface utilisateur pour augmenter les taux d’attachement
 * Améliorez la fidélisation client : personnalisez les modules avec des données comportementales pour interagir avec les clients réguliers.
 * Combiner l’IA et la stratégie humaine : utilisez les règles manuelles de relation produit pour les lancements et les campagnes de marque.
 * Passer de la configuration à l’optimisation : comprenez les principes de base de la configuration (configuration, inclusions/exclusions et emplacement de CMS/Page Builder), évitez les pièges courants et utilisez des contrôles d’administration et des analyses pour une amélioration continue.
