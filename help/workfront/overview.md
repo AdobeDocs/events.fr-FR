@@ -3,10 +3,10 @@ title: Ateliers à la demande Adobe Workfront
 description: Workfront Events est une vidéothèque où des experts et des pairs ont partagé leurs pensées et idées sur la manière d’utiliser Workfront pour améliorer le travail effectué pour leurs organisations.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 0cd9d63a55aad1456f83c8b35293ea1705029954
+source-git-commit: 3363513b545097376ce0b915c3cf9fe74ca3df45
 workflow-type: tm+mt
-source-wordcount: '887'
-ht-degree: 0%
+source-wordcount: '886'
+ht-degree: 2%
 
 ---
 
@@ -18,17 +18,17 @@ Cette série de vidéos en cours offre un aperçu clair et concis de chaque vers
 
 <!-- CARDS 
 
-* releases/26-q1-release-webinar.md
+* releases/26-q2-release-webinar.md
  
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Workfront First Quarter 2026 Release Webinar">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Adobe Workfront Second Quarter 2026 Release Webinar">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="releases/26-q1-release-webinar.md" title="Webinaire De Mise À Jour Du Premier Trimestre 2026 D’Adobe Workfront" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481817/?format=jpeg&nocache=1775228743435" alt="Webinaire De Mise À Jour Du Premier Trimestre 2026 D’Adobe Workfront"
+                    <a href="releases/26-q2-release-webinar.md" title="Webinaire De Mise À Jour Du Deuxième Trimestre 2026 D’Adobe Workfront" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483385/?format=jpeg&nocache=1776187709343" alt="Webinaire De Mise À Jour Du Deuxième Trimestre 2026 D’Adobe Workfront"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -36,12 +36,12 @@ Cette série de vidéos en cours offre un aperçu clair et concis de chaque vers
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="releases/26-q1-release-webinar.md" target="_blank" rel="referrer" title="Webinaire De Mise À Jour Du Premier Trimestre 2026 D’Adobe Workfront">Webinaire Sur La Version D’Adobe Workfront Du Premier Trimestre 2026</a>
+                        <a href="releases/26-q2-release-webinar.md" target="_blank" rel="referrer" title="Webinaire De Mise À Jour Du Deuxième Trimestre 2026 D’Adobe Workfront">Webinaire Sur La Version D’Adobe Workfront Du Deuxième Trimestre 2026</a>
                     </p>
-                    <p class="is-size-6">Découvrez les dernières fonctionnalités et mises à jour de la version d’Adobe Workfront du 1er trimestre 2026 pour améliorer les workflows et la productivité.</p>
+                    <p class="is-size-6">Découvrez les dernières mises à jour de la version d’Adobe Workfront du 2e trimestre 2026, y compris les améliorations apportées à la planification, aux workflows, etc.</p>
                 </div>
-                <a href="releases/26-q1-release-webinar.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
+                <a href="releases/26-q2-release-webinar.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
                 </a>
             </div>
         </div>
@@ -49,9 +49,10 @@ Cette série de vidéos en cours offre un aperçu clair et concis de chaque vers
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+
 ## Rembobinage de l&#39;atelier
 
-Explorez les dernières nouveautés de votre communauté Adobe Workfront grâce à notre sélection d’événements présentés. Chaque mois, nous organisons des sessions en direct gratuites couvrant un large éventail de sujets pour vous aider à tirer le meilleur parti de Workfront. Vous avez manqué un événement en direct ? Pas de problème ! Consultez des enregistrements à la demande qui présentent les témoignages des clients, les bonnes pratiques éprouvées et les précieuses leçons apprises. Vous souhaitez vous connecter en temps réel ? Rejoignez les événements en direct à venir pour poser des questions, partager des informations et collaborer avec vos pairs. Consultez régulièrement la page [Événements Experience League Workfront](https://experienceleague.adobe.com/fr/events?filters=Workfront) pour découvrir les événements à venir !
+Explorez les dernières nouveautés de votre communauté Adobe Workfront grâce à notre sélection d’événements présentés. Chaque mois, nous organisons des sessions en direct gratuites couvrant un large éventail de sujets pour vous aider à tirer le meilleur parti de Workfront. Vous avez manqué un événement en direct ? Pas de problème ! Consultez des enregistrements à la demande qui présentent les témoignages des clients, les bonnes pratiques éprouvées et les précieuses leçons apprises. Vous souhaitez vous connecter en temps réel ? Rejoignez les événements en direct à venir pour poser des questions, partager des informations et collaborer avec vos pairs. Consultez régulièrement la page [Événements Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) pour découvrir les événements à venir !
 
 <!-- CARDS 
 
@@ -67,7 +68,7 @@ Explorez les dernières nouveautés de votre communauté Adobe Workfront grâce 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/planning/planning-workflow-canvas.md" title="Workfront Power Trio - Connexion des tableaux de bord de planification, de workflow et de zone de travail" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481830/?format=jpeg&nocache=1775228743880" alt="Workfront Power Trio - Connexion des tableaux de bord de planification, de workflow et de zone de travail"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481830/?format=jpeg&nocache=1776187709981" alt="Workfront Power Trio - Connexion des tableaux de bord de planification, de workflow et de zone de travail"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,7 +81,7 @@ Explorez les dernières nouveautés de votre communauté Adobe Workfront grâce 
                     <p class="is-size-6">Découvrez comment intégrer des tableaux de bord de planification, de workflow et de zone de travail dans Workfront pour une gestion de projet rationalisée.</p>
                 </div>
                 <a href="workshop-rewind/planning/planning-workflow-canvas.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
                 </a>
             </div>
         </div>
@@ -90,7 +91,7 @@ Explorez les dernières nouveautés de votre communauté Adobe Workfront grâce 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/workflow/rethink-resource-management.md" title="Repenser la gestion des ressources selon la méthode agile chez Advisors Excel" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481832/?format=jpeg&nocache=1775228743890" alt="Repenser la gestion des ressources selon la méthode agile chez Advisors Excel"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3481832/?format=jpeg&nocache=1776187709989" alt="Repenser la gestion des ressources selon la méthode agile chez Advisors Excel"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -103,7 +104,7 @@ Explorez les dernières nouveautés de votre communauté Adobe Workfront grâce 
                     <p class="is-size-6">Découvrez comment Advisors Excel a transformé la gestion des ressources à l'aide de pratiques agiles dans Adobe Workfront.</p>
                 </div>
                 <a href="workshop-rewind/workflow/rethink-resource-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
                 </a>
             </div>
         </div>
@@ -113,7 +114,7 @@ Explorez les dernières nouveautés de votre communauté Adobe Workfront grâce 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="workshop-rewind/fusion/fusion-decoded.md" title="Fusion Decoded : définition et raisons de son utilisation par toutes les organisations" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477159/?format=jpeg&nocache=1775228743875" alt="Fusion Decoded : définition et raisons de son utilisation par toutes les organisations"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477159/?format=jpeg&nocache=1776187709976" alt="Fusion Decoded : définition et raisons de son utilisation par toutes les organisations"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -126,7 +127,7 @@ Explorez les dernières nouveautés de votre communauté Adobe Workfront grâce 
                     <p class="is-size-6">Workfront Fusion et nous présente quelques exemples en direct pour aider à démystifier Fusion.</p>
                 </div>
                 <a href="workshop-rewind/fusion/fusion-decoded.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
                 </a>
             </div>
         </div>
@@ -155,7 +156,7 @@ Que vous soyez administrateur Workfront, chef de projet ou utilisateur quotidien
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/top3/blueprints.md" title="Top 3 - Approches Creative avec plans directeurs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465312/?captions=fre_fr&format=jpeg&nocache=1775228744320" alt="Top 3 - Approches Creative avec plans directeurs"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465271/?format=jpeg&nocache=1776187710590" alt="Top 3 - Approches Creative avec plans directeurs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,7 +169,7 @@ Que vous soyez administrateur Workfront, chef de projet ou utilisateur quotidien
                     <p class="is-size-6">Découvrez comment les plans directeurs de Workfront accélèrent la configuration, avec de nouveaux modèles, tableaux de bord et conseils de test de sandbox.</p>
                 </div>
                 <a href="quick-takes/top3/blueprints.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
                 </a>
             </div>
         </div>
@@ -178,7 +179,7 @@ Que vous soyez administrateur Workfront, chef de projet ou utilisateur quotidien
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="quick-takes/versus/groups-vs-teams.md" title="Contre ! - Groupes ou équipes" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3467355/?captions=fre_fr&format=jpeg&nocache=1775228744326" alt="Contre ! - Groupes ou équipes"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3465273/?format=jpeg&nocache=1776187710595" alt="Contre ! - Groupes ou équipes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -191,7 +192,7 @@ Que vous soyez administrateur Workfront, chef de projet ou utilisateur quotidien
                     <p class="is-size-6">Découvrez la différence entre les groupes et les équipes dans Adobe Workfront pour une meilleure structure, collaboration et gestion des tâches.</p>
                 </div>
                 <a href="quick-takes/versus/groups-vs-teams.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
                 </a>
             </div>
         </div>
@@ -219,7 +220,7 @@ Ces sessions présentent des solutions concrètes, des exemples de clients et de
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/text-mode.md" title="Mode Texte Principal avec Katherine Lanning" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477136/?captions=fre_fr&format=jpeg&nocache=1775228744510" alt="Mode Texte Principal avec Katherine Lanning"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477024/?format=jpeg&nocache=1776187710857" alt="Mode Texte Principal avec Katherine Lanning"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -232,7 +233,7 @@ Ces sessions présentent des solutions concrètes, des exemples de clients et de
                     <p class="is-size-6">Découvrez la puissance du mode texte dans Workfront grâce aux informations d’expert de Katherine Lanning.</p>
                 </div>
                 <a href="expert-insights/text-mode.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
                 </a>
             </div>
         </div>
@@ -242,7 +243,7 @@ Ces sessions présentent des solutions concrètes, des exemples de clients et de
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/sla-reporting.md" title="Rapports SLA dans Workfront avec Madalyn Destafney" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469980/?captions=fre_fr&format=jpeg&nocache=1775228744500" alt="Rapports SLA dans Workfront avec Madalyn Destafney"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469901/?format=jpeg&nocache=1776187710866" alt="Rapports SLA dans Workfront avec Madalyn Destafney"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -255,7 +256,7 @@ Ces sessions présentent des solutions concrètes, des exemples de clients et de
                     <p class="is-size-6">Découvrez comment mettre en œuvre et mesurer les accords de niveau de service (SLA) dans Adobe Workfront avec les conseils d’experts de Madalyn Destafney, notamment des conseils détaillés, des exemples de champs calculés et les bonnes pratiques en matière de formulaires personnalisés.</p>
                 </div>
                 <a href="expert-insights/sla-reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
                 </a>
             </div>
         </div>
@@ -265,7 +266,7 @@ Ces sessions présentent des solutions concrètes, des exemples de clients et de
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/evolution-of-an-instance.md" title="Avis d’expert avec Jen Desmond" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483113/?captions=fre_fr&format=jpeg&nocache=1775228744495" alt="Avis d’expert avec Jen Desmond"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483111/?format=jpeg&nocache=1776187710852" alt="Avis d’expert avec Jen Desmond"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -278,7 +279,7 @@ Ces sessions présentent des solutions concrètes, des exemples de clients et de
                     <p class="is-size-6">Rejoignez Jen Desmond alors qu’elle discute de l’évolution d’une instance et partage ses informations sur la gestion des changements et l’interaction client.</p>
                 </div>
                 <a href="expert-insights/evolution-of-an-instance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
                 </a>
             </div>
         </div>
