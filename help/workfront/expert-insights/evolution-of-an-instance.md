@@ -7,13 +7,13 @@ doc-type: Event
 duration: 1201
 last-substantial-update: 2026-04-03T00:00:00Z
 jira: KT-20745
-source-git-commit: 88adf7e72d49b8f8e8cf8199e320152556304d46
+exl-id: b4f70c4f-9d01-4b06-afcf-ec963f3604c5
+source-git-commit: 327b4b3fe5c69e163190b3b2cdfdb5b426b417af
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Expert Insights - Évolution d’une instance avec Jen Desmond
 
@@ -21,7 +21,7 @@ Bienvenue dans le dernier épisode d’Expert Insights ! Je suis Cynthia Boon, v
 
 Dans cet épisode, nous sommes rejoints par l’incroyable Jen Desmond, conseillère en réussite technique chez Adobe, qui partage son parcours de première utilisatrice de Workfront à experte de confiance, ainsi que des conseils pratiques pour gérer le changement et développer votre instance avec intention.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483113/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483111/?learn=on&enablevpops)
 
 Tu repartiras avec des informations pertinentes, notamment :
 
@@ -34,9 +34,9 @@ Tu repartiras avec des informations pertinentes, notamment :
 ## Ressources
 
 Jen partage également certaines de ses ressources préférées, notamment les raisons pour lesquelles les modèles Fusion, les plans directeurs et les bonnes pratiques partagées peuvent faire toute la différence. En savoir plus ici :
-* [&#x200B; Liste des modèles Fusion disponibles &#x200B;](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [Liste des plans directeurs disponibles](https://experienceleague.adobe.com/fr/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Communauté Experience League Workfront](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=fr)
+* [ Liste des modèles Fusion disponibles ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [Liste des plans directeurs disponibles](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Communauté Experience League Workfront](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
 
 Mais attends !  Elle a d&#39;autres conseils à partager !
 
@@ -52,7 +52,7 @@ Jen Desmond est conseillère principale en réussite technique. Elle s’associe
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [&#128279;](mailto:CSatScale@adobe.com).
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).
 
 
-Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire aux ateliers à venir sur la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events).
+Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire aux ateliers à venir sur la page [Événements ](https://experienceleague.adobe.com/fr/events).
