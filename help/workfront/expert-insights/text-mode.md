@@ -1,19 +1,21 @@
 ---
 title: Mode Texte Principal avec Katherine Lanning
 description: Découvrez la puissance du mode texte dans Workfront grâce aux informations d’expert de Katherine Lanning.
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1892
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19738
-source-git-commit: df552b4f2b2fa1d8e4e8941aa9d58acecc60dd2b
+exl-id: 42008579-3f8d-4b10-bfdd-96fb77b1d48e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '562'
 ht-degree: 0%
 
 ---
-
 
 # Workfront Expert Insights : mode texte avec Katherine Lanning
 
@@ -29,19 +31,19 @@ Le mode texte peut être difficile, mais les récompenses sont incroyables.  Sou
 * Tirez parti de la communauté. - Fiez-vous à Experience League, aux livres de cookie, à l’explorateur d’API et aux homologues. Ne réinvente pas la roue.
 * Persiste, mais prend des pauses. - Si coincé, fermez l&#39;ordinateur portable, faites une promenade et revenez avec des yeux neufs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477136/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477024/?learn=on&enablevpops)
 
 
 ## Ressources
 
 Vous recherchez des ressources supplémentaires ? On les a !
-* [Panel de clients : leçons apprises des administrateurs Workfront chevronnés](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861?profile.language=fr#M3487) - Katherine a partagé plus d’informations !
-* [Collections de référence dans un rapport](https://experienceleague.adobe.com/fr/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
-* [Explorateur d’API](https://experienceleague.adobe.com/fr/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
-* [Guide pas à pas pour la création de rapports](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=fr#M1406)
-* Si vous êtes novice en matière de création de rapports, consultez l’article Perspective de Nichole, procédure [8 pour créer des rapports simples et efficaces dans Adobe Workfront](https://experienceleague.adobe.com/fr/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
+* [Panel de clients : leçons apprises des administrateurs Workfront chevronnés](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-customer-panel-lessons-learned-from-veteran/m-p/714861#M3487) - Katherine a partagé plus d’informations !
+* [Collections de référence dans un rapport](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/reference-collections-report)
+* [Explorateur API](https://experienceleague.adobe.com/en/docs/workfront/using/adobe-workfront-api/api-general-information/api-explorer)
+* [Manuel de création de rapports](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* Si vous êtes novice en matière de création de rapports, consultez l’article Perspective de Nichole, procédure [8 pour créer des rapports simples et efficaces dans Adobe Workfront](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
 
-Pour plus de ressources, notamment le mode Texte, consultez l’article de la communauté Experience League [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717?profile.language=fr#M4848) !
+Pour plus de ressources, notamment le mode Texte, consultez l’article de la communauté Experience League [](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848) !
 
 
 ## À propos du conférencier
@@ -55,6 +57,6 @@ Elle vit dans le sud-ouest de l&#39;Ohio avec son mari accidentel, leur chien «
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).
 
-Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire aux ateliers à venir sur la page [Événements Experience League](https://experienceleague.adobe.com/fr/events).
+Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire aux ateliers à venir sur la page [Événements ](https://experienceleague.adobe.com/fr/events).

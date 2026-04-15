@@ -3,25 +3,26 @@ title: Fonctionnalités de Workspace que vous devriez utiliser
 description: Découvrez les principales fonctionnalités d’Adobe Analytics Workspace (mise en forme conditionnelle, listes déroulantes, modèles d’attribution et mesures calculées) pour obtenir des informations plus précises.
 solution: Analytics
 feature: Workspace Basics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18821
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: 2c7bef44-9af5-4c7c-a9a7-9489a8dbefd2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
-
 
 # Fonctionnalités de Workspace que vous devriez utiliser
 
 Découvrez dans Adobe Analytics Workspace des fonctionnalités puissantes, mais souvent ignorées, qui peuvent améliorer votre analyse et générer un impact réel. Au cours de cette session, nous allons explorer des cas d’utilisation pratiques et des techniques simples qui transforment les outils quotidiens en moteurs d’insight, pour vous aider à découvrir ce qui importe vraiment à votre entreprise. Que vous soyez un analyste chevronné ou que vous débutiez tout juste, vous partirez avec des idées concrètes pour optimiser la valeur de vos données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471253/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3471117/?learn=on&enablevpops)
 
 ## Déverrouillage des techniques d’analyse avancées
 

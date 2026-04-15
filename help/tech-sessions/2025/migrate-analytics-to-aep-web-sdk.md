@@ -5,13 +5,15 @@ role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Analytics, Target
+feature: Data Configuration and Collection, Profiles
+topic: Integrations, Security, Performance
 duration: 4381
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18368
 exl-id: b74e83b5-e42f-48d5-8156-3c8e544f4f26
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---

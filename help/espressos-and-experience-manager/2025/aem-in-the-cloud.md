@@ -1,6 +1,8 @@
 ---
 title: Pourquoi AEM est-il plus puissant dans le cloud ?
 description: Transition vers le cloud avec les conseils d’experts d’Adobe sur la planification, la migration et les outils d’évaluation de la préparation
+feature: Release Information
+topic: Security, Performance, Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 2653
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17167
 exl-id: db9ef66b-45ab-4586-8d02-91bdfcf2fdfc
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ Au cours de cette session, Casey Witter, conseillère d’Adobe, et Rajan Kumar,
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443023/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Amélioration des performances** les clients Cloud Service bénéficient d’une amélioration de 400 % du temps de chargement des pages en raison d’une meilleure architecture, d’un meilleur traitement des ressources et de centres de données globaux.
 

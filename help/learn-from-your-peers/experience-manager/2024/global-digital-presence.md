@@ -2,6 +2,8 @@
 title: Déverrouiller le succès à grande échelle avec une combinaison globale
 description: Mettez à l’échelle du contenu global avec AEM à l’aide de composants personnalisés, de plans directeurs, de workflows et de fragments pour un contrôle, une approbation et une flexibilité régionale efficaces.
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, User
 level: Intermediate
@@ -10,9 +12,9 @@ duration: 3603
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-17926
 exl-id: 40ee87d8-0ff9-44a8-8bd2-8000e7db89ed
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -23,7 +25,7 @@ Rejoignez-nous pour ce webinaire à ne pas manquer où deux de nos utilisateurs 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457918/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Personnalisations et administration des composants** elles prennent en compte les nuances et exigences régionales. Cela permet d’effectuer des personnalisations spécifiques aux régions ou au niveau mondial, ce qui permet de répondre à divers besoins à un seul endroit.
 

@@ -2,6 +2,7 @@
 title: Bonnes pratiques relatives à la migration d’Adobe Analytics vers Adobe Customer Journey Analytics
 description: Découvrez les étapes essentielles et les bonnes pratiques pour migrer d’Adobe Analytics vers Customer Journey Analytics (CJA), notamment la conception de schémas XDM, le mappage de données et la configuration des vues de données.
 solution: Analytics, Customer Journey Analytics
+feature: Segmentation, Basics, Use Cases, Identity
 topic: Migration
 role: Developer
 level: Beginner, Intermediate
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3654
 last-substantial-update: 2025-07-16T00:00:00Z
 jira: KT-18535
-source-git-commit: 90eb4a9d2cf445c58fde776092fb047f820fa207
+exl-id: 725291fa-add4-4c93-8bc9-37155936c9d8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
-
 
 # Bonnes pratiques relatives à la migration d’Adobe Analytics vers Adobe Customer Journey Analytics
 

@@ -3,6 +3,7 @@ title: Commerce & Coffee - L'essor du libre-service en B2B
 description: Améliorez les expériences B2B avec Adobe Commerce ! Découvrez des fonctionnalités telles que les catalogues partagés, la gestion des entreprises, les devis et les outils en libre-service. Découvrez les fonctionnalités de l’IA et les tendances B2B. Implémentez les bonnes pratiques pour le libre-service et améliorez les expériences client. Rejoignez Adobe Summit pour obtenir plus d’informations et de ressources.
 solution: Commerce
 feature: B2B
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3636
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17514
 exl-id: aa349efe-d8ec-476b-9b1d-6e202193a229
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Commencez l’année en force avec nos experts Commerce résidents, Corey Gelato
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451619/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 ### Fonctionnalités d’Adobe Commerce mises en surbrillance
 

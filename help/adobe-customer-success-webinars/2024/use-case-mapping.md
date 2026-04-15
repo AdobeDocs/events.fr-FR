@@ -1,7 +1,9 @@
 ---
-title: Real-Time CDP - Association des cas d’utilisation aux fonctionnalités de solution
-description: Ce webinaire explore les principaux moyens d’explorer les cas d’utilisation et de les classer par priorité, de les mettre en correspondance avec des fonctionnalités spécifiques de la plateforme de données clients en temps réel et d’assurer l’alignement sur les résultats et la valeur de l’entreprise.
+title: Real-Time CDP - Mise en correspondance de cas d’utilisation avec les fonctionnalités de la solution
+description: Ce webinaire explore les principales façons d’explorer et de classer par priorité les cas d’utilisation, de les mapper à des fonctionnalités Real-time CDP spécifiques et d’assurer l’alignement sur les résultats commerciaux et la valeur.
 solution: Real-Time Customer Data Platform
+feature: Audiences, Data Governance
+topic: Personalization, Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,48 +11,48 @@ duration: 2421
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15560
 exl-id: ebc38b82-52a7-4f8c-8ac7-f6e9f3fd2c55
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# Adobe de la plateforme des données clients en temps réel - Mappage des cas d’utilisation des fonctionnalités de solution
+# CDP en temps réel d’Adobe - Mappage des cas d’utilisation aux fonctionnalités de la solution
 
-Ce webinaire explore les principaux moyens d’explorer les cas d’utilisation et de les classer par priorité, de les mettre en correspondance avec des fonctionnalités spécifiques de la plateforme de données clients en temps réel et d’assurer l’alignement sur les résultats et la valeur de l’entreprise.
+Ce webinaire explore les principales façons d’explorer et de classer par priorité les cas d’utilisation, de les mapper à des fonctionnalités Real-time CDP spécifiques et d’assurer l’alignement sur les résultats commerciaux et la valeur.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429290/?learn=on)
 
-## Principaux points de discussion
+## Points clés de la discussion
 
-* Cas d’utilisation La plateforme des données clients en temps réel résout les problèmes spécifiques aux résultats de l’entreprise et en établit la priorité.
-* Alignement des fonctionnalités de la plateforme CDP en temps réel sur les cas d’utilisation prioritaires
+* Cas d’utilisation La plateforme de données clients en temps réel résout les problèmes spécifiques aux résultats commerciaux et leur classement par priorité
+* Alignement des fonctionnalités de Real-Time CDP sur les cas d’utilisation prioritaires
 
 ## Résumé de la réunion
 
-**Défis résolus par la plateforme de données clients en temps réel**
+**Défis relevés par Real-time CDP**
 
-* Outils marketing segmentés
-* Origines de données différées
-* Changement de réglementation de gouvernance
+* Outils de marketing distincts
+* Origines des données dispersées
+* Évolution des réglementations en matière de gouvernance
 
 **Impact de l’obsolescence des cookies tiers**
 
-* Effets sur les cas d’utilisation tels que le reciblage et la personnalisation de médias payants
+* Effets sur les cas d’utilisation tels que le reciblage et la personnalisation de médias achetés
 
-**Comparaison de la plateforme de données clients en temps réel avec l’Audience Manager DMP**
+**Comparaison de Real-Time CDP avec DMP Audience Manager**
 
-* Concentrez-vous sur l’ingestion de données, la gestion de l’audience et les structures de sortie des données.
+* Concentrez-vous sur l’ingestion des données, la gestion des audiences et les structures de sortie des données
 
 **Importance de l’alignement et de la hiérarchisation**
 
-* Alignement des fonctionnalités de la plateforme CDP avec les priorités stratégiques
+* Aligner les capacités de la CDP sur les priorités stratégiques
 * Hiérarchisation des cas d’utilisation
-* Assurer une exécution efficace
+* Garantir une exécution efficace
 
 **Stratégies discutées**
 
-* Exploitation des fonctionnalités avancées de segmentation
+* Utilisation des fonctionnalités de segmentation avancées
 * Utilisation des fonctionnalités de partage de données
-* Utilisation de Customer Air pour des expériences client personnalisées et des stratégies de rétention
+* Utiliser Customer Air pour des expériences client personnalisées et des stratégies de fidélisation

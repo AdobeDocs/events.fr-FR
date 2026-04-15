@@ -1,19 +1,21 @@
 ---
 title: Résolution des problèmes liés aux champs calculés de Workfront
 description: Découvrez comment résoudre les problèmes courants liés aux champs et colonnes calculés dans Workfront pour une meilleure gestion des workflows.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3641
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19748
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: a51a1037-93d6-47e3-9e9e-662d2b07dc36
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
-
 
 # Résolution des problèmes liés aux champs calculés et aux colonnes
 

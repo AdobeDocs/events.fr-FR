@@ -1,7 +1,9 @@
 ---
-title: Commerce et café - Préparation de la saison du pic
-description: La session de Corey Gelato fournit aux entreprises de commerce électronique des stratégies pour exceller pendant les hautes saisons en optimisant les performances du site web, en gérant l’inventaire, en améliorant l’engagement des clients avec les outils d’IA et en tirant parti des analyses post-saison pour améliorer la fidélisation et la fidélité.
+title: Commerce & Coffee - Préparation pour la haute saison
+description: La session de Corey Gelato fournit des stratégies permettant aux entreprises de commerce électronique d’exceller pendant les saisons de pointe en optimisant les performances des sites web, en gérant les stocks, en améliorant l’engagement des clients à l’aide d’outils d’IA et en utilisant l’analyse d’après-saison pour améliorer la fidélisation et la fidélité.
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Personalization, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,39 +11,39 @@ duration: 3436
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16235
 exl-id: 8dc72811-74db-485a-ac25-e2647d0848f7
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 0%
+source-wordcount: '267'
+ht-degree: 1%
 
 ---
 
-# Commerce et café : préparation de la saison de pointe
+# Commerce et café : préparation de la haute saison
 
-Rejoignez Corey Gelato, consultant en stratégie Commerce, pour une session sur tout ce que vous devez savoir pour préparer correctement votre site à une saison de pointe à tout moment de l’année. Corey vous guidera à travers des stratégies efficaces pour rester compétitif mais aussi en avance sur la compétition. Découvrez comment optimiser les performances du site web, gérer l’inventaire et améliorer de manière proactive l’assistance clientèle. Corey abordera également les bonnes pratiques relatives à la planification de campagnes marketing efficaces, qui génèrent des conversions, la satisfaction des commandes et l’analyse de vos campagnes à l’aide d’analyses et de rapports après la saison de pointe.
+Rejoignez Corey Gelato, conseiller en stratégie senior Commerce, pour une session sur tout ce que vous devez savoir pour préparer correctement votre site pour une haute saison à tout moment de l&#39;année. Corey vous guidera à travers des stratégies efficaces pour non seulement rester compétitif, mais aussi devancer la concurrence. Découvrez comment optimiser les performances des sites web, gérer les stocks et augmenter de manière proactive le service clientèle. Corey vous présentera également les bonnes pratiques pour planifier des campagnes marketing efficaces qui génèrent des conversions, exécuter des commandes et analyser vos campagnes à l’aide d’analyses et de rapports après la haute saison.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434700/?learn=on)
 
 ## Résumé
 
-La session Commerce and Coffee a été axée sur la préparation des entreprises aux pics de saison dans le commerce électronique, couvrant divers aspects et stratégies clés.
+La session Commerce and Coffee a porté sur la préparation des entreprises aux saisons les plus chargées du commerce électronique et a couvert divers aspects et stratégies clés.
 
-**Préparation de la saison de pointe**
+**Préparation pour la haute saison**
 
-* Mise en évidence de la gestion des stocks.
-* L’importance de l’optimisation des performances du site web a été soulignée.
-* Il a été question de l’amélioration de l’expérience utilisateur pour une saison de pointe réussie.
+* Accent mis sur la gestion des stocks.
+* Mise en évidence de l’importance de l’optimisation des performances des sites web.
+* Discussion sur l’amélioration de l’expérience utilisateur pour une saison de pointe réussie.
 
-**Engagement du client**
+**Engagement de la clientèle**
 
-* Elle a insisté sur l’importance de l’engagement des clients par le biais de chats en direct et de chatbots optimisés par l’IA.
-* Contenu personnalisé mentionné pour améliorer l’expérience client et fidéliser les clients.
-* Il a été question de l’importance des expériences personnalisées à grande échelle pour fidéliser les clients et leur engagement.
+* Souligné l’importance de l’engagement des clients par le biais du chat en direct et des chatbots optimisés par l’IA.
+* Contenu personnalisé mentionné pour améliorer l’expérience client et fidéliser la clientèle.
+* Discussion sur l’importance des expériences personnalisées à grande échelle pour stimuler la fidélisation et l’engagement des clients.
 
 **Réflexion et amélioration post-saison**
 
-* Analyser les commentaires des clients en vue d’une amélioration.
-* Mise en oeuvre de stratégies de fidélisation des clients et de fidélisation des clients.
-* Il a été question d&#39;initiatives telles que les contributions caritatives et les efforts de durabilité pour fidéliser la clientèle.
+* Analyse des commentaires des clients en vue de les améliorer.
+* Implémentation de stratégies pour fidéliser et fidéliser les clients.
+* Il a été question d’initiatives telles que les contributions caritatives et les efforts de durabilité pour fidéliser la clientèle.
 
-Dans l’ensemble, la session avait pour but d’aider les entreprises à se préparer efficacement aux périodes de pointe, d’impliquer les clients et d’améliorer les stratégies de fidélisation et de fidélisation des clients.
+Dans l’ensemble, la session visait à aider les entreprises à se préparer efficacement aux saisons de pointe, à impliquer les clients et à améliorer les stratégies de fidélisation et de fidélisation des clients.

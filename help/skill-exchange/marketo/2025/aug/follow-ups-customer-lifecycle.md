@@ -2,6 +2,8 @@
 title: Coup de projecteur sur Experience Makers - Rationalisation du suivi dans le cycle de vie du client
 description: Découvrez comment les campagnes exécutables ou par requête rationalisent les workflows, améliorent la précision des données et stimulent l’engagement grâce à des stratégies multicanaux en temps réel.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Integrations, Commerce
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18867
 exl-id: 1659fd7b-c12d-4ea0-bba1-e3f583edf949
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '387'
 ht-degree: 1%
 
 ---
@@ -28,7 +30,7 @@ Réaction en chaîne : quand demander une campagne et quand exécuter la campagn
 
 ## Ressources supplémentaires
 
-* [Campagnes exécutables](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
+* [Campagnes exécutables](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign)
 * [Tout ce que vous devez savoir sur le nouveau type de campagne exécutable dans Marketo Engage](https://mugs.marketo.com/events/details/marketo-houston-mug-presents-everything-you-need-to-know-about-the-new-executable-campaign-type-in-marketo/)
 * [Campagnes exécutables : découvrez comment les exécutables peuvent accroître l’efficacité et l’impact](https://www.youtube.com/watch?v=QGC4Bhn5BpU)
 
@@ -40,6 +42,6 @@ Maîtriser l’engagement du cycle de vie multicanal au-delà de l’e-mail : ex
 
 * [Découvrez au-delà des e-mails : marketing multicanal avec des notifications d’application, des Dynamic Chat et des applications de messagerie](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-beyond-emails-multi-channel-marketing-with-app-notifications-dynamic-chat-and-messaging-apps/)
 * [Engagement omnicanal](https://business.adobe.com/sg/products/marketo/omnichannel-engagement.html)
-* [Comment créer un message In-App &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
-* [Comment créer des notifications push &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
-* [Comment créer un modèle WhatsApp &#x200B;](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)
+* [Création d’un message In-App](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message)
+* [Création de notifications push](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/mobile-marketing/push-notifications/understanding-push-notifications)
+* [Comment créer un modèle WhatsApp](https://community.sinch.com/t5/Settings/Create-a-WhatsApp-message-template-new-experience/ta-p/11599)

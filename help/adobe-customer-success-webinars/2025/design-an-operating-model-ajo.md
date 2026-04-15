@@ -2,19 +2,21 @@
 title: Conception d’un modèle opérationnel pour AJO
 description: Découvrez comment un modèle opérationnel cohérent améliore l’efficacité, évite les problèmes de ressources et adapte votre programme marketing pour un succès à long terme.
 solution: Journey Optimizer
+feature: Email Design
+topic: Personalization, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3581
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19551
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 7c10159b-9ae3-447d-8cfa-e46802e63ea8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
-
 
 # Conception d’un modèle opérationnel pour AJO
 
@@ -51,4 +53,3 @@ Une gouvernance robuste et des structures d’équipes en constante évolution s
    * **Embedded** 15 à 20 membres spécialisés, grande évolutivité, formation continue.
 
 Une gouvernance claire et la maturité de l’équipe favorisent une diffusion cohérente et des résultats mesurables.
-

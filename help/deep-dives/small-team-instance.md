@@ -1,6 +1,8 @@
 ---
-title: Découvrez comment une petite équipe optimise l'Adobe de l'instance  [!DNL Marketo Engage]
-description: Découvrez comment prendre en charge les instances d'Adobe [!DNL Marketo Engage] avec une petite équipe ou une équipe d'une seule.
+title: 'Découvrez comment une petite équipe optimise son instance  [!DNL Marketo Engage] '
+description: Discutez de la manière d’utiliser les instances prises en charge d’ [!DNL Marketo Engage] avec une petite équipe ou une seule.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,17 +11,17 @@ jira: KT-13023
 thumbnail: 3417670.jpeg
 exl-id: bcba7f0e-8de0-47b3-adfc-75eb5b756031
 duration: 4002
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
 # Découvrez comment une petite équipe optimise son instance
 
-Rejoignez l&#39;Adobe actuel [!DNL Marketo Engage] Champions, Darshil Shah, Jenny Robertson et Joy Martinez alors qu&#39;ils discutent de leur manière d&#39;avoir pris en charge des instances d&#39;Adobe [!DNL Marketo Engage] avec une petite équipe ou équipe d&#39;une seule. Nos champions discuteront également de la façon dont ils ont réussi, sans ressources, à réussir, comment cela a aidé leur carrière et les résultats positifs qu&#39;ils ont pu voir dans leur exemple.
+Rejoignez les champions actuels de la [!DNL Marketo Engage] Adobe, Darshil Shah, Jenny Robertson et Joy Martinez, qui discutent de la manière dont ils ont pris en charge des instances d’Adobe [!DNL Marketo Engage] avec une petite équipe ou une seule. Nos champions discuteront également de la façon dont ils ont pu réussir, sans beaucoup de ressources, comment cela a aidé leur carrière et les résultats positifs qu&#39;ils ont pu voir dans leur instance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3417670/?quality=12&learn=on)
 
-Téléchargez une **[version pdf](assets/small-team-instance.pdf){target="_blank"}** de diapositives de session.
+Téléchargez une version **[pdf](assets/small-team-instance.pdf){target="_blank"}** des diapositives de session.

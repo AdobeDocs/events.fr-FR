@@ -2,19 +2,21 @@
 title: Créer un parrainage exécutif pour soutenir le succès de Adobe Journey Optimizer
 description: Découvrez comment les dirigeants exécutifs font la promotion des programmes AJO, alignent les équipes et génèrent des résultats grâce à des stratégies d’engagement et de leadership des sponsors.
 solution: Journey Optimizer
+feature: Journeys
+topic: Personalization, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2422
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19625
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 2524ce6c-d654-4b17-aa0f-ecefe17aa2ee
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
-
 
 # #4 de session VRA : création d’un parrainage exécutif pour la réussite de Adobe Journey Optimizer (AJO)
 
@@ -50,4 +52,3 @@ Une cartographie efficace des parties prenantes est essentielle pour stimuler la
 * **Établissement de relations** Favorisez la transparence, définissez des attentes claires et maintenez une communication continue afin de transformer le soutien de la direction en partenariat stratégique.
 
 L’utilisation d’une carte de stratégie des parties prenantes aide les organisations à sélectionner le sponsor exécutif et les alliés appropriés, ce qui garantit une mise en œuvre réussie et un changement durable.
-

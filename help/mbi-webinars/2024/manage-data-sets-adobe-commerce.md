@@ -1,9 +1,10 @@
 ---
 title: Gestion des jeux de données dans Adobe Commerce Intelligence
-description: Découvrez les puissantes fonctionnalités du Gestionnaire de Data Warehouse Commerce Intelligence directement depuis l’équipe produit. En outre, découvrez une sélection d’intégrations disponibles pour votre licence et d’autres intégrations qui peuvent être ajoutées. Laissez libre cours à votre compréhension au-delà de la création de rapports fondamentaux et découvrez comment vous servir des informations de ces intégrations.
+description: Découvrez les fonctionnalités robustes du gestionnaire de Data Warehouse de Commerce Intelligence directement auprès de l’équipe produit. En outre, explorez une sélection d’intégrations disponibles pour votre licence et d’autres auxquelles vous pouvez vous abonner en plus. Améliorez votre compréhension au-delà de la création de rapports fondamentale et explorez les informations qui en découlent.
 solution: Commerce, Commerce Intelligence
 feature-set: Commerce Intelligence
 feature: Data Integration, Reports, Data Warehouse Manager
+topic: Integrations
 role: Admin
 level: Intermediate
 doc-type: Event
@@ -12,7 +13,7 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-15012
 thumbnail: 3427547.jpeg
 exl-id: 74b81aa2-34b8-4e71-9fcf-d3c2d2ab427a
-source-git-commit: e3eb0d9e8c3de2c56b12e10bcbf3cb1ecaf2a6f3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -21,8 +22,8 @@ ht-degree: 0%
 
 # Gestion des jeux de données dans Adobe Commerce Intelligence
 
-Découvrez les puissantes fonctionnalités du Gestionnaire de Data Warehouse Commerce Intelligence directement depuis l’équipe produit. En outre, découvrez une sélection d’intégrations disponibles pour votre licence et d’autres intégrations qui peuvent être ajoutées.
+Découvrez les fonctionnalités robustes du gestionnaire de Data Warehouse de Commerce Intelligence directement auprès de l’équipe produit. En outre, explorez une sélection d’intégrations disponibles pour votre licence et d’autres auxquelles vous pouvez vous abonner en plus.
 
-Laissez libre cours à votre compréhension au-delà de la création de rapports fondamentaux et découvrez comment vous servir des informations de ces intégrations.
+Améliorez votre compréhension au-delà de la création de rapports fondamentale et explorez les informations qui en découlent.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427547/?learn=on)

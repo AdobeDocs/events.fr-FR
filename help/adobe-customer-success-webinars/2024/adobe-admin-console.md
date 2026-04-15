@@ -1,6 +1,8 @@
 ---
 title: Maîtriser le Adobe Admin Console
 description: Adobe Admin Console est une plateforme centralisée de gestion des solutions d’entreprise Adobe qui propose des fonctions de gestion des utilisateurs et des produits, de sécurité et de conformité, des ressources d’assistance et des bonnes pratiques évolutives pour les entreprises.
+feature: Analytics Basics, Analysis Workspace
+topic: Integrations, Security, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 2767
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16630
 exl-id: 2a604f0f-d422-4a7d-8e72-bd38dfca7bf0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -21,7 +23,7 @@ Ce webinaire présente une vue d’ensemble complète de la navigation dans Adob
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440937/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Présentation de Adobe Admin Console** Admin Console est une plateforme centralisée de gestion des solutions d’entreprise Adobe, qui s’intègre à Creative Cloud, Document Cloud et Experience Cloud.
 
@@ -39,7 +41,7 @@ Ce webinaire présente une vue d’ensemble complète de la navigation dans Adob
 
 * **Outil de synchronisation des utilisateurs** automatise la configuration des utilisateurs et l’accès aux produits, prend en charge l’intégration avec LDAP et gère le cycle de vie des utilisateurs.
 
-* **Global Admin Console** Agit comme un hub de gestion central pour les organisations ayant plusieurs organisations, ce qui permet la distribution des ressources et une gestion rationalisée.
+* **** Agit comme un hub de gestion central pour les organisations ayant plusieurs organisations, ce qui permet la distribution des ressources et une gestion rationalisée.
 
 * **Configuration et gestion** La console prend en charge différentes configurations pour les paramètres de confidentialité, de sécurité, d’identité, de partage de ressources, d’authentification et de chiffrement.
 

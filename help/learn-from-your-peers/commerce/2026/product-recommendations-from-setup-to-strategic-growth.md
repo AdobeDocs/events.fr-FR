@@ -1,6 +1,8 @@
 ---
 title: Recommandations Adobe Commerce - De la configuration à la croissance stratégique
 description: Découvrez comment optimiser les recommandations de produits Adobe Commerce pour générer des indicateurs clés de performance tels que l’AOV, l’effacement des stocks et la fidélisation de la clientèle.
+feature: Integration, Edge Delivery Services
+topic: Personalization, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -8,7 +10,7 @@ duration: 3633
 last-substantial-update: 2026-03-12T00:00:00Z
 jira: KT-20526
 exl-id: bb3a9675-562a-4614-80bd-c2d164b47968
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%

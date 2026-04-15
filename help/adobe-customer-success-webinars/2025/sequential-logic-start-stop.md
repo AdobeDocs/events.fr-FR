@@ -2,19 +2,21 @@
 title: Maîtriser la logique séquentielle dans Adobe Analytics et Customer Journey Analytics - Démarrages et arrêts
 description: Principal de la logique séquentielle dans Adobe Analytics avec une segmentation avancée, des contrôles de portée et des champs dérivés pour découvrir les modèles de comportement des clients et clientes et améliorer la précision des données.
 solution: Analytics, Customer Journey Analytics
+feature: Segmentation, Basics, Use Cases
+topic: Migration, Integrations
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3370
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18017
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 62ccb61c-2de9-4a8c-bf0e-c646c7ede698
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '774'
 ht-degree: 0%
 
 ---
-
 
 # Maîtriser la logique séquentielle dans Adobe Analytics et Customer Journey Analytics : démarrages et arrêts
 

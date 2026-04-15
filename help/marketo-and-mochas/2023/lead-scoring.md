@@ -1,6 +1,8 @@
 ---
-title: Marketo et Mochas - Score de piste
-description: Découvrez les avantages du score de piste avec Cynthia Chang et Kelvin Ieng dans Marketo & Mochas, avec des stratégies, une configuration et une démonstration en direct en Marketo Engage, ainsi que des recettes clés et des questions-réponses en direct.
+title: Marketo et Mochas - Score du lead
+description: Découvrez les avantages de la notation des prospects avec Cynthia Chang et Kelvin Ieng dans Marketo & Mochas, avec leurs stratégies, leur configuration et une démonstration en direct dans Marketo Engage, ainsi que des points à retenir et des questions/réponses en direct.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,15 +12,15 @@ thumbnail: 3412722.jpeg
 exl-id: f7a309d6-e5e6-46f7-91b9-a19ce4c2c3fd
 event-start-time: 2023-6-7 08:30-8
 duration: 3631
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# Marketo et Mochas - Score de piste
+# Marketo et Mochas - Score du lead
 
-La session inaugurale de Marketo &amp; Mochas présente les conseillers commerciaux de Marketing Automation, Cynthia Chang et Kelvin Ieng. Cette session aborde les avantages de la notation des pistes, de la configuration, de la configuration et de la révision de vos modèles de notation des pistes. Kelvin passe en revue une démonstration en direct de la configuration d’un modèle de notation de piste dans [!DNL Marketo Engage] et se termine par 3 points à prendre. La présentation et la démonstration sont accompagnées d&#39;un Q&amp;R en direct avec Kelvin et Cynthia.
+La session inaugurale de Marketo &amp; Mochas sera animée par Cynthia Chang et Kelvin Ieng, conseillers en automatisation du marketing. Cette session explore les avantages de la notation des prospects et la manière de configurer, de définir des stratégies et de passer en revue vos modèles de notation des prospects. Kelvin fait une démonstration en direct de la façon de configurer un modèle de notation de prospect dans [!DNL Marketo Engage] et conclut avec 3 points clés à retenir. La présentation et la démonstration sont accompagnées d’une séance de questions-réponses en direct avec Kelvin et Cynthia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412722/?quality=12&learn=on)

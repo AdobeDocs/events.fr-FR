@@ -1,19 +1,21 @@
 ---
 title: 10 Conseils sur le mode texte
 description: Découvrez les conseils essentiels sur le mode texte dans Adobe Workfront pour améliorer vos fonctionnalités de création de rapports et rationaliser les workflows.
+feature: Reports and Dashboards
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3786
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19769
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 13e6de8c-df90-4979-a837-ba020c6b50f2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # 10 conseils sur le mode texte dans Adobe Workfront
 

@@ -1,7 +1,8 @@
 ---
-title: Suivi de la formation août 2023 - Points phares des créateurs d’expérience
-description: À propos des segments - Comment découper et découper vos données pour obtenir des informations
+title: Août 2023 En savoir plus - Créateurs d’expérience en vedette
+description: Tout sur les segments - Comment découper et découper vos données pour obtenir des informations
 feature: Segmentation
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -10,15 +11,15 @@ last-substantial-update: 2023-12-11T00:00:00Z
 jira: KT-14655
 thumbnail: 3425989.jpeg
 exl-id: 7bf19eef-5499-4288-9284-9d94f405e7e3
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
-# Événement d’Exchange de compétences Août 2023 - Suivi de croissance - points phares des créateurs d’expérience
+# Événement d’échange de compétences août 2023 - Piste de croissance - Créateurs d’expérience en vedette
 
-À propos des segments - Comment découper et découper vos données pour obtenir des informations
+Tout sur les segments - Comment découper et découper vos données pour obtenir des informations
 
->[!VIDEO](https://video.tv.adobe.com/v/3456609/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3425989/?learn=on)

@@ -1,19 +1,21 @@
 ---
 title: Commerce & Coffee - Préparation pour la haute saison
 description: Découvrez les stratégies permettant d’adapter, de personnaliser et d’optimiser votre expérience commerciale avec Adobe Commerce, notamment les outils B2B et SaaS, la recherche et l’analyse post-pic.
+feature: B2B, Payments
+topic: Personalization, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3415
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19501
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: f7fa9b2a-5a1f-4d19-86e3-23c01c4d6c36
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
-
 
 # Commerce &amp; Coffee : Préparation pour la haute saison
 
@@ -44,4 +46,3 @@ Proposer des expériences personnalisées est un moteur de chiffre d’affaires 
 * **Amélioration itérative** Surveillez les analyses et ajustez les stratégies tout au long de la saison pour obtenir des résultats optimaux.
 
 Personalization fidélise ses clients et accroît ses ventes en facilitant les achats et en les rendant plus attrayants.
-

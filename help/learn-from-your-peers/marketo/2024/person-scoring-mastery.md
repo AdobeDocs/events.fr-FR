@@ -2,6 +2,7 @@
 title: Maîtrise de la notation des personnes avec Marketo Engage - Nuances localisées dans un framework global
 description: En tant qu’administrateur ou administratrice, vous développez le modèle de notation de personne Marketo Engage en fonction de la valeur commerciale réelle des éléments de notation les uns par rapport aux autres. Mais que se passe-t-il si la valeur de l’entreprise varie selon les marchés ? Comment tenir compte des influences locales sans perdre de cohérence au sein de votre organisation ? Découvrez comment trouver l’équilibre en intégrant une flexibilité locale au modèle de notation.
 feature: Person Scoring
+topic: Development
 role: Admin
 level: Intermediate
 doc-type: Event
@@ -11,9 +12,9 @@ jira: KT-14816
 thumbnail: 3426914.jpeg
 solution: Marketo Engage
 exl-id: 673a6d3a-1a8e-4a2e-b2df-528ace76d743
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -30,13 +31,13 @@ Dans ce webinaire, vous apprendrez :
 * Comment configurer un modèle de notation de personne transparent et évolutif
 * La meilleure façon d’implémenter cela dans Marketo Engage, en permettant la flexibilité du marché local tout en préservant la logique et la cohérence du modèle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457441/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
 
 ## Ressources partagées dans le webinaire
 
 * Thread de webinaire de la communauté de Marketing Nation - [Discussion](https://nation.marketo.com/t5/product-discussions/learn-from-your-peers-webinar-person-scoring-mastery-with/m-p/343084#M194864){target="_blank"}
 * Notation des personnes/prospects lors d’exercices d’influence locale - [Télécharger la feuille de calcul](../../assets/marketo/build-scoring-model-and-local-flexibility-scoring-worksheet.docx){target="_blank"}
 * La grande liste des règles d’évaluation des leads - [Afficher la feuille de calcul](https://go.marketo.com/rs/561-HYG-937/images/Marketo-Lead-Scoring.pdf){target="_blank"}
-* Bibliothèque d’importation de programme Marketo Engage - [Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html?lang=fr){target="_blank"}
-* Lead notant tout ce qu’il faut savoir sur le processus avant, pendant et après - [Webinaire à la demande](https://business.adobe.com/fr/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
+* Bibliothèque d’importation de programme Marketo Engage - [Documentation](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.html){target="_blank"}
+* Lead notant tout ce qu’il faut savoir sur le processus avant, pendant et après - [Webinaire à la demande](https://business.adobe.com/summit/2020/all-about-the-before-during-and-after-of-lead-scoring.html){target="_blank"}
 * Le point de vue du champion sur le score des leads - [Blog](https://nation.marketo.com/t5/product-blogs/marketo-success-series-lead-scoring/ba-p/309849){target="_blank"}

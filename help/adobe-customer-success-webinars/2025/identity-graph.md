@@ -2,6 +2,7 @@
 title: Cas d’utilisation et dépannage du graphique d’identités
 description: Découvrez comment Adobe Experience Platform Identity Service optimise la segmentation, l’activation et les informations de fusion de profil pour résoudre des défis marketing réels.
 feature: Identities, Profiles, Segments
+topic: Personalization, Security, Administration
 solution: Experience Platform
 role: Admin, Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3232
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19286
-source-git-commit: ae72352725cfb057cab771b08c4419c11e17e385
+exl-id: ffe6ced7-998c-4e40-a91f-e34e5174dc2c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
-
 
 # Cas d’utilisation et dépannage du graphique d’identités
 
@@ -46,4 +47,3 @@ Découvrez comment les règles de graphique d’identités Adobe Experience Plat
 * **Réduction et correction des graphiques** Les appareils partagés, les données non validées ou les erreurs d’implémentation peuvent fragmenter les profils. Les outils de simulation et les tâches de réparation permettent de restaurer la précision.
 
 La compréhension de ces concepts permet aux entreprises d’optimiser la valeur des données, de garantir la conformité et de fournir des expériences personnalisées.
-

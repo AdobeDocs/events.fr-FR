@@ -1,19 +1,21 @@
 ---
 title: Le créateur de relations - Comment l'université de Syracuse exploite Workfront Planning pour connecter le travail
 description: Découvrez comment l’université de Syracuse utilise Workfront Planning pour améliorer la collaboration et l’efficacité opérationnelle.
+feature: Strategic Planning
+topic: Performance, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3551
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20599
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: 9634e4cd-f25a-4cae-80a2-f6aa69c1461f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 2%
 
 ---
-
 
 # Le créateur de relations - Comment l&#39;université de Syracuse exploite Workfront Planning pour connecter le travail
 
@@ -25,6 +27,4 @@ Découvrez comment la planification est devenue une source essentielle d’align
 
 Si vous avez manqué la séance, pas d&#39;inquiétude ! Examinez le [diaporama](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/120925+-+The+Relationship+Builder+-+How+Syracuse+University+leverages+Workfront+Planning+to+Connect+Work.pdf) et regardez l’enregistrement à la demande pour le suivre.
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
-
-
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.

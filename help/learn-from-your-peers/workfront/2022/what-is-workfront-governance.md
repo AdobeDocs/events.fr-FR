@@ -4,14 +4,16 @@ description: Explorez la gouvernance dans Workfront avec notre webinaire à la d
 role: Admin
 level: Beginner, Intermediate, Experienced
 solution: Workfront
+feature: System Setup and Administration
+topic: Performance, Administration
 doc-type: Event
 duration: 3713
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15810
 exl-id: bb1959ae-30cc-428c-957a-cb9264641b17
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---

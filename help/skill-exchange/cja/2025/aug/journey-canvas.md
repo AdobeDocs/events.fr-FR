@@ -2,19 +2,21 @@
 title: Stimuler le succès de l’expérience client avec la zone de travail du Parcours Adobe Customer Journey Analytics
 description: Découvrez comment Parcours Canvas permet de comparer les chemins d’accès des utilisateurs aux chemins réels, de mettre en évidence les frictions et d’apporter des améliorations mesurables à l’expérience client avec Adobe Customer Journey Analytics
 solution: Customer Journey Analytics
+feature: Integrations
+topic: Integrations, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18815
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 10075f8c-ad44-4ee7-970c-9cdae1b21b11
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
-
 
 # Stimuler le succès de l’expérience client avec la zone de travail du Parcours Adobe Customer Journey Analytics
 
@@ -24,7 +26,7 @@ Les participants apprendront à utiliser l’analyse au niveau du parcours pour 
 
 Enfin, nous étudierons les stratégies permettant de mettre à l’échelle ces informations dans l’ensemble de l’organisation en connectant les résultats de la zone de travail de Parcours à des tableaux de bord granulaires, ce qui permet une optimisation continue à chaque point de contact. Que vous soyez débutant dans CJA ou un praticien chevronné, cette session vous fournira une méthodologie claire pour utiliser Parcours Canvas afin d’améliorer vos programmes CX et obtenir des résultats tangibles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471216/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3471112/?learn=on&enablevpops)
 
 ## Zone de travail de parcours : de l’analyse à l’activation
 

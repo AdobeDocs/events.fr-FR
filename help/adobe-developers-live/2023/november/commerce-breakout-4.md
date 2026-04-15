@@ -1,9 +1,10 @@
 ---
-title: Ventilation Commerce Adobe Developers Live 4 - Novembre 2023
-description: Cristian Partica traité des défis de l’intégration des API dans Adobe Commerce au cours de cette session d’information enregistrée en direct le 6 novembre 2023. Découvrez comment le maillage API facilite la gestion efficace de workflows variés, en assurant la cohérence des données et en offrant des expériences utilisateur rationalisées dans le paysage du commerce numérique d’aujourd’hui. Cette session est idéale pour les développeurs qui recherchent des stratégies efficaces d’intégration d’API dans la sphère en rapide évolution d’Adobe Commerce.
+title: Adobe Developers Live Commerce Breakout 4 - Novembre 2023
+description: Cristian Partia aborde les défis de l’intégration des API dans Adobe Commerce au cours de cette session informative enregistrée en direct le 6 novembre 2023. Découvrez comment le maillage API permet de gérer efficacement divers workflows, d’assurer la cohérence des données et de fournir des expériences utilisateur rationalisées dans le paysage commercial numérique actuel. Cette session est idéale pour les développeurs et développeuses qui recherchent des stratégies efficaces d’intégration des API dans la sphère en rapide évolution d’Adobe Commerce.
 solution: Commerce
 feature-set: Commerce
 feature: API Mesh, Integration
+topic: Integrations, Development
 role: Developer
 level: Beginner
 doc-type: Event
@@ -12,17 +13,17 @@ jira: KT-14430
 thumbnail: 3425628.jpeg
 exl-id: 895a6a45-381f-4653-9957-0f127fc529e1
 duration: 1909
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-# Ventilation Commerce Adobe Developers Live 4 - Novembre 2023
+# Adobe Developers Live Commerce Breakout 4 - Novembre 2023
 
-Cristian Partica traité des défis de l’intégration des API dans Adobe Commerce au cours de cette session d’information enregistrée en direct le 6 novembre 2023. Découvrez comment le maillage API facilite la gestion efficace de workflows variés, en assurant la cohérence des données et en offrant des expériences utilisateur rationalisées dans le paysage du commerce numérique d’aujourd’hui. Cette session est idéale pour les développeurs qui recherchent des stratégies efficaces d’intégration d’API dans la sphère en rapide évolution d’Adobe Commerce.
+Cristian Partia aborde les défis de l’intégration des API dans Adobe Commerce au cours de cette session informative enregistrée en direct le 6 novembre 2023. Découvrez comment le maillage API permet de gérer efficacement divers workflows, d’assurer la cohérence des données et de fournir des expériences utilisateur rationalisées dans le paysage commercial numérique actuel. Cette session est idéale pour les développeurs et développeuses qui recherchent des stratégies efficaces d’intégration des API dans la sphère en rapide évolution d’Adobe Commerce.
 
-Poursuivez la conversation dans [Communautés Experience League](https://adobe.ly/3ttN8tz).
+Poursuivez la conversation dans [Experience League Communities](https://adobe.ly/3ttN8tz).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425628/?learn=on)

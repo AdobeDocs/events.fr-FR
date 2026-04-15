@@ -4,14 +4,15 @@ description: Découvrez comment configurer le réseau CDN géré par Adobe dans 
 role: Developer, User
 level: Intermediate
 feature: Edge Delivery Services
+topic: Security, Performance, Certification
 doc-type: Event
 duration: 3438
 last-substantial-update: 2025-01-30T00:00:00Z
 jira: KT-17227
 exl-id: 4cd0332f-95bf-45f4-a765-aba020c0d7b0
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '447'
 ht-degree: 0%
 
 ---
@@ -29,9 +30,9 @@ Découvrez le réseau CDN géré par Adobe dans AEM Cloud Service et comment le 
 
 *Enregistrement le 22 janvier 2025*
 
-Vous avez une question, peut-être un commentaire?  Rejoignez la discussion dans les [communautés Experience League](https://adobe.ly/4haufPK) !
+Vous avez une question, peut-être un commentaire?  Rejoignez la discussion dans les [communautés ](https://adobe.ly/4haufPK) !
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 ### Fonctionnalités clés du réseau CDN géré par Adobe
 

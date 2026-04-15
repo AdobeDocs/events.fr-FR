@@ -3,6 +3,7 @@ title: Webinaire relatif aux pratiques d’administration système relatives au 
 description: Renseignez-vous auprès des experts Dell et Adobe Workfront sur l'importance stratégique des administrateurs système dans notre webinaire à la demande. Découvrez des conseils sur la sécurisation du personnel à temps plein, l’utilisation du rôle d’administrateur de groupe et la définition de profils de rôle pour une configuration et une évolutivité efficaces dans Adobe Workfront.
 topic: Administration
 solution: Workfront
+feature: System Setup and Administration, Work Management
 role: Admin, Leader
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3638
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15827
 exl-id: 51619ec3-f5d5-48a9-aa29-fbaa2289a576
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---

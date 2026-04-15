@@ -1,16 +1,18 @@
 ---
 title: Canaux marketing et modélisation d’attribution
 description: Tirez parti de la puissance d’Adobe Analytics pour configurer des canaux marketing et tirer parti de la modélisation d’attribution avec des conseils d’experts
+feature: Segmentation
+topic: Personalization, Security
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3494
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17164
 exl-id: bdfa9338-f9ef-4bbc-8afb-7fa63305b2f6
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '426'
+ht-degree: 1%
 
 ---
 
@@ -37,13 +39,13 @@ Au cours de cette session de Data Drip, Taylor Walker, conseiller d’affaires A
 
 * **Présentation de la série Data Drip** Il s’agit de la deuxième session de la série Data Drip, qui se concentre sur les canaux marketing et l’attribution dans Adobe Analytics.
 
-* **Plateforme Adobe Connect** Le webinaire est hébergé sur Adobe Connect, ce qui est nouveau pour l’équipe.
+* **Plateforme** Le webinaire est hébergé sur Adobe Connect, ce qui est nouveau pour l’équipe.
 
 * **Webinaire interactif** La session est conçue pour être interactive, avec une boîte de questions à disposition pour que les participants puissent poser des questions tout au long de la présentation.
 
 * **Enregistrement et ressources** Le webinaire est en cours d’enregistrement et sera envoyé par e-mail. Des documents et des ressources peuvent également être téléchargés au cours de la session.
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Canaux marketing**
 

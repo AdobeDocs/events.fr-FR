@@ -1,6 +1,8 @@
 ---
-title: Principes de migration des SDK web
-description: Découvrez les différences entre App Measurement/AT.js et le SDK Web, comment migrer, les points à prendre en compte lors de la migration, les options de migration et les différences de données attendues.
+title: Principes de migration de Web SDK
+description: Comprenez les différences entre App Measurement/AT.js et Web SDK, la procédure de migration, les considérations relatives au calendrier de la migration, les options de migration et les différences de données attendues.
+feature: Analytics Basics, Analysis Workspace
+topic: Migration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,27 +10,27 @@ duration: 3280
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15561
 exl-id: 862e7cf3-079e-4a43-a4c2-3f7157e8efe9
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
-# Principes de migration des SDK web
+# Principes de migration de Web SDK
 
-Découvrez les différences entre App Measurement/AT.js et le SDK Web, comment migrer, les points à prendre en compte lors de la migration, les options de migration et les différences de données attendues.
+Comprenez les différences entre App Measurement/AT.js et Web SDK, la procédure de migration, les considérations relatives au calendrier de la migration, les options de migration et les différences de données attendues.
 
-## Rubriques clés abordées
+## Sujets clés abordés
 
-* Qu’est-ce que le SDK Web ?
-* Étapes et considérations relatives à la migration
-* Minutage des migrations
-* Erreurs et pièges courants à éviter
+* Qu’est-ce que Web SDK ?
+* Étapes et considérations de la migration
+* Planning des migrations
+* Erreurs courantes et pièges à éviter
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429291/?learn=on)
 
 
 ## Résumé
 
-La réunion s’est centrée sur l’essentiel de la migration vers le SDK Web, une bibliothèque JavaScript qui offre des avantages pour interagir avec les services de manière indépendante de la solution. &#x200B;Les principaux points abordés ont été les étapes de migration, telles que la configuration des autorisations, la configuration des schémas, la création de flux de données et le mappage des données. Des considérations ont été prises en compte pour gérer les écarts de données et déterminer l’ordre de migration des clients avec Analytics et Target. Les informations ont été partagées sur les méthodes de suivi sur plusieurs appareils, les analyses de déclenchement au début du chargement de la page et l’importance de l’utilisation des balises d’Adobe. La réunion s&#39;est conclue par des recommandations pour compléter le sondage, s&#39;inscrire aux webinaires à venir et des expressions de gratitude envers les présentateurs et les participants pour leur temps et leur engagement.
+La réunion a porté sur les principes de base de la migration vers Web SDK, une bibliothèque JavaScript qui offre des avantages pour interagir avec les services indépendamment de la solution. &#x200B; Les points clés abordés comprenaient les étapes de migration telles que la configuration des autorisations, la configuration des schémas, la création de flux de données et le mappage des données. Des considérations ont été prises en compte pour gérer les variations de données et déterminer l’ordre de migration des clients avec Analytics et Target. Des informations ont été partagées sur les méthodes de suivi entre appareils, le déclenchement d’analyses au début du chargement de la page et l’importance de l’utilisation des balises Adobe. La réunion s&#39;est terminée par des recommandations pour terminer le sondage, s&#39;inscrire aux webinaires à venir et exprimer sa gratitude aux présentateurs et aux participants pour leur temps et leur engagement.

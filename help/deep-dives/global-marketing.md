@@ -2,6 +2,8 @@
 title: Déverrouiller le marketing mondial avec Marketo Engage - Séance d’immersion Adobe Champion - Août 2024
 description: Rejoignez l’exploration approfondie du mois d’août pour déverrouiller le marketing mondial avec Marketo Engage, qui couvre la structuration des données, la conformité juridique, l’assistance de campagnes avec des segmentations, des fragments de code, du contenu dynamique, etc., avec des informations sur l’optimisation des espaces de travail et des partitions pour plusieurs marques et instances.
 solution: Marketo Engage
+feature: Smart Lists, Reporting
+topic: Personalization, Security, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 3351
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16119
 exl-id: 297b9baf-95c9-4154-be96-75455100b4d8
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%

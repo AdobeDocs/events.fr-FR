@@ -1,8 +1,9 @@
 ---
-title: Adobe Experience Platform - Autorisations des Admin Console
-description: Admin Console et tout ce qui a changé, les nouveaux contrôles d’accès dans l’interface utilisateur de la plateforme de données clients (RTCDP), la console Adobe.io/developer et comment configurer des autorisations pour votre intégration de l’API RTCDP.
+title: Adobe Experience Platform - Autorisations Admin Console
+description: Admin Console et les modifications apportées, les nouveaux contrôles d’accès dans l’interface utilisateur de RTCDP, la console Adobe.io/developer et la configuration des autorisations pour votre intégration de l’API RTCDP.
 feature-set: Experience Platform
 feature: Access Control, API
+topic: Integrations, Development
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -11,15 +12,15 @@ jira: KT-13815
 thumbnail: 3422626.jpeg
 exl-id: af394367-c8b8-44da-a1c4-864e443eab29
 duration: 2626
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# Adobe Experience Platform - Autorisations des Admin Console
+# Adobe Experience Platform - Autorisations Admin Console
 
-Rubriques traitées - Admin Console et ce qui a changé, les nouveaux contrôles d’accès dans l’interface utilisateur de la plateforme de données clients (RTCDP), la console Adobe.io/developer et comment configurer des autorisations pour votre intégration de l’API RTCDP.
+Rubriques abordées - Admin Console et les modifications apportées, les nouveaux contrôles d’accès dans l’interface utilisateur de RTCDP, la console Adobe.io/developer et la configuration des autorisations pour votre intégration de l’API RTCDP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422626/?learn=on)

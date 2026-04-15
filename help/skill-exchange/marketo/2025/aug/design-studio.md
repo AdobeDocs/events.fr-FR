@@ -3,19 +3,20 @@ title: Déverrouiller toute la puissance de Design Studio pour les opérations m
 description: Découvrez comment effectuer une mise à l’échelle avec Design Studio dans Marketo Engage. Découvrez des encapsulations, des modèles, des formulaires et des stratégies pour réduire la dette technique et améliorer l’efficacité.
 solution: Marketo Engage
 feature: Design Studio
+topic: Integrations, Performance, Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18865
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+exl-id: 2b6ceeb6-4ab4-42c8-9183-2a8d3b4b64d7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
-
 
 # Déverrouiller toute la puissance de Design Studio pour les opérations marketing globales
 
@@ -29,7 +30,7 @@ Vous en apprendrez plus sur,
 * L’utilisation des pratiques de codage intelligent dans Design Studio peut garantir vos opérations marketing et la conformité de la marque à l’avenir.
 * Comment l’intégration de Adobe Experience Manager (AEM) permet à Design Studio d’étendre la puissance de Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471421/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3471389/?learn=on&enablevpops)
 
 ## Déverrouiller des opérations Marketo efficaces
 

@@ -1,19 +1,21 @@
 ---
 title: Maîtriser la gestion des ressources numériques - Bonnes pratiques avec Adobe ContentHub
 description: Découvrez comment Adobe ContentHub s’intègre à AEM Assets pour rationaliser les workflows, améliorer l’accès et la gestion des ressources au sein des équipes et des secteurs d’activité.
+feature: Edge Delivery Services, Release Information
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3543
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18242
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: 84e7d369-1811-47e3-b9ed-f525f89303ce
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # Maîtriser la gestion des ressources numériques : bonnes pratiques avec Adobe ContentHub
 

@@ -1,28 +1,30 @@
 ---
-title: Prise En Charge 101 - Utilisation De Programmes D’Engagement Pour Interagir Avec Vos Clients
-description: Découvrez les principes de base des programmes d’engagement dans  [!DNL Marketo Engage] y compris des exemples de cas d’utilisation, des conseils et astuces.
+title: Nurture 101 - Utilisation De Programmes D’Engagement Pour Impliquer Vos Clients
+description: Découvrez les principes de base des programmes d’engagement dans , ainsi que des exemples  [!DNL Marketo Engage]  cas d’utilisation, des conseils et des astuces.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Development
 role: User
 level: Beginner
 kt: 9768
 thumbnail: 340595.jpeg
 exl-id: e809d8b2-37b0-4daf-8cb7-becefa24100b
 duration: 2603
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Prise En Charge 101 - Utilisation De Programmes D’Engagement Pour Interagir Avec Vos Clients
+# Nurture 101 - Utilisation De Programmes D’Engagement Pour Impliquer Vos Clients
 
-Découvrez les principes de base des programmes d’engagement dans [!DNL Marketo Engage], y compris des exemples de cas d’utilisation, des conseils et astuces.
+Découvrez les principes de base des programmes d’engagement dans [!DNL Marketo Engage], y compris des exemples de cas d’utilisation, des conseils et des astuces.
 
-**Touches de raccourci**
+**Principaux points à retenir**
 
-* mieux comprendre les programmes d’engagement Marketo et leurs fonctionnalités uniques ;
-* Découvrez la configuration du programme et les bonnes pratiques et comment elles s’appliquent aux cas pratiques réels.
-* vous donner les moyens d’élaborer une stratégie de programme d’engagement pour votre entreprise ;
+* Mieux comprendre les programmes d’engagement Marketo et leurs fonctionnalités uniques
+* Découvrez la configuration du programme, les bonnes pratiques et leur application aux cas d’utilisation réels
+* Être habilité à développer une stratégie de programme d’engagement pour votre entreprise
 
 >[!VIDEO](https://video.tv.adobe.com/v/340595/?quality=12&learn=on)

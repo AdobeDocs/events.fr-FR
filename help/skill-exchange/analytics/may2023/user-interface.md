@@ -1,9 +1,10 @@
 ---
-title: Principes de base de l’interface utilisateur - Exchange de compétences Adobe Analytics APAC de mai 2023
-description: Familiarisez-vous avec l’interface utilisateur de base d’Analytics et démarrez votre premier projet dans Analysis Workspace. Au cours de cette session, nous allons commencer à utiliser des tableaux, des visualisations et des panneaux.
+title: Principes de base de l’interface utilisateur - Mai 2023 - Échange de compétences APAC Adobe Analytics
+description: Familiarisez-vous avec l’interface utilisateur de base d’Analytics et lancez votre premier projet dans Analysis Workspace. Au cours de cette session, nous commencerons à utiliser des tableaux, des visualisations et des panneaux.
 solution: Analytics
 feature-set: Analytics
 feature: Analytics Basics
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
@@ -13,15 +14,15 @@ thumbnail: 3420943.jpeg
 event-start-time: 2023-5-1 08:30-8
 exl-id: 0863ffdc-aa06-4ce2-aeee-c5dd7d4db619
 duration: 2297
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
 
 ---
 
-# Principes de base de l’interface utilisateur - Exchange de compétences Adobe Analytics APAC de mai 2023
+# Principes de base de l’interface utilisateur - Mai 2023 - Échange de compétences APAC Adobe Analytics
 
-Familiarisez-vous avec l’interface utilisateur de base d’Analytics et démarrez votre premier projet dans Analysis Workspace. Au cours de cette session, nous allons commencer à utiliser des tableaux, des visualisations et des panneaux.
+Familiarisez-vous avec l’interface utilisateur de base d’Analytics et lancez votre premier projet dans Analysis Workspace. Au cours de cette session, nous commencerons à utiliser des tableaux, des visualisations et des panneaux.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420943/?learn=on)

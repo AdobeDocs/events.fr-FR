@@ -1,6 +1,8 @@
 ---
 title: Marketo et Mochas - 5 fonctionnalités Marketo à connaître en 2025
 description: Regardez notre première session Marketo & Mochas de l'année avec nos experts Marketo Engage, Carly Gaver et Kate Colbert. Carly et Kate ont présenté plus de 5 fonctionnalités complètes dans votre package Marketo qui peuvent améliorer l'expérience client et stimuler la demande en 2025. Connectez-vous et exploitez tout le potentiel de votre plateforme Marketo !
+feature: Reporting
+topic: Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,13 +10,12 @@ duration: 3382
 last-substantial-update: 2025-02-13T00:00:00Z
 jira: KT-17272
 exl-id: d536d724-9a25-47ae-9a60-c29861359e0b
-source-git-commit: bca10c328d4118782de5fd6d63b8b32861cd5155
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '553'
 ht-degree: 2%
 
 ---
-
 
 # Marketo et Mochas : 5 fonctionnalités Marketo à connaître en 2025
 
@@ -30,25 +31,25 @@ Regardez notre première session Marketo &amp; Mochas de l&#39;année avec nos e
    * [5 fonctionnalités à connaître en 2025](../assets/marketo-&-mochas-5-features-handout.pdf)
 
 * **Gestion du compte Target**
-   * [Présentation](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
-   * [FAQ](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
+   * [Vue d’ensemble](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/target-account-management/setup/target-account-management-overview)
+   * [Questions fréquentes](https://nation.marketo.com/t5/knowledgebase/target-account-management-previously-abm-faq-product-facts-and/ta-p/301199)
    * [Vidéo Conseils et astuces](https://nation.marketo.com/t5/product-blogs/marketo-engage-abm-tips-amp-tricks-with-corey-bayless/ba-p/304664)
 
 * **Predictive Audiences**
-   * [Vue d’ensemble](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
+   * [Vue d’ensemble](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences)
    * [Cas d’utilisation](https://nation.marketo.com/t5/product-blogs/using-predictive-audiences-in-marketo-engage/ba-p/301937)
 
 * **Analyses de Parcours avancées**
-   * [Présentation des rapports](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
-   * [Présentation de Lifecyle Modeler](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
+   * [Présentation des rapports](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/reporting-overview#advanced-journey-analytics)
+   * [Présentation du Modeler de cycle de vie](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models)
 
 * **Sandbox**
-   * [Vue d’ensemble](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
+   * [Vue d’ensemble](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox)
 
 * **Espaces de travail et partitions**
-   * [Vue d’ensemble](https://experienceleague.adobe.com/fr/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
+   * [Vue d’ensemble](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 ### Structure de la session
 

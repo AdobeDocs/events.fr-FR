@@ -2,6 +2,7 @@
 title: Assistant IA dans AEM
 description: Découvrez comment l’assistant d’IA d’AEM simplifie les tâches de création et d’administration. Explorez sa portée, sa configuration et voyez-le en action avec une démonstration en direct.
 solution: Experience Manager
+feature: Authoring
 topic: Artificial Intelligence
 role: Developer, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2491
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19626
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 5334e833-d83a-4c78-a1e1-901a9cec1e14
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '289'
 ht-degree: 2%
 
 ---
-
 
 # Assistant IA dans AEM
 
@@ -49,4 +50,3 @@ Comprendre ces fonctionnalités permet aux équipes d’utiliser l’assistant A
 * **Pas de génération de contenu** Actuellement, l’assistant ne génère ni ne crée de contenu (l’accent est mis sur les connaissances et le support).
 
 Améliorations futures : d’autres fonctionnalités et fonctionnalités plus larges sont à l’étude, avec des mises à jour attendues au fur et à mesure de l’évolution du produit.
-

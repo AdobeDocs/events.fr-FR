@@ -2,6 +2,8 @@
 title: Adobe Digital Insights - Résultats des fêtes 2024 et tendances début 2025
 description: Rejoignez le webinaire d’Adobe pour obtenir des informations sur les tendances d’achats pour les fêtes de fin d’année 2024 et les prévisions de marché du début de l’année 2025, explorez les catégories de produits à forte croissance et découvrez les bonnes pratiques pour créer des expériences d’achat personnalisées à l’aide de l’IA et des technologies avancées.
 solution: General
+feature: Generative AI, Personalization
+topic: Artificial Intelligence, Personalization, Performance
 role: Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3049
 last-substantial-update: 2025-02-20T00:00:00Z
 jira: KT-17395
 exl-id: bf20e43a-efc6-4d54-af79-15f89d4fd02b
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -29,7 +31,7 @@ Préparez-vous à dévoiler la saison des fêtes 2024 avec les informations de p
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446271/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Performance des fêtes de 2024** La saison des fêtes de 2024 a connu une croissance de 8,7 % par rapport à l&#39;année précédente, avec des dépenses records de 241,4 milliards de dollars, ce qui représente un total de 1,05 billion de dollars pour l&#39;année. Les principaux moteurs étaient la sensibilité aux prix, les canaux sociaux et marketing et les achats mobiles.
 

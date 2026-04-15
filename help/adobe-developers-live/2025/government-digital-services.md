@@ -1,19 +1,21 @@
 ---
 title: Rationaliser les services gouvernementaux grâce à l’IA
 description: Découvrez comment l’intégration de l’IA et d’Adobe à Microsoft améliore les services numériques gouvernementaux, l’accès des citoyens et les workflows.
+feature: Edge Delivery Services, Release Information
+topic: Integrations, Administration, Development
 role: Developer, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 725
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19989
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 3d03e6c3-4ed2-45cc-9cea-2cb4a4094985
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
-
 
 # Tirer parti de l&#39;intégration AI et Adobe-Microsoft pour rationaliser les services numériques gouvernementaux
 
@@ -27,5 +29,5 @@ Remercions tout particulièrement nos sponsors Algolia et Ensemble pour leur sou
 
 ## Étapes suivantes
 
-* Poursuivre la conversation sur [Experience League](https://adobe.ly/47ss08A)
+* Poursuivre la conversation sur [](https://adobe.ly/47ss08A)
 * Découvrez [événements à venir](https://developerevents.adobe.com)

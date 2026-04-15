@@ -1,9 +1,10 @@
 ---
 title: Marketo et Mochas - Bonnes pratiques de gestion de programme
-description: Explorez les éléments essentiels des programmes Marketo, notamment la configuration des dossiers, les conventions d’affectation des noms, les recherches de membres et les vérifications d’état du programme, avec les dernières mises à jour des modèles de bibliothèque de programmes, des ressources créatives et des démonstrations de bonnes pratiques.
+description: Découvrez les éléments essentiels des programmes Marketo, notamment la configuration des dossiers, les conventions de nommage, les recherches de membres et les vérifications de statut des programmes, ainsi que les dernières mises à jour des modèles de bibliothèque de programmes, des ressources créatives et des démonstrations des bonnes pratiques.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Programs, Templates
+topic: Artificial Intelligence, Personalization
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -12,17 +13,17 @@ jira: KT-14226
 thumbnail: 3425070.jpeg
 exl-id: d3147987-3250-4d5c-a96a-e0bc41001528
 duration: 3501
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
 # Marketo et Mochas - Bonnes pratiques de gestion de programme
 
-Les programmes sont l’un des éléments les plus importants de Marketo. Que vous configuriez des dossiers, que vous travailliez sur des conventions d’affectation des noms, que vous recherchiez des membres, que vous vérifiiez l’état du programme ou que vous vous intéressiez uniquement à la gestion des bonnes pratiques, cet événement vous est destiné. Sur cette page Marketo &amp; Mochas, les conseillers économiques Adobes Cynthia Chang et Kate Colbert présentent les dernières mises à jour des modèles de bibliothèque de programmes et des ressources créatives, ainsi que les bonnes pratiques de gestion de programme de partage et une démonstration.
+Les programmes sont l’un des éléments les plus importants de Marketo. Que vous configuriez des dossiers, que vous travailliez sur des conventions de nommage, que vous recherchiez des membres, que vous contrôliez l’état du programme ou que vous souhaitiez simplement gérer les bonnes pratiques, cet événement est fait pour vous. Lors de ce Marketo &amp; Mochas, Cynthia Chang et Kate Colbert, conseillères d’affaires Adobe, présentent les dernières mises à jour des modèles de la bibliothèque de programmes et des ressources créatives, ainsi que le partage des bonnes pratiques de gestion de programme et une démonstration.
 
-Ils suivent la présentation avec une démonstration de l&#39;import d&#39;un programme et partagent certains des nouveaux modèles de programme qui viennent d&#39;être mis à jour après de nombreuses années. Cynthia et Kate terminent la session par un test Q&amp;R en direct.
+Ils suivent la présentation avec une démonstration de comment importer un programme et partager certains des nouveaux modèles de programme qui viennent de recevoir une mise à jour après de nombreuses années. Cynthia et Kate concluent la session par une session de questions-réponses en direct.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425070/?learn=on)

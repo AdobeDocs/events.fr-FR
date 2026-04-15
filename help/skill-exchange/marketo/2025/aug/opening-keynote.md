@@ -2,6 +2,7 @@
 title: Keynote d’ouverture
 description: Découvrez comment les agents d’IA transforment le marketing B2B en B2B 3.0. Découvrez les stratégies permettant d’accroître l’efficacité, la personnalisation et les parcours client avec Marketo Engage.
 solution: Marketo Engage
+feature: Programs, Reporting
 topic: Personalization
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,19 +10,19 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-02T00:00:00Z
 jira: KT-18868
-source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
+exl-id: 2dd43d54-8bc8-431c-b03b-792aa9ece08f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
-
 
 # Keynote d’ouverture
 
 L’événement Adobe Experience Makers : The Skill Exchange (Marketo Engage track) a présenté Badsah Mukherji, chef de produit senior du groupe Adobe, discutant de l’évolution du marketing B2B vers « B2B 3.0 ». Cette nouvelle phase se concentre sur les expériences client pilotées par l’IA, en mettant l’accent sur l’engagement personnalisé et le ciblage des groupes d’achats dans les comptes. Mukherjee a souligné le rôle transformateur des agents d&#39;IA dans l&#39;automatisation des tâches, l&#39;amélioration de l&#39;efficacité et la possibilité pour les professionnels du marketing de se concentrer sur des rôles stratégiques. L’importance de la collaboration homme-IA a été soulignée, l’IA amplifiant la créativité plutôt que la remplaçant. Les compétences clés pour réussir dans ce paysage comprennent l’ingénierie rapide, la maîtrise des données et la configuration des agents. Adobe intègre des agents d’IA dans des outils tels que Marketo Engage afin d’automatiser l’orchestration du cycle de vie du client, ce qui permet aux marketeurs qui adoptent l’IA de prospérer dans l’avenir du marketing B2B.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471477/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3471392/?learn=on&enablevpops)
 
 ## Naviguer dans l’avenir du marketing B2B
 

@@ -1,6 +1,9 @@
 ---
-title: 'Naviguer dans le changement : un webinaire sur la gestion efficace du changement'
-description: Découvrez les nuances de la gestion du changement et proposez des insights stratégiques qui vous permettront de guider votre organisation à travers des parcours transformationnels.
+title: Naviguer dans le changement - Un webinaire de la haute direction sur la gestion efficace du changement
+solution: Experience Cloud
+feature: Personalization
+description: Explorez les nuances de la gestion du changement et fournissez des informations stratégiques pour vous permettre de guider votre organisation à travers des parcours transformationnels.
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,41 +11,41 @@ duration: 3340
 last-substantial-update: 2024-06-07T00:00:00Z
 jira: KT-15557
 exl-id: 6e71cc1e-f1bd-4c78-9fee-90ba0e0bce47
-source-git-commit: ef652eb09c33f11d69ec66f70013cd3e53537a95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-# Naviguer dans le changement : un webinaire sur la gestion efficace du changement
+# Naviguer dans le changement : un webinaire pour les cadres supérieurs sur la gestion efficace du changement
 
-Découvrez les nuances de la gestion du changement et proposez des insights stratégiques qui vous permettront de guider votre organisation à travers des parcours transformationnels.
+Explorez les nuances de la gestion du changement et fournissez des informations stratégiques pour vous permettre de guider votre organisation à travers des parcours transformationnels.
 
-## Principaux points de discussion
+## Points clés de la discussion
 
-* Découvrez comment aligner les efforts de changement avec les objectifs et les objectifs généraux de l’organisation
+* Découvrez comment aligner les efforts de changement sur les buts et objectifs globaux de l’entreprise
 * Principal de l’art de communiquer le changement aux différentes parties prenantes
-* Mise en oeuvre d’une stratégie et d’une planification d’activation efficaces
-* Découvrez des stratégies proactives pour atténuer les risques et assurer des transitions fluides
+* Mise en œuvre d’une stratégie et d’une planification d’activation efficaces
+* Découvrez des stratégies proactives pour atténuer les risques et assurer des transitions fluides.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429286/?learn=on)
 
-## Les 3 principaux points essentiels d&#39;une gestion efficace du changement
+## Les 3 points clés de la gestion efficace du changement
 
 **Aspects essentiels de la gestion du changement**
 
-* La gestion des changements aligne les objectifs de l’entreprise sur les performances individuelles.
-* Améliore l’agilité et améliore l’efficacité au sein de l’organisation.
+* La gestion du changement aligne les objectifs organisationnels sur le rendement individuel.
+* Améliore l’agilité et l’efficacité au sein de l’organisation.
 
-**Compétences principales pour une gestion efficace des changements**
+**Compétences essentielles pour une gestion efficace du changement**
 
-* L&#39;engagement des parties prenantes est essentiel.
+* L’engagement des parties prenantes est crucial.
 * Une communication efficace est essentielle.
-* Une formation et un soutien sont nécessaires pour réussir l&#39;adoption du changement.
+* La formation et le soutien sont nécessaires pour réussir l&#39;adoption du changement.
 
-**Relever les défis dans la gestion du changement**
+**Surmonter les défis de la gestion du changement**
 
-* La gestion de la fatigue et de la résistance au changement.
+* Gestion de la fatigue et de la résistance au changement.
 * La définition des mesures de succès est essentielle.
-* Il est essentiel de mesurer régulièrement l&#39;impact et de s&#39;attaquer aux causes profondes de la résistance.
+* Mesurer régulièrement l’impact et s’attaquer aux causes profondes de la résistance sont des éléments essentiels.

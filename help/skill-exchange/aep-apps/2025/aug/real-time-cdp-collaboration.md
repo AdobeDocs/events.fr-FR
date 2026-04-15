@@ -2,6 +2,8 @@
 title: Tirez le meilleur parti de vos investissements dans les médias avec Adobe Real-Time CDP Collaboration
 description: Découvrez comment utiliser Adobe Real-Time CDP Collaboration pour activer, mesurer et optimiser les campagnes CTV avec des éditeurs premium et des données propriétaires.
 solution: Experience Platform, Real-Time Customer Data Platform, Real-Time Customer Data Platform Collaboration
+feature: Audiences
+topic: Security, Performance
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18848
 exl-id: e5632e05-e6e8-4b00-9037-a065ed80da54
-source-git-commit: 603629137b4bc29d8470517eb509bbc5f0bcdea4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -28,7 +30,7 @@ Découvrez comment transformer stratégiquement les objectifs de campagne en cli
 
 Tous les clients Real-Time CDP Prime et Ultimate disposent désormais d’un accès intégré à Collaboration. Participez à cette session pour découvrir comment tirer parti d’une collaboration sur les données facile à utiliser et centrée sur la confidentialité dès aujourd’hui !
 
->[!VIDEO](https://video.tv.adobe.com/v/3471333/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3471329/?learn=on&enablevpops)
 
 ## Déverrouiller le Collaboration de données en quatre étapes
 

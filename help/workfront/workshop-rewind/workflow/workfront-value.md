@@ -1,19 +1,21 @@
 ---
 title: Pitch Perfect - Définir et communiquer la valeur de Workfront
 description: Nous avons travaillé sur des diapositives ensemble pour créer une présentation personnalisable afin d’aider à définir le « pourquoi » Workfront de votre organisation, à signaler vos résultats et à communiquer vos succès d’une manière qui trouve un écho auprès des dirigeants, des pairs et des utilisateurs finaux.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3490
 last-substantial-update: 2025-12-03T00:00:00Z
 jira: KT-19782
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: 4f4356ef-05bc-4aad-b098-8e3ecfb3521a
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 0%
+source-wordcount: '219'
+ht-degree: 1%
 
 ---
-
 
 # Pitch Perfect : Définir et communiquer la valeur de Workfront
 
@@ -25,8 +27,6 @@ Au cours de l’atelier , nous avons travaillé sur des diapositives ensemble af
 
 Consultez le [diaporama de présentation](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/093025+-+Pitch+Perfect+-+Defining+%26+Communicating+Workfront+Value.pdf) et regardez l’enregistrement à la demande pour le suivre.
 
-Vous souhaitez un jeu de diapositives personnalisable, avec des notes et des bonnes pratiques partagées pendant la session ?  Consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706?profile.language=fr) pour plus de ressources !
+Vous souhaitez un jeu de diapositives personnalisable, avec des notes et des bonnes pratiques partagées pendant la session ?  Consultez la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-pitch-perfect-defining-amp-communicating/td-p/779706) pour plus de ressources !
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements Experience League](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
-
-
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.

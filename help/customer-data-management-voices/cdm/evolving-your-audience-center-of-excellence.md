@@ -1,8 +1,9 @@
 ---
-title: Évolution de votre centre d’excellence d’audience
-description: Un modèle de Centre d’excellence (COE) constitue depuis longtemps la méthode optimale pour prendre en charge les plateformes de gestion des données (DMP).
+title: Faire évoluer votre centre d'excellence en matière d'audience
+description: Un modèle de centre d’excellence pour les audiences est depuis longtemps considéré comme le moyen optimal de prendre en charge les plateformes de gestion des données (DMP).
 solution: Real-Time Customer Data Platform
 feature: Data Governance
+topic: Personalization, Artificial Intelligence
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 thumbnail: 336938.jpg
@@ -10,17 +11,17 @@ kt: 8864
 type: Event
 exl-id: 7383654b-96ed-41d7-ac24-9e8b290d1206
 duration: 2368
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-# Évolution de votre centre d’excellence d’audience
+# Faire évoluer votre centre d&#39;excellence en matière d&#39;audience
 
-Les plateformes qui facilitent la gestion des données client, les audiences et les programmes d’activation doivent également évoluer. Il en va de même pour les gens et les processus qui soutiennent ces plateformes. Un modèle de Centre d’excellence (COE) constitue depuis longtemps la méthode optimale pour prendre en charge les plateformes de gestion des données (DMP).
+À mesure que les plateformes qui facilitent la gestion des données des clients, les audiences et les programmes d&#39;activation doivent également évoluer. Il en va de même pour les personnes et les processus qui soutiennent ces plateformes. Un modèle de centre d’excellence pour les audiences est depuis longtemps considéré comme le moyen optimal de prendre en charge les plateformes de gestion des données (DMP).
 
->[!VIDEO](https://video.tv.adobe.com/v/3457358/?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/336938/?quality=12&learn=on)
 
 Pour compléter cette vidéo, vous pouvez également [télécharger un livre blanc](./../assets/whitepaper-evolving-the-audience-center-of-excellence.pdf)

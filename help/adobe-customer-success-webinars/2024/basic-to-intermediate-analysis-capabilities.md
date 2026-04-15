@@ -2,6 +2,8 @@
 title: Démarrage rapide Adobe Analytics et CJA pour des fonctionnalités d’analyse de base à intermédiaire
 description: La session a porté sur la configuration des fonctionnalités analytiques, la comparaison entre Adobe Analytics et Customer Journey Analytics, ainsi que sur les fonctionnalités clés des rapports marketing.
 solution: Customer Journey Analytics, Analytics
+feature: Use Cases, Visualizations, Data Governance, Data Configuration and Collection
+topic: Security, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3783
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16626
 exl-id: 9e6df60c-d4bc-4c32-b234-fafa1f0a73c0
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -40,7 +42,7 @@ Découvrez comment commencer rapidement à utiliser Adobe Analytics et Customer 
    * **Forces externes et internes** Impact sur l’analyse numérique, y compris les évolutions du marché, la confidentialité et la gouvernance, la démocratie des données et la complexité des données.
    * **Construire une base analytique solide** Stratégie de mesure, Collecte de données, insight et analyse, Apprentissage, Gouvernance des données.
    * **Configuration d’une équipe Digital Analytics** Rôles et responsabilités, création d’une équipe hybride et gestion efficace des requêtes Analytics.
-   * **Options d’activation d’Adobe** Experience League, cours à la demande, cours dispensés par des formateurs, assistance de la communauté.
+   * **Options d’activation d’** Experience League, cours à la demande, cours dispensés par des formateurs, assistance de la communauté.
 
 * **Comparaison entre Adobe Analytics et Customer Journey Analytics (CGA)**
    * Adobe Analytics est fondamental pour l’analyse numérique.

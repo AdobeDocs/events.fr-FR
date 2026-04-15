@@ -4,19 +4,20 @@ description: Découvrez comment gérer les utilisateurs, les rapports et les par
 solution: Acrobat Sign
 feature-set: Document Cloud
 feature: Sign, Administration
+topic: Development
 role: Admin
 level: Beginner
 doc-type: Event
 duration: 3508
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20345
-source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
+exl-id: 1056ece4-0060-4bcd-95a9-9a0f7fee3ec7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
-
 
 # Acrobat Sign 101 pour les administrateurs sur ETLA
 

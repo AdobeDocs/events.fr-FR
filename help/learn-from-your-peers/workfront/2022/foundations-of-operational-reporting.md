@@ -2,6 +2,7 @@
 title: Webinaire sur les bases du reporting opérationnel
 description: Apprenez de vos pairs ce que les administrateurs système doivent mesurer dans Workfront. Découvrez les mesures clés, les besoins en matière de création de rapports et des exemples de tableaux de bord dans notre webinaire à la demande.
 feature: Reports and Dashboards
+topic: Administration, Integrations
 role: Admin
 solution: Workfront
 level: Beginner, Intermediate, Experienced
@@ -10,9 +11,9 @@ duration: 3672
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15813
 exl-id: 3f98a8e2-c288-4270-b6ea-b21d5751ae2b
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '147'
 ht-degree: 1%
 
 ---

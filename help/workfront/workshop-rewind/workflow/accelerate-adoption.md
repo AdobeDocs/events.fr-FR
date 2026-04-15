@@ -1,19 +1,21 @@
 ---
 title: Votre boîte à outils de succès Workfront - Ressources pour accélérer l’adoption et la valorisation
 description: Découvrez les ressources et les outils pour optimiser l’adoption et la valeur de Workfront. Accédez aux ateliers, aux forums communautaires et aux informations sur les services professionnels.
+feature: Work Management, Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3282
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20606
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: 9ace3404-e1b2-4bc8-8e8e-9029bd5e4072
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
 
 ---
-
 
 # Votre boîte à outils de succès Workfront - Ressources pour accélérer l’adoption et la valorisation
 
@@ -25,8 +27,6 @@ Découvrez comment utiliser Experience League et la communauté Experience Leagu
 
 Si vous avez manqué la séance, pas d&#39;inquiétude ! Examinez le [diaporama](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Success+Toolkit+Slide+Deck+021226.pdf) et regardez l’enregistrement à la demande pour le suivre.
 
-Vous recherchez d&#39;autres ressources pour l&#39;événement ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480?profile.language=fr) !
+Vous recherchez d&#39;autres ressources pour l&#39;événement ? Consultez la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-your-workfront-success-toolkit-resources-to-accelerate-adoption-february-12-2026-248480) !
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
-
-
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.

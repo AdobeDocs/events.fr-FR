@@ -4,13 +4,14 @@ description: Découvrez Real-Time CDP Collaboration, qui offre des solutions de 
 kt: KT-17139
 solution: Experience Platform
 feature: Collaboration
+topic: Security
 event-cta-url-live: https://www.youtube.com/live/OPRzvdLUu7E
 event-start-time: 2025-04-10 09:00-8
 event-guests: Doug Moore, Nina Caruso, Clayton Smith
 exl-id: 6376944b-eefd-4d9e-8db4-89d6d948889f
-source-git-commit: c9cc13f4716b68fac1243f3fabb1ba12a36268a2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '195'
 ht-degree: 1%
 
 ---
@@ -27,8 +28,8 @@ Au cours de cette session, nous avons exploré les points suivants :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
 
-**Poursuivez la discussion sur Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le?profile.language=fr[...]ive-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}**
+**Poursuivez la discussion sur Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le[...]ive-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}**
 
 ## Ressources supplémentaires
 
-[Vidéos Real-Time CDP Collaboration](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
+[Vidéos Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)

@@ -1,6 +1,8 @@
 ---
 title: Optimisation De Votre Storefront Commerce
 description: Optimisez votre instance Commerce avec les conseils d’experts Adobe sur la maintenance, l’activité des robots et la gestion des données
+feature: Integration, Edge Delivery Services
+topic: Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3383
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17175
 exl-id: 0b63be70-ada7-4c7f-a38a-b823a59405ea
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -26,7 +28,7 @@ Regardez le conseiller technique client Adobe, Andrii Abumuslimov, animer un web
 * **Jeff McGuire** stratégiste en engagement numérique chez Adobe
 * **Andre** conseiller technique client chez Adobe, spécialisé dans Adobe Commerce (anciennement Magento)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 Le webinaire se concentre sur l’optimisation des vitrines d’e-commerce.
 Il est interactif, avec une session de questions-réponses à la fin.
@@ -35,7 +37,7 @@ La session est enregistrée et sera disponible sur demande.
 * **Rubriques abordées**
 
    * Surveillance et optimisation de l’utilisation du stockage.
-   * Explorateurs web, détection et réduction du trafic.
+   * Robots d&#39;exploration web, détection et réduction du trafic.
 
 * **Optimisation du stockage**
 
@@ -43,9 +45,9 @@ La session est enregistrée et sera disponible sur demande.
    * Implémentez les bonnes pratiques de gestion et d’optimisation des données.
    * Activez l’optimisation d’image profonde pour économiser de l’espace disque.
 
-* **Analyseurs Web**
+* Robots d&#39;exploration web ****
 
-   * Détectez et atténuez les robots d’exploration web abusifs à l’aide d’outils tels que New Relic et les requêtes SQL personnalisées.
+   * Détectez et atténuez les robots d&#39;exploration web abusifs à l’aide d’outils tels que New Relic et les requêtes SQL personnalisées.
    * Implémentez des stratégies de limitation et de blocage de débit pour les robots non légitimes.
    * Prenez en compte les services avancés comme Human Bot Defender pour la détection de robots sophistiquée.
 

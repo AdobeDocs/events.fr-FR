@@ -2,6 +2,7 @@
 title: Enrichissement d’Adobe Commerce avec Adobe Experience Platform
 description: Découvrez comment Adobe Commerce + AEP proposent une personnalisation en temps réel, des profils unifiés et des parcours omnicanaux optimisés par des analyses avancées.
 solution: Commerce, Experience Platform
+feature: Integration, Agentic AI, Data Collection, Personalization
 topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 2793
 last-substantial-update: 2025-10-01T00:00:00Z
 jira: KT-19335
-source-git-commit: b2c90af591575f2a59a952d5dc80a9752dad0dcc
+exl-id: b3e5a7bd-2440-442b-a92e-248f19409381
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
-
 
 # Enrichissement d’Adobe Commerce avec Adobe Experience Platform
 

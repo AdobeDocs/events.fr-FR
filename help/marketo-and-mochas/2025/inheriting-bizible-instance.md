@@ -1,19 +1,21 @@
 ---
 title: Marketo Measure et mochas - Héritage d’une instance Bizible nouvelle ou actuelle
 description: Rejoignez Carly Gaver et Kate Colbert dans notre webinaire Marketo Measure et Mochas pour découvrir les bonnes pratiques de contrôle et d’optimisation de la configuration, de la configuration, des canaux et des rapports de votre instance Marketo Measure (Bizible).
+feature: Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3524
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18158
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: c479f24d-ee7c-4a18-95ac-991810b067a3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # Marketo Measure et mochas : héritage d’une instance Bizible nouvelle ou actuelle
 

@@ -1,6 +1,7 @@
 ---
 title: Marketo et Mochas - Exploiter GenAI dans Adobe Marketo Engage
 description: Découvrez comment GenAI dans Adobe Marketo Engage accélère la création de campagnes, améliore la personnalisation et permet aux équipes de se concentrer sur la stratégie et la créativité.
+feature: Programs, Reporting
 topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3455
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19502
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: 59540237-f65f-46bf-a53f-1612fb64a069
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
-
 
 # Marketo et Mochas : tirer parti de GenAI dans Adobe Marketo Engage
 
@@ -41,5 +42,3 @@ L’IA remodèle rapidement le marketing B2B, entraînant une évolution vers de
 * **IA dédiée aux agences** Les nouvelles fonctionnalités d’agence de Adobe Experience Platform et Marketo Engage automatisent les tâches, suppriment les goulets d’étranglement et permettent des interactions en temps réel basées sur les intentions.
 
 La compréhension de ces tendances aide les entreprises à rester compétitives et à libérer le plein potentiel de l’IA dans le marketing.
-
-

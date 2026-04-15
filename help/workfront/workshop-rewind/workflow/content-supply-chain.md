@@ -2,6 +2,7 @@
 title: Intégration de Supply chain de contenu
 description: Découvrez comment Citibank a optimisé son supply chain de contenu à l’aide de Workfront, Creative Cloud et AEM, améliorant ainsi l’efficacité et la collaboration.
 solution: Experience Manager, Workfront, Creative Cloud
+feature: Edge Delivery Services, Release Information, Strategic Planning, Workfront Integrations and Apps
 topic: Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 3338
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19747
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 1af8b376-c9ac-41e4-beed-c228987da4cb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Création du Supply chain de contenu avec Workfront, Creative Cloud et AEM
 

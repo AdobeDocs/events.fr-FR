@@ -1,7 +1,8 @@
 ---
-title: Adobe Developers Live Headless Rock Star Results et les prochains développements pour les développeurs
-description: Fermeture - Rock Star Results and What's Next for Developers Rejoignez Cedric Huesler, Director of Product Management, pour récapituler les points forts et les éléments d’action d’aujourd’hui, ainsi que pour découvrir qui a remporté le concours 2022 Adobe Experience Manager Rock Star !
+title: Résultats des rock stars du Adobe Developers Live découplé et perspectives pour les développeurs et développeuses
+description: Conclusion - Résultats Rock Star et perspectives pour les développeursRejoignez Cedric Huesler, directeur de la gestion produit, pour récapituler les points clés à retenir et les mesures à prendre dès aujourd’hui, ainsi que pour découvrir qui est le gagnant du défi Rock Star Adobe Experience Manager 2022 !
 solution: Experience Manager,Experience Manager Sites
+feature: Edge Delivery Services, Release Information, Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,15 +14,15 @@ kt: 11486
 thumbnail: 3411307.jpeg
 exl-id: 25b6183d-d80a-4193-a3af-e2eccf250c6e
 duration: 497
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-# Fermeture - Résultats de Rock Star et les prochains développements pour les développeurs
+# Clôture - Résultats Rock Star et perspectives pour les développeurs
 
-Rejoignez Cedric Huesler, Director of Product Management, pour récapituler les principaux points à retenir et les éléments d’action d’aujourd’hui, et découvrir qui a remporté le concours 2022 Adobe Experience Manager Rock Star !
+Rejoignez Cedric Huesler, directeur de la gestion des produits, pour récapituler les points clés à retenir et les mesures à prendre dès aujourd&#39;hui, ainsi que pour découvrir qui est le gagnant du défi Rock Star 2022 de Adobe Experience Manager !
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411307/?quality=12&learn=on)

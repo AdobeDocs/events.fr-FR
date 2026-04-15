@@ -1,14 +1,16 @@
 ---
 title: Demandez à l’expert - Surcharger les rapports en mode texte de base à l’aide de l’explorateur d’API
 description: Découvrez l’explorateur d’API, comment l’utiliser et comment améliorer vos rapports à l’aide du mode texte de base. Ce webinaire a été enregistré le 22 janvier 2020.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Integrations, Development
 doc-type: feature video
 team: Technical Marketing
 kt: 9918
 exl-id: f859c4eb-8b3c-4d91-9765-9957dc4678f5
 duration: 4068
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1667'
 ht-degree: 0%
 
 ---

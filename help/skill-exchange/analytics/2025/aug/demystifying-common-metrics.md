@@ -3,19 +3,20 @@ title: Démystifier les mesures courantes
 description: Découvrez comment interpréter les mesures d’Adobe Analytics (visites, visiteurs, pages vues, bounces, taux de conversion, etc.) pour améliorer la précision des rapports et les informations.
 solution: Analytics
 feature: Metrics, Analytics Basics
+topic: Security
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18817
-source-git-commit: 887622e17681c1e3bc44175667777b0f4e65cc65
+exl-id: f2f4277d-7778-4100-8768-0fac3edeec55
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
-
 
 # Démystifier les mesures courantes
 
@@ -41,4 +42,3 @@ Découvrez comment donner du sens aux mesures d’analyse web les plus courantes
 * **Sensibilisation au trafic de robots** Découvrez comment les mesures de robots vous aident à identifier et à filtrer le trafic non humain pour des rapports plus épurés.
 
 Maîtriser ces concepts vous aidera à sélectionner les mesures les mieux adaptées à vos besoins et à optimiser la valeur de vos rapports d’analyse.
-

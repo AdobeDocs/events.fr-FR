@@ -2,19 +2,21 @@
 title: Un parrainage exécutif gagnant pour des projets Adobe Experience Platform
 description: Découvrez comment transformer des projets passionnés en initiatives percutantes en alignant la vision sur les objectifs commerciaux, en obtenant l’adhésion des dirigeants et en utilisant AEP/RT-CDP pour créer de la valeur.
 solution: Experience Platform
+feature: Personalization
+topic: Personalization, Integrations, Administration
 role: Developer
 level: Intermediate
 doc-type: Event
 duration: 3308
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18018
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 2ac66f9c-5a75-437f-8dc5-623b67efbfea
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # Lauréat du parrainage exécutif pour des projets Adobe Experience Platform (AEP)
 
@@ -28,7 +30,7 @@ Apprenez à libérer le potentiel des projets passionnés et à naviguer sur le 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458041/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Fonctionnalités principales d’AEP et de Real-Time-CDP** ces plateformes offrent des profils exploitables en temps réel, l’intégration et l’unification des données, la segmentation des clients, la personnalisation, l’analyse prédictive et une gouvernance des données solide. Ces fonctionnalités peuvent aider les entreprises à réduire leurs coûts, à accroître leur efficacité et à stimuler la croissance de leurs revenus.
 

@@ -2,6 +2,7 @@
 title: Optimiser les expériences utilisateur avec Adobe Target AI-Driven Personalization
 description: La session de John Magnusson sur la personnalisation pilotée par l’IA d’Adobe Target a mis en évidence des fonctionnalités et des exemples clés, en mettant l’accent sur le framework Engage, Expand et Embed.
 solution: Target
+feature: Segments, Profiles
 topic: Personalization, Artificial Intelligence
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3186
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16627
 exl-id: c1d89e23-1d6e-41a7-877c-1d016b4b39d0
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ La session sur la personnalisation basée sur l’IA d’Adobe Target, animée p
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440934/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Thème de la session** La session était axée sur l’optimisation de l’expérience utilisateur avec la personnalisation pilotée par l’IA d’Adobe Target.
 * **Présentateur** John Magnusson, responsable du succès client de la solution au sein de l’équipe Données et intégration d’Adobe, a dirigé la session.
@@ -32,7 +33,7 @@ La session sur la personnalisation basée sur l’IA d’Adobe Target, animée p
    * **Ciblage automatique** utilise le machine learning pour personnaliser les expériences utilisateur en intégrant diverses sources de données.
    * **Automated Personalization (AP)** associe différentes variations d’offres et utilise le machine learning pour faire correspondre le meilleur contenu à chaque visiteur.
    * **Recommendations** affiche automatiquement les produits, services ou contenus pertinents en fonction du comportement et des préférences des utilisateurs.
-* **&#x200B;Exemples d’implémentation
+* &#x200B;Exemples d’implémentation
    * **Swiss.com** a utilisé l’affectation automatique pour identifier l’expérience la plus performante dans un test avec cinq expériences différentes.
    * **Granger** a exploité Adobe Target pour réinitialiser son site web et valider chaque hypothèse, ce qui a permis des gains significatifs en termes d’engagement et de taux de conversion.
 * **Segments automatisés** Permet aux utilisateurs de comprendre comment les activités d’IA génèrent un effet élévateur en exposant les attributs clés utilisés dans la modélisation et la création de segments automatisés.
@@ -41,4 +42,4 @@ La session sur la personnalisation basée sur l’IA d’Adobe Target, animée p
 * **Experience League** Recommandé comme ressource pour une documentation détaillée et des conseils sur l’implémentation des fonctionnalités d’Adobe Target.
 * **Faits Saillants Des Questions/Réponses**
    * Adobe Target peut être implémenté dans les canaux e-mail et intégré à Marketo.
-   * Target peut créer son propre ensemble de profils client unifiés et les intégrer à CDP ou aux audiences Adobe pour une personnalisation plus robuste. Appel à l’action ** Les participants ont été encouragés à identifier les cas d’utilisation des outils de personnalisation d’Adobe Target et à les appliquer à l’aide de la stratégie, de la conception, de l’exécution, de l’analyse et du cycle d’action définis.
+   * Target peut créer son propre ensemble de profils client unifiés et les intégrer à CDP ou aux audiences Adobe pour une personnalisation plus robuste.** Nous avons encouragé les participants à identifier les cas d’utilisation des outils de personnalisation d’Adobe Target et à les appliquer à l’aide de la stratégie, de la conception, de l’exécution, de l’analyse et du cycle d’action définis.

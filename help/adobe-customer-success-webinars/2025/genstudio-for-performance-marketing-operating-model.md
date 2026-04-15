@@ -2,21 +2,23 @@
 title: GenStudio pour le marketing de performance - Modèle opérationnel et stratégie de gouvernance
 description: Le webinaire sur Adobe GenStudio for Performance Marketing aborde la création d’un cadre de gouvernance pour améliorer les processus créatifs, la collaboration et l’efficacité, tout en fournissant des informations sur la préparation organisationnelle, les bonnes pratiques pour les modèles de fonctionnement et les principes de marketing agile pour maximiser l’investissement.
 solution: GenStudio for Performance Marketing
+feature: Workfront Planning
+topic: Artificial Intelligence, Performance, Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
 duration: 3579
 last-substantial-update: 2025-02-18T00:00:00Z
 jira: KT-17369
-source-git-commit: f63e6bcb608eb6d03fa2f8b43babf0cb13909f4b
+exl-id: 2b5db111-2d36-4aea-9fa3-1aeb38ce0dc7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
-
-# GenStudio pour PEM : modèle opérationnel et stratégie de gouvernance
+# GenStudio for PeM : modèle opérationnel et stratégie de gouvernance
 
 Ce webinaire est conçu pour les clients qui implémentent ou envisagent d’implémenter Adobe GenStudio for Performance Marketing. Découvrez comment créer une structure de gouvernance qui orchestre les processus de création, améliore la collaboration et stimule l’efficacité. Découvrez le point de vue d’Adobe sur la préparation de l’entreprise, explorez les bonnes pratiques pour les modèles d’exploitation et obtenez des informations exploitables sur l’utilisation des principes de marketing Agile pour optimiser votre investissement dans GenStudio.
 
@@ -28,7 +30,7 @@ Points clés de la discussion
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444446/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 ### Définition du niveau de préparation de l’organisation
 
@@ -37,8 +39,8 @@ Points clés de la discussion
 
 ### Critères de réussite pour Gen Studio en matière de marketing de performance
 
-* Productivité améliorée de l’équipe créative : automatisez les processus pour rationaliser l’exécution.
-* Amélioration des cycles de révision créative : augmentez l’efficacité et la vitesse.
+* Amélioration de la productivité de l’équipe Creative : automatisez les processus pour rationaliser l’exécution.
+* Amélioration des cycles de révision Creative : augmentez l’efficacité et la vitesse.
 * Contenu conforme à la marque : générez du contenu avec les mécanismes de sécurisation d’entreprise.
 
 ### Modèle Opérationnel Marketing Agile

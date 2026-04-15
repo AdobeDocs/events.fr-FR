@@ -2,6 +2,8 @@
 title: Expressos et Experience Manager - AEM Forms
 description: AEM Forms améliore les performances grâce aux formulaires omnicanaux, à la personnalisation optimisée par l’IA et à l’évolutivité native du cloud, ce qui entraîne des conversions 2,5 fois plus rapides, des modifications 85 % plus rapides et 50 % moins d’erreurs.
 solution: Experience Manager Forms
+feature: Edge Delivery Services, Core Components
+topic: Artificial Intelligence, Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3297
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17535
 exl-id: cb810398-5e62-4128-8338-71ea1bccc6f9
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -22,7 +24,7 @@ AEM Forms est un catalyseur essentiel pour capturer des prospects et les convert
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451636/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 
 * **Défis de la gestion des performances**
@@ -30,7 +32,7 @@ AEM Forms est un catalyseur essentiel pour capturer des prospects et les convert
    * Les entreprises sont confrontées à des défis liés à la mise à l’échelle des formulaires, à la fourniture d’expériences omnicanal et aux piles technologiques fragmentées.
    * Les utilisateurs s’attendent à des expériences rapides, transparentes et unifiées, avec 2 formulaires abandonnés sur 3 en cas de complications.
 
-* **Solutions AEM Forms**
+* **Solutions**
 
    * AEM Forms relève ces défis en offrant une efficacité opérationnelle et des expériences utilisateur exceptionnelles.
    * Les principaux avantages incluent des taux de remplissage de formulaires plus élevés, des taux de conversion plus élevés, des expériences utilisateur améliorées et une réduction des erreurs client.

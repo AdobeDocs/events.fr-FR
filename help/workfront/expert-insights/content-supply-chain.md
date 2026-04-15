@@ -1,6 +1,7 @@
 ---
-title: Avis d’expert - Chaîne d’approvisionnement de contenu avec Core Kombol
-description: Découvrez les stratégies expertes de Corre Kombol pour optimiser votre chaîne logistique de contenu avec les solutions Adobe. Améliorez l’efficacité, la collaboration et les résultats.
+title: Informations d’experts - Supply chain de contenu avec Core Kombol
+description: Découvrez les stratégies d’experts de Core Kombol pour optimiser votre supply chain de contenu avec les solutions Adobe. Améliorez l’efficacité, la collaboration et les résultats.
+feature: Strategic Planning
 topic: Content Supply Chain
 speaker-name-1: Corre Kombol
 speaker-title-1: Principal Customer Success Manager
@@ -12,18 +13,18 @@ duration: 801
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18621
 exl-id: f8600288-a19b-440c-b60d-94078014353e
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-# Avis d’expert - Chaîne d’approvisionnement de contenu avec Core Kombol
+# Informations d’experts - Supply chain de contenu avec Core Kombol
 
 Bienvenue à nouveau dans les informations d’experts !  Je m’appelle Cynthia Boon et je suis votre responsable du succès client (CSM) Workfront « On-Demand ». Dans cet épisode, nous sommes rejoints par Corre Kombol, qui est responsable principal du succès client chez Adobe !  
 
-Corre est un CSM véritablement stratégique qui nous donne le ton sur l’utilisation des solutions Adobe pour soutenir les efforts de votre organisation en matière de chaîne d’approvisionnement de contenu. 
+Corre est un CSM véritablement stratégique qui nous donne le ton sur l’utilisation des solutions Adobe pour soutenir les efforts de Supply chain de contenu de votre entreprise. 
 
 ## Conseil de Corre
 
@@ -31,19 +32,19 @@ Corre est un CSM véritablement stratégique qui nous donne le ton sur l’utili
 * Commencez par identifier vos points de peinture de processus et allez-y. Ne laissez pas la technologie dépasser l’objectif.
 * Connectez-vous à d’autres clients qui se trouvent sur un parcours similaire dans la communauté ou lors d’événements ! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469996/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3469899/?learn=on&enablevpops)
 
 ## Ressources
 
 ### Sessions du Summit
 
-* [Comment Adobe a optimisé sa chaîne d’approvisionnement de contenu - S316](https://business.adobe.com/fr/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : explorez l’approche d’Adobe pour déployer sa chaîne d’approvisionnement de contenu dans sa propre organisation marketing 
-* [Révolutionner la production de contenu avec Adobe - S305](https://business.adobe.com/fr/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : découvrez comment Adobe peut optimiser votre chaîne d’approvisionnement de contenu et accélérer votre workflow créatif 
+* [Comment Adobe a optimisé sa Supply chain de contenu - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : explorez l’approche d’Adobe pour déployer sa Supply chain de contenu dans sa propre organisation marketing 
+* [Révolutionner la production de contenu avec Adobe - S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : découvrez comment Adobe peut optimiser votre supply chain de contenu et accélérer votre workflow de création 
 
 ### Démonstrations du produit
 
-* [Workfront](https://business.adobe.com/fr/product-demos/workfront/interactive-tour.html) - car une [démonstration interactive du produit] est nécessaire pour illustrer l’étendue de ce qui peut exister dans notre solution de gestion du travail d’entreprise.  
-* [GenStudio &#x200B;](https://business.adobe.com/fr/resources/sdk/getting-started-with-adobe-genstudio.html) - J’adore la portée de cette approche, qui permet à nos clients de commencer à lier leurs besoins aux solutions qui existent aujourd’hui dans Adobe.
+* [](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - car une [démonstration interactive du produit] est nécessaire pour illustrer l’étendue de ce qui peut exister dans notre solution de gestion du travail d’entreprise.  
+* [GenStudio ](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - J’adore la portée de cette approche, qui permet à nos clients de commencer à lier leurs besoins aux solutions qui existent aujourd’hui dans Adobe.
 
 ## À propos du conférencier 
 
@@ -53,4 +54,4 @@ Elle est douée pour identifier les besoins des clients, développer des solutio
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).

@@ -4,15 +4,16 @@ description: Écoutez vos pairs vous parler de l’évolution des rôles des adm
 topic: Administration
 role: Admin
 solution: Workfront
+feature: System Setup and Administration
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3667
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15812
 exl-id: 22a90abe-f339-4d18-8cfe-0822b86f570d
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---

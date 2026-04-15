@@ -3,6 +3,8 @@ title: Adobe Pass - nouvelle API REST v2
 description: Cette session se concentre sur l’introduction de la nouvelle API REST v2 d’Adobe et sur le guidage des utilisateurs tout au long de son processus de migration.
 role: Developer
 solution: Pass
+feature: APIs
+topic: Integrations, Migration
 level: Beginner, Intermediate, Experienced
 doc-type: Technical Video
 duration: 3230
@@ -10,9 +12,9 @@ last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17685
 hidefromtoc: true
 exl-id: 745411bb-48d7-4410-a236-d02c2927ac1b
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -42,7 +44,7 @@ Cette session se concentre sur l’introduction de la nouvelle API REST v2 d’A
    * Prise en charge de plusieurs profils d’authentification au cours d’une même session et transitions transparentes entre appareils.
    * Les flux de pré-autorisation et d’autorisation restent obligatoires pour l’accès au contenu.
 
-* **Planning**
+* **Chronologie**
 
    * L’API REST v1 cessera de recevoir des mises à jour en décembre 2025 et sera complètement retirée d’ici la fin de 2026.
    * Les utilisateurs sont encouragés à terminer la migration bien avant ces dates limites.

@@ -4,21 +4,22 @@ description: Découvrez comment les dernières intégrations de Adobe Experience
 kt: KT-18261
 solution: Journey Optimizer
 feature: Fragments, Integrations, Email Design, Personalization
+topic: Personalization, Integrations, Security
 event-cta-url-live: https://youtube.com/live/tyXesNYv-eM
 event-start-time: 2025-07-31 08:30-7
 event-guests: Sandra Hausmann, Chris Ivory, Jyothitha Chandran, Kaitlin White
 last-substantial-update: 2025-07-31T00:00:00Z
 exl-id: 0accdf09-75c4-4ec7-b892-93c5d39c1bc5
-source-git-commit: 53783552b0f98d5bdb3178ae76879df08af8ac23
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 0%
+source-wordcount: '285'
+ht-degree: 14%
 
 ---
 
 # Alimenter du contenu personnalisé dans Journey Optimizer avec des fragments de contenu AEM et Dynamic Media
 
-Au cours de cette session, Jyothitha Chandran, Chris Ivory et Kaitlin White ont présenté comment Adobe Journey Optimizer (AJO) s’intègre de manière transparente aux fragments de contenu de sites Adobe Experience Manager (AEM) et à AEM Assets Dynamic Media pour offrir une personnalisation évolutive en temps réel sur chaque canal.
+Au cours de cette session, Jyothitha Chandran, Chris Ivory et Kaitlin White ont démontré comment Adobe Journey Optimizer (AJO) s’intègre de manière fluide aux fragments de contenu Adobe Experience Manager (AEM) Sites et à AEM Assets Dynamic Media afin de proposer une personnalisation évolutive et en temps réel sur tous les canaux.
 
 Découvrez comment réutiliser les fragments de contenu d’AEM directement dans AJO afin de rationaliser la diffusion de contenu, d’éliminer la duplication et d’assurer la cohérence entre les e-mails, le web, les notifications push, etc. Découvrez comment l’intégration de Dynamic Media permet aux marketeurs de créer des visuels hyper-personnalisés, tels que des images personnalisées avec des superpositions de texte en temps réel, à l’aide de ressources centralisées qui se mettent à jour instantanément dans toutes les campagnes.
 

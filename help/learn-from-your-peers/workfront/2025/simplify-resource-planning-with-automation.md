@@ -2,19 +2,20 @@
 title: Simplifier la planification des ressources grâce à l’automatisation
 description: Découvrez comment Deloitte utilise Fusion pour automatiser la planification des ressources et le suivi des PTO dans Workfront. Découvrez des conseils pratiques pour améliorer la précision, la visibilité et l’adoption par l’équipe.
 feature: Resource Management, Strategic Planning
+topic: Administration, Integrations
 role: Admin
 level: Intermediate
 doc-type: Event
 duration: 3587
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19421
-source-git-commit: 92e2db2c13888d036dce70e07cd0ac0b6bdc111b
+exl-id: b059479a-bc5b-417d-a2c7-6ce6ea6b0c5e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # Simplifier la planification des ressources grâce à l’automatisation
 
@@ -39,4 +40,3 @@ Découvrez comment les principales équipes rationalisent la planification des r
 * **L’engagement des parties prenantes** Collaboration et la résolution créative des problèmes étaient essentiels pour adapter les solutions aux besoins de l’équipe.
 
 L’adoption de l’automatisation réduit non seulement les efforts manuels, mais permet également aux équipes de gérer les ressources plus efficacement et de s’adapter à l’évolution des demandes des projets.
-

@@ -1,6 +1,7 @@
 ---
 title: Perte de données - Avantages de la migration d’un ancien système vers Web SDK
 description: Découvrez comment Adobe Web SDK simplifie l’implémentation, améliore les performances et réduit les coûts grâce à un suivi plus intelligent et à des intégrations simplifiées via Edge Network.
+feature: Data Governance, Data Configuration and Collection
 topic: Migration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3217
 last-substantial-update: 2025-10-28T00:00:00Z
 jira: KT-19500
-source-git-commit: 52bd6d5a06799c79ac84b9e4827011f89c6471df
+exl-id: e7a85278-aa6a-41d8-aed5-88249bd9193e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
-
 
 # Perte de données : avantages de la migration d’un ancien système vers Web SDK
 
@@ -54,4 +55,3 @@ Adobe Web SDK regroupe plusieurs bibliothèques de suivi (Analytics, Target, Aud
 * Prend en charge les schémas de modèle de données d’expérience (XDM) normalisés pour des données cohérentes entre les plateformes.
 
 Cette approche simplifie la maintenance, améliore les performances et permet une collaboration transparente entre les équipes.
-

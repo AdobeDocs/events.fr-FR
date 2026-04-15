@@ -4,11 +4,12 @@ description: Explorez les nouveaux engagements persistants des clients avec Jour
 kt: KT-20538
 solution: Journey Optimizer
 feature: Channel Configuration
+topic: Personalization
 event-cta-url-live: https://youtube.com/live/hLVIIul_2_g
 event-start-time: 2026-04-08 08:30-8
 event-guests: Sandra Hausmann, Don Huynh, Robert Calangiu, Brent Kostak
 exl-id: a9541062-a3d7-4b14-b93a-d3231bc11362
-source-git-commit: 85c30a3089b44ab1067f602d01de6d8d2a1efce4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -21,7 +22,7 @@ Explorez de nouvelles surfaces et des cas d’utilisation pour l’engagement de
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483389/?quality=12&learn=on)
 
-Poursuivez la discussion sur l’émission dans la [publication de la communauté Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-new-use-cases-for-customer-engagement-ios-live-activities-web-push-and-persistent-messaging-249581?profile.language=fr){target="_blank"}
+Poursuivez la discussion sur l’émission dans la [publication de la communauté Experience League.](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-new-use-cases-for-customer-engagement-ios-live-activities-web-push-and-persistent-messaging-249581){target="_blank"}
 
 <br>
 </br>

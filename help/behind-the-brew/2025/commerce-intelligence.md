@@ -1,6 +1,8 @@
 ---
 title: Adobe Commerce Intelligence (via MBI)
 description: Transformer vos données eCommerce en informations exploitables grâce aux tableaux de bord et rapports personnalisés de Adobe Commerce Intelligence
+feature: Integration
+topic: Integrations, Performance, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3236
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17169
 exl-id: 3d459527-e454-41fc-a952-0b36bb529184
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ Il s’agit d’un webinaire détaillé sur Adobe Commerce Intelligence (ancienn
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443025/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Présentation de Adobe Commerce Intelligence (ACI)** Le webinaire a présenté Adobe Commerce Intelligence, anciennement connu sous le nom de Magento Business Intelligence, en mettant en évidence ses fonctionnalités en tant que plateforme d’analyse et de gestion des données dans le cloud optimisée pour les projets open source Adobe Commerce et Magento.
 

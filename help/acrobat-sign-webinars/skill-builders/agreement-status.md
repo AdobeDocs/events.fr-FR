@@ -1,6 +1,8 @@
 ---
-title: Gérer les accords - Obtenir la visibilité en temps réel dans l’état du contrat
-description: Découvrez les avantages et les inconvénients des outils de gestion des accords et les bonnes pratiques afin que vous puissiez connaître à tout moment le statut de vos accords.
+title: Gérer les accords - Obtenez une visibilité en temps réel sur le statut des accords
+description: Venez découvrir les tenants et aboutissants des outils de gestion des accords et les bonnes pratiques afin de connaître à tout moment le statut de vos accords.
+feature: Sign
+topic: Development
 role: User
 level: Beginner
 doc-type: Event
@@ -8,17 +10,17 @@ duration: 1363
 last-substantial-update: 2024-04-30T00:00:00Z
 jira: KT-15299
 exl-id: 670ff959-a740-4cd4-96a8-95fb0d696ac8
-source-git-commit: a9055b8c455e5a28cc47f350644a7ae1a428d9bc
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-# Gérer les accords : obtenir la visibilité en temps réel dans l’état du contrat
+# Gérer les accords : obtenir une visibilité en temps réel sur le statut des accords
 
-Découvrez les avantages et les inconvénients des outils de gestion des accords et les bonnes pratiques afin que vous puissiez connaître à tout moment le statut de vos accords. Cette session aborde : les actions que vous pouvez effectuer sur des documents à partir de l’onglet Gérer , comment traiter et utiliser les données des formulaires web et des envois en masse et comment rechercher et filtrer les documents dont vous avez besoin.
+Venez découvrir les tenants et aboutissants des outils de gestion des accords et les bonnes pratiques afin de connaître à tout moment le statut de vos accords. Cette session abordera les sujets suivants : quelles actions vous pouvez effectuer sur les documents à partir de l’onglet Gérer , comment traiter et utiliser les données des formulaires web et des envois en bloc et comment rechercher et filtrer les documents dont vous avez besoin.
 
->[!VIDEO](https://video.tv.adobe.com/v/3455003/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3428190/?learn=on)
 
-Au cours de cette session, l’orateur discute de la gestion et du suivi des accords à l’aide de Adobe Acrobat Sign. &#x200B; Ils expliquent les différents statuts des accords, montrent les actions qui peuvent être entreprises sur les accords en cours et fournissent des ressources pour la formation continue.
+Au cours de cette session, l’intervenant explique comment gérer et suivre les contrats à l’aide de Adobe Acrobat Sign. &#x200B; Ils expliquent les différents états des accords, montrent les mesures qui peuvent être prises concernant les accords en cours et fournissent des ressources pour la poursuite de l’apprentissage.

@@ -1,6 +1,7 @@
 ---
 title: Leaders de la vente au détail - Croissance axée sur l'IA et playbooks les plus performants
 description: Découvrez comment les détaillants utilisent le trafic optimisé par l’IA pour accroître la fidélité, l’engagement et la conversion dans ce webinaire Adobe 2025.
+feature: Segmentation
 topic: Artificial Intelligence
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3350
 last-substantial-update: 2025-08-27T00:00:00Z
 jira: KT-18836
-source-git-commit: c3e2710187832f1f67a1e73c11b7262b32ed1f8a
+exl-id: 7267b110-fcba-4866-a7f8-4eefa0c14467
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
-
 
 # Leaders de la vente au détail : croissance axée sur l&#39;IA et playbooks les plus performants
 
@@ -37,7 +38,7 @@ Ce webinaire Succès client Adobe x Adobe Digital Insights présente les derniè
 ## Appliquer les stratégies d’IA étape par étape
 
 1. **Suivi du trafic IA** Configurez des analyses pour identifier les visites des plateformes IA (utilisez des segments LLM, des UTM).
-1. **Optimisez le contenu** Structurez les pages de produits avec des en-têtes clairs et des questions fréquentes pour une analyse facilitée par l’IA.
+1. **Optimisez le contenu** Structurez les pages de produits avec des en-têtes clairs et des questions fréquentes pour explorer facilement à l’IA.
 1. **Élargir la portée** Partagez des informations sur les produits sur les réseaux sociaux, les blogs et les sites d’analyse pour améliorer la visibilité.
 1. **Tirez parti des influenceurs** Faites équipe avec les créateurs de réseaux sociaux pour des campagnes d’affiliation et du contenu créé par les utilisateurs.
 1. **Améliorer les programmes de fidélité** Utilisez les données client pour personnaliser les récompenses et encourager les achats répétés.

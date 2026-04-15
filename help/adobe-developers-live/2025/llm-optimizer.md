@@ -1,19 +1,21 @@
 ---
 title: Optimisez les expériences d’IA sur site.
 description: Découvrez comment LLM Optimizer améliore la visibilité de l’IA et assure la pérennité de votre site web sans modifier le code.
+feature: Edge Delivery Services, Release Information
+topic: Artificial Intelligence, Performance, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1160
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-19982
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: c4b1bc0b-7b0d-4433-9efd-3adc026ff557
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '180'
 ht-degree: 1%
 
 ---
-
 
 # Optimisez les expériences sur site pour les agents AI avec LLM Optimizer
 
@@ -27,5 +29,5 @@ Remercions tout particulièrement nos sponsors Algolia et Ensemble pour leur sou
 
 ## Étapes suivantes
 
-* Poursuivre la conversation sur [Experience League](https://adobe.ly/47ss08A)
+* Poursuivre la conversation sur [](https://adobe.ly/47ss08A)
 * Découvrez [événements à venir](https://developerevents.adobe.com)

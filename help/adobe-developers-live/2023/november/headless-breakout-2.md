@@ -1,7 +1,8 @@
 ---
-title: Adobe Developers Live - NOV 23 - Ventilation sans affichage 2
-description: Dans cette session d’information de Adobe Developers Live, Gabriel Walt et Alex Tondo partagent des informations sur la façon dont Adobe.com utilise Universal Editor in Adobe Experience Manager pour améliorer sa stratégie de contenu. Enregistrés le 6 novembre 2023, ils discutent des fonctionnalités de cet éditeur WYSIWYG dans la rationalisation des processus de diffusion de contenu et de son rôle dans la simplification de la création de contenu. Cette session est idéale pour ceux qui souhaitent comprendre comment utiliser efficacement les outils de contenu dans AEM pour des expériences numériques dynamiques et attrayantes.
+title: Adobe Developers Live - 23 NOVEMBRE - Présentation découplée 2
+description: Au cours de cette session informative de Adobe Developers Live, Gabriel Walt et Alex Tondo partagent leurs informations sur la manière dont Adobe.com utilise l’éditeur universel dans Adobe Experience Manager pour améliorer sa stratégie de contenu. Enregistrés le 6 novembre 2023, ils discutent des fonctionnalités de cet éditeur de WYSIWYG pour rationaliser les processus de diffusion de contenu et de son rôle dans la simplification de la création de contenu. Cette session est parfaite pour ceux qui cherchent à comprendre comment utiliser efficacement les outils de contenu dans AEM pour offrir des expériences digitales dynamiques et attrayantes.
 solution: Experience Manager,Experience Manager Sites
+feature: Authoring
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,17 +14,17 @@ jira: KT-14425
 thumbnail: 3425635.jpeg
 exl-id: ee24d39f-0440-459c-b5c8-b05f2ab2e6c3
 duration: 1963
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Ventilation sans affichage Adobe Developers Live 2 - Novembre 2023
+# Adobe Developers Live Headless Breakout 2 - Novembre 2023
 
-Dans cette session d’information de Adobe Developers Live, Gabriel Walt et Alex Tondo partagent des informations sur la façon dont Adobe.com utilise Universal Editor in Adobe Experience Manager pour améliorer sa stratégie de contenu. Enregistrés le 6 novembre 2023, ils discutent des fonctionnalités de cet éditeur WYSIWYG dans la rationalisation des processus de diffusion de contenu et de son rôle dans la simplification de la création de contenu. Cette session est idéale pour ceux qui souhaitent comprendre comment utiliser efficacement les outils de contenu dans AEM pour des expériences numériques dynamiques et attrayantes.
+Au cours de cette session informative de Adobe Developers Live, Gabriel Walt et Alex Tondo partagent leurs informations sur la manière dont Adobe.com utilise l’éditeur universel dans Adobe Experience Manager pour améliorer sa stratégie de contenu. Enregistrés le 6 novembre 2023, ils discutent des fonctionnalités de cet éditeur de WYSIWYG pour rationaliser les processus de diffusion de contenu et de son rôle dans la simplification de la création de contenu. Cette session est parfaite pour ceux qui cherchent à comprendre comment utiliser efficacement les outils de contenu dans AEM pour offrir des expériences digitales dynamiques et attrayantes.
 
-Poursuivez la conversation dans [Communautés Experience League](https://adobe.ly/46ELi7X).
+Poursuivez la conversation dans [Experience League Communities](https://adobe.ly/46ELi7X).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425635/?learn=on)

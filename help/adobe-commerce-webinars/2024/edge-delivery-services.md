@@ -2,6 +2,8 @@
 title: Vitesse de l’éclair - Service Edge Delivery d’Adobe
 description: Dans la partie d’août de la série de webinaires APAC Commerce, nous inviterons Kamalesh Radhakrishnan, consultant principal en solutions, à partager un aperçu de Lightning Speed avec le service Edge Delivery d’Adobe. Donnez à chacun les moyens de créer du contenu avec l’IA et l’expérimentation et de proposer des expériences digitales exceptionnelles à la vitesse de la foudre.
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Integrations, Performance, Commerce
 role: Developer, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 2650
 last-substantial-update: 2024-09-03T00:00:00Z
 jira: KT-16131
 exl-id: dbdda6ae-335c-45db-8090-62eaf0385ad7
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -55,7 +57,7 @@ Utilise des compétences de développement web fondamentales (CSS et JavaScript)
 
 ### Optimisation du référencement et du trafic organique
 
-L&#39;amélioration des performances du site et des temps de chargement plus rapides contribuent à une meilleure optimisation du moteur de recherche (SEO). &#x200B;
+L’amélioration des performances du site et des temps de chargement plus rapides contribuent à une meilleure optimisation du moteur de recherche (SEO). &#x200B;
 Des scores Google Lighthouse plus élevés peuvent entraîner un trafic organique accru et une meilleure indexation du moteur de recherche. &#x200B;
 
 ### Flexibilité et évolutivité

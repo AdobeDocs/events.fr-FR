@@ -1,6 +1,8 @@
 ---
 title: Bases d’Adobe Analytics et au-delà
 description: Rejoignez le webinaire de Taylor Walker et Vishnu Pillai pour maîtriser Adobe Analytics, optimiser les espaces de travail, exporter des données et intégrer des outils. Regardez maintenant pour obtenir des informations d’experts
+feature: Analysis Workspace, Segmentation, Visualizations
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3437
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17172
 exl-id: 348404c6-3886-4af0-ae16-82ff379d0181
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -21,7 +23,7 @@ Dans ce webinaire, Taylor Walker et Vishnu Pillai nous guident à travers les pr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443028/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Présentation d’Adobe Analytics** la session a porté sur les notions de base et les fonctionnalités avancées d’Adobe Analytics, notamment la prise en main et l’utilisation efficace de la plateforme.
 
@@ -29,7 +31,7 @@ Dans ce webinaire, Taylor Walker et Vishnu Pillai nous guident à travers les pr
 
 * **Enregistrement et ressources** La session a été enregistrée et sera disponible pour un affichage à la demande. Les participants recevront un e-mail contenant le lien d’enregistrement. En outre, un document contenant des ressources a été fourni pour téléchargement.
 
-* **Fonctionnalités Adobe Analytics**
+* **Fonctionnalités**
 
    * **Workspace** L’accent était principalement mis sur l’espace de travail dans Adobe Analytics, notamment sur la navigation et l’utilisation de différents panneaux, visualisations et composants.
    * **Formations et parcours d’apprentissage** L’accent est mis sur la disponibilité de tutoriels de formation, de parcours d’apprentissage et de ressources telles qu’Experience League et la page Adobe Analytics YouTube pour un apprentissage plus poussé.

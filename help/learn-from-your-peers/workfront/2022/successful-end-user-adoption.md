@@ -5,13 +5,15 @@ role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Workfront
+feature: System Setup and Administration, Work Management
+topic: Administration, Integrations
 duration: 3647
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15818
 exl-id: e9f90ac6-2b16-4495-b7d5-ba29237160b7
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 Être administrateur système Adobe Workfront ne se limite pas à la compréhension du logiciel et à l’implémentation de ses fonctionnalités. Les administrateurs système sont chargés de communiquer une connexion claire à vos utilisateurs finaux. Ils doivent EXPLIQUER POURQUOI votre entreprise utilise Workfront ET, le cas échéant, ce qu’elle en retire.
 
-Dans ce webinaire à la demande, Cynthia Boon et Leslie Spier, responsables du succès client (et anciens clients !) chez Workfront, seront rejoints par Karlton Harrison, vice-président, ingénieur Data Platform chez Trust. Entre eux, ils ont des ANNÉES d&#39;expérience dans ce domaine, et ils couvriront :
+Dans ce webinaire à la demande, Cynthia Boon et Leslie Spier, responsables du succès client (et anciens clients !) Workfront, sera rejointe par Karlton Harrison, vice-président, ingénieur Data Platform chez Truist. Entre eux, ils ont des ANNÉES d&#39;expérience dans ce domaine, et ils couvriront :
 
 * Comment identifier les raisons de la mauvaise adoption par les utilisateurs finaux
 * Conseils pour documenter et communiquer les attentes en matière d’adoption

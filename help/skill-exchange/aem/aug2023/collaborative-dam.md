@@ -5,6 +5,7 @@ solution: Experience Manager Assets
 version: Experience Manager as a Cloud Service
 feature-set: Experience Manager, Experience Manager Assets
 feature: Asset Management
+topic: Artificial Intelligence, Performance
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -13,9 +14,9 @@ jira: KT-14146
 thumbnail: 3424014.jpeg
 exl-id: 53380015-5bc4-4957-958f-dac466d80d91
 duration: 2206
-source-git-commit: 5c946ab73e78d4243ca310032a10bb8e82228c3d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---

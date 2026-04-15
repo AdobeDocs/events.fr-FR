@@ -8,19 +8,20 @@ speaker-name-2: Jeremy Evans
 speaker-title-2: Senior Adoption Specialist
 speaker-company-2: Adobe
 feature: Person Scoring
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event
 duration: 3900
 last-substantial-update: 2025-09-24T00:00:00Z
 jira: KT-19208
-source-git-commit: bb85c1402450f8136b98d63425b743580ffa96f7
+exl-id: ff824962-ee50-4fb5-8cee-74da47d46523
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
-
 
 # Groupe D’Utilisateurs De Marketo De Base : Score Plus Intelligent, Pas Plus Difficile
 
@@ -54,4 +55,3 @@ La notation des leads transforme les données marketing brutes en informations e
 * Marketo offre des outils flexibles pour créer, tester et affiner les modèles de notation, avec des modèles et une assistance de la communauté.
 
 La compréhension et l’application de ces principes peuvent améliorer l’efficacité de la gestion des prospects et la vitesse du chiffre d’affaires.
-

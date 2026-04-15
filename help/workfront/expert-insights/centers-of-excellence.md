@@ -2,6 +2,7 @@
 title: Informations d’experts - Gouvernance et centres d’excellence avec Danielle Johnston
 description: Découvrez les stratégies de Danielle Johnston sur l’utilisation de Workfront pour créer une gouvernance et des centres d’excellence qui favorisent l’adoption et le changement positif.
 feature: Strategic Planning
+topic: Performance, Administration
 speaker-name-1: Danielle Johnston
 speaker-title-1: Customer Success Manager
 speaker-company-1: Adobe
@@ -11,19 +12,19 @@ doc-type: Event
 duration: 942
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18619
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+exl-id: d7ebb12d-102d-41a4-86a6-95f49384172f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
-
 
 # Informations d’experts - Gouvernance et centres d’excellence avec Danielle Johnston
 
 Bienvenue à nouveau dans les informations d’experts !  Je m’appelle Cynthia Boon et je suis votre responsable du succès client (CSM) Workfront « On-Demand ». Dans cet épisode, Danielle Johnston nous rejoint !  Elle partage ses idées sur la façon de commencer, les façons d’utiliser Workfront pour soutenir vos efforts de gouvernance et de centre d’excellence et nous encourage à être le changement positif que nous voulons voir dans Workfront ! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3470007/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3469897/?learn=on&enablevpops)
 
 ## Conseils
 
@@ -42,5 +43,4 @@ Danielle est une responsable du succès client qui a aidé plusieurs clients à 
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
-
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).

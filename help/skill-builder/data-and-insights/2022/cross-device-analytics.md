@@ -1,24 +1,26 @@
 ---
-title: Tout ce que vous devez savoir sur les analyses entre appareils et le Customer Journey Analytics
-description: mieux comprendre comment utiliser Adobe Analytics et Customer Journey Analytics pour analyser le comportement des utilisateurs qui s’étend sur plusieurs navigateurs/appareils/applications et canaux.
+title: Tout ce que vous devez savoir sur les analyses entre appareils et Customer Journey Analytics
+description: Découvrez comment utiliser Adobe Analytics et Customer Journey Analytics pour analyser le comportement des utilisateurs dans les navigateurs, les appareils, les applications et plusieurs canaux.
 solution: Customer Journey Analytics, Analytics
+feature: Basics, Use Cases, Analytics Basics, Analysis Workspace
+topic: Integrations, Migration
 role: Admin, Data Architect, Data Engineer, User
 level: Intermediate, Experienced
 kt: 10565
 thumbnail: 343820.jpeg
 exl-id: 07a57ae6-77b9-4776-ad19-9308ba324158
 duration: 2573
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
-# Tout ce que vous devez savoir sur les analyses entre appareils et le Customer Journey Analytics
+# Tout ce que vous devez savoir sur les analyses entre appareils et Customer Journey Analytics
 
-mieux comprendre comment utiliser Adobe Analytics et Customer Journey Analytics pour analyser le comportement des utilisateurs qui s’étend sur plusieurs navigateurs/appareils/applications et canaux.
+Découvrez comment utiliser Adobe Analytics et Customer Journey Analytics pour analyser le comportement des utilisateurs dans les navigateurs, les appareils, les applications et plusieurs canaux.
 
-*Sonia Charles* Consultant en solutions, données et statistiques / Adobe
+*Sonia Charles* consultante en solutions, données et informations / Adobe
 
 >[!VIDEO](https://video.tv.adobe.com/v/343820/?quality=12&learn=on)

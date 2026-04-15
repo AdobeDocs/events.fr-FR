@@ -1,7 +1,9 @@
 ---
-title: Préparation à la migration de la plateforme CDP en temps réel
-description: Niveau d’effort lié à la migration vers la plateforme des données clients en temps réel, aux changements organisationnels avec un déplacement et aux ressources Adobes supplémentaires pour la prise en charge de Adobe Audience Manager
+title: Préparation à la migration vers Real-time CDP
+description: Le niveau d’effort de migration vers Real-Time CDP, les changements organisationnels avec un déménagement et les ressources Adobe supplémentaires pour la prise en charge de Adobe Audience Manager
 solution: Real-Time Customer Data Platform
+feature: Audiences
+topic: Migration
 role: Admin, Data Architect, Data Engineer, Leader
 level: Intermediate
 doc-type: Event
@@ -10,20 +12,20 @@ jira: KT-13899
 thumbnail: 3423829.jpeg
 exl-id: 26b27608-f2e8-4452-9258-92353dfd2ec5
 duration: 2774
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Préparation à la migration de la plateforme CDP en temps réel
+# Préparation à la migration vers Real-time CDP
 
-Découvrez la migration vers la plateforme de données clients en temps réel Adobe.
+Découvrez comment migrer vers la plateforme de données clients en temps réel Adobe.
 
-* Niveau d’effort de migration
+* Le niveau d’effort de migration
 * Changements organisationnels avec une migration
-* Ressources Adobes supplémentaires pour la prise en charge de Adobe Audience Manager
+* Ressources Adobe supplémentaires pour la prise en charge de Adobe Audience Manager
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423829/?learn=on)

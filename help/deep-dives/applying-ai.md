@@ -1,19 +1,21 @@
 ---
 title: Application de l’IA dans Marketo
 description: Rejoignez Lucas, AJ et Darshil pour apprendre à utiliser l’IA dans Marketo, de la notation des prospects à la conversion, avec des conseils pratiques et de nouveaux outils pour améliorer vos campagnes.
+feature: Programs, Reporting
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3377
 last-substantial-update: 2025-06-12T00:00:00Z
 jira: KT-18117
-source-git-commit: a6dc33c7c991f949fd72539525e64af57520778f
+exl-id: b45f02c5-e9b7-405e-9637-83440b39f254
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
-
 
 # Application de l’IA dans Marketo : stratégies pratiques et mise en œuvre
 

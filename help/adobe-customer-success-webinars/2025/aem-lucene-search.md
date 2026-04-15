@@ -3,19 +3,20 @@ title: Conseils essentiels et bonnes pratiques pour la recherche AEM Lucene
 description: Stimulez l’engagement numérique avec les outils de recherche AEM avancés tels que les filtres, les facettes, la suggestion automatique, la NGram et la vérification orthographique. Apprenez de démonstrations du monde réel.
 solution: Experience Manager
 feature: Search
+topic: Performance
 role: Admin, Developer
 level: Intermediate, Experienced
 doc-type: Event
 duration: 3630
 last-substantial-update: 2025-11-13T00:00:00Z
 jira: KT-19550
-source-git-commit: 84c9a126769fa94b0197d12ca594137e13edc510
+exl-id: 53d83139-90f4-4e6c-ba6d-66638c02b4c3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
-
 
 # Conseils essentiels et bonnes pratiques pour la recherche AEM Lucene
 
@@ -60,4 +61,3 @@ L’optimisation efficace des recherches dans AEM Lucene implique une configurat
 * **Tri et facettes** Activez propertyIndex et l’ordre de tri ; définissez la facette** true pour le filtrage basé sur le nombre.
 
 L’application de ces stratégies accélère les requêtes, réduit l’utilisation des ressources et donne des résultats plus pertinents.
-

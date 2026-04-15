@@ -2,14 +2,16 @@
 title: Maîtriser les dates et les chronologies de projets
 description: Que vous soyez orienté processus par nature, ou un « gestionnaire de projet accidentel », avoir une bonne compréhension des délais et des contraintes de date est essentiel pour planifier et exécuter le travail dans Workfront.
 solution: Workfront
+feature: Strategic Planning
+topic: Administration, Integrations
 role: User
 level: Beginner
 kt: 10310
 exl-id: edd8e9f9-9abe-4fb8-83ea-f150bedd614b
 duration: 2200
-source-git-commit: 64c1e96ddb7688006d5bc0d376b1dadb2bbff492
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---

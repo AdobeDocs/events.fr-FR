@@ -2,6 +2,7 @@
 title: Programmes, Campagnes et plus
 description: Acquérir des compétences Marketo Engage pratiques pour créer des programmes évolutifs, rationaliser la gestion des campagnes et appliquer les bonnes pratiques de création de rapports, idéales pour les nouveaux utilisateurs et les utilisateurs en début de carrière.
 feature: Programs, Reporting, Templates
+topic: Performance
 speaker-name-1: AJ Navarro
 speaker-title-1: Marketing Operations Manager
 speaker-company-1: Sprout Social
@@ -14,13 +15,13 @@ doc-type: Event
 duration: 3287
 last-substantial-update: 2025-08-01T00:00:00Z
 jira: KT-18450
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+exl-id: 7efac6ad-7a28-436d-8174-28bee14f2853
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
-
 
 # Programmes, Campagnes et plus
 

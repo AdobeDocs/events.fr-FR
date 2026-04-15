@@ -2,6 +2,7 @@
 title: Informations d’experts - Workflows Workfront non traditionnels avec Kiersten Kollins
 description: Découvrez comment Kiersten Kollins de DSW utilise des workflows Adobe Workfront non traditionnels, des rapports personnalisés et des automatisations de Fusion pour optimiser les opérations marketing et améliorer l’efficacité des équipes.
 feature: Work Management
+topic: Performance, Development
 speaker-name-1: Kiersten Kollins
 speaker-title-1: Senior Marketing Ops Technologist
 speaker-company-1: DSW
@@ -12,9 +13,9 @@ duration: 1129
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18622
 exl-id: a67e7d79-fbfa-4268-9418-98fe977e13f3
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 Bienvenue dans un autre épisode d’Expert Insights !  Je m’appelle Cynthia Boon et je suis votre responsable du succès client (CSM) Workfront « à la demande ». Vous êtes-vous déjà demandé comment les autres clients utilisent Workfront ? Vous recherchez des moyens uniques de résoudre vos défis organisationnels et de soutenir vos processus ?  
 
-Nous avons eu la chance d’accueillir Kiersten Kollins, technologue principale en opérations marketing chez DSW, qui a participé à notre événement Retail Industry Circle en mai, au cours duquel elle a présenté les workflows Workfront non traditionnels afin de gérer le travail de son équipe. 
+Nous avons eu la chance d’accueillir Kiersten Kollins, technologue principale en opérations marketing chez DSW, qui a participé à notre événement Retail Industry Circle en mai, au cours duquel elle a présenté les workflows Workfront non traditionnels afin de gérer le travail de son équipe.  
 
 Vous serez surpris par toutes les idées fantastiques qu’elle partage, notamment : 
 
@@ -33,11 +34,11 @@ Vous serez surpris par toutes les idées fantastiques qu’elle partage, notamme
 * Lancer des révisions succinctes de Creative pour répondre aux besoins de leurs utilisateurs et de leurs projets. 
 * *BONUS !* Elle partage également un exemple de l’un de ses cas d’utilisation préférés de Fusion !
 
->[!VIDEO](https://video.tv.adobe.com/v/3469941/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3469900/?learn=on&enablevpops)
 
 ## Ressources
 
-Au cours de l’événement, Kiersten a mentionné deux ressources que nous avons jointes à la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315?profile.language=fr).
+Au cours de l’événement, Kiersten a mentionné deux ressources que nous avons jointes à la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2024-workfront-expert-insights-non-traditional/td-p/694315).
 * **Exemple De Rapport** - Rapport De Tâche Après Les Heures De Bureau 
 * **Mécanismes de sécurisation du routage des commentaires DSW** Ceci est un exemple fantastique de la manière d’apprendre à vos utilisateurs à fournir des mises à jour dans Workfront ! 
 
@@ -49,4 +50,4 @@ Avec plus d&#39;une décennie d&#39;expérience dans le domaine de la création 
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).

@@ -3,19 +3,20 @@ title: Présentation de l’éditeur universel pour la création Adobe Experienc
 description: 'Explorez l’éditeur universel d’AEM : cas d’utilisation, prise en charge de plusieurs architectures et considérations essentielles pour simplifier la création et améliorer la diffusion de contenu.'
 solution: Experience Manager
 feature: Authoring
+topic: Headless, Integrations, Security
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 2891
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18763
-source-git-commit: 3b54c46988da18248024d115997704d9881f5e68
+exl-id: 6212a20d-f58c-481c-a475-89153cb0d040
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
-
 
 # Éditeur universel : aperçu stratégique de la création AEM moderne
 

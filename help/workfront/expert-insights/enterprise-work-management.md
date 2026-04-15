@@ -2,6 +2,7 @@
 title: Informations d’expert - Gestion du travail en entreprise avec Daniel Clarke
 description: Écoutez Daniel Clarke partager les bonnes pratiques de Workfront en matière de gestion du travail d’entreprise, d’adoption, de mesures de leadership et de stratégies de fusion pour réussir.
 feature: Workfront Fusion
+topic: Performance
 speaker-name-1: Daniel Clarke
 speaker-title-1: Senior Manager of Restaurant Solutions
 speaker-company-1: Sysco Corporation
@@ -12,9 +13,9 @@ duration: 2547
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18620
 exl-id: db16e693-cd95-4e67-858b-b57829d1e704
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -30,7 +31,7 @@ Il a partagé tant de bonnes pratiques lors de notre événement Workfront Colle
 * Exemples de la manière d’améliorer l’expérience des parties prenantes. 
 * Recommandations pour les mesures de leadership. 
 * Exemples de la manière de défendre Fusion auprès de vos dirigeants. 
-* Une fois que vous aurez obtenu Fusion, n’oubliez pas de donner son nom à votre plateforme Fusion ! 
+* Une fois que vous aurez obtenu Fusion, n’oubliez pas de donner son nom à votre plateforme Fusion !  
 
 >[!VIDEO](https://video.tv.adobe.com/v/3469898/?learn=on&enablevpops)
 
@@ -44,4 +45,4 @@ J&#39;ai le plaisir de diriger une équipe de concepteurs, de consultants et d&#
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).

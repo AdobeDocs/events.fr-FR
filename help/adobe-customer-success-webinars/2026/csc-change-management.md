@@ -1,6 +1,7 @@
 ---
 title: Session 5 de VRA - Stratégies de gestion des modifications pour exploiter votre Supply chain de contenu
 description: Découvrez les stratégies de gestion des modifications pour améliorer votre supply chain de contenu et votre efficacité à l’aide des méthodes éprouvées d’Adobe.
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Leader, User
 level: Beginner
@@ -8,19 +9,19 @@ doc-type: Event
 duration: 2363
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20301
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+exl-id: b5887dae-a6cd-4ad6-b762-6ddfccd72bd2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
-
 
 # Session 5 de la VRA : stratégies de gestion des modifications pour exploiter votre Supply chain de contenu
 
 Découvrez comment mener votre entreprise vers une Supply chain de contenu axée sur les données à l’aide d’une lentille de gestion des changements éprouvée. Cette session montrera comment aligner les dirigeants, équiper les équipes et élaborer de nouvelles méthodes de travail pour que les équipes, l’automatisation et le partage des données se traduisent en fait par un délai de mise sur le marché plus rapide, une réutilisation plus élevée des ressources et une gouvernance plus forte.
 
->[!VIDEO](https://video.tv.adobe.com/v/3479819/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479816/?learn=on&enablevpops)
 
 * **Diriger la transition, pas seulement les outils** Découvrez comment cadrer la transition vers une Supply chain de contenu automatisée en termes commerciaux qui suscitent une véritable adhésion, en clarifiant le « pourquoi maintenant », en alignant les dirigeants et en transformant les premiers projets pilotes en une impulsion pour l’ensemble de l’organisation.
 

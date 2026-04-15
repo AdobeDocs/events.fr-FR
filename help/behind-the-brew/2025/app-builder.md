@@ -1,6 +1,9 @@
 ---
-title: Créateur d’application d’Adobe Developer
+title: Adobe Developer App Builder
+solution: Commerce
+feature: App Builder
 description: Intégrer Adobe Commerce à n’importe quelle application e-commerce à l’aide d’App Builder Expert Guidance et de démonstrations en direct
+topic: Personalization, Integrations, Performance
 role: Admin, Developer
 level: Intermediate, Experienced
 doc-type: Event
@@ -8,20 +11,20 @@ duration: 3460
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17171
 exl-id: 0a645dc1-0f5d-4b85-bd09-80a453754434
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '356'
 ht-degree: 2%
 
 ---
 
-# Créateur d’application d’Adobe Developer
+# Adobe Developer App Builder
 
 Dans ce webinaire, Dharmendra Kothe, conseiller technique client Adobe, partage tout ce que vous devez savoir sur l’utilisation d’App Builder pour intégrer Adobe Commerce à toute autre application d’e-commerce. App Builder fournit un framework d’extensibilité tiers unifié permettant d’intégrer et de créer des applications personnalisées qui étendent les fonctionnalités natives d’Adobe Commerce et s’intègrent à des solutions tierces. Nous couvrons tous les aspects, de l’accès à cet outil à la création de structures qui réduisent au minimum les complications lors du transfert de données entre Adobe Commerce et d’autres systèmes. Dharmendra fournit également une démonstration de haut niveau sur la configuration d&#39;applications tierces avec App Builder. Comme toujours, nous concluons par une session de questions-réponses en direct qui répond à vos questions.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443027/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Présentation d’Adobe Commerce App Builder** le webinaire a présenté Adobe Commerce App Builder, soulignant sa capacité à améliorer et à rationaliser les expériences Adobe Commerce en permettant aux développeurs et développeuses de créer, personnaliser et développer des applications et des extensions adaptées à des besoins spécifiques.
 

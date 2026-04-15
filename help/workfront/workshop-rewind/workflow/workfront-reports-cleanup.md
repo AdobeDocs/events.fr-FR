@@ -1,19 +1,21 @@
 ---
 title: Nettoyage de printemps avec des rapports Workfront
 description: Découvrez comment les rapports Workfront peuvent rationaliser votre nettoyage de printemps et améliorer la productivité grâce à une gestion des données efficace.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3594
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19772
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 93a99d21-f0db-45ae-ac37-6e996e0a8649
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
-
 
 # Nettoyage de printemps avec des rapports Workfront
 

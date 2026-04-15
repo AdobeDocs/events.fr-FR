@@ -3,6 +3,7 @@ title: Conception d’un modèle opérationnel pour le succès de CJA
 description: Découvrez comment créer un modèle opérationnel évolutif et interfonctionnel qui aligne votre programme de mesure CJA sur les objectifs stratégiques et favorise l’efficacité et l’impact à long terme.
 solution: Customer Journey Analytics
 feature: Basics
+topic: Performance, Administration, Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3590
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18694
 exl-id: 70a11781-ad10-4e3b-94f3-f1a5a98d725c
-source-git-commit: 2f10210e5c92e5c1bf77c886ed347cdc967f089e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---

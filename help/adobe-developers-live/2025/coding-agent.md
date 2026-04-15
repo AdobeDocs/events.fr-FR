@@ -1,19 +1,21 @@
 ---
 title: Confrontation du codage de l’IA - Le bon, le mauvais et le mauvais
 description: Explorez les agents de codage de l’IA en action avec Adobe Experience Manager et découvrez leurs forces et leurs défis dans des scénarios réels.
+feature: Edge Delivery Services
+topic: Artificial Intelligence, Development
 role: Developer
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 1603
 last-substantial-update: 2025-12-10T00:00:00Z
 jira: KT-19973
-source-git-commit: 76b4e64093ebad269534b65c41c4bda1a6bb468f
+exl-id: 9ef082f9-5051-4a04-9559-cef70a6d7e31
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '189'
 ht-degree: 1%
 
 ---
-
 
 # Confrontation sur le codage de l’IA : le bon, le mauvais et le mauvais
 
@@ -27,5 +29,5 @@ Remercions tout particulièrement nos sponsors Algolia et Ensemble pour leur sou
 
 ## Étapes suivantes
 
-* Poursuivre la conversation sur [Experience League](https://adobe.ly/47ss08A)
+* Poursuivre la conversation sur [](https://adobe.ly/47ss08A)
 * Découvrez [événements à venir](https://developerevents.adobe.com)

@@ -1,7 +1,8 @@
 ---
-title: Déverrouiller la puissance de l’Adobe GenStudio et la préparation organisationnelle pour relever les défis de la chaîne d’approvisionnement en contenu
-description: La session a souligné l’importance d’une chaîne d’approvisionnement de contenu connectée pour des performances améliorées, la vision de Gen Studio de l’Adobe pour l’optimisation des workflows de contenu et les fonctionnalités d’IA de Adobe Experience Manager, Workfront et d’Experience Platform pour améliorer la création de contenu, la planification et l’efficacité opérationnelle.
+title: Tirer parti de la préparation organisationnelle d’Adobe GenStudio pour relever les défis de Content Supply chain
+description: La session a souligné l’importance d’une supply chain de contenu connectée pour améliorer les performances, de la vision d’Adobe Gen Studio pour optimiser les workflows de contenu et des fonctionnalités d’IA de Adobe Experience Manager, Workfront et Experience Platform pour améliorer la création de contenu, la planification et l’efficacité opérationnelle.
 solution: Experience Manager, Workfront, Experience Platform, GenStudio for Performance Marketing
+feature: Edge Delivery Services, Release Information, Reports and Dashboards, Strategic Planning
 topic: Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -9,40 +10,38 @@ doc-type: Event
 duration: 3763
 last-substantial-update: 2024-12-10T00:00:00Z
 jira: KT-16625
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+exl-id: 38df856e-3191-4f3d-9e7e-c4814d1c24d1
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
+# Tirer parti d’Adobe GenStudio : préparation de l’entreprise aux défis posés par Content Supply chain
 
-# Déverrouillage de la puissance de l’Adobe GenStudio : la disposition organisationnelle à relever les défis de la chaîne d’approvisionnement en contenu
-
-Alors que les entreprises cherchent à accélérer leurs processus de production et de diffusion de contenu, il est essentiel d’adopter des outils innovants comme les fonctionnalités GenAI d’Adobe pour faciliter leurs processus marketing de bout en bout afin qu’elles puissent se concentrer sur leur travail ayant le plus d’impact et générer des recettes. Ce webinaire se concentrera sur l’équipement des participants afin qu’ils comprennent comment ils peuvent préparer leurs entreprises à accélérer leur chaîne d’approvisionnement de contenu en mettant l’accent sur les fonctionnalités de GenAI et les opportunités d’optimisation des workflows disponibles dans la pile d’Adobes, en mettant l’accent sur l’état actuel et la disponibilité des fonctionnalités de GenAI.
+Alors que les entreprises cherchent à accélérer leurs processus de production et de diffusion de contenu, il est essentiel d&#39;adopter des outils innovants tels que les fonctionnalités GenAI d&#39;Adobe pour faciliter leurs processus marketing de bout en bout afin qu&#39;elles puissent se concentrer sur leur travail le plus efficace générant des recettes. Ce webinaire se concentrera sur la manière dont les participants peuvent préparer leur entreprise à accélérer leur supply chain de contenu en mettant en évidence les fonctionnalités de GenAI et les opportunités d’optimisation des workflows disponibles dans la pile Adobe, avec un accent mis sur l’état actuel et la disponibilité des fonctionnalités de GenAI.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440932/?learn=on&enablevpops)
 
-## Principales acquisitions
+## Points essentiels à retenir
 
-La session a souligné l’importance d’une chaîne d’approvisionnement de contenu connectée pour des performances améliorées, la vision de Gen Studio de l’Adobe pour l’optimisation des workflows de contenu et les fonctionnalités d’IA de Adobe Experience Manager, Workfront et d’Experience Platform pour améliorer la création de contenu, la planification et l’efficacité opérationnelle.
+La session a souligné l’importance d’une supply chain de contenu connectée pour améliorer les performances, de la vision d’Adobe Gen Studio pour optimiser les workflows de contenu et des fonctionnalités d’IA de Adobe Experience Manager, Workfront et Experience Platform pour améliorer la création de contenu, la planification et l’efficacité opérationnelle.
 
-### Présentation de la chaîne d’approvisionnement de contenu
+### Présentation de Content Supply chain
 
-* La chaîne d’approvisionnement de contenu est un processus de bout en bout qui implique la planification, la création, la gestion et la distribution de contenu pour améliorer les performances globales.
-* Une chaîne d’approvisionnement de contenu en panne entrave le potentiel du contenu en raison de défis tels qu’une mauvaise conformité aux normes de la marque, de longues révisions, de risques de conformité, de difficultés dans la réutilisation des ressources et d’informations de performances limitées.
-* Les workflows connectés sont essentiels, et bien que l’IA générative accélère la vitesse du contenu, ses avantages complets ne sont atteints qu’avec une production rationalisée.
+* Content supply chain est un processus de bout en bout qui implique la planification, la création, la gestion et la distribution de contenu afin d’améliorer les performances globales.
+* Un supply chain de contenu rompu entrave le potentiel du contenu en raison de défis tels que le respect médiocre des normes de la marque, la longueur des révisions, les risques de conformité, les difficultés de réutilisation des ressources et des informations limitées sur les performances.
+* Les workflows connectés sont essentiels. Bien que l’IA générative améliore la vitesse du contenu, ses avantages ne sont pleinement atteints qu’avec une production rationalisée.
 
 ### Gen Studio Vision
 
-* La proposition d’Adobe pour l’optimisation de la chaîne d’approvisionnement de contenu comprend cinq blocs de création : processus et planification, diffusion et activation, reporting et informations, création et production, et gestion des ressources.
-* Gen Studio est un ensemble complet de solutions reposant sur Adobe Experience Platform, qui tirent parti de divers modèles et applications d’IA dans le cloud et le Creative Cloud.
-* Les composants AI visent à révolutionner les expériences client avec des outils de génération de contenu, de workflows assistés et de mesure et d’informations.
+* La proposition d’Adobe pour optimiser la supply chain de contenu comprend cinq blocs de création : workflow et planification, diffusion et activation, reporting et informations, création et production, et gestion des ressources.
+* Gen Studio est un ensemble complet de solutions reposant sur Adobe Experience Platform, qui exploite divers modèles et applications d’IA dans le cloud et Creative Cloud.
+* Les composants d’IA visent à révolutionner les expériences client avec des outils pour la génération de contenu, des workflows assistés, ainsi que des mesures et des informations.
 
 ### Fonctionnalités d’IA disponibles pour trois produits
 
-* Adobe Experience Manager (AEM)** Fournit une meilleure création de contenu grâce à l’intelligence, l’activation accélérée du contenu sur marque à grande échelle et des expériences d’apprentissage automatique optimisées.
-* Adobe Workfront** L’assistant d’IA facilite la planification et l’exécution du travail.
-* Adobe Experience Platform (AEP)** L’assistant d’IA démocratise l’accès aux données et aux métadonnées de l’entreprise, approfondit les connaissances, améliore l’efficacité des produits, augmente la productivité et simplifie les workflows opérationnels.
-
-
+* Adobe Experience Manager (AEM)** permet une meilleure création de contenu grâce à l’intelligence, à l’activation accélérée du contenu de marque à grande échelle et à des expériences d’auto-apprentissage optimisées.
+* Adobe Workfront ** l’assistant d’IA facilite la planification et l’exécution du travail.
+* Adobe Experience Platform (AEP)** L’assistant d’IA démocratise l’accès aux données et métadonnées des entreprises, approfondit les connaissances, améliore l’efficacité des produits, augmente la productivité et rationalise les workflows opérationnels.

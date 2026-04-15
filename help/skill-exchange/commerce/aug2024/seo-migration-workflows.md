@@ -1,29 +1,31 @@
 ---
-title: Recherche de succès - Optimisation de l’optimisation du référencement dans tous les workflows de migration
-description: Déverrouillez tout le potentiel de l’optimisation du moteur de recherche de votre site et rationalisez les workflows de migration via Adobe Commerce. Découvrez comment les experts en optimisation pour les moteurs de recherche Kelly Rasmussen et Annie Whitney de dentsu travaillent avec des clients lors de migrations de plateforme complètes. Rejoints par Jon Gossett d’Adobe, ils approfondiront les bonnes pratiques relatives à l’optimisation pour les moteurs de recherche, découvriront comment vous assurer que votre contenu est classé parmi les meilleurs sur les moteurs de recherche et attireront le public approprié. Comprendre mieux comment gérer les workflows de migration en toute transparence, de la gestion des URL aux données structurées, etc. Cette session vous apprendra - Découvrir les bonnes pratiques de CMS SEO Support des workflows de gestion des URL Transformer les propriétés de schéma
+title: Recherche de succès - Optimisation du SEO tout au long des workflows de migration
+description: Libérez tout le potentiel de l’optimisation pour les moteurs de recherche de votre site et rationalisez les workflows de migration via Adobe Commerce. Découvrez comment Kelly Rasmussen et Annie Whitney, expertes en SEO chez dentsu, travaillent avec les clients sur les migrations de plateformes complètes. Rejoints par Jon Gossett d’Adobe, ils se pencheront sur les bonnes pratiques en matière d’optimisation pour les moteurs de recherche, apprendront à assurer une bonne place à votre contenu pour les moteurs de recherche et à séduire la bonne audience. comprendre comment gérer les workflows de migration en toute simplicité, de la gestion des URL aux données structurées, etc. ;Au cours de cette session, vous apprendrez - Découvrir les bonnes pratiques SEO CMS Prise en charge des workflows de gestion des URL Transformation des propriétés de schéma
 solution: Commerce
+feature: Integration, Edge Delivery Services
+topic: Security, Migration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 2176
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16081
-source-git-commit: 5cba50018e7aa4fb0e867fd0070bd7f003215d5f
+exl-id: 887f8b6b-4a51-4291-b9ca-98b2bee2c5e0
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
+# Recherche de succès : optimisation du SEO tout au long des workflows de migration
 
-# Recherche de succès : optimisation de l’optimisation du référencement dans tous les workflows de migration
+Libérez tout le potentiel de l’optimisation pour les moteurs de recherche de votre site et rationalisez les workflows de migration via Adobe Commerce. Découvrez comment Kelly Rasmussen et Annie Whitney, expertes en SEO chez dentsu, travaillent avec les clients sur les migrations de plateformes complètes. Rejoints par Jon Gossett d’Adobe, ils se pencheront sur les bonnes pratiques en matière d’optimisation pour les moteurs de recherche, apprendront à assurer une bonne place à votre contenu pour les moteurs de recherche et à séduire la bonne audience. comprendre comment gérer les workflows de migration en toute simplicité, de la gestion des URL aux données structurées, etc. ;
 
-Déverrouillez tout le potentiel de l’optimisation du moteur de recherche de votre site et rationalisez les workflows de migration via Adobe Commerce. Découvrez comment les experts en optimisation pour les moteurs de recherche Kelly Rasmussen et Annie Whitney de dentsu travaillent avec des clients lors de migrations de plateforme complètes. Rejoints par Jon Gossett d’Adobe, ils approfondiront les bonnes pratiques relatives à l’optimisation pour les moteurs de recherche, découvriront comment vous assurer que votre contenu est classé parmi les meilleurs sur les moteurs de recherche et attireront le public approprié. mieux comprendre comment gérer les workflows de migration de manière transparente, de la gestion des URL aux données structurées, etc.
+Au cours de cette session, vous apprendrez :
 
-Au cours de cette session, vous allez apprendre :
-
-* Découverte des bonnes pratiques relatives à SEO CMS
+* Découverte des bonnes pratiques relatives au SEO CMS
 * Prise en charge des workflows de gestion des URL
-* Transformation des propriétés de schéma
+* Transformation des propriétés d’un schéma
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433145/?learn=on)

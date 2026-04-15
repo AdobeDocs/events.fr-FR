@@ -3,15 +3,17 @@ title: Établir un webinaire sur le centre d’excellence Workfront
 description: Écoutez les experts Mattel et Adobe Workfront vous parler de la création d’un centre d’excellence (CE) Workfront dans notre webinaire à la demande. Découvrez les composants clés, les outils et les étapes incrémentielles permettant une administration durable et évolutive, ce qui améliore l’adoption par les utilisateurs ainsi que l’utilisation des produits et l’intégrité des données.
 role: Admin, Leader
 solution: Workfront
+feature: System Setup and Administration
+topic: Administration, Integrations
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3715
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15824
 exl-id: 02d88c39-f53c-4529-ab0e-aebf0f2dff42
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---

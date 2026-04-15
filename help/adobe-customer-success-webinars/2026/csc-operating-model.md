@@ -1,6 +1,7 @@
 ---
 title: Conception d’un modèle opérationnel pour le succès de Content Supply chain
 description: Concevez un modèle opérationnel efficace pour le succès de Content supply chain. Découvrez la structure de l’équipe, la gouvernance et l’optimisation des processus.
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3736
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20312
-source-git-commit: fbfcb7835f5a51aea9a295fa1adb63b61585adb2
+exl-id: 52dbf621-de61-428b-921b-84f249fd2823
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '118'
 ht-degree: 1%
 
 ---
-
 
 # Conception d’un modèle opérationnel pour le succès de Content Supply chain
 

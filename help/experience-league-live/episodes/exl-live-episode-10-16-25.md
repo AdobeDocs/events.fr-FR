@@ -4,13 +4,14 @@ description: Découvrez comment Customer Journey Analytics B2B edition permet au
 kt: KT-19012
 solution: Customer Journey Analytics
 feature: Basics
+topic: Performance, Development
 event-cta-url-live: https://youtube.com/live/kiJfaedHSVw
 event-start-time: 2025-10-16 09:00-7
 event-guests: Doug Moore, Kari Olson, Caitlin Baunach
 exl-id: 7d497f07-0dfd-4501-8fc2-bbac213603ec
-source-git-commit: 07ee9ab45d67312420d19800611e3a183b0a144c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -25,7 +26,7 @@ Que vous vous concentriez sur l&#39;optimisation des expériences client, l&#39;
 
 >[!TIP]
 >
-> Faites un essai vous-même - [Inscrivez-vous pour accéder à un environnement de démonstration](https://business.adobe.com/fr/resources/customer-journey-analytics-b2b-edition-sandbox.html).
-> &#x200B;> Vous pouvez continuer la conversation et poser des questions aux experts d’Adobe dans le **[forum de la communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513?profile.language=fr#)**.
+> Faites un essai vous-même - [Inscrivez-vous pour accéder à un environnement de démonstration](https://business.adobe.com/resources/customer-journey-analytics-b2b-edition-sandbox.html).
+> Vous pouvez continuer la conversation et poser des questions aux experts d’Adobe dans le **[forum de la communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-unlock-the-power-of-customer-journey/td-p/780513#)**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476010/?learn=on&enablevpops)

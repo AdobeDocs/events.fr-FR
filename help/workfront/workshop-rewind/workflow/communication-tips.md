@@ -1,19 +1,21 @@
 ---
 title: Conseils de communication efficaces dans Workfront
 description: Découvrez 10 conseils de communication pour améliorer l’efficacité des workflows dans Adobe Workfront et favoriser une meilleure collaboration et productivité.
+feature: Workfront Fusion
+topic: Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3317
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19762
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: 24aedd87-d213-46c9-b6c5-d55906105115
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
-
 
 # Conseils de communication efficaces dans Workfront
 

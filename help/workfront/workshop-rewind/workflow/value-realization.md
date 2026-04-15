@@ -1,19 +1,21 @@
 ---
 title: Maximiser la valeur Workfront
 description: Découvrez des stratégies pour optimiser votre investissement dans Workfront. Découvrez comment aligner les objectifs, mesurer les résultats et communiquer efficacement la valeur.
+feature: Work Management, Workfront Fusion
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3185
 last-substantial-update: 2025-12-17T00:00:00Z
 jira: KT-19752
-source-git-commit: 9f3e518295eaf64776880ba0442eb8a1b8d645e4
+exl-id: c016a870-7d4e-4ad3-8be1-ecf3bfd0d853
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Maximiser la valeur Workfront
 

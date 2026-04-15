@@ -1,29 +1,31 @@
 ---
-title: Ouverture de Keynote - Activation des équipes avec des données
-description: Comprenez l’importance de la démocratisation des données et les problèmes qu’elle résout. Découvrez les bonnes pratiques pour fournir le contexte approprié et assurer une utilisation efficace des données. Découvrez comment Adobe Analytics et Customer Journey Analytics peuvent aider vos équipes à disposer de données.
+title: 'Discours d’ouverture : autonomiser les équipes grâce aux données'
+description: comprendre l’importance de la démocratisation des données et les problèmes qu’elle résout ;Découvrez les bonnes pratiques pour fournir le contexte approprié et assurer une utilisation efficace des données. Découvrez comment Adobe Analytics et Customer Journey Analytics peuvent aider vos équipes à utiliser les données à bon escient.
 solution: Analytics
+feature: Analytics Basics, Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 642
 last-substantial-update: 2024-08-30T00:00:00Z
 jira: KT-15979
-source-git-commit: a5e8d1ccfb7f8874a0081b70ac8c756702ce438d
+exl-id: 9d52c522-8600-4812-997c-dc0182e79236
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '130'
 ht-degree: 1%
 
 ---
 
+# Discours d’ouverture : autonomiser les équipes grâce aux données
 
-# Ouverture d’une note de bas : Activation des équipes avec des données
-
-L&#39;autonomisation des équipes à l&#39;aide de données est essentielle pour stimuler l&#39;innovation et améliorer la productivité. Cette note d’orientation explore les raisons pour lesquelles la démocratisation des données est essentielle, les bonnes pratiques pour la mise en oeuvre et la manière dont Adobe Analytics et Customer Journey Analytics fournissent les outils pour réussir.
+Il est essentiel de fournir des données aux équipes pour stimuler l’innovation et améliorer la productivité. Cette allocution abordera les raisons pour lesquelles la démocratisation des données est essentielle, les bonnes pratiques de mise en œuvre et la manière dont Adobe Analytics et Customer Journey Analytics fournissent les outils pour réussir.
 
 ## Points clés
 
-* Comprenez l&#39;importance de la démocratisation des données et les problèmes qu&#39;elle résout.
+* comprendre l’importance de la démocratisation des données et les problèmes qu’elle résout ;
 * Découvrez les bonnes pratiques pour fournir le contexte approprié et assurer une utilisation efficace des données.
-* Découvrez comment Adobe Analytics et Customer Journey Analytics peuvent aider vos équipes à disposer de données.
+* Découvrez comment Adobe Analytics et Customer Journey Analytics peuvent aider vos équipes à utiliser les données à bon escient.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453589/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)

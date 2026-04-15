@@ -2,19 +2,20 @@
 title: Workfront Crowdsource Challenge - Modèles de projet
 description: Découvrez comment Ologie rationalise les modèles de projet Adobe Workfront avec des conseils pratiques pour simplifier la configuration, améliorer les rapports et maintenir la flexibilité des processus.
 feature: System Setup and Administration, Reports and Dashboards
+topic: Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3728
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18626
-source-git-commit: 6225f36c5d26ecca5ebc2aca24a2d592a3279570
+exl-id: 5377412d-db56-4fca-92c9-0c4c59fa2d79
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
-
 
 # Défi de source ouverte Workfront : modèles de projet
 
@@ -24,8 +25,8 @@ Cet atelier a été enregistré le 8 avril 2025 et a mis en vedette Ross Barton 
 
 En plus de l’enregistrement à la demande, nous avons inclus le jeu de diapositives et les conseils qui ont été partagés dans le chat :  
 
-* [Diaporama PDF](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
-* [Publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512?profile.language=fr)
+* [PDF du jeu de diapositives](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040825+-+Crowdsource+Challenge+with+Project+Templates.pdf)
+* [Experience League Community Post](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-crowdsource-challenge-project/td-p/747512)
 
 ## Conseils
 
@@ -37,6 +38,6 @@ En plus de l’enregistrement à la demande, nous avons inclus le jeu de diaposi
 * Utilisez le formulaire personnalisé avec une logique telle que lorsque vous créez le projet que vous devez faire pour le client, toutes les questions que vous devez poser et toutes les étapes que vous devez suivre se trouvent dans les détails du formulaire personnalisé pour les « personnes à faire ». Gardez le modèle simple. 
 * Utilisez des vues avec des données de formulaire personnalisé afin que « ce qui doit être fait » puisse se trouver dans les champs de formulaire personnalisé au lieu des tâches qui doivent être marquées comme terminées. 
 
-L’un des thèmes les plus importants que nous avons vus dans la conversation était le défi consistant à essayer de garder les modèles de projet simples, mais en même temps à suivre l’effort et à s’assurer que les équipes réalisent toutes les étapes nécessaires pour terminer le projet. 
+L’un des thèmes les plus importants que nous avons vus dans la conversation était le défi consistant à essayer de garder les modèles de projet simples, mais en même temps à suivre l’effort et à s’assurer que les équipes réalisent toutes les étapes nécessaires pour terminer le projet.  
 
- Nous espérons vous voir lors des futurs ateliers sur le succès client !  Veillez à consulter les [Événements Workfront](https://experienceleague.adobe.com/events/?lang=fr&filters=Workfront) sur Experience League pour obtenir la liste complète et vous inscrire.
+ Nous espérons vous voir lors des futurs ateliers sur le succès client !  Veillez à consulter les [Événements ](https://experienceleague.adobe.com/events/?filters=Workfront) sur Experience League pour obtenir la liste complète et vous inscrire.

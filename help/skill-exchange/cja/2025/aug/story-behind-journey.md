@@ -1,19 +1,21 @@
 ---
 title: 'Lumières, données, Insight : découvrir l’histoire de chaque Parcours'
 description: Découvrez comment AEP et CJA unifient les données, regroupent les identités et activent les informations pour une personnalisation en temps réel et des parcours client plus intelligents.
+feature: Basics, Use Cases
+topic: Personalization, Integrations, Security
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18811
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: 31d09a38-1410-4301-b46f-174e7bd6ac7c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
-
 
 # Lumières, données, Insight : découvrir l’histoire de chaque Parcours
 
@@ -27,7 +29,7 @@ Nous terminerons avec des conseils pratiques pour opérationnaliser le processus
 
 Tirez parti de la puissance de Adobe Experience Cloud pour transformer des données fragmentées en informations clients exploitables.
 
-* **Les données en tant que narration** utilisez des structures stratégiques pour passer de données éparpillées à des parcours clients transparents.
+* **Data as Storytelling** utilisez des structures stratégiques pour passer de données éparpillées à des parcours clients transparents.
 * **Outils unifiés** Alignez CJA, Real-Time CDP, Target et Journey Optimizer pour obtenir des expériences mesurables.
 * **Étapes de mise en œuvre** Établissez un schéma XDM, configurez le SDK Web et donnez la priorité à la confidentialité et au consentement pour une utilisation éthique des données.
 * **Segmentation et personnalisation** Tirez parti des données comportementales, démographiques et transactionnelles pour un ciblage dynamique des audiences.

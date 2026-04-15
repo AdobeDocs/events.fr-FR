@@ -1,6 +1,8 @@
 ---
 title: Optimisation et maintenance de votre environnement
 description: Optimisez Adobe Workfront avec des conseils d’experts sur l’efficacité, l’intégrité des données et l’évolutivité. Découvrez les outils, les stratégies et les pratiques d’amélioration continue.
+feature: Reports and Dashboards, System Setup and Administration, Work Management
+topic: Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +10,9 @@ duration: 3655
 last-substantial-update: 2025-01-24T00:00:00Z
 jira: KT-17168
 exl-id: 36805420-e73f-47f7-b853-f7df9a358b3d
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -43,7 +45,7 @@ Ne manquez pas cette occasion d’actualiser et de mettre à niveau votre enviro
 * Posez des questions pour impliquer les participants.
 
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 La session portait sur l’optimisation et la maintenance de l’environnement de travail.
 

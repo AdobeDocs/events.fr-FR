@@ -1,6 +1,7 @@
 ---
 title: Établir un parrainage exécutif pour stimuler le succès dans l’ensemble du Supply chain de contenu
 description: Découvrez comment le parrainage par des dirigeants favorise le succès dans la supply chain de contenu grâce à des stratégies pratiques permettant d’obtenir le soutien des dirigeants et d’aligner les équipes.
+feature: Strategic Planning
 topic: Content Supply Chain
 role: Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 2502
 last-substantial-update: 2026-02-20T00:00:00Z
 jira: KT-20311
-source-git-commit: a9eddbd6554ae26c3ed54c29e6894c9e2d1a63a0
+exl-id: e84d484b-3b00-4073-8781-3671449c207c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
-
 
 # Établir un parrainage exécutif pour stimuler le succès dans l’ensemble du Supply chain de contenu
 

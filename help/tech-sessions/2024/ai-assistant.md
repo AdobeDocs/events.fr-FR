@@ -5,13 +5,15 @@ role: Admin
 level: Beginner
 doc-type: Event
 solution: Experience Platform, Real-Time Customer Data Platform, Journey Optimizer, Customer Journey Analytics
+feature: AI Assistant, Audiences, Journeys, Use Cases
+topic: Artificial Intelligence, Personalization, Integrations
 duration: 2813
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16367
 exl-id: 29400794-7b24-41e8-a3b5-e15337ecb62f
-source-git-commit: 088615f28aa91dfd4ba119c11c4c9f8a89441d84
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -66,7 +68,7 @@ L’IA générative est rapidement adoptée et 89 % des professionnels du market
 
 * L’assistant AI est désactivé par défaut et nécessite des autorisations d’administrateur.
 * Prend en charge le contrôle d’accès basé sur les rôles, les objets et les attributs.
-* Ne regarde pas les données des consommateurs finaux et utilise Azure Open AI pour le traitement.
+* Ne examine pas les données des consommateurs finaux et utilise l’IA ouverte d’Azure pour le traitement.
 
 ### Obtention d’accès
 

@@ -2,25 +2,26 @@
 title: Créer un parrainage exécutif pour soutenir le succès d’Adobe Customer Journey Analytics
 description: Découvrez les stratégies permettant d’obtenir le parrainage des dirigeants pour réussir Adobe Customer Journey Analytics. Favorisez l’alignement, sécurisez les budgets et encouragez la prise de décisions axée sur les données.
 feature: Data Governance
+topic: Development
 role: Leader, User
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1623
 last-substantial-update: 2025-08-19T00:00:00Z
 jira: KT-18767
-source-git-commit: 2f118841f4332bcf105e519f31de34b6ac6c58dc
+exl-id: 7e5827d4-e243-4030-94f0-1ad25cab8951
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
-
 
 # Création d’un parrainage exécutif pour soutenir le succès d’Adobe Customer Journey Analytics (CJA)
 
 Au cours de notre quatrième session, nous examinons comment l&#39;absence de parrainage exécutif solide retardera la prise de décisions, l&#39;allocation du budget et la gestion du changement. Dans ce webinaire, nous explorons le rôle essentiel que jouent les dirigeants dans la promotion des programmes Adobe Customer Journey Analytics, l’alignement des équipes transversales et la création de résultats opérationnels mesurables. Découvrez des stratégies pratiques pour impliquer les principales parties prenantes, communiquer efficacement la valeur et créer une culture de prise de décision axée sur les données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470856/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3470853/?learn=on&enablevpops)
 
 ## Créer des dossiers commerciaux
 

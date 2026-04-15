@@ -1,7 +1,9 @@
 ---
-title: Points phares du suivi Web des Experience Makers d’août 2023
-description: Greg Dimeris de T.Rowe Price explique comment structurer, empiler et surcharger votre contenu pour un retour sur investissement maximal. Découvrez comment optimiser vos expériences web avec des composants comme blocs de construction pour accélérer et accélérer la croissance. Cindy Underwood de LPL Financial partagera avec vous les raisons pour lesquelles Adobe Bridge est l’outil idéal pour vous aider à déverrouiller l’automatisation pour les sites Adobe Experience Manager (AEM). Avec Adobe Bridge, vous pouvez appliquer rapidement des conventions d’affectation de noms, redimensionner, formater et mettre à jour les profils colorimétriques de vos ressources en quelques secondes. Découvrez comment déverrouiller les avantages d’Adobe Bridge en tant que plateforme intermédiaire pour les sites d’AEM !
+title: 'Août 2023 : Coup de projecteur sur les créateurs d’expérience du suivi web d’AEM'
+description: Greg Dimeris de T.Rowe Price vous expliquera comment structurer, empiler et surcharger votre contenu pour un retour sur investissement maximal. Découvrez comment alimenter vos expériences web avec des composants qui sont vos éléments de base pour la vitesse et la croissance ! Cindy Underwood de LPL Financial expliquera pourquoi Adobe Bridge est l’outil idéal pour vous aider à déverrouiller l’automatisation pour les sites Adobe Experience Manager (AEM). Adobe Bridge vous permet d’appliquer rapidement des conventions de nommage, de redimensionner, de mettre en forme et de mettre à jour les profils de couleurs de vos ressources en quelques secondes. Découvrez comment tirer parti des avantages d’Adobe Bridge en tant que plateforme d’évaluation pour les sites AEM.
 solution: Experience Manager Sites
+feature: Edge Delivery Services, Authoring
+topic: Development, Headless
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,17 +12,17 @@ jira: KT-14612
 thumbnail: 3425896.jpeg
 exl-id: 17d0bc2e-2f17-4f91-8a8f-3a07038368ed
 duration: 2370
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
-# Événement d’Exchange de compétences Août 2023 - Suivi web AEM - Points phares des créateurs d’expérience
+# Événement d’échange de compétences août 2023 - AEM Web Track - Créateurs d’expérience en vedette
 
-Greg Dimeris de T.Rowe Price explique comment structurer, empiler et surcharger votre contenu pour un retour sur investissement maximal. Découvrez comment alimenter vos expériences web avec des composants comme blocs de construction pour accélérer et accélérer votre croissance.
+Greg Dimeris de T.Rowe Price vous expliquera comment structurer, empiler et surcharger votre contenu pour un retour sur investissement maximal. Découvrez comment alimenter vos expériences web avec des composants qui constituent vos blocs de création pour la vitesse et la croissance.
 
-Cindy Underwood de LPL Financial expliquera pourquoi Adobe Bridge est l’outil idéal pour vous aider à déverrouiller l’automatisation pour Adobe Experience Manager (AEM) Sites. Avec Adobe Bridge, vous pouvez appliquer rapidement des conventions d’affectation de noms, redimensionner, formater et mettre à jour les profils colorimétriques de vos ressources en quelques secondes. Découvrez comment déverrouiller les avantages d’Adobe Bridge en tant que plateforme intermédiaire pour AEM Sites !
+Cindy Underwood, de LPL Financial, expliquera pourquoi Adobe Bridge est l’outil idéal pour vous aider à déverrouiller l’automatisation pour les sites Adobe Experience Manager (AEM). Adobe Bridge vous permet d’appliquer rapidement des conventions de nommage, de redimensionner, de mettre en forme et de mettre à jour les profils de couleurs de vos ressources en quelques secondes. Découvrez comment tirer parti des avantages d’Adobe Bridge en tant que plateforme d’évaluation pour AEM Sites.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425896/?learn=on)

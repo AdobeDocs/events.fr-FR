@@ -1,6 +1,8 @@
 ---
 title: Moderniser le Parcours d'inscription des payeurs avec AEM Forms
 description: Découvrez comment AEM Forms permet à Payers de moderniser les parcours d’inscription, d’automatiser les processus et de proposer des expériences client omnicanal attrayantes.
+feature: Release Information, Authoring
+topic: Personalization, Administration
 soluton: Experience Manager Forms
 role: Developer, User
 level: Intermediate, Experienced
@@ -8,13 +10,13 @@ doc-type: Event
 duration: 3550
 last-substantial-update: 2025-08-08T00:00:00Z
 jira: KT-18695
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+exl-id: e7990fde-6d15-48ac-b539-bcb2fe31e7c7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
-
 
 # Moderniser le Parcours d&#39;inscription des payeurs avec AEM Forms
 
@@ -27,7 +29,7 @@ Découvrez comment AEM Forms aide les payeurs à moderniser le parcours d’insc
 * **Création de formulaire optimisée par l’IA** générez entièrement des formulaires ou convertissez des PDF à l’aide de l’IA.
 * **Règles dynamiques** affichez ou masquez des champs en fonction des entrées de l’utilisateur pour les expériences personnalisées.
 * **Communications interactives** créez des PDF parfaits pour garantir la conformité aux réglementations.
-* **Forms multimodal** Activez le remplissage de formulaires de conversation et d’image.
+* Forms multimodal **Activez le remplissage de formulaires de conversation et d’image.**
 
 Ces innovations garantissent que les formulaires sont conviviaux, efficaces et adaptables à l’évolution des besoins.
 

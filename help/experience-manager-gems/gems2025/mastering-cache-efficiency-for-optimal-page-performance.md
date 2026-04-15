@@ -4,13 +4,15 @@ description: Découvrez des stratégies éprouvées pour améliorer les performa
 role: Developer
 level: Intermediate
 feature: Edge Delivery Services
+topic: Performance
 doc-type: Event
 duration: 2871
 last-substantial-update: 2025-10-02T00:00:00Z
 jira: KT-17227
-source-git-commit: f0179cfd595c2d1ced94c230141428430ed9abfb
+exl-id: 730453c4-e712-4330-90c1-a36fa6ba5c14
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---

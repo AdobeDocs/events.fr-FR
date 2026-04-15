@@ -2,6 +2,8 @@
 title: Marketo et Mochas - Partie 2 sur la maturité - Optimisation de l’utilisation de Marketo
 description: Rejoignez Cynthia Chang et Carly Gaver, conseillères d’entreprise Adobe, pour la Partie 2 de la série Marketo Maturité, axée sur la gestion des données, les intégrations CRM et l’optimisation des campagnes pour améliorer votre utilisation de Marketo, avec des questions et réponses en direct.
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Personalization, Integrations
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3562
 last-substantial-update: 2024-09-24T00:00:00Z
 jira: KT-16234
 exl-id: 06e58ede-e2bd-4b48-b335-f91a818246cd
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -25,17 +27,17 @@ Rejoignez Cynthia Chang et Carly Gaver, conseillers d’entreprise Adobe, qui pa
 ## Principaux sujets abordés
 
 **Niveaux De Maturité Marketo**
-Axé sur les phases d’analyse, de présentation et d’exécution pour optimiser l’utilisation marketing via les niveaux de maturité de Marketo.
+Axé sur les phases d’explore, de présentation et d’exécution pour optimiser l’utilisation marketing via les niveaux de maturité de Marketo.
 
 **Gestion et normalisation des données**
 Souligné l’importance de données propres et exploitables dans Marketo grâce à la gestion des données et aux processus de normalisation des données.
 Souligné l&#39;importance de la normalisation des valeurs des données pour un traitement efficace, avec des exemples sur la normalisation des valeurs des pays.
 
-**Intégrations CRM**
+Intégrations **CRM**
 Vous avez parlé de la gestion efficace des intégrations CRM à l’aide de fonctionnalités d’intégration natives Marketo telles que les chatbots et les webinaires.
 
 **Optimisation de la gestion des campagnes**
 Conseils pour optimiser la gestion des campagnes au moyen de modèles de programme, de bibliothèques de contenu et de listes intelligentes.
 
-**Traitement intelligent de campagne**
+**Traitement de campagne intelligent**
 Discussion sur les facteurs qui affectent le temps de traitement des campagnes et fourniture des bonnes pratiques pour la création et la gestion des campagnes intelligentes.

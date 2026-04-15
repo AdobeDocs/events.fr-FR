@@ -5,13 +5,15 @@ role: Admin
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 solution: Workfront
+feature: Work Management
+topic: Administration, Integrations
 duration: 3629
 last-substantial-update: 2024-07-16T00:00:00Z
 jira: KT-15821
 exl-id: 49248573-9997-4dcd-b618-7af7264e7982
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---

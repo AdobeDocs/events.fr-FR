@@ -3,6 +3,7 @@ title: Optimiser la diffusion de contenu - Tirer parti de la puissance des servi
 description: La session sur Edge Delivery Services (EDS) a porté sur son architecture, son intégration à la création basée sur des documents et sur AEM, la création rapide de sites, les options de personnalisation et les bonnes pratiques pour maintenir des performances élevées.
 solution: Experience Manager, Experience Manager as a Cloud Service
 feature: Edge Delivery Services
+topic: Headless, Integrations, Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -10,10 +11,10 @@ duration: 3589
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16631
 exl-id: 2057e491-9ec3-4bfe-b85a-6b74d70822bf
-source-git-commit: 32060a6a0d2cc24b8dc09c8f5e9f9d9c679e6d3e
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 0%
+source-wordcount: '401'
+ht-degree: 1%
 
 ---
 
@@ -23,11 +24,11 @@ Au cours de cette session, nous vous donnerons un aperçu de Edge Delivery Servi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440938/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 ### Présentation d’EDS
 
-* EDS est un ensemble de services composables conçus pour améliorer les capacités d’ATM. &#x200B;
+* EDS est un ensemble de services composables conçus pour améliorer les fonctionnalités d’ATM. &#x200B;
 * Il vise à offrir des expériences exceptionnelles qui stimulent l’engagement et les conversions avec des cycles de développement rapides et un score phare de 100 %. &#x200B;
 
 ### Options de création

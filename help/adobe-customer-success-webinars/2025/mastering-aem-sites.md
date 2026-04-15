@@ -2,6 +2,8 @@
 title: Maîtriser AEM Sites - Modèles, navigation et SEO
 description: 'Découvrez les principes de base d’AEM Sites : comment utiliser les modèles de page, concevoir une navigation intuitive et appliquer les principales pratiques d’optimisation du moteur de recherche pour améliorer la visibilité et les performances du site.'
 solution: Experience Manager
+feature: Edge Delivery Services, Release Information
+topic: Performance
 version: Experience Manager as a Cloud Service
 role: Admin, Developer, User
 level: Beginner, Intermediate
@@ -9,13 +11,13 @@ doc-type: Event
 duration: 2025
 last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-18431
-source-git-commit: f9e38f359b801bc6abc7a108f1da755922e43c65
+exl-id: 2f1f7a19-bd3a-4769-a820-9720c73b4c95
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # Maîtriser AEM Sites : guide des modèles, de navigation et d’optimisation du moteur de recherche pour les débutants
 
@@ -27,4 +29,4 @@ Cette session offre une compréhension fondamentale de trois aspects essentiels 
 * Créer une navigation conviviale pour une expérience de site optimale
 * Poser les bases du SEO dans AEM Sites
 
->[!VIDEO](https://video.tv.adobe.com/v/3464317/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3464298/?learn=on&enablevpops)

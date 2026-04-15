@@ -1,7 +1,8 @@
 ---
 title: Informations d’experts - Pratiques de création de rapports avec Nichole Vargas
-description: 'Découvrez les meilleures pratiques de création de rapports de Nichole Vargas : améliorez vos compétences en matière de création de rapports Workfront grâce à des champs calculés, des conseils de mise en récit et des ressources axées sur la communauté.'
+description: 'Découvrez les meilleures pratiques de création de rapports de Nichole Vargas : améliorez vos compétences en matière de création de rapports Workfront grâce aux champs calculés, aux conseils de storytelling et aux ressources axées sur la communauté.'
 feature: Reports and Dashboards
+topic: Performance
 speaker-name-1: Nichole Vargas
 speaker-title-1: Senior Customer Success Manager
 speaker-company-1: Adobe
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 1547
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18616
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+exl-id: dc1904fe-6403-42bd-91c8-d58a0ea73237
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
-
 
 # Informations d’experts - Pratiques de création de rapports avec Nichole Vargas
 
@@ -27,7 +28,7 @@ Pour mémoire, elle est tout aussi géniale, intelligente et généreuse avec qu
 
 Rejoignez-moi, votre CSM Workfront On-Demand, alors que je discute avec Nichole de la façon dont elle est devenue notre gourou du reporting, de ses fonctionnalités et conseils préférés, et de la façon dont nous pouvons tous « ressembler davantage à Nichole » ! 
 
->[!VIDEO](https://video.tv.adobe.com/v/3469967/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3469894/?learn=on&enablevpops)
 
 ## Conseils
 
@@ -41,15 +42,15 @@ Rejoignez-moi, votre CSM Workfront On-Demand, alors que je discute avec Nichole 
 
 ## Ressources
 
-* **Blog** - [Gagnez Du Temps Grâce Aux Champs Personnalisés Calculés](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237?profile.language=fr)
-* **Article** - [Expressions de données calculées]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=fr#:~:text=Vous pouvez utiliser des expressions de données qui génèrent un nouveau champ.&amp;text=Pour plus d&#39;informations sur la création de données dans un formulaire personnalisé.)
-* **Suivi des événements** - [atelier sur les champs personnalisés calculés](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725?profile.language=fr)
-* **Community** - [Reporting Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722?profile.language=fr#M1406)
-* **Blog** - [Utilisez des plans directeurs Workfront pour optimiser votre environnement de gestion du travail !](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147?profile.language=fr)
+* **Blog** - [Gagnez Du Temps Grâce Aux Champs Personnalisés Calculés](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/save-time-using-calculated-fields-to-capture-dates-details-and/ba-p/518237)
+* **Article** - [Expressions de données calculées]&#x200B;(https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions.html?lang=en#:~:text=Vous pouvez utiliser des expressions de données qui génèrent un nouveau champ.&amp;text=Pour plus d’informations sur la création de données dans un formulaire personnalisé.)
+* **Suivi des événements** - [atelier sur les champs personnalisés calculés](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/follow-up-calculated-custom-fields-workshop/td-p/592725)
+* **Community** - [Reporting Cookbook](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
+* **Blog** - [Utilisez des plans directeurs Workfront pour optimiser votre environnement de gestion du travail !](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/use-workfront-blueprints-to-optimize-your-work-management/ba-p/547147)
    * *Prise en main* - Ce blog vous permet de trouver plus d’informations sur le tableau de bord de maintenance du système et les lots de rapports du tableau de bord d’utilisation. 
    * *Conseil bonus !* - Abonnez-vous au blog pour recevoir des notifications lorsque de nouveaux plans directeurs sont publiés. 
-* **Article** - [Variables De Filtre De Caractères Génériques](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=fr)
-* **Article** - [Ajouter une mise en forme conditionnelle de base à une vue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=fr)
+* **Article** - [Variables De Filtre De Caractères Génériques](https://experienceleague.adobe.com/docs/workfront/using/reporting/reports/report-elements/understand-wildcard-filter-variables.html?lang=en)
+* **Article** - [Ajouter une mise en forme conditionnelle de base à une vue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
 
 ## À propos du conférencier
 
@@ -57,5 +58,4 @@ Nichole Vargas est une grande gagnante, engagée à dépasser les attentes des c
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
-
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).

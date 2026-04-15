@@ -3,19 +3,20 @@ title: 'Le marketing plus intelligent commence ici : intégrer Google et Adobe'
 description: Rejoignez Charles Farina, vice-président de la stratégie numérique d’Adswerve, et Danielle Doolin, responsable marketing principal des produits chez Adobe, pour un webinaire instructif explorant le pouvoir de transformation de l’intégration de plateformes de pointe.
 solution: Customer Journey Analytics
 feature: Use Cases
+topic: Personalization, Integrations, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Value Video
 duration: 3373
 last-substantial-update: 2025-05-05T00:00:00Z
 jira: KT-18029
-source-git-commit: b0f07b52c50ea008e8d0569ef7c8687a9e806f72
+exl-id: 49aa946f-cfc0-49dc-93f5-907ec48048c1
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
-
 
 # Le marketing plus intelligent commence ici : intégration de Google et d’Adobe
 
@@ -35,7 +36,7 @@ Découvrez comment ce trio puissant peut vous offrir une vue unifiée et complè
 
 - Prenez des décisions axées sur les données : allez au-delà des mesures au niveau de la surface et obtenez des informations exploitables pour optimiser vos stratégies marketing et atteindre vos objectifs commerciaux
 
-Ce que vous apprendrez :
+Ce que vous apprendrez :
 
 - Principaux avantages de l’intégration de Google Marketing Platform, GA4 et Adobe CJA
 

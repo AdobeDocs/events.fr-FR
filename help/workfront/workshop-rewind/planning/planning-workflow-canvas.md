@@ -1,19 +1,21 @@
 ---
 title: Workfront Power Trio - Connexion des tableaux de bord de planification, de workflow et de zone de travail
 description: Découvrez comment intégrer des tableaux de bord de planification, de workflow et de zone de travail dans Workfront pour une gestion de projet rationalisée.
+feature: Reports and Dashboards, Work Management, Strategic Planning
+topic: Integrations, Security, Content Supply Chain
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3585
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-20609
-source-git-commit: c350251d880f9e1ea4de6de51e1139894c9a3b47
+exl-id: 1038eeb7-584f-421c-88cd-9084746a5974
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 2%
 
 ---
-
 
 # Workfront Power Trio - Connexion des tableaux de bord de planification, de workflow et de zone de travail
 
@@ -21,8 +23,6 @@ Les organisations performantes ne considèrent pas la planification, l’exécut
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481830/?learn=on&enablevpops)
 
-Vous recherchez d&#39;autres ressources pour l&#39;événement, y compris le diaporama partagé pendant la session ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160?profile.language=fr) !
+Vous recherchez d&#39;autres ressources pour l&#39;événement, y compris le diaporama partagé pendant la session ? Consultez la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-s-power-trio-connecting-planning-workflow-and-canvas-dashboards-march-12-2026-249160) !
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
-
-
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.

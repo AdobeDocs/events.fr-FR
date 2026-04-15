@@ -1,14 +1,16 @@
 ---
 title: Demandez à l’expert - Suivi des bonnes pratiques relatives à Workfront Proof
 description: Découvrez pourquoi utiliser des modèles de workflow automatisés, comment les créer et comment ajuster les paramètres d’épreuve pour garantir la confidentialité. Ce webinaire a été enregistré le 4 mars 2020.
+feature: System Setup and Administration
+topic: Security
 doc-type: feature video
 team: Technical Marketing
 kt: 9917
 exl-id: 2b2f6522-2fd9-4d5e-9bc3-903c1d5e4e3b
 duration: 4083
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1649'
+source-wordcount: '1656'
 ht-degree: 0%
 
 ---

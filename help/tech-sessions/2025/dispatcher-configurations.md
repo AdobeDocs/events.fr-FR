@@ -4,19 +4,20 @@ description: Découvrez les bonnes pratiques d’AEM Dispatcher en matière de m
 solution: Experience Manager as a Cloud Service
 version: Experience Manager as a Cloud Service
 feature: Dispatcher
+topic: Security, Performance, Development
 role: Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 4200
 last-substantial-update: 2025-05-07T00:00:00Z
 jira: KT-17903
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 7c3542c0-74fe-4f9d-8edb-d4bc442deff3
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
-
 
 # Sessions techniques : configurations Dispatcher dans Adobe Experience Manager as a Cloud Service
 

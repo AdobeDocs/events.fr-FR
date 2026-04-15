@@ -2,6 +2,8 @@
 title: Modèles, jetons et travail d’équipe - Rendez votre contenu évolutif
 description: Découvrez comment utiliser des jetons et des modèles dans  [!DNL Marketo Engage]. Découvrez des conseils pour tirer le meilleur parti de votre bibliothèque de contenu existante.
 solution: Marketo Engage
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
@@ -10,9 +12,9 @@ jira: KT-12415
 thumbnail: 3416250.jpeg
 exl-id: 2526c088-08da-4839-a1f4-27aa1f620340
 duration: 3440
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---

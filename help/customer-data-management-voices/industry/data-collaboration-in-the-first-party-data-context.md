@@ -1,8 +1,9 @@
 ---
 title: Collaboration de données dans le contexte des données propriétaires
-description: Ce webinaire contribuera à libérer les opportunités de collaboration des données dans un avenir sans cookies tiers.
+description: Ce webinaire vous aidera à découvrir les opportunités de collaboration en matière de données dans un avenir sans cookies tiers.
 solution: Real-Time Customer Data Platform
 feature: Data Management
+topic: Security
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner, Intermediate, Experienced
 type: Event
@@ -10,29 +11,29 @@ thumbnail: 337665.jpg
 kt: 9145
 exl-id: 633f2927-d6e0-4370-96c6-36d1f612d5ba
 duration: 2560
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 13%
+source-wordcount: '172'
+ht-degree: 16%
 
 ---
 
 # Collaboration de données dans le contexte des données propriétaires
 
-Tenez votre engagement en matière dʼexpérience, avec un accès à moins de données. Que vous soyez annonceur, éditeur ou agence, ce webinaire vous aidera à libérer les opportunités de collaboration en matière de données dans un avenir sans cookies tiers.
+Tenez votre engagement en matière dʼexpérience, avec un accès à moins de données. Que vous soyez annonceur, éditeur ou agence, ce webinaire vous aidera à découvrir les opportunités de collaboration en matière de données dans un avenir sans cookies tiers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337665/?quality=12&learn=on)
 
-## Principales mesures à prendre :
+## Points essentiels à retenir :
 
-* Comment incorporer des modèles de collaboration de données dans le contexte de données propriétaires, avec le consentement des consommateurs.
-* Création de partenariats de marque à marque et de direction d’éditeur qui offrent la promesse d’expérience.
-* Découvrez des informations sur les cas d’utilisation de marketing différencié dans un premier parcours de confidentialité pour les consommateurs.
+* Comment intégrer des modèles de collaboration de données dans le contexte des données propriétaires, avec le consentement des consommateurs et consommatrices.
+* Créer des partenariats de marque à marque et directs par l’éditeur qui tiennent la promesse d’expérience.
+* Découverte d’informations pour les cas d’utilisation marketing différenciés dans un parcours de confidentialité des premiers consommateurs.
 
-## Informations supplémentaires 
+## Informations supplémentaires
 
-[Vue d’ensemble de la correspondance de segments](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=fr)
+[Présentation de la Segment Match](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en)
 
-[Audience Marketplace pour les acheteurs de données](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=fr)
+[Audience Marketplace pour les acheteurs de données](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-data-buyers.html?lang=en)
 
-[Destinations basées sur les personnes](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=fr)
+[Destinations Basées Sur Les Personnes](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=fr)

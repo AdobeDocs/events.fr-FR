@@ -1,6 +1,8 @@
 ---
-title: Le pouvoir stratégique de la mesure - transformer les données en action
-description: Des stratégies de mesure efficaces renforcent la confiance et l'autonomie en faisant participer les parties prenantes, en assurant la familiarité des données et en encourageant la confiance dans la prise de décision, tandis que la confiance est établie grâce à la transparence, à la gouvernance des données et à l'alignement des parties prenantes, et l'autonomisation est réalisée grâce à la formation, à des outils accessibles et à des données exploitables, qui contribuent tous à démontrer la valeur de l'analyse par l'impact commercial et l'efficacité opérationnelle.
+title: Le pouvoir stratégique de la mesure - Transformer les données en action
+description: Des stratégies de mesure efficaces renforcent la confiance et l’autonomisation en impliquant les parties prenantes, en assurant la familiarité des données et en favorisant la confiance dans la prise de décisions, tandis que la confiance est établie par la transparence, la gouvernance des données et l’alignement des parties prenantes, et l’autonomisation est obtenue par la formation, les outils accessibles et les données exploitables, tout en contribuant à démontrer la valeur de l’analyse par l’impact sur l’entreprise et l’efficacité opérationnelle.
+feature: Metrics, Data Governance
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Intermediate
 doc-type: Event
@@ -8,47 +10,47 @@ duration: 3391
 last-substantial-update: 2024-12-06T00:00:00Z
 jira: KT-16628
 exl-id: eaa9642c-c460-410b-9af5-3ff42e50ef89
-source-git-commit: 1c1e8203802b9fc6bc92aab963e61a9392f2e59c
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
 
 # Le pouvoir stratégique de la mesure : transformer les données en action
 
-Découvrez les éléments essentiels de l’élaboration d’une stratégie de mesure holistique et les principales étapes pour surmonter les défis communs en matière de maturité de mesure. Ce webinaire vous dotera de structures et d’outils pratiques pour mettre en oeuvre un plan de mesure efficace et activer vos insights.
+Découvrez les éléments essentiels de l’élaboration d’une stratégie de mesure holistique et les étapes clés pour surmonter les défis courants en matière de maturité des mesures. Ce webinaire vous fournira des cadres et des outils exploitables pour mettre en œuvre un plan de mesure réussi et activer vos informations.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440935/?learn=on&enablevpops)
 
-## Principales acquisitions
+## Points essentiels à retenir
 
 **Stratégies de mesure**
 
-* Les stratégies de mesure doivent être fondées sur la confiance et l&#39;autonomisation.
-* La participation régulière des parties prenantes pour fournir leurs données garantit la familiarité avec les données capturées.
-* Donner aux parties prenantes les moyens de se sentir confiantes dans la conduite des rapports et la prise de décisions par elles-mêmes réduit les hésitations.
+* Les stratégies de mesure doivent être fondées sur la confiance et l’autonomisation.
+* La participation régulière des parties prenantes pour apporter leur contribution permet de se familiariser avec les données capturées.
+* En donnant aux parties prenantes les moyens de se sentir en confiance lorsqu’elles réalisent des rapports et prennent des décisions par elles-mêmes, on réduit les hésitations.
 
-**Trust**
+**Approbation**
 
-* La confiance se construit par une implication proactive, la transparence, la gouvernance des données et le contrôle de la qualité.
-* L&#39;harmonisation et la participation des parties prenantes à la planification stratégique sont cruciales.
-* Rendre les informations accessibles et encourager l&#39;évangélisme et la prise de conscience sont essentiels pour établir la confiance.
+* La confiance est établie par une participation proactive, la transparence, la gouvernance des données et le contrôle de la qualité.
+* L’alignement des parties prenantes et leur participation à la planification stratégique sont essentiels.
+* Rendre les informations accessibles et favoriser l&#39;évangélisation et la sensibilisation sont essentiels pour établir la confiance.
 
-**Responsabilité**
+**Autonomisation**
 
-* L&#39;autonomisation implique la formation, l&#39;élimination des barrières perçues et le renforcement de la confiance dans l&#39;utilisation de l&#39;analyse.
-* Les outils et fonctionnalités tels que les annotations, les dictionnaires de données et les tableaux de bord permettent aux utilisateurs non-analystes de bénéficier des privilèges d’accès.
+* L’autonomisation implique la formation, la suppression des obstacles perçus et le renforcement de la confiance dans l’utilisation des analyses.
+* Des outils et des fonctionnalités tels que les annotations, les dictionnaires de données et les tableaux de bord permettent aux utilisateurs non-analystes de se prendre en charge.
 * Il est essentiel de s’assurer que les données sont accessibles et exploitables dans l’ensemble de l’organisation.
 
-**Chemin vers la valeur**
+**Chemin d’accès à la valeur**
 
-* La valeur d’un investissement d’analyse peut être démontrée par l’impact sur l’entreprise, l’efficacité opérationnelle, ainsi que l’adoption et l’activation.
-* La communication de la valeur et de l’impact des analyses à l’échelle de l’organisation contribue à établir la confiance et l’autonomie.
-* Le suivi de mesures telles que la portée de la formation, les réaffectations des cadres et les demandes d’assistance ad hoc peut aider à mesurer la valeur du programme d’analyse.
+* La valeur d’un investissement dans les analyses peut être démontrée par l’impact commercial, l’efficacité opérationnelle, l’adoption et l’activation.
+* Communiquer la valeur et l’impact de l’analyse à l’ensemble de l’organisation permet de renforcer la confiance et l’autonomisation.
+* Le suivi de mesures telles que la portée de la formation, les remontées d’informations aux responsables et les demandes d’assistance ad hoc peut vous aider à mesurer la valeur du programme Analytics.
 
-**Présenter l’excellence**
+**Démontrer l’excellence**
 
-* Traitement des ressources pour les nouveaux utilisateurs et les personnes qui ne sont pas analystes.
-* Organiser des sessions d’astuces rapides régulières et des sessions de partage des connaissances.
-* Utilisation de newsletters et de communications internes pour partager des informations et des mises à jour.
+* Traitement des ressources pour les nouveaux utilisateurs et les personnes autres que les analystes.
+* Organisation régulière de sessions de conseils rapides et de sessions de partage des connaissances.
+* Utilisez les newsletters et les communications internes pour partager des informations et des mises à jour.

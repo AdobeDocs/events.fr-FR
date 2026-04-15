@@ -2,6 +2,8 @@
 title: Marketo et Mochas - Stimuler la croissance grâce au reporting (maturité Pt 3)
 description: Rejoignez Cynthia Chang et Carly Gaver, conseillères d’entreprise Adobe, pour la troisième partie de la série de webinaires sur la maturité de Marketo, qui exploreront la manière d’exploiter les outils de création de rapports de Marketo pour stimuler la croissance de l’entreprise, surveiller les performances et fournir des mesures d’impact, avec des questions-réponses en direct.
 solution: Marketo Engage
+feature: Programs, Smart Lists, Reporting
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3505
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16392
 exl-id: 4ad37a4b-8544-4000-8e21-062e3f93909e
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -24,7 +26,7 @@ Rejoignez Cynthia Chang et Carly Gaver, consultantes et conseillers d’entrepri
 
 Maturité La partie 3 est la troisième partie de la série Maturité de Marketo, qui se concentre sur la croissance avec le reporting. Pour résumer,
 
-* La première partie était axée sur la phase d’analyse, jetant les bases de l’instance Marketo.
+* La partie 1 était axée sur la phase d’explore, jetant les bases de l’instance Marketo.
 * La partie 2 couvrait la phase de marche, l&#39;optimisation et l&#39;expansion de l&#39;utilisation.
 * La partie 3 porte sur la phase d’exécution, la mise à l’échelle et l’amélioration de l’efficacité.
 
@@ -36,7 +38,7 @@ Maturité La partie 3 est la troisième partie de la série Maturité de Marketo
 * Cynthia travaille chez Adobe depuis deux ans. Elle a auparavant travaillé dans le conseil et en tant que cliente Marketo.
 * Carly travaille pour Adobe depuis trois ans et possède une formation en marketing numérique et en automatisation du marketing.
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Surveillance** Surveiller en permanence les performances de l’instance, y compris la délivrabilité et l’intégrité de la base de données.
 * **Audit** Vérification de l’accès des utilisateurs et utilisatrices, des autorisations et de la synchronisation CRM.

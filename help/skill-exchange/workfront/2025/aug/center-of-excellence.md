@@ -3,6 +3,7 @@ title: Préparation de votre organisation Workfront pour un centre d’excellenc
 description: Découvrez comment lancer et développer un centre d’excellence Workfront avec des stratégies de gouvernance, le parrainage par les dirigeants et les bonnes pratiques en matière d’adoption.
 solution: Workfront
 feature: Get Started with Workfront
+topic: Performance, Administration, Development
 role: User
 level: Beginner
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18875
 exl-id: b4e3f704-b0a7-4b1e-a2a5-d8ff427ece84
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -27,7 +28,7 @@ L&#39;établissement d&#39;un centre d&#39;excellence est essentiel pour stimule
 * **Considérations relatives à la dotation** Explorez les aspects essentiels de la dotation en personnel de votre CE en identifiant les rôles et responsabilités clés de votre pratique d’administration. Découvrez comment constituer une équipe capable de soutenir et de piloter efficacement les initiatives de votre centre d’excellence.
 * **Conseils et astuces** Obtenez des informations pratiques et des bonnes pratiques pour gérer et maintenir votre centre d’excellence. Découvrez des stratégies pour surmonter les défis communs, favoriser la collaboration et assurer une amélioration continue. Rejoignez-nous pour acquérir les connaissances et les outils nécessaires à la création d’un centre d’excellence prospère au sein de votre organisation Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471586/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3471495/?learn=on&enablevpops)
 
 ## Étapes clés de lancement de votre code
 

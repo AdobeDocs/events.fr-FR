@@ -3,6 +3,7 @@ title: Élévation des rapports Workfront en mode texte avancé
 description: Découvrez comment maîtriser le mode texte d’Adobe Workfront pour fusionner des colonnes, créer des expressions de valeur personnalisées et créer des invites dynamiques pour un reporting plus intelligent.
 solution: Workfront
 feature: Text Mode Reporting
+topic: Administration, Integrations
 speaker-name-1: Nathan Johnson
 speaker-company-1: Adobe
 role: User
@@ -12,9 +13,9 @@ duration: 0
 last-substantial-update: 2025-08-29T00:00:00Z
 jira: KT-18878
 exl-id: 22811352-8232-44b6-af8c-89483a729838
-source-git-commit: 91120ff6bfd81c7b3c9218fbbb6dbff9397b37e6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -32,7 +33,7 @@ Faites passer un cap à vos rapports Workfront grâce aux techniques avancées d
 
 ## Transformer les données en histoires exploitables
 
-Tirez parti de la puissance des rapports Workfront en associant expertise technique et narration.
+Tirez parti de toute la puissance des rapports Workfront en associant une expertise technique à storytelling.
 
 * **Mode texte avancé** Permet d’obtenir des rapports flexibles et personnalisés qui vont au-delà des limites par défaut de l’interface utilisateur.
 * **Fusion de colonnes** Réduit l’encombrement et améliore la lisibilité, ce qui vous permet de présenter les détails clés du projet dans une vue unique.

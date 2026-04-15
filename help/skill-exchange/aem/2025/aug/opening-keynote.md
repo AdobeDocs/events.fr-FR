@@ -1,7 +1,8 @@
 ---
 title: Keynote d’ouverture de Adobe Experience Manager
-description: Découvrez comment Adobe Experience Manager évolue avec l’IA. Explorez les workflows agentiques, la recherche d’IA, la personnalisation à grande échelle et l’optimisation de contenu plus intelligente.
+description: Découvrez comment Adobe Experience Manager évolue avec l’IA. Explorez les workflows agentiques, la Recherche optimisée par l'IA, la personnalisation à grande échelle et une optimisation de contenu plus intelligente.
 solution: Experience Manager as a Cloud Service
+feature: Edge Delivery Services, Migration
 topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner, Intermediate, Experienced
@@ -9,13 +10,13 @@ doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-03T00:00:00Z
 jira: KT-18861
-source-git-commit: 247ffab879bedf7d4e0d5258325d63af2916684a
+exl-id: eafba020-b895-4100-9f63-760787eb97f6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # Keynote d’ouverture
 
@@ -25,11 +26,11 @@ Rejoignez Haresh Kumar, chef de la stratégie et des produits pour Adobe Experie
 
 * Comment les agents d’IA et Experience Hub rationalisent la génération et les workflows de contenu.
 * Le rôle de l’activation gérée par l’IA pour diffuser le contenu approprié sur chaque canal et appareil.
-* Comment la recherche par IA améliore la découverte, la réutilisation et la vitesse du contenu des ressources.
+* Comment Recherche optimisée par l&#39;IA améliore la découverte, la réutilisation et la vitesse du contenu des ressources.
 * Nouveaux outils d’optimisation tels que Sites Optimizer et le gestionnaire de contenu pour un meilleur engagement et une meilleure conversion.
 * Comment faire évoluer la personnalisation un-à-un de manière sécurisée et efficace.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471398/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3471386/?learn=on&enablevpops)
 
 
 ## Déverrouiller l’avenir des expériences de contenu

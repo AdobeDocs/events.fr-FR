@@ -4,13 +4,15 @@ description: Experience Platform Agent Orchestrator alimente l’intelligence et
 kt: KT-19206
 solution: Experience Platform
 feature: AI Assistant
+topic: Artificial Intelligence, Security, Performance
 event-cta-url-live: https://youtube.com/live/WS_DzRmYNzw
 event-start-time: 2025-10-22 08:30-7
 event-guests: Daniel Wright, Namita Krishnan, Huong Vu, Cole Connelly
-source-git-commit: f88fa329951a93f53cbbf47e55d51f02d1fc5877
+exl-id: a728adaa-4cbb-4c7f-9587-4d5e3b92d28f
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 5%
+source-wordcount: '301'
+ht-degree: 4%
 
 ---
 
@@ -26,6 +28,6 @@ Au cours de cette session, l’équipe produit d’Experience Platform Agent Orc
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476153/?learn=on&enablevpops)
 
-Rejoignez-nous pour la communauté [Adobe Journey Optimizer Ask Me Anything !](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252?profile.language=fr) le mercredi 12 novembre de 8h à 9h PT. Nous serons rejoints par les experts de Adobe Journey Optimizer : Cole Connelly (@coleconnelly) - chef principal de produit, Huong Vu (@HuongVu) - chef du marketing produit, Namita Krishnan (@Namita_Krishnan) - chef de produit, Brent Kostak (@bkostak) - chef principal du marketing produit, David Arbor (@user03474) - chercheur principal, Justin Grover (@justin_grover) - chef principal de produit, Sandra Hausmann (@SHausmann) - ingénieure principale en marketing technique et Daniel Wright (@dwright) - ingénieur principal en marketing technique.
+Rejoignez-nous pour la communauté [Adobe Journey Optimizer Ask Me Anything !](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252) le mercredi 12 novembre, de 8 h à 9 h (heure du Pacifique). Nous serons rejoints par les experts de Adobe Journey Optimizer : Cole Connelly (@coleconnelly) - chef principal de produit, Huong Vu (@HuongVu) - chef du marketing produit, Namita Krishnan (@Namita_Krishnan) - chef de produit, Brent Kostak (@bkostak) - chef principal du marketing produit, David Arbor (@user03474) - chercheur principal, Justin Grover (@justin_grover) - chef principal de produit, Sandra Hausmann (@SHausmann) - ingénieure principale en marketing technique et Daniel Wright (@dwright) - ingénieur principal en marketing technique.
 
 Nous répondrons à vos questions lors de ce chat en direct.

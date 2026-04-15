@@ -3,6 +3,7 @@ title: 'Apaiser le chaos client : conseils pour faire face à des Parcours compl
 description: Découvrez des conseils pratiques pour ventiler des parcours complexes, utiliser des balises et rationaliser la gestion des données pour une orchestration transparente dans Adobe Journey Optimizer.
 solution: Experience Platform, Journey Optimizer
 feature: Journeys
+topic: Administration
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 0
 last-substantial-update: 2025-08-28T00:00:00Z
 jira: KT-18849
 exl-id: e2b632ee-aa96-41db-8587-f880595a5143
-source-git-commit: 603629137b4bc29d8470517eb509bbc5f0bcdea4
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '312'
 ht-degree: 1%
 
 ---

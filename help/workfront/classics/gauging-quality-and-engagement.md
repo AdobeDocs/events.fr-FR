@@ -1,14 +1,16 @@
 ---
 title: Demandez à l’expert - Évaluation de la qualité et de l’engagement
 description: Découvrez comment créer des rapports qui répondent aux questions de qualité et d’engagement. Ce webinaire a été enregistré le 13 novembre 2019.
+feature: Reports and Dashboards
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9914
 exl-id: 76a8e418-71c7-414a-9938-e64e4e73c184
 duration: 3980
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: '1217'
 ht-degree: 0%
 
 ---

@@ -1,8 +1,9 @@
 ---
 title: Tirer le meilleur parti de Marketo Measure
-description: Optimisez Marketo Measure avec les bonnes pratiques de mappage des canaux, de segmentation, de mappage d’étape personnalisé et de suppression des points de contact. Utilisez des règles spécifiques, catégorisez les données et hiérarchisez les étapes de manière logique. Supprimez les points de contact indésirables pour obtenir des données plus précises. Tirez parti d’outils tels que les étapes de boomerang et soumettez des cas de prise en charge pour des configurations complexes. Adobe Accédez à l’enregistrement de session sur la page Experience Platform.
+description: Optimisez Marketo Measure avec les bonnes pratiques de mappage des canaux, de segmentation, de mappage d’étape personnalisé et de suppression des points de contact. Utilisez des règles spécifiques, catégorisez les données et hiérarchisez les étapes de manière logique. Supprimez les points de contact indésirables pour obtenir des données plus précises. Tirez parti d’outils tels que les étapes de boomerang et soumettez des cas de prise en charge pour des configurations complexes. Accédez à l’enregistrement de session sur la page Experience Platform.
 solution: Marketo Measure
 feature: Touchpoints, Channels, Segmentation
+topic: Development
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -10,9 +11,9 @@ duration: 3417
 last-substantial-update: 2025-03-14T00:00:00Z
 jira: KT-17542
 exl-id: 5e3ab998-9bb0-4b6d-a1bd-ec9f24789464
-source-git-commit: 848fa8fee05b315361781059eabb3b19904c78c2
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---

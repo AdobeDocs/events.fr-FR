@@ -4,14 +4,15 @@ description: Rejoignez-nous pour un webinaire instructif d’une heure qui nous 
 kt: KT-17641
 solution: Customer Journey Analytics
 feature: Content Analytics
+topic: Performance
 event-cta-url-live: https://www.youtube.com/live/0ApnRRtZxeY
 event-start-time: 2025-05-22 09:00-8
 event-guests: Doug Moore, Shay O'Reilly, Jennifer Werkmeister
 exl-id: a0a3c7dd-e060-4be8-ac9a-02a3bcf12614
-source-git-commit: 2e75e6b36e806ef9958dc76f7b832f15b69d8a02
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '210'
+ht-degree: 8%
 
 ---
 
@@ -28,9 +29,9 @@ Au cours de cette session, nous avons exploré les points suivants :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3460420/?quality=12&learn=on)
 
->[!BEGINSHADEBOX « Vous avez des questions ? »]
+>[!BEGINSHADEBOX « Vous avez des questions ?« ]
 
-Poursuivez la discussion sur le forum de la communauté [Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741?profile.language=fr#M4712).
+Poursuivez la discussion sur le forum de la communauté [](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/adobe-experience-league-live-content-analytics-optimize/m-p/756741#M4712).
 
 >[!ENDSHADEBOX]
 

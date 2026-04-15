@@ -1,9 +1,10 @@
 ---
-title: Préparation de la saison du pic
-description: Rejoignez Corey Gelato pour explorer les stratégies de haute saison, notamment les promotions, l’évaluation de contenu et les règles de prix, avec des démonstrations en direct et des conseils d’experts pour aider votre site d’e-commerce à rester compétitif toute l’année.
+title: Préparation de la haute saison
+description: Rejoignez Corey Gelato pour explorer les stratégies de haute saison, y compris les promotions, l’évaluation de contenu et les règles de prix, avec des démonstrations en direct et des conseils d’experts pour aider votre site d’e-commerce à rester compétitif tout au long de l’année.
 solution: Commerce
 feature-set: Commerce
 feature: Promotions/Events, Catalog Management, Catalog Service, Checkout, Best Practices, Price Rules
+topic: Commerce
 role: Admin, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -12,17 +13,17 @@ jira: KT-13992
 thumbnail: 3424390.jpeg
 exl-id: 48986967-b794-4dc9-8a17-d38800ae90aa
 duration: 3580
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
-# Préparation de la saison du pic
+# Préparation de la haute saison
 
-Au cours de cette session de Commerce &amp; Coffee, Corey Gelato plonge en profondeur dans les bonnes pratiques et les stratégies de la haute saison pour 2023, que la vôtre se produise pendant la saison traditionnelle des fêtes ou une période d&#39;activité spécifique au secteur. Le commerce continue d’être le canal d’orientation pour tous les acheteurs, que ce soit B2C ou B2B. En utilisant des techniques partagées au cours de cette session, votre équipe peut promouvoir avec succès et efficacité vos biens et/ou services sur votre ou vos sites et rester compétitive pendant une période de pointe de l’année.
+Au cours de cette session de Commerce &amp; Coffee, Corey Gelato explore en détail les bonnes pratiques et stratégies pour la haute saison 2023, que la vôtre ait lieu pendant la saison traditionnelle des fêtes ou pendant une période de forte activité spécifique au secteur. ECommerce reste le canal de référence pour tous les acheteurs, qu’ils soient B2C ou B2B. Grâce aux techniques partagées au cours de cette session, votre équipe peut promouvoir efficacement vos biens et services sur votre ou vos site(s) et rester compétitive pendant une saison de pointe à tout moment de l&#39;année.
 
-À la suite d’une démonstration de fonctionnalités, notamment l’évaluation et l’aperçu du contenu, les promotions, les règles de prix du catalogue et du panier, etc., Corey répond aux questions lors d’une session de questions-réponses en direct.
+Après une démonstration de fonctionnalités telles que l’évaluation et la prévisualisation du contenu, les promotions, les règles de prix de catalogue et de panier, etc., Corey répond aux questions lors d’une session de questions-réponses en direct.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424390/?learn=on)

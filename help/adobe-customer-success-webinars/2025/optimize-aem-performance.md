@@ -1,6 +1,7 @@
 ---
 title: Optimisation des performances d’AEM - Stratégies et techniques de mise en cache
 description: La session a couvert les stratégies et techniques de mise en cache, les mécanismes et les niveaux de mise en cache, la gestion dynamique du contenu, les problèmes de mise en cache de débogage et la synchronisation de l’invalidation du cache entre le Dispatcher et le réseau CDN.
+feature: Edge Delivery Services, Release Information
 topic: Performance
 role: Admin, Developer, Leader, User
 level: Intermediate
@@ -8,13 +9,13 @@ doc-type: Event
 duration: 3764
 last-substantial-update: 2025-02-21T00:00:00Z
 jira: KT-17373
-source-git-commit: e7bf8b79ad4920b303fc3afbdfb4adee60614c88
+exl-id: 5606a250-ab06-417b-8abf-a30543cb5f16
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # Optimisation des performances d’AEM : stratégies et techniques de mise en cache
 
@@ -28,7 +29,7 @@ Au cours de cette session, nous allons explorer divers mécanismes de mise en ca
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444452/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Stratégies et techniques de mise en cache** La session a porté sur diverses stratégies et techniques de mise en cache visant à optimiser les performances, notamment la mise en cache au niveau de différents niveaux tels que le navigateur, le réseau CDN et le Dispatcher.
 

@@ -1,19 +1,21 @@
 ---
 title: Session 1 de 2026 - Principes fondamentaux de Marketo Engage
 description: Découvrez les principes de base de Marketo Engage, notamment la navigation, les fonctionnalités de base et les outils d’automatisation pour gérer en toute confiance vos campagnes marketing.
+feature: Programs, Reporting
+topic: Artificial Intelligence, Personalization
 role: User
 level: Beginner
 doc-type: Event
 duration: 3560
 last-substantial-update: 2026-03-31T00:00:00Z
 jira: KT-20742
-source-git-commit: b0f9751c3e081316fa82cbde237404ba0c5fc07f
+exl-id: a7748412-2baf-4ec1-8fca-5499150af7c6
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 1%
 
 ---
-
 
 # Session 1 de 2026 : Principes fondamentaux de Marketo Engage
 
@@ -30,5 +32,3 @@ Notre première session démarre ce mois-ci avec une introduction pratique au fo
 
 * Nouveaux utilisateurs de Marketo Engage ou ceux qui commencent à utiliser la plateforme.
 * Professionnels disposant d’une expérience pratique limitée et souhaitant gagner en confiance à l’aide des fonctionnalités de base.
-
-

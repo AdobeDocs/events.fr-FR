@@ -1,14 +1,16 @@
 ---
 title: Demandez à l’expert - Bonnes pratiques pour optimiser Workfront Proof
 description: Découvrez comment configurer des paramètres, activer des rapports performants et éviter les pièges courants dans Proof. Ce webinaire a été enregistré le 26 février 2020.
+feature: Reports and Dashboards, System Setup and Administration
+topic: Administration, Integrations
 doc-type: feature video
 team: Technical Marketing
 kt: 9916
 exl-id: 7d3e437d-4a6e-44b8-9eff-eabb8284c391
 duration: 5182
-source-git-commit: 91f20c3e9ee5ae5b259d5cb3da476974acdc6585
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '5572'
+source-wordcount: '5588'
 ht-degree: 0%
 
 ---
@@ -257,7 +259,7 @@ Vous pouvez accéder à un rapport de résumé d’impression et le télécharge
 
 **Question**
 
-Lorsque vous demandez aux utilisateurs d&#39;avoir accès à Reporting ProofHQ, cela leur donnera-t-il également accès à la section sur la gauche (c&#39;est-à-dire workflows, contacts, paramètres de compte, etc) ?
+Lorsque vous demandez aux utilisateurs d&#39;accéder à Reporting ProofHQ, cela leur donnera-t-il également accès à la section de gauche (c.-à-d. workflows, contacts, paramètres de compte, etc.) ?
 
 **Réponse**
 
@@ -313,7 +315,7 @@ Oui. Si vous supprimez une épreuve qu’elle réside dans la corbeille du compt
 
 **Question**
 
-Existe-t-il un moyen de déclencher une nouvelle décision si un autre utilisateur la rejette ou l’approuve avec des modifications. c&#39;est-à-dire. Le service de relecture voit quelque chose, le chef de projet devra prendre une nouvelle décision... même s&#39;il l&#39;a déjà examinée et approuvée. (essayer de ne pas obliger le gestionnaire de projet à attendre le service de relecture pour effectuer sa révision) ?
+Existe-t-il un moyen de déclencher une nouvelle décision si un autre utilisateur la rejette ou l’approuve avec des modifications. i. Le service de relecture voit quelque chose, le chef de projet devra prendre une nouvelle décision... même s&#39;il l&#39;a déjà examinée et approuvée. (essayer de ne pas obliger le gestionnaire de projet à attendre le service de relecture pour effectuer sa révision) ?
 
 **Réponse**
 

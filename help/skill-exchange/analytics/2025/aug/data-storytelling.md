@@ -1,23 +1,24 @@
 ---
-title: Data Storytelling Avec Analysis Workspace
+title: Storytelling De Données Avec Analysis Workspace
 description: Découvrez 5 stratégies pour transformer les tableaux de bord Adobe Analysis Workspace en histoires de données attrayantes qui génèrent de l’impact, insight et l’action des parties prenantes.
 solution: Analytics
 feature: Analysis Workspace
+topic: Migration, Integrations
 role: User
 level: Beginner
 doc-type: Event
 duration: 0
 last-substantial-update: 2025-09-04T00:00:00Z
 jira: KT-18820
-source-git-commit: 124b52203b98a80dd9202dab1b0dbe575475a52b
+exl-id: cf6a1931-094a-4a2e-b3df-6e20d07e1487
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
-
-# Data Storytelling Avec Analysis Workspace
+# Storytelling De Données Avec Analysis Workspace
 
 Les tableaux de bord sont efficaces, mais, trop souvent, ils n’ont aucun impact. Au cours de cette session, nous découvrirons comment transformer vos projets Adobe Analysis Workspace en histoires de données réelles qui se feront entendre et stimuleront l’action.
 
@@ -26,12 +27,12 @@ Vous apprendrez à utiliser les visualisations de manière plus intentionnelle, 
 >[!VIDEO](https://video.tv.adobe.com/v/3471116/?learn=on&enablevpops)
 
 
-## Déverrouiller la narration de données percutantes
+## Déverrouiller le Storytelling de données efficace
 
 Découvrez comment aller au-delà des rapports traditionnels et créer des tableaux de bord qui stimulent l’action réelle des parties prenantes.
 
-* **La narration stimule l’action** les parties prenantes répondent à insight, à l’urgence et à la pertinence émotionnelle, pas seulement aux données brutes.
-* **L’importance de la structure narrative** utilisez la configuration, la tension et la résolution pour guider les utilisateurs et utilisatrices tout au long du tableau de bord, en reflétant une narration efficace.
+* **Storytelling stimule l&#39;action** Les parties prenantes répondent à insight, à l&#39;urgence et à la pertinence émotionnelle, pas seulement aux données brutes.
+* **L’importance de la structure narrative** utilisez la configuration, la tension et la résolution pour guider les utilisateurs et utilisatrices tout au long de votre tableau de bord, en reflétant un storytelling efficace.
 * **Visuels et contexte** Des visualisations avancées et du texte contextuel aident les utilisateurs et les utilisatrices à se concentrer sur ce qui importe et à créer un engagement émotionnel.
 * **La présentation est essentielle** la manière dont vous présentez l’histoire de vos données peut avoir ou non un impact : la diffusion personnelle ajoute de l’émotion et de la clarté.
 

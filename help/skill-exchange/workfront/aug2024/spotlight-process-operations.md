@@ -2,6 +2,8 @@
 title: Coup de projecteur d’Experience Maker - Améliorations des processus et efficacité opérationnelle
 description: Comment James Hill, vice-président, Excellence opérationnelle chez Synchrony, estime les avantages et la priorité des améliorations, surveille l’adoption des modifications du système et associe finalement ces modifications aux résultats réels de l’entreprise Exemples de la manière dont Daniel Clarke, consultant Workfront senior chez EMMsphere, a trouvé des gains d’efficacité pour s’assurer que les ressources de l’équipe peuvent s’étendre autant que possible. Il partagera plusieurs scénarios de Fusion réussis, la méthodologie derrière la façon dont ils ont été construits et pourquoi, et comment il a été en mesure de montrer la valeur de ce travail avec l'équipe de direction
 solution: Workfront
+feature: Workfront Fusion, System Setup and Administration
+topic: Administration, Integrations
 role: User
 level: Intermediate, Experienced
 doc-type: Event
@@ -9,7 +11,7 @@ duration: 2404
 last-substantial-update: 2024-08-29T00:00:00Z
 jira: KT-16099
 exl-id: ce5a8f39-c8ac-4a47-baaf-7b105e8b5f5a
-source-git-commit: 0c85d049a1d9771dc6d69ee6682c628e8dec12cf
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%

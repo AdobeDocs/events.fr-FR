@@ -1,19 +1,21 @@
 ---
 title: Conseils de Workfront Pro pour la gouvernance, l’exécution et l’adoption
 description: Bonnes pratiques, conseils, astuces et secrets pour améliorer la supervision et les opérations de votre instance Workfront.
+feature: System Setup and Administration
+topic: Performance, Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 duration: 3619
 last-substantial-update: 2025-12-02T00:00:00Z
 jira: KT-19783
-source-git-commit: 2a5336b19f61bb0e1c48311b36c76c4a0967c410
+exl-id: f774f9d9-25c5-4e07-9d12-d90b6ac73c92
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 0%
+source-wordcount: '205'
+ht-degree: 1%
 
 ---
-
 
 # Conseils de Workfront Pro pour la gouvernance, l’exécution et l’adoption
 
@@ -25,10 +27,6 @@ Axée sur la gouvernance (pensez aux conventions de nommage), l’exécution (pr
 
 Si vous n&#39;avez pas pu y assister en direct, pas de soucis. Examinez le [diaporama](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+for+Governance%2C+Execution+and+Adoption+-+October+8%2C+2025.pdf) et regardez l’enregistrement à la demande pour le suivre.
 
-Vous cherchez un résumé de l&#39;événement et des ressources du chat ? Consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766?profile.language=fr) !
+Vous cherchez un résumé de l&#39;événement et des ressources du chat ? Consultez la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-workfront-pro-tips-for-governance-execution-and/td-p/780766) !
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements Experience League](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
-
-
-
-
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.

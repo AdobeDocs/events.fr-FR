@@ -1,9 +1,10 @@
 ---
-title: Bonnes pratiques de Launch
-description: Au cours de cette session, vous en apprendrez davantage sur les configurations, les paramètres et les pièges, les fonctionnalités sous-exploitées et les workflows de dépannage courants.
+title: Bonnes pratiques relatives à Launch
+description: Au cours de cette session, vous découvrirez les configurations, les paramètres et les pièges à éviter, les fonctionnalités sous-exploitées et les workflows de dépannage courants.
 solution: Analytics
 feature-set: Analytics
 feature: Tags
+topic: Migration, Integrations
 role: Admin, User
 level: Beginner
 doc-type: Event
@@ -12,15 +13,15 @@ jira: KT-13820
 thumbnail: 3422528.jpeg
 exl-id: 5b235517-efe6-4826-b51f-166a88d5bf64
 duration: 2578
-source-git-commit: a336f9d76d0b270694eb2d911c3c65d1fbe27d40
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# Adobe Analytics : Bonnes pratiques relatives au lancement
+# Adobe Analytics : bonnes pratiques de Launch
 
-Au cours de cette session, vous en apprendrez davantage sur les configurations, les paramètres et les pièges, les fonctionnalités sous-exploitées et les workflows de dépannage courants.
+Au cours de cette session, vous découvrirez les éléments suivants : les configurations, les paramètres et les pièges à éviter, les fonctionnalités sous-exploitées et les workflows de dépannage courants.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422528/?learn=on)

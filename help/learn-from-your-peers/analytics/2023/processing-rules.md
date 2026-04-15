@@ -3,6 +3,7 @@ title: Tirer parti de la puissance des règles de traitement dans Adobe Analytic
 description: Avec l’aide d’un champion Adobe Analytics, apprenez à optimiser efficacement le traitement et l’analyse des données à l’aide des règles de traitement Gem cachées d’Adobe Analytics. Cet outil inestimable résout un large éventail de problèmes, affine le flux de données et permet une affectation ou une correction précise des données avant leur traitement ultérieur.
 feature-set: Analytics
 feature: Processing Rules
+topic: Migration, Integrations
 role: User
 level: Beginner
 solution: Analytics
@@ -12,9 +13,9 @@ jira: KT-13802
 thumbnail: 3422690.jpeg
 exl-id: 14a2e3c9-b9c9-4d30-a579-9ab3ffaed3ea
 duration: 3287
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---

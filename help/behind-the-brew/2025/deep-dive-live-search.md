@@ -1,6 +1,9 @@
 ---
 title: Séance d’immersion dans la recherche en direct
+solution: Commerce
+feature: Headless, Integration
 description: Personnalisez votre expérience de recherche en direct dans Adobe Commerce avec des conseils d’experts et des exemples d’implémentation pratiques
+topic: Headless, Integrations, Commerce
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,9 +11,9 @@ duration: 3515
 last-substantial-update: 2025-01-25T00:00:00Z
 jira: KT-17165
 exl-id: 1bf37835-ec68-4195-b373-52718bf39d30
-source-git-commit: 87945f25760d168144b852b88eb2a0b9a5021946
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -23,7 +26,7 @@ Au cours de cette session, Tapan Sodagar, conseiller technique client Adobe, nou
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443021/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 L’objectif général de la session était d’Adobe Commerce la recherche en direct dans, y compris ses composants, widgets et détails techniques.
 
@@ -35,7 +38,7 @@ L’objectif général de la session était d’Adobe Commerce la recherche en d
 * **Exploration technique approfondie**
 
    * **Points d’entrée GraphQL** différences entre les points d’entrée de service de recherche en direct et de catalogue.
-   * **Détails de l&#39;installation et de la configuration du connecteur de service Commerce**
+   * **Détails de l&#39;installation et de la configuration du connecteur de service**
    * **Personnalisation** Instructions sur la personnalisation et l’extension des widgets PLP et de fenêtre contextuelle à l’aide de référentiels open source.
 
 * **Fonctionnalités à venir**

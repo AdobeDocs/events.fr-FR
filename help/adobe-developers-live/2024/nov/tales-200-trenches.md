@@ -1,53 +1,53 @@
 ---
-title: Histoires de 200 tranchées
-description: Assurez la réussite des projets web en établissant des priorités en matière de performances, en utilisant Google PageSpeed Insights, en optimisant les mesures clés telles que LCP et TBT, en gérant efficacement les ressources et en suivant les bonnes pratiques en matière de développement et d’optimisation des images.
+title: Contes de 200 tranchées
+description: Garantissez la réussite du projet web en donnant la priorité aux performances, en utilisant Google PageSpeed Insights, en optimisant les mesures clés telles que LCP et TBT, en gérant les ressources de manière efficace et en suivant les bonnes pratiques de développement et d’optimisation des images.
 solution: Experience Manager, Experience Manager Sites
 feature: Edge Delivery Services
+topic: Integrations, Performance, Development
 role: Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 1321
 last-substantial-update: 2024-11-27T00:00:00Z
 jira: KT-16541
-source-git-commit: 07d4174b0d89ba2c417866e76ae72f015b91b03a
+exl-id: 1104048d-4074-49aa-a0bc-0065fa2df505
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 1%
 
 ---
 
+# Contes de 200 tranchées
 
-# Histoires de 200 tranchées
-
-Plus de 200 projets Edge Delivery Services sont terminés, Kiran Murugulla, ingénieur principal à l&#39;Adobe, et Varun Mitra, architecte de Adobe Experience Manager Cloud, partagent les leçons clés apprises. Découvrez les secrets de la diffusion d’expériences rapides et hautement performantes avec des core Vitals exceptionnels.
+Avec plus de 200 projets Edge Delivery Services terminés, Kiran Murugulla, ingénieur principal chez Adobe, et Varun Mitra, architecte pour Adobe Experience Manager Cloud, partagent les principaux enseignements tirés. Découvrez les secrets de la diffusion d’expériences rapides et performantes avec Core Web Vitals exceptionnel.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439424/?learn=on&enablevpops)
 
-## Discussions communautaires
+## Discussion Communautaire
 
 Poursuivez la conversation dans la communauté Adobe Developers Live [discussion](https://adobe.ly/4fwWvvi).
 
-## Principales acquisitions
+## Points essentiels à retenir
 
-* **La performance est critique** La performance, en particulier la vitesse des pages web, est mise en évidence comme un facteur clé de réussite des projets web. Assurer des scores de performance de 100 est un objectif principal.
+* **Les performances sont essentielles** Les performances, en particulier la vitesse des pages web, sont soulignées comme un facteur clé de la réussite des projets web. L’objectif principal est d’obtenir des scores de performances de 100.
 * **Pratiques de développement**
-   * Utilisez Google PageSpeed Insights pour des tests continus pendant le développement.
-   * Démarrez des projets avec du code standard qui enregistre déjà 100 scores pour maintenir des performances élevées.
-   * Assurez-vous que les requêtes de tirage (PR) répondent aux normes de performance avant la fusion.
-* **Mesures clés** Concentrez-vous sur l’optimisation de la plus grande peinture de contenu (LCP) et du temps de blocage total (TBT), car ils affectent considérablement les scores de performances.
+   * Utilisez Google PageSpeed Insights pour effectuer des tests continus pendant le développement.
+   * Démarrez des projets avec un code standard qui obtient déjà un score de 100 pour maintenir des performances élevées.
+   * Assurez-vous que les demandes d’extraction (PR) répondent aux normes de performances avant de fusionner.
+* **Mesures clés** Concentrez-vous sur l’optimisation de la Largest Contentful Paint (LCP) et du temps de blocage total (TBT), car ils affectent considérablement les scores de performances.
 * **Gestion des ressources**
-   * Incluez les ressources nécessaires telles que les polices et les scripts tiers dans la source du projet.
-   * Utilisez les polices de secours pour améliorer les temps de chargement.
-   * Retardez le chargement des scripts non essentiels afin d’améliorer les performances de chargement initial.
-* **Optimisation des images** Attribuez la priorité au chargement des images principales et utilisez les paramètres de récupération prioritaires pour les images critiques.
+   * Incluez les ressources nécessaires telles que des polices et des scripts tiers dans la source du projet.
+   * Utilisez les polices de remplacement pour améliorer les temps de chargement.
+   * Retardez le chargement des scripts non essentiels pour améliorer les performances de chargement initial.
+* **Optimisation des images** Classez par priorité le chargement des images au-dessus du pli et utilisez des paramètres de récupération de priorité élevée pour les images critiques.
 * **Études de cas**
-   * ***CNN.com*** Index de requête optimisés et chargement retardé des publicités Google pour améliorer les performances.
-   * ***Herbert Homes*** a utilisé l’API Intersection Observer pour charger des données lorsque les utilisateurs font défiler l’écran, améliorant ainsi les performances et l’expérience utilisateur.
+   * ***CNN.com*** Index de requête optimisés et chargement différé des publicités Google pour améliorer les performances.
+   * ***Herbert Homes*** API Intersection Observer utilisée pour charger des données pendant que les utilisateurs font défiler l’écran, ce qui améliore les performances et l’expérience utilisateur.
 * **Bonnes pratiques**
-   * Commencez par du code standard et utilisez un balisage bien structuré.
-   * Utilisez des sélecteurs CSS avancés et minimisez la manipulation JavaScript.
-   * Concentrez-vous sur le développement mobile-premier.
+   * Commencez avec du code standard et utilisez des balises bien structurées.
+   * Utiliser des sélecteurs CSS avancés et minimiser la manipulation de JavaScript
+   * Concentrez-vous sur le développement mobile-first.
    * Assurez-vous que la structure du contenu est intuitive pour les auteurs.
-* **Outils** Utilisez des outils tels que Google Sheets et DSA pour effectuer le suivi des scores de performances du site au fil du temps.
-
+* **Outils** utilisez des outils tels que Google Sheets et DSA pour effectuer le suivi des scores de performance du site au fil du temps.

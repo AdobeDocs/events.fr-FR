@@ -1,6 +1,8 @@
 ---
-title: Marketo et Mochas - Maturité Partie 1 - Jeter la fondation
-description: Rejoignez les conseillers commerciaux de l’Adobe, Cynthia Chang et Carly Gaver, en explorant la Courbe de maturité de Marketo, en leur offrant des informations sur l’optimisation des configurations technologiques, la mise en oeuvre des bonnes pratiques, ainsi que la gestion efficace de la documentation et de la plateforme, avec une démonstration en direct de la bibliothèque de modèles de programme.
+title: Marketo & Mochas - Maturité Partie 1 - Poser les bases
+description: Rejoignez Cynthia Chang et Carly Gaver, conseillères d’entreprise Adobe, qui explorent la courbe de maturité de Marketo, offrant des informations sur l’optimisation des configurations techniques, l’implémentation de bonnes pratiques et la maintenance d’une documentation et d’une gouvernance de plateforme efficaces, avec une démonstration en direct de la bibliothèque de modèles de programme.
+feature: Programs
+topic: Administration
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -8,15 +10,15 @@ duration: 3512
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15907
 exl-id: fc39cc75-a8b9-4398-a059-7a5fe947e296
-source-git-commit: 8da73b657295864a3bf6c64598b2fbd664a2379d
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Marketo et Mochas : Maturité Partie 1 - Jeter la fondation
+# Marketo &amp; Mochas : Maturité Partie 1 - Poser les bases
 
-Rejoignez les conseillers commerciaux de l’Adobe, Cynthia Chang et Carly Gaver, car ils partagent des informations précieuses sur la courbe de maturité de Marketo pour guider l’expansion de l’utilisation des Marketo Engage par votre entreprise. Ils étudient tout, de l’optimisation de votre configuration technique à la mise en oeuvre des bonnes pratiques pour organiser une instance de Marketo Engage. Une documentation efficace est aussi importante que l’implémentation de l’instance elle-même. Dès lors, découvrez l’importance de la gouvernance de la plateforme Marketo Engage et de la création de normes de gouvernance personnalisées pour maintenir l’organisation et l’efficacité. Carly fournit une démonstration en direct de la bibliothèque de modèles de programme qui inclut plusieurs programmes de démarrage pouvant être directement importés dans votre instance de Marketo Engage pour lancer la création de votre programme.
+Rejoignez les conseillers d’entreprise d’Adobe, Cynthia Chang et Carly Gaver, qui partagent leurs précieuses informations sur la courbe de maturité de Marketo pour guider l’expansion de votre entreprise dans l’utilisation de Marketo Engage. Ils abordent tous les sujets, de l’optimisation de votre configuration technique à l’implémentation des bonnes pratiques pour organiser une instance Marketo Engage. Une documentation efficace est aussi importante que l’implémentation de l’instance elle-même. Découvrez donc l’importance de la gouvernance de la plateforme Marketo Engage et de la création de normes de gouvernance personnalisées pour maintenir l’organisation et l’efficacité. Carly fournit une démonstration en direct de la bibliothèque de modèles de programme qui comprend plusieurs programmes de démarrage qui peuvent être directement importés dans votre instance Marketo Engage pour lancer la création de votre programme.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432499/?learn=on)

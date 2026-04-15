@@ -2,6 +2,7 @@
 title: Avis d’expert - Adoption avec Leslie Spier
 description: Découvrez les stratégies d’adoption de Leslie Spier pour stimuler l’engagement de Workfront, améliorer les processus et reconnaître les contributions des utilisateurs.
 feature: Strategic Planning
+topic: Administration, Integrations
 role: Admin, Developer, Leader, User
 speaker-name-1: Leslie Spier
 speaker-title-1: Customer Success Manager
@@ -11,13 +12,13 @@ doc-type: Event
 duration: 875
 last-substantial-update: 2025-08-20T00:00:00Z
 jira: KT-18615
-source-git-commit: 1df24f5fb68bbd4d37658b699e7ecb3fa1ef2444
+exl-id: 1e6c3720-61d1-4d6e-ac7e-85df816f9780
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
-
 
 # Avis d’expert - Adoption avec Leslie Spier
 
@@ -25,7 +26,7 @@ L’adoption est un sujet sur lequel nous revenons régulièrement. Dans cette �
 
 Rejoignez-moi, votre CSM On-Demand Workfront, alors que je discute avec Leslie des raisons pour lesquelles l’adoption est un sujet si important, ainsi que de certaines de nos stratégies préférées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469929/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
 
 ## Conseils, astuces et plus encore
 
@@ -48,16 +49,16 @@ Rejoignez-moi, votre CSM On-Demand Workfront, alors que je discute avec Leslie d
    * De nouvelles mises à jour peuvent apporter un nouveau récit aux administrateurs système et potentiellement résoudre des problèmes.  Si vous communiquez le changement, alors vous pouvez vous attribuer le mérite ! 
 
 * En parlant de reconnaissance, n’oubliez pas d’utiliser la puissance de Workfront pour reconnaître vos utilisateurs et utilisatrices ! 
-   * Lorsqu’ils proposent leurs idées, leur attention, voire leurs plaintes, ils offrent leur temps et leurs commentaires. Ce sont vos héros méconnus, et aucune contribution n&#39;est trop petite ! 
+   * Lorsqu’ils proposent leurs idées, leur attention, voire leurs plaintes, ils offrent leur temps et leurs commentaires. Ce sont vos héros méconnus, et aucune contribution n&#39;est trop petite !  
 
 ## Ressources
 
-* Vous recherchez d’autres exemples ? Consultez la [publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=fr) pour découvrir d’autres idées partagées dans les commentaires !
-* [Tout sur les plans directeurs](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=fr)
-* [Rapport sur les dernières notes](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=fr)
-* [Ajouter une mise en forme conditionnelle de base à une vue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=fr)
-* [Ajout de tableaux de bord au panneau de navigation de gauche](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=fr)
-* [Modèles de disposition - Épinglage](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=fr)
+* Vous recherchez d’autres exemples ? Consultez la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) pour découvrir d’autres idées partagées dans les commentaires !
+* [Tout sur les plans directeurs](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
+* [Rapport sur les dernières notes](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
+* [Ajouter une mise en forme conditionnelle de base à une vue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* [Ajout de tableaux de bord au panneau de navigation de gauche](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
+* [Modèles de mise en page - Épingler](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
 
 ## À propos du conférencier
 
@@ -65,4 +66,4 @@ Leslie Spier est une défenseure dévouée des clients, avec des années d’exp
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [CSatScale@adobe.com](mailto:CSatScale@adobe.com).
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).

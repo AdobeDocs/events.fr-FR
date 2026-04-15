@@ -1,7 +1,8 @@
 ---
-title: Introduction à Adobe Developers Live NOV 22 dans l’extensibilité de l’interface utilisateur et la nouvelle interface utilisateur Fragment de contenu
-description: Présentation de l’extensibilité de l’interface utilisateur et de l’UIAobe Experience Manager New Content Fragment offre de nouveaux services qui réduisent les coûts de maintenance, offrent constamment les dernières améliorations aux utilisateurs et peuvent être personnalisés et étendus avec une pile technologique frontale moderne. Au cours de cette session, nous allons passer en revue les nouveaux services de l’interface utilisateur de fragments de contenu et vous donner un exemple détaillé de la création d’une extension pour la console de fragments de contenu.
+title: Adobe Developers Live NOV 22 Présentation de l’extensibilité de l’interface utilisateur et de la nouvelle interface utilisateur Fragment de fragment de contenu
+description: Présentation de l’extensibilité de l’interface utilisateur et du nouveau fragment de contenu UIAobe Experience Manager offre de nouveaux services qui réduisent les coûts de maintenance, fournissent en permanence les dernières améliorations aux utilisateurs et peuvent être personnalisés et étendus avec une pile technologique front-end moderne.Au cours de cette session, nous allons donner un aperçu des nouveaux services de l’interface utilisateur des fragments de contenu et fournir un exemple détaillé de la création d’une extension pour la console Fragments de contenu.
 solution: Experience Manager,Experience Manager Sites
+feature: Developer Tools, Content Fragments
 product: experience manager
 sub-product: sites
 topic: Development, Headless
@@ -13,17 +14,17 @@ kt: 11484
 thumbnail: 3411305.jpeg
 exl-id: 9624f106-e48c-4c6e-81b8-adf083c8db96
 duration: 2733
-source-git-commit: 9a297cda953d4414131657f9ac84580aea0eabeb
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-# Présentation de l’extensibilité de l’interface utilisateur et de la nouvelle interface utilisateur de fragments de contenu
+# Présentation de l’extensibilité de l’interface utilisateur et de la nouvelle interface utilisateur de fragment de contenu
 
-Adobe Experience Manager propose de nouveaux services qui réduisent les coûts de maintenance, offrent constamment les dernières améliorations aux utilisateurs et peuvent être personnalisés et étendus avec une pile de technologies frontales moderne.
+Adobe Experience Manager offre de nouveaux services qui réduisent les coûts de maintenance, fournissent en permanence les dernières améliorations aux utilisateurs et peuvent être personnalisés et étendus avec une pile technologique front-end moderne.
 
-Au cours de cette session, nous allons passer en revue les nouveaux services d’IU de fragments de contenu et vous donner un exemple détaillé de la création d’une extension pour la console de fragments de contenu.
+Au cours de cette session, nous allons donner un aperçu des nouveaux services de l’interface utilisateur des fragments de contenu et fournir un exemple détaillé de la création d’une extension pour la console Fragments de contenu.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411305/?quality=12&learn=on)

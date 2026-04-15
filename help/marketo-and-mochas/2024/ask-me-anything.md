@@ -2,6 +2,8 @@
 title: Demander n'importe quoi
 description: Rejoignez le dernier webinaire interactif d’Adobe de l’année avec Kate Kolbert et James Letham. Vous pourrez y découvrir l’optimisation du webinaire, les mises à jour des programmes, les fonctionnalités Marketo sous-utilisées, les bonnes pratiques de marketing par e-mail, la gestion des bases de données, les autorisations des utilisateurs, la synchronisation Marketo-Salesforce, l’engagement dans le chat dynamique et les étapes du cycle de vie.
 solution: Marketo Engage
+feature: Programs, Smart Lists
+topic: Artificial Intelligence, Personalization
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Event
@@ -9,9 +11,9 @@ duration: 3438
 last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-16502
 exl-id: a842ed22-c6db-4de3-af02-c7363207d00c
-source-git-commit: 3f2a8375249858c4905d9058570dffcd4dcd8622
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -32,5 +34,5 @@ La transcription détaille une dernière session interactive de webinaire de l�
 * **Autorisations utilisateur** limitez les autorisations utilisateur pour empêcher les envois massifs d’e-mails non autorisés et définissez des limites de campagne intelligentes par mesure de sécurité.
 * **Synchronisation Marketo-Salesforce** évitez de donner à l’administrateur de l’utilisateur de la synchronisation Marketo l’accès dans Salesforce afin d’éviter la surcharge de données et d’assurer une synchronisation efficace.
 * **Engagement de Dynamic Chat** optimisez le déploiement des robots de conversation en évaluant l’emplacement des pages, en simplifiant les interactions utilisateur et en ciblant la bonne audience.
-* **Étapes du cycle de vie et gestion de l’entonnoir** définissez des étapes de cycle de vie claires, assurez l’alignement avec les ventes et empêchez les prospects de revenir en arrière dans l’entonnoir.
+* **Étapes de cycle de vie et gestion des Funnel** définissez des étapes de cycle de vie claires, assurez-vous de l’alignement avec les ventes et empêchez les prospects de revenir en arrière dans funnel.
 * **Limites d’envoi d’e-mail** Le taux d’envoi d’e-mail maximal général est de 1 million d’e-mails par heure. Des limites plus élevées sont disponibles à l’achat si nécessaire.

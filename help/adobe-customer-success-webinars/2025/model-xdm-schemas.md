@@ -2,6 +2,7 @@
 title: Bonnes pratiques et informations pour la modélisation des schémas XDM
 description: Modélisation des données de Principal dans AEP avec des schémas XDM, la gestion des identités et les bonnes pratiques pour une personnalisation et une segmentation évolutives en temps réel.
 solution: Experience Platform
+feature: Personalization
 topic: Personalization
 role: Developer
 level: Intermediate
@@ -10,9 +11,9 @@ duration: 3488
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18019
 exl-id: 3327dc51-b5e4-49bd-884a-4defea8664eb
-source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -28,13 +29,13 @@ Au cours de cette session, découvrez les bonnes pratiques et les raccourcis ess
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458042/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 **Modélisation des données dans Adobe Experience Platform (AEP)**
 
 Le schéma XDM est la base de la modélisation des données dans AEP. Il permet l’intégration et le partage de données entre différents systèmes. Il définit la structure et la signification des données, telles que les attributs de profil et les actions basées sur un événement.
 
-**Identity Management**
+****
 
 Une gestion des identités appropriée est essentielle pour éviter des problèmes tels que l’effondrement d’un profil. Le hachage de données sensibles telles que les e-mails et l’utilisation d’identifiants uniques peuvent contribuer à maintenir l’intégrité des données. Les mappages d’identités sont recommandés pour la segmentation et la personnalisation en temps réel.
 

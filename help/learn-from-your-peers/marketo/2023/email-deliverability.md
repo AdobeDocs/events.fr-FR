@@ -4,6 +4,7 @@ description: Dans ce webinaire, vous d√©couvrirez les facteurs qui contribuent √
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Smart Lists, Deliverability, Reporting
+topic: Performance
 role: Admin
 level: Intermediate
 doc-type: Event
@@ -12,9 +13,9 @@ jira: KT-13911
 thumbnail: 3423966.jpeg
 exl-id: c6b9cb51-fb81-41e7-b100-9cb2029c43dc
 duration: 2563
-source-git-commit: dc8346b9341c7413a7c9571667f6cf0bb5914dd5
+source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
