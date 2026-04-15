@@ -40,4 +40,4 @@ En plus de l’enregistrement à la demande, nous avons inclus le jeu de diaposi
 
 L’un des thèmes les plus importants que nous avons vus dans la conversation était le défi consistant à essayer de garder les modèles de projet simples, mais en même temps à suivre l’effort et à s’assurer que les équipes réalisent toutes les étapes nécessaires pour terminer le projet.  
 
- Nous espérons vous voir lors des futurs ateliers sur le succès client !  Veillez à consulter les [Événements ](https://experienceleague.adobe.com/events/?filters=Workfront) sur Experience League pour obtenir la liste complète et vous inscrire.
+ Nous espérons vous voir lors des futurs ateliers sur le succès client !  Veillez à consulter les [Événements &#x200B;](https://experienceleague.adobe.com/events/?filters=Workfront) sur Experience League pour obtenir la liste complète et vous inscrire.

@@ -31,4 +31,4 @@ Vous souhaitez découvrir les derniers plans directeurs ?
 * [Plan directeur publié : tableau de bord de People Manager](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/blueprint-released-people-manager-dashboard/m-p/687545#M3247)
 * [Liste complète des plans directeurs disponibles](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
 
-Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire à nos ateliers à venir sur notre page [Événements ](https://experienceleague.adobe.com/en/events?filters=Workfront). Nous espérons vous voir bientôt !
+Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire à nos ateliers à venir sur notre page [Événements &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront). Nous espérons vous voir bientôt !

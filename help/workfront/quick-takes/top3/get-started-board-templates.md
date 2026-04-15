@@ -27,4 +27,4 @@ Voici un article qui fournit des instructions détaillées.
 
 [Créer un tableau avec un modèle](https://experienceleague.adobe.com/en/docs/workfront/using/agile/boards-in-workfront/create-edit-board#create-a-new-board) 
 
-Avez-vous des idées à partager ou des questions de suivi sur la vidéo ? N’hésitez pas à les laisser dans les commentaires de la publication de la communauté [](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307) !
+Avez-vous des idées à partager ou des questions de suivi sur la vidéo ? N’hésitez pas à les laisser dans les commentaires de la publication de la communauté [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-getting-started-with-boards-templates/td-p/694307) !

@@ -25,6 +25,6 @@ Rejoignez Nichole Vargas qui partage des conseils pour favoriser une meilleure h
 
 Si vous avez manqué la séance, pas d&#39;inquiétude ! Examinez le [diaporama](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/10+Communication+Tips+-+January+22%2C+2026.pdf) et regardez l’enregistrement à la demande pour le suivre.
 
-Vous recherchez d&#39;autres ressources pour l&#39;événement ? Consultez la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874) !
+Vous recherchez d&#39;autres ressources pour l&#39;événement ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-10-communication-tips-in-adobe-workfront-january-22-2026-247874) !
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.

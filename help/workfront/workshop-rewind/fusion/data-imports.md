@@ -25,6 +25,6 @@ Organisée en partenariat avec Brian Haight de Adobe Professional Services, cett
 
 Examinez [le diaporama](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Slide+Deck+Template+-+Fusion+Event.pdf) et regardez l’enregistrement à la demande pour le suivre.
 
-Consultez la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522) pour obtenir des exemples de fichiers CSV téléchargeables et le bundle CSV Fusion !
+Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-fast-track-efficiency-data-imports-with/td-p/769522) pour obtenir des exemples de fichiers CSV téléchargeables et le bundle CSV Fusion !
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.

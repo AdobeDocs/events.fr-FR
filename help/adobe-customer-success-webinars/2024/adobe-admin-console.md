@@ -41,7 +41,7 @@ Ce webinaire présente une vue d’ensemble complète de la navigation dans Adob
 
 * **Outil de synchronisation des utilisateurs** automatise la configuration des utilisateurs et l’accès aux produits, prend en charge l’intégration avec LDAP et gère le cycle de vie des utilisateurs.
 
-* **** Agit comme un hub de gestion central pour les organisations ayant plusieurs organisations, ce qui permet la distribution des ressources et une gestion rationalisée.
+* **&#x200B;**&#x200B;Agit comme un hub de gestion central pour les organisations ayant plusieurs organisations, ce qui permet la distribution des ressources et une gestion rationalisée.
 
 * **Configuration et gestion** La console prend en charge différentes configurations pour les paramètres de confidentialité, de sécurité, d’identité, de partage de ressources, d’authentification et de chiffrement.
 

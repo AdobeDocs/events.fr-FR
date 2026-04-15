@@ -33,7 +33,7 @@ Poursuivez la conversation dans la communauté Adobe Developers Live [discussion
 * **Présentateur et contexte** Mark McConnell, développeur de logiciels chez Ensemble, a discuté de son travail avec le PGA Tour à l&#39;aide des produits Adobe.
 * **Aperçu du projet** Ensemble travaille avec le PGA Tour depuis plus de trois ans, développant son site web principal, ses applications mobiles et divers sites web spécifiques au tournoi.
 * **Technologies utilisées** L’accent a été mis sur l’utilisation de services de diffusion Adobe Experience Manager (AEM) découplés et Edge pour répondre aux besoins de la visite de la PGA.
-* ****
+* **&#x200B;**
    * Utilisé pour prendre en charge 16 sites actifs d’environ 500 pages.
    * Activation de la configuration rapide et des mises à jour fréquentes avec des ressources de développement minimales.
    * Mise en évidence de la modularité et de la réutilisation des blocs de code sur différents sites.

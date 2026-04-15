@@ -41,7 +41,7 @@ Comme promis, voici les ressources dont nous avons discuté, ainsi que quelques 
 
 * Documentation sur les files d’attente des demandes : [Créer des rubriques de file d’attente](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-queue-topics)
 
-* Présentation du webinaire de Lyndsy pour [Principes de base de l’administration système](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096) : communication avec les utilisateurs finaux (cette page comprend également un lien vers le [ Manuel des communications de l’utilisateur final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
+* Présentation du webinaire de Lyndsy pour [Principes de base de l’administration système](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-communicating-with-end-users/td-p/606096) : communication avec les utilisateurs finaux (cette page comprend également un lien vers le [&#x200B; Manuel des communications de l’utilisateur final](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/introducing-the-end-user-communications-cookbook/ba-p/607439))
 
 * Lyndsy’s [ressources de présentation pour l’échange de compétences](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-november-2024-skill-exchange-workfront-process/m-p/726841#M3642)
 
@@ -57,4 +57,4 @@ Vous ne savez jamais quelles idées incroyables les clients partageront lors des
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [&#128279;](mailto:CSatScale@adobe.com).

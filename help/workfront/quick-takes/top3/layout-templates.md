@@ -23,6 +23,6 @@ Il n’est pas surprenant que les modèles de disposition rendent vos instances 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477026/?learn=on&enablevpops)
 
-Pour plus de ressources, consultez la publication de la communauté [](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531#M313) !
+Pour plus de ressources, consultez la publication de la communauté [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531#M313) !
 
-Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire aux ateliers à venir sur la page [Événements ](https://experienceleague.adobe.com/fr/events).
+Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire aux ateliers à venir sur la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events).

@@ -37,7 +37,7 @@ Cet atelier, enregistré le 29 mai 2025, a réuni notre équipe produit Adobe Wo
 * **Fonctionnalités actuelles** Data Connect prend actuellement en charge plus de 110 objets Workfront (70 au lancement en octobre), avec des données actualisées toutes les 4 heures. Elle fournit trois types de vues : état actuel, instantanés d’historique quotidiens et données d’événement transactionnel pour l’analyse historique.
 * **Cas d’utilisation client** les clients utilisent Data Connect pour surveiller l’activité des utilisateurs, identifier les goulets d’étranglement des processus, le suivi de l’état et du temps, les contrôles de conformité, le suivi SLA, la planification des capacités et l’association des données Workfront à des jeux de données externes dans leurs entrepôts de données existants. 
 
-Si vous avez d’autres questions pour Matt ou si vous souhaitez expliquer comment vous utilisez Data Connect, veuillez répondre à cette [publication de la communauté ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725) !
+Si vous avez d’autres questions pour Matt ou si vous souhaitez expliquer comment vous utilisez Data Connect, veuillez répondre à cette [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-unlock-the-power-of-workfront-data-connect/td-p/756725) !
 
 
-Nous espérons vous voir lors des futurs ateliers sur le succès client !  Veillez à consulter les [Événements ](https://experienceleague.adobe.com/events/?filters=Workfront) sur Experience League pour obtenir la liste complète et vous inscrire.
+Nous espérons vous voir lors des futurs ateliers sur le succès client !  Veillez à consulter les [Événements &#x200B;](https://experienceleague.adobe.com/events/?filters=Workfront) sur Experience League pour obtenir la liste complète et vous inscrire.

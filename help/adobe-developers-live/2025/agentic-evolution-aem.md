@@ -29,5 +29,5 @@ Cette session (The Agentic Evolution of Adobe Experience Manager) examine commen
 
 ## Étapes suivantes
 
-* Poursuivre la conversation sur [](https://adobe.ly/47ss08A)
+* Poursuivre la conversation sur [&#128279;](https://adobe.ly/47ss08A)
 * Découvrez [événements à venir](https://developerevents.adobe.com)

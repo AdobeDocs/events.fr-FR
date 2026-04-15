@@ -28,9 +28,9 @@ Découvrez comment la vision de l’IA d’Adobe Agentic prend vie dans AEP, en 
 
 Adobe Experience Platform dispose de plusieurs agents spécialisés, chacun conçu pour automatiser et optimiser les tâches marketing principales :
 
-* **** Automatise l&#39;analyse et la visualisation, répond aux questions commerciales et suggère des optimisations.
-* **** accélère la création, la gestion et les informations d’audience, avec une prise en charge future de la création de segments basée sur des objectifs.
-* **** identifie le chevauchement des audiences, analyse les points de chute et permettra bientôt la création de parcours basés sur des invites.
+* **&#x200B;**&#x200B;Automatise l&#39;analyse et la visualisation, répond aux questions commerciales et suggère des optimisations.
+* **&#x200B;**&#x200B;accélère la création, la gestion et les informations d’audience, avec une prise en charge future de la création de segments basée sur des objectifs.
+* **&#x200B;**&#x200B;identifie le chevauchement des audiences, analyse les points de chute et permettra bientôt la création de parcours basés sur des invites.
 * **Agent d’assistance produit** simplifie le dépannage, la création de tickets et le suivi de l’état, en tirant parti de la documentation et des données actives.
 
 Les agents sont accessibles via l’assistant d’IA, qui coordonne les tâches et assure une intégration transparente entre les solutions AEP. Ces outils stimulent l’efficacité, réduisent les efforts manuels et prennent en charge des décisions marketing plus intelligentes.

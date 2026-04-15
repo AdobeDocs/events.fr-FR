@@ -28,7 +28,7 @@ Bienvenue à nouveau dans les informations d’experts !  Je suis Cynthia Boon, 
 
 ## Besoin de votre aide !
 
-Comme Ewan l’a mentionné dans la vidéo, il travaille sur un guide des bonnes pratiques relatives à la fusion, et il aimerait avoir de vos nouvelles !  Si vous utilisez Fusion pour prendre en charge vos processus, partagez vos conseils, recommandations et conseils dans la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114) et il tentera d’en inclure autant que possible.
+Comme Ewan l’a mentionné dans la vidéo, il travaille sur un guide des bonnes pratiques relatives à la fusion, et il aimerait avoir de vos nouvelles !  Si vous utilisez Fusion pour prendre en charge vos processus, partagez vos conseils, recommandations et conseils dans la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-february-2024-workfront-expert-insights-fusion-with-ewan/td-p/657114) et il tentera d’en inclure autant que possible.
 
 ## Conseil
 
@@ -48,4 +48,4 @@ Ewan est un architecte principal du succès client qui travaille avec des centai
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [&#128279;](mailto:CSatScale@adobe.com).

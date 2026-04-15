@@ -37,4 +37,4 @@ Et voici un bref résumé des conseils qui ont été partagés dans le chat : 
 * Si les utilisateurs ne reçoivent pas de notifications (par e-mail), vous avez toujours la possibilité de vous connecter en tant qu’utilisateurs pour confirmer que la notification est activée dans leur profil. Contactez également le service clientèle si vous êtes bloqué(e) !   
 * Envisagez de désactiver les e-mails associés aux modifications des statuts. Ces modifications sont-elles plus bruyantes que les actions informatives ?  
 
-Nous espérons vous voir lors des futurs ateliers sur le succès client !  Veillez à consulter les [Événements ](https://experienceleague.adobe.com/events/?filters=Workfront) sur Experience League pour obtenir la liste complète et vous inscrire.
+Nous espérons vous voir lors des futurs ateliers sur le succès client !  Veillez à consulter les [Événements &#x200B;](https://experienceleague.adobe.com/events/?filters=Workfront) sur Experience League pour obtenir la liste complète et vous inscrire.

@@ -30,7 +30,7 @@ Découvrez le réseau CDN géré par Adobe dans AEM Cloud Service et comment le 
 
 *Enregistrement le 22 janvier 2025*
 
-Vous avez une question, peut-être un commentaire?  Rejoignez la discussion dans les [communautés ](https://adobe.ly/4haufPK) !
+Vous avez une question, peut-être un commentaire?  Rejoignez la discussion dans les [communautés &#x200B;](https://adobe.ly/4haufPK) !
 
 ## Points essentiels à retenir
 

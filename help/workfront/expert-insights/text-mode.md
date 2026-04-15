@@ -43,7 +43,7 @@ Vous recherchez des ressources supplémentaires ? On les a !
 * [Manuel de création de rapports](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/the-first-ever-adobe-workfront-customer-reporting-cookbook-is/m-p/478722#M1406)
 * Si vous êtes novice en matière de création de rapports, consultez l’article Perspective de Nichole, procédure [8 pour créer des rapports simples et efficaces dans Adobe Workfront](https://experienceleague.adobe.com/en/perspectives/8-steps-to-create-simple-effective-reports-in-adobe-workfront).
 
-Pour plus de ressources, notamment le mode Texte, consultez l’article de la communauté Experience League [](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848) !
+Pour plus de ressources, notamment le mode Texte, consultez l’article de la communauté Experience League [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-october-2025-workfront-expert-insights-text-mode-with/m-p/779717#M4848) !
 
 
 ## À propos du conférencier
@@ -57,6 +57,6 @@ Elle vit dans le sud-ouest de l&#39;Ohio avec son mari accidentel, leur chien «
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [&#128279;](mailto:CSatScale@adobe.com).
 
-Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire aux ateliers à venir sur la page [Événements ](https://experienceleague.adobe.com/fr/events).
+Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire aux ateliers à venir sur la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events).

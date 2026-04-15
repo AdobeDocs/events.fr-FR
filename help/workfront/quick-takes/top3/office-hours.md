@@ -33,4 +33,4 @@ Ressource bonus ! Nous avons organisé une Pause-café de la communauté où de 
 
 [Méthodes de communication Workfront Coffee Break à adopter](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ev-p/621879)
 
-Avez-vous des exemples de la façon dont vous abordez vos heures de bureau Workfront ? Partagez vos bonnes pratiques dans cette [publication de la communauté ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391) !
+Avez-vous des exemples de la façon dont vous abordez vos heures de bureau Workfront ? Partagez vos bonnes pratiques dans cette [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-approaches-to-office-hours/td-p/713391) !

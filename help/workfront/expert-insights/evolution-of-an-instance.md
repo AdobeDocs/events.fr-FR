@@ -36,7 +36,7 @@ Tu repartiras avec des informations pertinentes, notamment :
 ## Ressources
 
 Jen partage également certaines de ses ressources préférées, notamment les raisons pour lesquelles les modèles Fusion, les plans directeurs et les bonnes pratiques partagées peuvent faire toute la différence. En savoir plus ici :
-* [ Liste des modèles Fusion disponibles ](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [&#x200B; Liste des modèles Fusion disponibles &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
 * [Liste des plans directeurs disponibles](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
 * [Communauté Experience League Workfront](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
 
@@ -54,7 +54,7 @@ Jen Desmond est conseillère principale en réussite technique. Elle s’associe
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [&#128279;](mailto:CSatScale@adobe.com).
 
 
-Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire aux ateliers à venir sur la page [Événements ](https://experienceleague.adobe.com/fr/events).
+Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire aux ateliers à venir sur la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events).

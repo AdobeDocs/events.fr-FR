@@ -26,6 +26,6 @@ Si vous n’avez pas pu assister à la session en direct, ne vous inquiétez pas
 
 Veillez également à consulter les [notes de mise à jour](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview) sur Experience League, car toutes les fonctionnalités n’ont pas été abordées dans le webinaire.
 
-Vous recherchez les questions/réponses et les transcriptions de la session ? Consultez la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946) !
+Vous recherchez les questions/réponses et les transcriptions de la session ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/event-follow-up-adobe-workfront-fourth-quarter-2025-release/td-p/780946) !
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.

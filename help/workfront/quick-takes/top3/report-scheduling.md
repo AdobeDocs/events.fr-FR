@@ -25,6 +25,6 @@ Cette fois, je partage mes méthodes préférées pour tirer le meilleur parti d
 
 >[!VIDEO](https://video.tv.adobe.com/v/3477040/?learn=on&enablevpops)
 
-Pour plus de ressources, consultez la publication de la communauté [](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285) !
+Pour plus de ressources, consultez la publication de la communauté [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-ways-to-get-the-most-from-report-scheduling/td-p/609285) !
 
-Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire aux ateliers à venir sur la page [Événements ](https://experienceleague.adobe.com/fr/events).
+Si vous souhaitez découvrir de nouvelles idées et approches créatives, n’oubliez pas de vous inscrire aux ateliers à venir sur la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events).
