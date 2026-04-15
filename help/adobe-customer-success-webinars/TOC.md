@@ -2,9 +2,9 @@
 user-guide-title: Webinaires sur le succès client Adobe
 breadcrumb-title: Webinaires sur le succès client Adobe
 user-guide-description: Webinaires dirigés par la réussite client Adobe conçus pour vous aider à optimiser votre investissement dans Adobe Experience Cloud. Obtenez des informations précieuses afin d’optimiser la valeur et d’accroître l’adoption des solutions Adobe.
-source-git-commit: a242376e1d74f6405183a1e3e75ba6a991946886
+source-git-commit: 4d76f9900ce9cdc2783223443b5e47cddea09c3b
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '661'
 ht-degree: 5%
 
 ---
@@ -29,7 +29,10 @@ ht-degree: 5%
       + [Stratégies de gestion des modifications de Content Supply chain](2026/csc-change-management.md)
       + [Parrainage exécutif de Content Supply chain](2026/csc-executive-sponsorship.md)
       + [Architecture de base de Content Supply chain](2026/csc-architecture.md)
+      + [Mise à jour du trafic GenAI](2026/gen-ai-traffic-update.md)
       + [Modèle de fonctionnement de Content Supply chain](2026/csc-operating-model.md)
+   + Workfront {#workfront2026}
+      + [Workfront Proof pour les validations](2026/workfront-proof-approvals.md)
 + 2025 {#2025}
    + Commerce {#commerce2025}
       + [Enrichissement d’Adobe Commerce avec Adobe Experience Platform](2025/enriching-adobe-commerce.md)
