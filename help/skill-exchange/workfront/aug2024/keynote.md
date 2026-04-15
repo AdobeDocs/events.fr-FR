@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Adobe Workfront : allocution d’ouverture
 
->[!VIDEO](https://video.tv.adobe.com/v/3433193/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454484/?captions=fre_fr&learn=on)

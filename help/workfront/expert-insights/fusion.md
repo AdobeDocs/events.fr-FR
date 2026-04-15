@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Bienvenue à nouveau dans les informations d’experts !  Je suis Cynthia Boon, votre CSM Workfront « On-Demand », et dans cet épisode, nous sommes rejoints par Ewan Hruska ! Il est vraiment un « Chevalier de la Fusion » magique et partage les avantages de Fusion avec ses conseils d&#39;expert pour tirer le meilleur parti de l&#39;outil.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469896/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470018/?captions=fre_fr&learn=on&enablevpops)
 
 ## Besoin de votre aide !
 

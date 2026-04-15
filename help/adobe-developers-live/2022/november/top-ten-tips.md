@@ -25,4 +25,4 @@ ht-degree: 0%
 
 De bonnes performances d’expérience sont essentielles au succès de l’expérience. Au cours de cette session, nous partagerons avec vous nos 10 bonnes pratiques pour aider vos développeurs à accélérer vos sites web Adobe Experience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411300/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457177/?captions=fre_fr&quality=12&learn=on)

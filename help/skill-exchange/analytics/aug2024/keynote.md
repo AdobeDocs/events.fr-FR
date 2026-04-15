@@ -28,4 +28,4 @@ Il est essentiel de fournir des données aux équipes pour stimuler l’innovati
 * Découvrez les bonnes pratiques pour fournir le contexte approprié et assurer une utilisation efficace des données.
 * Découvrez comment Adobe Analytics et Customer Journey Analytics peuvent aider vos équipes à utiliser les données à bon escient.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432751/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453589/?captions=fre_fr&learn=on)

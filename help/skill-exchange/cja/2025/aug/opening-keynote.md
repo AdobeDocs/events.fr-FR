@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Keynote d’ouverture
 
->[!VIDEO](https://video.tv.adobe.com/v/3471108/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471126/?captions=fre_fr&learn=on&enablevpops)
 
 ## Déverrouiller l’excellence des analystes : compétences essentielles
 

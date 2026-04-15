@@ -27,4 +27,4 @@ Tirez parti de votre stratégie de collecte de données et activez-la pour inter
 * Présentation architecturale de haut niveau
 * Considérations relatives à votre stratégie de collecte et d’activation des données
 
->[!VIDEO](https://video.tv.adobe.com/v/3426006/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456226/?captions=fre_fr&learn=on)

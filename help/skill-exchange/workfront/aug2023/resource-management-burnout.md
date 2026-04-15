@@ -31,4 +31,4 @@ Au cours de cette session, Tia Calvert, chef de produit, et Erin Kuchera, respon
 * Comment intégrer le suivi des congés
 * Exemples de la façon dont Mayo Clinic utilise Analytics et Resource Manager pour offrir de la transparence aux équipes et planifier de nouveaux travaux
 
->[!VIDEO](https://video.tv.adobe.com/v/3425811/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457098/?captions=fre_fr&learn=on)

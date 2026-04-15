@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Keynote d’ouverture d’Adobe Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3433144/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453941/?captions=fre_fr&learn=on)

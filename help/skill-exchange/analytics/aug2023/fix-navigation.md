@@ -22,4 +22,4 @@ ht-degree: 0%
 
 La navigation est essentielle pour que vos visiteurs puissent se frayer un chemin sur votre site et accéder à vos entonnoirs de conversion. Découvrez comment vous pouvez suivre l’efficacité de votre navigation et comment l’améliorer avec Adobe Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425992/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457369/?captions=fre_fr&learn=on)

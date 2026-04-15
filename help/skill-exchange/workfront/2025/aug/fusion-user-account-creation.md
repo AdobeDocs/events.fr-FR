@@ -32,7 +32,7 @@ Rejoignez Kurt Jones de J.P. Morgan Payments qui partage ses points de vue d’e
 * Automatisation de la création du compte dans Admin Console avec Fusion
 * Mise à jour des détails supplémentaires sur le profil Workfront avec Fusion
 
->[!VIDEO](https://video.tv.adobe.com/v/3471496/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471573/?captions=fre_fr&learn=on&enablevpops)
 
 ## Bonnes pratiques pour les administrateurs et la mise à l’échelle
 

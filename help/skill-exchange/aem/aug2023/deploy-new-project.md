@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Cet échange de compétences se concentre sur la manière dont un nouveau développeur AEM peut démarrer et déployer un nouveau projet. Il se concentrera sur des sujets tels que l’archétype de projet AEM, la configuration de Cloud Manager et les outils de développement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424017/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480802/?captions=fre_fr&learn=on)

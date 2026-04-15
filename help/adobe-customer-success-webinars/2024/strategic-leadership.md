@@ -27,4 +27,4 @@ Acquérir les tactiques pour atteindre efficacement les objectifs organisationne
 - Fixer le cap de la réussite à long terme
 - Piloter efficacement les initiatives stratégiques
 
->[!VIDEO](https://video.tv.adobe.com/v/3427463/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456785/?captions=fre_fr&learn=on)

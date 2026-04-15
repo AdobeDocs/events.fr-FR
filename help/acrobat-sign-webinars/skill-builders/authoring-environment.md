@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Explorez plus en détail les options disponibles dans l’environnement de création Acrobat Sign. Les rubriques abordées sont les suivantes : présentation de la préparation de vos modèles de document Acrobat Sign à l’aide d’Acrobat, balisage de texte et environnement de création Acrobat Sign. Découvrez en détail l’environnement de création, notamment le clonage et la copie de champs, l’ajout de champs spécialisés, l’attribution de champs et la configuration de champs conditionnels et de calcul. Comment envoyer vos modèles pour signature, en comparant le modèle de document au modèle de champ de formulaire.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428189/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455897/?captions=fre_fr&learn=on)
 
 ## Points clés
 

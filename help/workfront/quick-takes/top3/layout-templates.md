@@ -21,7 +21,7 @@ ht-degree: 3%
 
 Il n’est pas surprenant que les modèles de disposition rendent vos instances Adobe Workfront plus adaptées à vos besoins spécifiques en tant qu’administrateur système. Consultez donc mes 3 principales raisons d’utiliser des modèles de disposition !
 
->[!VIDEO](https://video.tv.adobe.com/v/3477026/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477042/?captions=fre_fr&learn=on&enablevpops)
 
 Pour plus de ressources, consultez la publication de la communauté [&#128279;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-top-3-reasons-to-use-layout-templates-in-adobe-workfront/m-p/575531?profile.language=fr#M313) !
 

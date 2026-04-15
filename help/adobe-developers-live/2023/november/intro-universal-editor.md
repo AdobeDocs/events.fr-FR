@@ -25,4 +25,4 @@ ht-degree: 0%
 
 L’éditeur universel est la nouvelle génération de l’éditeur de page contextuel d’AEM. Il résout les limites actuelles de l’éditeur de page ou de l’éditeur de SPA d’AEM. Il est indépendant des structures, des moteurs de rendu et des sources de données, offrant ainsi toute la liberté que les développeurs recherchent et le rendant vraiment universel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426341/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456469/?captions=fre_fr&learn=on)

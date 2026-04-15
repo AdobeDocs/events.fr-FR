@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Rejoignez-nous pour une présentation d’Adobe Acrobat Analyzer, une nouvelle fonctionnalité GenAI d’Acrobat Sign conçue pour extraire des informations structurées et auditables à partir de grands volumes de documents, ce qui permet aux équipes commerciales d’automatiser les workflows, de réduire les risques et de prendre des décisions plus rapides à grande échelle.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481448/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481462/?captions=fre_fr&learn=on&enablevpops)
 
 Ce webinaire explique comment Adobe Acrobat Analyzer rend les renseignements documentaires accessibles à toutes les fonctions de l’entreprise. Dans ce webinaire, vous apprendrez :
 

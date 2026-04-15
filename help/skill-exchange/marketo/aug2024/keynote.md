@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Discours d&#39;ouverture avec Raj Patel
 
->[!VIDEO](https://video.tv.adobe.com/v/3432957/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453057/?captions=fre_fr&learn=on)

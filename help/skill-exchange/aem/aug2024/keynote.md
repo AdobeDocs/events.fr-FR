@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Keynote d’ouverture de Adobe Experience Manager
 
->[!VIDEO](https://video.tv.adobe.com/v/3433161/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454959/?captions=fre_fr&learn=on)

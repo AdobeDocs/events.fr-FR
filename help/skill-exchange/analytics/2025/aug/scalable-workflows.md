@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Rejoignez Ioana Maftei, championne d’Adobe et responsable principale d’Analytics chez IBM, qui explique comment créer des workflows d’analyse évolutifs et régis qui rendent le contenu supply chain mesurable. Découvrez comment transmettre les informations appropriées aux bonnes personnes au bon moment, permettre une collaboration entre les équipes et adapter les projets Analysis Workspace aux différents rôles et besoins.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471118/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471231/?captions=fre_fr&learn=on&enablevpops)
 
 ## Mappage des rôles aux étapes Analytics
 
