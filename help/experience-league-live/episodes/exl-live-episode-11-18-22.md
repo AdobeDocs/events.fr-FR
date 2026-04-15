@@ -28,5 +28,5 @@ Avec autant d’exigences en termes de temps et d’attention, vous devez être 
 
 Regardez la vidéo ci-dessus pour visionner cet événement en direct, au cours duquel des experts Adobe [!DNL Analytics] ont donné de superbes conseils sur la personnalisation et l’accès aux informations dans Analysis Workspace et l’application Tableaux de bord [!DNL Analytics].
 
-Vous avez des questions à ce sujet ? Poursuivez la discussion sur ce sujet dans la [publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787#M3037) d’Adobe Experience League.
+Vous avez des questions à ce sujet ? Poursuivez la discussion sur ce sujet dans la [publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/experience-league-live-post-session-discussion-analytics-in-the/m-p/558787?profile.language=fr#M3037) d’Adobe Experience League.
 

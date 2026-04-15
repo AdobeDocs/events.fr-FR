@@ -19,12 +19,12 @@ ht-degree: 1%
 
 # Fusion Decoded Partie 2 - Commençons la création
 
-Dans [Partie 1](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded), Jen Desmond nous a montré le pouvoir de Fusion et ce qu&#39;elle peut faire pour n&#39;importe quelle organisation. Regardez, dans la partie 2 de cette série, alors qu’elle se penche sur des modèles prêts à l’emploi pour vous montrer comment les utiliser pour lancer votre parcours d’automatisation. Découvrez comment les modèles éliminent le travail de devinette, réduisent le temps de configuration et vous aident à lancer en toute confiance de véritables automatisations sans devoir repartir de zéro.
+Dans [Partie 1](https://experienceleague.adobe.com/fr/docs/events/workfront-recordings/workshop-rewind/fusion/fusion-decoded), Jen Desmond nous a montré le pouvoir de Fusion et ce qu&#39;elle peut faire pour n&#39;importe quelle organisation. Regardez, dans la partie 2 de cette série, alors qu’elle se penche sur des modèles prêts à l’emploi pour vous montrer comment les utiliser pour lancer votre parcours d’automatisation. Découvrez comment les modèles éliminent le travail de devinette, réduisent le temps de configuration et vous aident à lancer en toute confiance de véritables automatisations sans devoir repartir de zéro.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3483137/?learn=on&enablevpops)
 
 Si vous avez manqué la séance, pas d&#39;inquiétude ! Examinez le [diaporama](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/040226-Fusion-Decoded_Part+2.pdf) et regardez l’enregistrement à la demande pour le suivre.
 
-Vous recherchez d’autres ressources ou les questions/réponses sur l’événement ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622) !
+Vous recherchez d’autres ressources ou les questions/réponses sur l’événement ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-fusion-24/event-follow-up-fusion-decoded-part-2-let-s-start-building-4-2-26-249622?profile.language=fr) !
 
 De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.

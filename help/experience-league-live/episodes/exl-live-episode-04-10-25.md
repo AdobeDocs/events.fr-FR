@@ -28,8 +28,8 @@ Au cours de cette session, nous avons exploré les points suivants :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457557/?quality=12&learn=on)
 
-**Poursuivez la discussion sur Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le[...]ive-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}**
+**Poursuivez la discussion sur Experience League [Community Post.](https://experienceleaguecommunities.adobe.com/t5/real-time-customer-data-platform/experience-le?profile.language=fr[...]ive-post-session-discussion-don-t-wait/td-p/748173){target="_blank"}**
 
 ## Ressources supplémentaires
 
-[Vidéos Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)
+[Vidéos Real-Time CDP Collaboration](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-overview)

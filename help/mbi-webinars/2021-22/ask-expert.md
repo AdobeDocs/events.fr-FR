@@ -54,7 +54,7 @@ _Demandez à un expert_ comprend deux sessions :
 
 >[!TIP]
 >
->Si vous découvrez Commerce Intelligence, la série de vidéos [Prise en main](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html) fournit un aperçu complet permettant d’obtenir de meilleurs informations et résultats commerciaux par le biais de l’agrégation, de l’analyse et de la visualisation des données.
+>Si vous découvrez Commerce Intelligence, la série de vidéos [Prise en main](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/introduction/1-overview.html?lang=fr) fournit un aperçu complet permettant d’obtenir de meilleurs informations et résultats commerciaux par le biais de l’agrégation, de l’analyse et de la visualisation des données.
 
-- [Présentation de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Prise en charge de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Présentation de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html?lang=fr)
+- [Prise en charge de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=fr)

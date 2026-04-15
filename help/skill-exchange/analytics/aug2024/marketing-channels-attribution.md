@@ -27,7 +27,7 @@ Dans le contexte actuel du marketing numérique qui évolue rapidement, il est e
 * Présentation des canaux marketing : découvrez l’importance d’identifier et de catégoriser les différents canaux marketing pour comprendre leur impact sur votre présence numérique.
 * Configuration d’Adobe Analytics : obtenez des connaissances pratiques sur la configuration des codes de suivi de campagne, la capture de données pertinentes et l’utilisation d’Adobe Launch pour une collecte de données efficace.
 
-  Pour télécharger l’outil de génération de code de suivi de campagne présenté dans cette session, consultez [Maîtriser les canaux et l’attribution Adobe Analytics-marketing](https://experienceleague.adobe.com/en/perspectives/mastering-adobe-analytics-marketing-channels-attribution) dans Experience League Perspectives.
+  Pour télécharger l’outil de génération de code de suivi de campagne présenté dans cette session, consultez [Maîtriser les canaux et l’attribution Adobe Analytics-marketing](https://experienceleague.adobe.com/fr/perspectives/mastering-adobe-analytics-marketing-channels-attribution) dans Experience League Perspectives.
 
 * Règles de classification et de traitement : découvrez comment utiliser le Créateur de règles de classification et configurer les règles de traitement des canaux marketing pour une classification précise de la source du trafic.
 * Modèles d’attribution : explorez les différents modèles d’attribution disponibles dans Adobe Analytics et comment les appliquer pour mesurer et optimiser l’efficacité de vos efforts marketing.

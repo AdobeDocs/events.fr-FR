@@ -38,5 +38,5 @@ Profitez d’une visite guidée des quatre tableaux de bord inclus lors de la co
 
 ## Ressources utiles
 
-[Tableaux de bord](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html)
-[Exportation des données de graphique](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+[Tableaux de bord](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/ess-dashboards.html?lang=fr)
+[Exportation des données de graphique](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html?lang=fr)

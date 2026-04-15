@@ -38,13 +38,13 @@ Corre est un CSM véritablement stratégique qui nous donne le ton sur l’utili
 
 ### Sessions du Summit
 
-* [Comment Adobe a optimisé sa Supply chain de contenu - S316](https://business.adobe.com/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : explorez l’approche d’Adobe pour déployer sa Supply chain de contenu dans sa propre organisation marketing 
-* [Révolutionner la production de contenu avec Adobe - S305](https://business.adobe.com/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : découvrez comment Adobe peut optimiser votre supply chain de contenu et accélérer votre workflow de création 
+* [Comment Adobe a optimisé sa Supply chain de contenu - S316](https://business.adobe.com/fr/summit/2024/sessions/how-adobe-optimized-its-content-supply-chain-s316.html) : explorez l’approche d’Adobe pour déployer sa Supply chain de contenu dans sa propre organisation marketing 
+* [Révolutionner la production de contenu avec Adobe - S305](https://business.adobe.com/fr/summit/2024/sessions/revolutionizing-content-production-with-adobe-s305.html) : découvrez comment Adobe peut optimiser votre supply chain de contenu et accélérer votre workflow de création 
 
 ### Démonstrations du produit
 
 * [&#128279;](https://business.adobe.com/product-demos/workfront/interactive-tour.html) - car une [démonstration interactive du produit] est nécessaire pour illustrer l’étendue de ce qui peut exister dans notre solution de gestion du travail d’entreprise.  
-* [GenStudio &#x200B;](https://business.adobe.com/resources/sdk/getting-started-with-adobe-genstudio.html) - J’adore la portée de cette approche, qui permet à nos clients de commencer à lier leurs besoins aux solutions qui existent aujourd’hui dans Adobe.
+* [GenStudio &#x200B;](https://business.adobe.com/fr/resources/sdk/getting-started-with-adobe-genstudio.html) - J’adore la portée de cette approche, qui permet à nos clients de commencer à lier leurs besoins aux solutions qui existent aujourd’hui dans Adobe.
 
 ## À propos du conférencier 
 

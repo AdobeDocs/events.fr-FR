@@ -34,15 +34,15 @@ Comme promis dans la vidéo, la présentation de Madalyn est liée à ses pas, �
 
 Au cours de la présentation, Madalyn a partagé ses formulaires personnalisés et ses champs calculés. Par conséquent, si vous débutez avec ces fonctionnalités, voici quelques liens pour vous orienter dans la bonne direction. 
 
-* Tutoriel sur la liste de lecture - [Créer et partager du Forms personnalisé](https://experienceleague.adobe.com/en/playlists/workfront-create-and-manage-custom-forms)
+* Tutoriel sur la liste de lecture - [Créer et partager du Forms personnalisé](https://experienceleague.adobe.com/fr/playlists/workfront-create-and-manage-custom-forms)
 
-* Article - [Prise en main des champs calculés et des expressions](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
+* Article - [Prise en main des champs calculés et des expressions](https://experienceleague.adobe.com/fr/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions)
 
-* Conseils et astuces - [Champs calculés que tout le monde doit connaître - et comment les utiliser pour créer des rapports !](https://experienceleague.adobe.com/en/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
+* Conseils et astuces - [Champs calculés que tout le monde doit connaître - et comment les utiliser pour créer des rapports !](https://experienceleague.adobe.com/fr/docs/events/the-skill-exchange-recordings/workfront/apr2022/calculated-fields)
 
 Vous souhaitez d&#39;autres conseils de Madalyn ? Découvrez sa série de conseils et d’astuces dans la communauté Workfront ! 
 
-* [Octets techniques du mardi](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812#M2742)
+* [Octets techniques du mardi](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/tuesday-tech-bytes/m-p/625812?profile.language=fr#M2742)
 
 ## À propos du conférencier 
 

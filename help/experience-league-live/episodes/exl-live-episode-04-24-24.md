@@ -29,6 +29,6 @@ Dans cet épisode d’Experience League Live, rejoignez les experts en produits 
 
 >[!BEGINSHADEBOX « Vous avez des questions ?« ]
 
-**Poursuivez la discussion sur ce sujet dans la publication d’Adobe Experience League [article de la communauté](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305#M205){target="_blank"}.**
+**Poursuivez la discussion sur ce sujet dans la publication d’Adobe Experience League [article de la communauté](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/experience-league-live-post-session-discussion-new-code-based/m-p/668305?profile.language=fr#M205){target="_blank"}.**
 
 >[!ENDSHADEBOX]

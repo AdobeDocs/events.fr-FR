@@ -23,7 +23,7 @@ Hébergé en partenariat avec Steve Teitelbaum, architecte d’entreprise Conten
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481821/?learn=on&enablevpops)
 
-Cette session développe la discussion d’un atelier précédent, [Conseils de Workfront Pro pour la gouvernance, l’exécution et l’adoption](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption).
+Cette session développe la discussion d’un atelier précédent, [Conseils de Workfront Pro pour la gouvernance, l’exécution et l’adoption](https://experienceleague.adobe.com/fr/docs/events/workfront-recordings/workshop-rewind/workflow/governance-execution-adoption).
 
 Si vous avez manqué la séance, pas d&#39;inquiétude ! Examinez le [diaporama](https://workfront-experience.s3.us-west-2.amazonaws.com/Training/Guides/Customer+Success+at+Scale/Workfront+Pro+Tips+Part+2_Dec2025.pdf) et regardez l’enregistrement à la demande pour le suivre.
 

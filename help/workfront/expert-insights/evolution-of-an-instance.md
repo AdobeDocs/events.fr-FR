@@ -36,9 +36,9 @@ Tu repartiras avec des informations pertinentes, notamment :
 ## Ressources
 
 Jen partage également certaines de ses ressources préférées, notamment les raisons pour lesquelles les modèles Fusion, les plans directeurs et les bonnes pratiques partagées peuvent faire toute la différence. En savoir plus ici :
-* [&#x200B; Liste des modèles Fusion disponibles &#x200B;](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
-* [Liste des plans directeurs disponibles](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
-* [Communauté Experience League Workfront](https://experienceleaguecommunities.adobe.com/adobe-workfront-22)
+* [&#x200B; Liste des modèles Fusion disponibles &#x200B;](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/create-and-manage-templates/currently-available-fusion-templates)
+* [Liste des plans directeurs disponibles](https://experienceleague.adobe.com/fr/docs/workfront/using/administration-and-setup/blueprints/list-of-available-blueprints)
+* [Communauté Experience League Workfront](https://experienceleaguecommunities.adobe.com/adobe-workfront-22?profile.language=fr)
 
 Mais attends !  Elle a d&#39;autres conseils à partager !
 
