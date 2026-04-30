@@ -35,4 +35,4 @@ Voici quelques articles supplémentaires sur le partage d’objets, de niveaux d
 * [Fonctionnement des niveaux d’accès et des autorisations](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/access-levels/access-level-overview#how-access-levels-and-permissions-work-together)
 * [Définir des restrictions supplémentaires au niveau de l&#39;accès](https://experienceleague.adobe.com/en/docs/workfront/using/administration-and-setup/add-users/configure-access/create-modify-access-levels#planner-users:~:text=Click%20Set%20additional%20restrictions%2C%20then%20set%20any%20of%20the%20following%20restrictions%20for%20the%20access%20level)
 
-Vous êtes intéressé par de nouvelles idées et approches ? Inscrivez-vous à nos ateliers à venir sur notre page [Événements ](https://experienceleague.adobe.com/en/events?filters=Workfront). Nous espérons vous voir bientôt !
+Vous êtes intéressé par de nouvelles idées et approches ? Inscrivez-vous à nos ateliers à venir sur notre page [Événements &#x200B;](https://experienceleague.adobe.com/en/events?filters=Workfront). Nous espérons vous voir bientôt !
