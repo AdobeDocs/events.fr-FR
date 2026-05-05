@@ -3,10 +3,10 @@ user-guide-title: Webinaires Acrobat Sign
 user-guide-description: Avec des experts Adobe, apprenez à maîtriser les nouveaux workflows de signature électronique dans Acrobat Sign.
 cloud: Document Cloud
 solution: Document Cloud
-source-git-commit: c7127e3ce7b0215d208bdd53db3d881e9bfb83d1
+source-git-commit: 23f0005edc68e39508f2435c5e633e9eb82456de
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 6%
+source-wordcount: '121'
+ht-degree: 5%
 
 ---
 
@@ -19,6 +19,7 @@ ht-degree: 6%
    + [Octobre 2025](skill-builders/acrobat-sign-october-2025-release.md)
    + [Juillet 2025](skill-builders/acrobat-july-release.md)
 + Innovation - Nouvelles fonctionnalités {#newfeatures}
+   + [Prise en main des workflows personnalisés](./skill-builders/custom-workflows.md)
    + [Vérification d’identité et sécurité](./skill-builders/identity-verification-security.md)
    + [Optimiser la signature électronique mobile](./skill-builders/mobile-e-signing.md)
 + 101 - Prise en main pour les utilisateurs {#getstartedusers}
