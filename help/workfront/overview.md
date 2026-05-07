@@ -227,7 +227,7 @@ Ces sessions présentent des solutions concrètes, des exemples de clients et de
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Informations d’experts - Supply chain de contenu avec Core Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Informations d’experts - Supply chain de contenu avec Core Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469996/?captions=fre_fr&format=jpeg&nocache=1778106659855" alt="Informations d’experts - Supply chain de contenu avec Core Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -250,7 +250,7 @@ Ces sessions présentent des solutions concrètes, des exemples de clients et de
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/fusion.md" title="Informations d’experts - Fusion avec Ewan Hruska" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469896/?format=jpeg&nocache=1778106659859" alt="Informations d’experts - Fusion avec Ewan Hruska"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470018/?captions=fre_fr&format=jpeg&nocache=1778106659859" alt="Informations d’experts - Fusion avec Ewan Hruska"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -273,7 +273,7 @@ Ces sessions présentent des solutions concrètes, des exemples de clients et de
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/centers-of-excellence.md" title="Informations d’experts - Gouvernance et centres d’excellence avec Danielle Johnston" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1778106659848" alt="Informations d’experts - Gouvernance et centres d’excellence avec Danielle Johnston"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470007/?captions=fre_fr&format=jpeg&nocache=1778106659848" alt="Informations d’experts - Gouvernance et centres d’excellence avec Danielle Johnston"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
