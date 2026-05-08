@@ -9,13 +9,14 @@ role: Admin, Developer
 level: Beginner, Intermediate
 doc-type: Event
 duration: 3249
-last-substantial-update: 2026-05-07T00:00:00Z
+last-substantial-update: 2026-05-08T00:00:00Z
 jira: KT-20547
 hidefromtoc: false
 hide: false
-source-git-commit: 50d4363ee97c976798ca909d6812491d3fb3c7f9
+exl-id: 7da8a2b0-3821-4401-a2da-5531c5f494c4
+source-git-commit: 56874e42a46578aa02a0e8cb4c636e319aa8f0f2
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -26,7 +27,9 @@ Vous vous demandez comment rationaliser la transformation et l’optimisation de
 
 Rejoignez le champion Adobe Experience Manager Vengadesh Shanmugavelu pour obtenir des informations sur l’utilisation de Dynamic Media dans Adobe Experience Manager Assets. Il abordera les éléments clés de la mise à l&#39;échelle de la création de contenu numérique, notamment :
 
->[!VIDEO](https://video.tv.adobe.com/v/3481547/?captions=fre_fr&learn=on&enablevpops)
+[Cliquez ici pour télécharger la présentation de la session.](../../assets/experience-manager/may2026/AEM_Dynamic_Media_Webinar-May-7-2026.pdf)
+
+>[!VIDEO](https://video.tv.adobe.com/v/3481545/?learn=on&enablevpops)
 
 * Comment Adobe Experience Manager Dynamic Media permet une distribution de médias intelligente à l’aide des paramètres de profil, des rendus intelligents et de l’optimisation en temps réel.
 * Comment activer Dynamic Media via les composants principaux AEM et étendre sa puissance à l’ensemble de l’entreprise à l’aide des API ouvertes Dynamic Media.
