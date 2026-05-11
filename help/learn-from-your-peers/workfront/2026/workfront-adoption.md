@@ -1,6 +1,6 @@
 ---
 title: Configuration de l’adoption durable de Workfront - de l’architecture à l’utilisation quotidienne
-description: Découvrez les stratégies d’adoption durable de Workfront, notamment la gouvernance, les modèles, l’automatisation et l’interaction client pour une réussite à long terme.
+description: Découvrez les stratégies d’adoption durable d’Adobe Workfront, notamment la gouvernance, les modèles, l’automatisation et l’interaction client pour une réussite à long terme.
 feature: Workfront Fusion, System Setup and Administration
 topic: Performance, Administration
 role: Admin, Developer, Leader, User
@@ -12,9 +12,9 @@ hidefromtoc: true
 hide: true
 jira: KT-20786
 exl-id: d751d2d8-0779-451f-a2bf-351d26a56eab
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: 2f1f453350eff1dd50752212e1f8e0a5d7c707ae
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Au cours de cette session axée sur les professionnels, Carol Thomas-Knipes, vic
 
 Ensemble, ils ont discuté de la manière dont ils ont fait passer les équipes d’une utilisation sporadique et de configurations ad hoc à des processus reproductibles pilotés par insight, plus faciles à gérer, à mettre à l’échelle et à évoluer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483202/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483200/?learn=on&enablevpops)
 
 ## Points clés
 
