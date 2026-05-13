@@ -25,7 +25,7 @@ Au cours de cette session axée sur les professionnels, Carol Thomas-Knipes, vic
 
 Ensemble, ils ont discuté de la manière dont ils ont fait passer les équipes d’une utilisation sporadique et de configurations ad hoc à des processus reproductibles pilotés par insight, plus faciles à gérer, à mettre à l’échelle et à évoluer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3483200/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483202/?captions=fre_fr&learn=on&enablevpops)
 
 ## Points clés
 
