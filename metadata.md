@@ -6,19 +6,19 @@ feature-set: Acrobat Services, Advertising, Analytics, Audience Manager, Campaig
 description: Collection d’enregistrements des événements diffusés en direct Adobe.
 type: Event
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/events.fr-FR
+git-repo: https://github.com/AdobeDocs/events.en
 index: true
 auto-video-transcripts: true
-source-git-commit: 433f059df7163639c8c365b6c569b21e151529ea
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 85%
+source-wordcount: '79'
+ht-degree: 83%
 
 ---
 
 
-# Métadonnées pour une utilisation interne
+# Métadonnées à usage interne
 
-Le fichier metadata.md comprend des métadonnées de niveau référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier le contenu du fichier metadata.md pour un guide de l’utilisateur, faites-le dans le fichier TOC.md.
+Le fichier metadata.md inclut des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide utilisateur dans le référentiel. Si vous souhaitez modifier le contenu de metadata.md pour un guide utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
-Pour obtenir la liste des valeurs valides pour **solution**, **product** et **type**, voir [Métadonnées](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr).
+Consultez [ Métadonnées ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=fr) pour une liste des valeurs valides pour **solution**, **produit** et **type**

@@ -4,14 +4,14 @@ description: Tenez votre engagement en matière dʼexpérience, avec un accès �
 solution: Real-Time Customer Data Platform
 feature: Identities
 topic: Personalization, Administration
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event
 kt: 10471
 thumbnail: 343342.jpeg
 exl-id: 90d8091f-4566-41e9-af66-b6ef70885e9e
 duration: 436
-source-git-commit: 460acb3fd1e9b29075cefa07e8d6947d2a61a314
+source-git-commit: f31943fd1575309c29d091c26c92be9fb1f310d4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 7%
