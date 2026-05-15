@@ -302,7 +302,7 @@ Vous souhaitez savoir quand auront lieu les prochaines sessions AEM Gems ?  Insc
 
 ## Poursuivez la discussion
 
-Notre [Communauté ](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr) vous permet d’entrer en contact avec d’autres développeurs et de poursuivre les discussions AEM.  Vous pouvez réseauter avec des pairs et des employés d’Adobe pour obtenir des conseils et des pratiques exemplaires, de la mise en œuvre à l’utilisation croissante des produits.  Obtenez des réponses rapides à vos questions et transmettez à Adobe vos idées de produits et vos commentaires utiles.
+Notre [Communauté &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=fr) vous permet d’entrer en contact avec d’autres développeurs et de poursuivre les discussions AEM.  Vous pouvez réseauter avec des pairs et des employés d’Adobe pour obtenir des conseils et des pratiques exemplaires, de la mise en œuvre à l’utilisation croissante des produits.  Obtenez des réponses rapides à vos questions et transmettez à Adobe vos idées de produits et vos commentaires utiles.
 
 <!--  ## Upcoming AEM GEMs webinar - AEM Sites: Master the Content Management APIs
 
