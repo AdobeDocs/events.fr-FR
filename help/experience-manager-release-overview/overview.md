@@ -31,7 +31,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-3-0.md" title="Vidéo De Présentation De La Version 2026.03.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483060/?format=jpeg&nocache=1775063376142" alt="Vidéo De Présentation De La Version 2026.03.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3483062/?captions=fre_fr&format=jpeg&nocache=1775063376142" alt="Vidéo De Présentation De La Version 2026.03.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -76,7 +76,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-2-0.md" title="Vidéo De Présentation De La Version 2026.02.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480399/?format=jpeg&nocache=1775063376564" alt="Vidéo De Présentation De La Version 2026.02.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480401/?captions=fre_fr&format=jpeg&nocache=1775063376564" alt="Vidéo De Présentation De La Version 2026.02.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -99,7 +99,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/2026-1-0.md" title="Vidéo De Présentation De La Version 2026.01.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479789/?format=jpeg&nocache=1775063376586" alt="Vidéo De Présentation De La Version 2026.01.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479791/?captions=fre_fr&format=jpeg&nocache=1775063376586" alt="Vidéo De Présentation De La Version 2026.01.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -122,7 +122,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-8-0.md" title="Vidéo De Présentation De La Version 2025.08.0" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479145/?format=jpeg&nocache=1775063376595" alt="Vidéo De Présentation De La Version 2025.08.0"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479148/?captions=fre_fr&format=jpeg&nocache=1775063376595" alt="Vidéo De Présentation De La Version 2025.08.0"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +145,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-6-0.md" title="Vidéo De Présentation De La Version 2025.06.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470878/?format=jpeg&nocache=1775063376577" alt="Vidéo De Présentation De La Version 2025.06.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470880/?captions=fre_fr&format=jpeg&nocache=1775063376577" alt="Vidéo De Présentation De La Version 2025.06.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,7 +168,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-5-0.md" title="Vidéo De Présentation De La Version 2025.5.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464307/?format=jpeg&nocache=1775063376568" alt="Vidéo De Présentation De La Version 2025.5.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464352/?captions=fre_fr&format=jpeg&nocache=1775063376568" alt="Vidéo De Présentation De La Version 2025.5.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -191,7 +191,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-4-0.md" title="Vidéo De Présentation De La Version 2025.04.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463991/?format=jpeg&nocache=1775063376612" alt="Vidéo De Présentation De La Version 2025.04.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464004/?captions=fre_fr&format=jpeg&nocache=1775063376612" alt="Vidéo De Présentation De La Version 2025.04.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -214,7 +214,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-3-0.md" title="Vidéo De Présentation De La Version 2025.3.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463859/?format=jpeg&nocache=1775063376603" alt="Vidéo De Présentation De La Version 2025.3.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463867/?captions=fre_fr&format=jpeg&nocache=1775063376603" alt="Vidéo De Présentation De La Version 2025.3.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -260,7 +260,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/2025-1-0.md" title="Vidéo De Présentation De La Version 2025.01.0 D’AEM" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456072/?format=jpeg&nocache=1775063376620" alt="Vidéo De Présentation De La Version 2025.01.0 D’AEM"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456076/?captions=fre_fr&format=jpeg&nocache=1775063376620" alt="Vidéo De Présentation De La Version 2025.01.0 D’AEM"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
