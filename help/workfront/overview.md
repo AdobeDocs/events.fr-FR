@@ -57,7 +57,7 @@ Le mois de mai marque le début de la saison de remise des diplômes, une pério
 
 Vous en cherchez plus ? Découvrez les dernières nouveautés de votre communauté Adobe Workfront grâce à notre sélection d’événements à la demande. Utilisez le menu de navigation de gauche pour parcourir les rubriques sous Rembobinage d’atelier, où les sessions sont regroupées par Fusion, Planification et Workflow afin de vous aider à trouver rapidement du contenu adapté à vos besoins.
 
-N’oubliez pas de vous joindre aux événements en direct à venir pour poser des questions, partager des informations et collaborer avec vos pairs. Consultez régulièrement la page [Événements Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) pour découvrir les événements à venir !
+N’oubliez pas de vous joindre aux événements en direct à venir pour poser des questions, partager des informations et collaborer avec vos pairs. Consultez régulièrement la page [Événements Experience League Workfront](https://experienceleague.adobe.com/fr/events?filters=Workfront) pour découvrir les événements à venir !
 
 <!-- 
 CARDS 
