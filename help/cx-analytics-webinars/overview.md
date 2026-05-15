@@ -1,7 +1,8 @@
 ---
 title: Webinaires à la demande CX Analytics
-description: Explorez les vidéos CX Analytics à la demande qui présentent les mises à jour de produits et de fonctionnalités, les intégrations de solutions Adobe, les webinaires d’intégration et des témoignages concrets de clients et de partenaires pour acquérir des compétences et se tenir au courant des dernières innovations de CX Analytics.
-source-git-commit: cb5b307d248b0f972db897b699d6bcc82bfab0bc
+description: Explorez les vidéos CX Analytics à la demande qui présentent les mises à jour de produits, les mises à jour de fonctionnalités, les intégrations de solutions Adobe, les webinaires d’intégration et des témoignages concrets de clients et de partenaires pour acquérir de l’expertise et se tenir au courant des dernières innovations CX Analytics.
+exl-id: daaa107c-522b-4d57-88b8-b2242ebad043
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -10,9 +11,10 @@ ht-degree: 0%
 
 # Webinaires à la demande CX Analytics {#cx-analytics-ondemand-webinars}
 
-Explorez une bibliothèque organisée de vidéos CX Analytics, y compris les mises à jour de produits et de fonctionnalités, des articles sur les solutions Adobe, des webinaires de prise en main et des témoignages de partenaires/clients. Regardez à la demande pour affiner votre expertise en analyse et vous tenir au courant des dernières innovations du portefeuille CX Analytics, avec de nouveaux contenus ajoutés régulièrement.
+Explorez une bibliothèque organisée de vidéos sur CX Analytics, y compris les mises à jour de produits et de fonctionnalités, des articles sur les solutions Adobe, des webinaires de prise en main et des témoignages de partenaires/clients. Regardez à la demande pour affiner votre expertise en analyse et vous tenir au courant des dernières innovations du portefeuille CX Analytics, avec de nouveaux contenus ajoutés régulièrement.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -46,4 +48,3 @@ Explorez une bibliothèque organisée de vidéos CX Analytics, y compris les mis
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-

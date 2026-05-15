@@ -3,10 +3,10 @@ title: Webinaires sur le succès client Adobe
 description: Webinaires dirigés par la réussite client Adobe conçus pour vous aider à optimiser votre investissement dans Adobe Experience Cloud. Obtenez des informations précieuses afin d’optimiser la valeur et d’accroître l’adoption des solutions Adobe.
 exl-id: a66dabe6-c545-4226-bf0b-811d5d3e5cf1
 duration: 42
-source-git-commit: ca06e9b63d48f1b1a098b7947223ed230dde796f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '6855'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Customer Journey Analytics
 
-<!-- CARDS ****
+<!-- 
+CARDS ****
 
 {cta = Watch}
 
@@ -46,7 +47,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les bonnes pratiques pour créer des fichiers BRD-SDR dans Adobe Analytics et CJA, optimiser les performances et faciliter les migrations.</p>
                 </div>
                 <a href="2026/brd-sdr-file-best-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -56,7 +57,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/unlock-identities.md" title="Parcours transparents - Déverrouillage de l’identité avec CJA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480154/?captions=fre_fr&format=jpeg&nocache=1776280343105" alt="Parcours transparents - Déverrouillage de l’identité avec CJA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480150/?format=jpeg&nocache=1776280343105" alt="Parcours transparents - Déverrouillage de l’identité avec CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -69,7 +70,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Ce webinaire explique comment Customer Journey Analytics (CJA) fournit des informations unifiées sur les clients en supprimant les silos de données et en utilisant la combinaison d’identités sur les canaux et les appareils. Découvrez la différence entre le groupement basé sur les champs et le groupement basé sur les graphiques, comment CJA améliore l’attribution cross-canal et consultez des démonstrations présentant davantage d’événements identifiés et d’analyses exploitables.</p>
                 </div>
                 <a href="2026/unlock-identities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -79,7 +80,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Experience Manager
 
-<!-- CARDS ****
+<!-- 
+CARDS ****
 
 {cta = Watch}
 
@@ -110,7 +112,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les bonnes pratiques pour créer des fichiers BRD-SDR dans Adobe Analytics et CJA, optimiser les performances et faciliter les migrations.</p>
                 </div>
                 <a href="2026/brd-sdr-file-best-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -133,7 +135,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les stratégies de création dans Edge Delivery Services, en comparant la création basée sur des documents et l’éditeur universel avec AEM Sites.</p>
                 </div>
                 <a href="2026/authoring-eds.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -143,7 +145,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/value-with-content-supply-chain.md" title="Optimisation des chaînes d’approvisionnement de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479088/?captions=fre_fr&format=jpeg&nocache=1776280343944" alt="Optimisation des chaînes d’approvisionnement de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1776280343944" alt="Optimisation des chaînes d’approvisionnement de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -156,7 +158,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment optimiser les chaînes d’approvisionnement de contenu avec les solutions Adobe pour obtenir des résultats performants. Apprenez les modèles du secteur et mappez efficacement les objectifs.</p>
                 </div>
                 <a href="2026/value-with-content-supply-chain.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -166,7 +168,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/modern-delivery-model-aem.md" title="Modèles de diffusion modernes pour AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478777/?captions=fre_fr&format=jpeg&nocache=1776280343959" alt="Modèles de diffusion modernes pour AEM Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1776280343959" alt="Modèles de diffusion modernes pour AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -179,7 +181,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Explorez des modèles de diffusion modernes pour AEM Sites afin d’assurer une diffusion de contenu évolutive et agile, ainsi que des expériences de création optimisées.</p>
                 </div>
                 <a href="2026/modern-delivery-model-aem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -202,7 +204,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les avantages stratégiques et opérationnels d’Adobe AEM Cloud Service pour les fondations numériques modernes.</p>
                 </div>
                 <a href="2026/moving-to-aemcs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -225,7 +227,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Explorez l’architecture fondamentale de Content supply chain, en vous concentrant sur la stratégie North Star pour aligner les équipes commerciales et techniques.</p>
                 </div>
                 <a href="2026/csc-architecture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -235,7 +237,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Experience Platform
 
-<!-- CARDS ****
+<!-- 
+CARDS ****
 
 {cta = Watch}
 
@@ -262,7 +265,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment Adobe Experience Cloud introduit l’intelligence d’assistance pour améliorer la prise de décision et accélérer les cycles insight en action.</p>
                 </div>
                 <a href="2026/embedded-intelligence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -272,7 +275,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Général
 
-<!-- CARDS ****
+<!-- 
+CARDS ****
 
 {cta = Watch}
 
@@ -304,7 +308,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment les stratégies basées sur l’IA transforment le succès des achats de vacances, en offrant des informations pour prévoir la demande et personnaliser les expériences.</p>
                 </div>
                 <a href="2026/2025-holiday-results.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -314,7 +318,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/csc-change-management.md" title="Session 5 de VRA - Stratégies de gestion des modifications pour exploiter votre Supply chain de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479819/?captions=fre_fr&format=jpeg&nocache=1776280344788" alt="Session 5 de VRA - Stratégies de gestion des modifications pour exploiter votre Supply chain de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479816/?format=jpeg&nocache=1776280344788" alt="Session 5 de VRA - Stratégies de gestion des modifications pour exploiter votre Supply chain de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -327,7 +331,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les stratégies de gestion des modifications pour améliorer votre supply chain de contenu et votre efficacité à l’aide des méthodes éprouvées d’Adobe.</p>
                 </div>
                 <a href="2026/csc-change-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -350,7 +354,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment le parrainage par des dirigeants favorise le succès dans la supply chain de contenu grâce à des stratégies pratiques permettant d’obtenir le soutien des dirigeants et d’aligner les équipes.</p>
                 </div>
                 <a href="2026/csc-executive-sponsorship.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -373,7 +377,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Explorez l’architecture fondamentale de Content supply chain, en vous concentrant sur la stratégie North Star pour aligner les équipes commerciales et techniques.</p>
                 </div>
                 <a href="2026/csc-architecture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -396,7 +400,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Explorez les dernières tendances de trafic GenAI avec Adobe Digital Insights. Découvrez comment le trafic piloté par l’IA impacte l’engagement, les conversions et le chiffre d’affaires.</p>
                 </div>
                 <a href="2026/gen-ai-traffic-update.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -419,7 +423,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Concevez un modèle opérationnel efficace pour le succès de Content supply chain. Découvrez la structure de l’équipe, la gouvernance et l’optimisation des processus.</p>
                 </div>
                 <a href="2026/csc-operating-model.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -429,7 +433,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Workfront
 
-<!-- CARDS ****
+<!-- 
+CARDS ****
 
 {cta = Watch}
 
@@ -456,7 +461,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment utiliser Workfront Proof pour les approbations dans GenStudio for Performance Marketing, y compris la configuration, les workflows et les bonnes pratiques.</p>
                 </div>
                 <a href="2026/workfront-proof-approvals.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -468,7 +473,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Commerce
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -496,7 +502,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment Adobe Commerce + AEP proposent une personnalisation en temps réel, des profils unifiés et des parcours omnicanaux optimisés par des analyses avancées.</p>
                 </div>
                 <a href="2025/enriching-adobe-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -519,7 +525,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment le commerce B2B peut adapter la personnalisation à l’aide d’AEM, de Target et d’AEP afin d’optimiser les expériences B2B2C et de générer du contenu et des offres unifiés et pilotés par les données.</p>
                 </div>
                 <a href="2025/transforming-b2b-commerce.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -529,7 +535,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Customer Journey Analytics
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -564,7 +571,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les stratégies de gestion des changements pour garantir le succès de l’adoption de Customer Journey Analytics. Surmonter les résistances, aligner les équipes et suivre efficacement la réalisation de valeur.</p>
                 </div>
                 <a href="2025/cja-adoption.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -574,7 +581,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-success.md" title="Créer un parrainage exécutif pour soutenir le succès d’Adobe Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470856/?captions=fre_fr&format=jpeg&nocache=1776280346044" alt="Créer un parrainage exécutif pour soutenir le succès d’Adobe Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470853/?format=jpeg&nocache=1776280346044" alt="Créer un parrainage exécutif pour soutenir le succès d’Adobe Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -587,7 +594,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les stratégies permettant d’obtenir le parrainage des dirigeants pour réussir Adobe Customer Journey Analytics. Favorisez l’alignement, sécurisez les budgets et encouragez la prise de décisions axée sur les données.</p>
                 </div>
                 <a href="2025/cja-success.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -610,7 +617,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment Adobe CJA exploite l’IA pour obtenir des informations exploitables et prendre des décisions efficaces grâce à l’analyse des données en langage naturel.</p>
                 </div>
                 <a href="2025/cja-data-insights-agent.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -620,7 +627,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/cja-shared-audiences.md" title="Création d’offres en 30 minutes avec CJA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477457/?captions=fre_fr&format=jpeg&nocache=1776280346020" alt="Création d’offres en 30 minutes avec CJA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3477449/?format=jpeg&nocache=1776280346020" alt="Création d’offres en 30 minutes avec CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -633,7 +640,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment CJA permet aux marketeurs de créer des audiences et des offres exploitables en seulement 30 minutes.</p>
                 </div>
                 <a href="2025/cja-shared-audiences.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -656,7 +663,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment créer un modèle opérationnel évolutif et interfonctionnel qui aligne votre programme de mesure CJA sur les objectifs stratégiques et favorise l’efficacité et l’impact à long terme.</p>
                 </div>
                 <a href="2025/cja-operating-model.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -679,7 +686,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment une architecture NorthStar peut réduire la dette technique, rationaliser l’adoption d’Adobe Customer Journey Analytics et prendre en charge des implémentations Adobe Experience Platform évolutives et alignées.</p>
                 </div>
                 <a href="2025/cja-vision.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -702,7 +709,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les étapes essentielles et les bonnes pratiques pour migrer d’Adobe Analytics vers Customer Journey Analytics (CJA), notamment la conception de schémas XDM, le mappage de données et la configuration des vues de données.</p>
                 </div>
                 <a href="2025/analytics-to-cja-migration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -725,7 +732,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Tirez pleinement parti de CJA grâce à des feuilles de route de cas d’utilisation, des exemples réels et des étapes permettant de prendre des décisions stratégiques basées sur les données.</p>
                 </div>
                 <a href="2025/roadmap-to-value-cja.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -748,7 +755,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Rejoignez Charles Farina, vice-président de la stratégie numérique d’Adswerve, et Danielle Doolin, responsable marketing principal des produits chez Adobe, pour un webinaire instructif explorant le pouvoir de transformation de l’intégration de plateformes de pointe.</p>
                 </div>
                 <a href="2025/smarter-marketing-starts-here-integrating-google-and-adobe.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -758,7 +765,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Experience Manager {#AEM2025}
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -799,7 +807,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment les dernières technologies de Adobe Experience Manager (Edge Delivery Services, CMS découplé et personnalisation) permettent d’offrir des expériences digitales plus rapides, flexibles et évolutives.</p>
                 </div>
                 <a href="2025/personalized-experiences-aem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -822,7 +830,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Stimulez l’engagement numérique avec les outils de recherche AEM avancés tels que les filtres, les facettes, la suggestion automatique, la NGram et la vérification orthographique. Apprenez de démonstrations du monde réel.</p>
                 </div>
                 <a href="2025/aem-lucene-search.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -845,7 +853,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment AEM utilise Generative AI, Firefly et Express pour stimuler la création de contenu, l’optimisation des sites et les expériences personnalisées tout en assurant la gouvernance de la marque.</p>
                 </div>
                 <a href="2025/aem-genai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -868,7 +876,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Cette session a porté sur les stratégies d’intégration pour Workfront, les avantages du connecteur natif avec AEM, le mappage et la synchronisation des métadonnées, les dossiers et mécanismes de sécurisation liés, ainsi que des cas d’utilisation pratiques présentés au moyen d’une démonstration en direct.</p>
                 </div>
                 <a href="2025/aem-workfront-integration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -891,7 +899,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Rejoignez notre webinaire AEM Sites destiné aux débutants pour en savoir plus sur la création de pages, les composants de base, la structuration de contenu et la conception réactive, avec des points clés sur la création dans AEM, les modèles modifiables, les composants principaux et la publication de pages.</p>
                 </div>
                 <a href="2025/build-effective-web-pages.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -914,7 +922,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment l’assistant d’IA d’AEM simplifie les tâches de création et d’administration. Explorez sa portée, sa configuration et voyez-le en action avec une démonstration en direct.</p>
                 </div>
                 <a href="2025/ai-assistant-in-aem.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -937,7 +945,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment AEM Forms révolutionne l’engagement des clients dans le secteur de l’assurance maladie en rationalisant le traitement des sinistres et l’inscription des clients, ce qui améliore la conversion, l’efficacité et la conformité.</p>
                 </div>
                 <a href="2025/driving-customer-engagement.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -960,7 +968,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment AEM Forms permet à Payers de moderniser les parcours d’inscription, d’automatiser les processus et de proposer des expériences client omnicanal attrayantes.</p>
                 </div>
                 <a href="2025/payer-enrollment-journey.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -970,7 +978,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/mastering-aem-sites.md" title="Maîtriser AEM Sites - Modèles, navigation et SEO" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464317/?captions=fre_fr&format=jpeg&nocache=1776280346714" alt="Maîtriser AEM Sites - Modèles, navigation et SEO"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464298/?format=jpeg&nocache=1776280346714" alt="Maîtriser AEM Sites - Modèles, navigation et SEO"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -983,7 +991,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les principes de base d’AEM Sites : comment utiliser les modèles de page, concevoir une navigation intuitive et appliquer les principales pratiques d’optimisation du moteur de recherche pour améliorer la visibilité et les performances du site.</p>
                 </div>
                 <a href="2025/mastering-aem-sites.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1006,7 +1014,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment Adobe ContentHub s’intègre à AEM Assets pour rationaliser les workflows, améliorer l’accès et la gestion des ressources au sein des équipes et des secteurs d’activité.</p>
                 </div>
                 <a href="2025/mastering-dam-aem-content-hub.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1029,7 +1037,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Comprenez les principales différences entre Dynamic Media traditionnel et le modèle d’API ouverte et apprenez à réussir la transition et l’implémentation de Dynamic Media Ultimate avec l’API ouverte.</p>
                 </div>
                 <a href="2025/dynamic-media-open-ai.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1052,7 +1060,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment utiliser New Relic pour surveiller, dépanner et optimiser les performances d’AEM Cloud à l’aide de mesures clés, de conseils réels et des bonnes pratiques exploitables.</p>
                 </div>
                 <a href="2025/new-relic-essentials-aem-cloud.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1075,7 +1083,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session a couvert les stratégies et techniques de mise en cache, les mécanismes et les niveaux de mise en cache, la gestion dynamique du contenu, les problèmes de mise en cache de débogage et la synchronisation de l’invalidation du cache entre le Dispatcher et le réseau CDN.</p>
                 </div>
                 <a href="2025/optimize-aem-performance.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1098,7 +1106,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment AEM Forms aide les services financiers à fournir des communications personnalisées et évolutives qui renforcent l’engagement, l’efficacité et la conformité.</p>
                 </div>
                 <a href="2025/personalize-digital-communications.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1121,7 +1129,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Explorez AEM Universal Editor : cas d’utilisation, prise en charge de plusieurs architectures et points à prendre en compte pour simplifier la création et améliorer la diffusion de contenu.</p>
                 </div>
                 <a href="2025/modern-aem-authoring.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1131,7 +1139,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Experience Platform
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1163,7 +1172,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment les agents d’IA dans Adobe Experience Platform optimisent l’efficacité, prennent en charge des cas d’utilisation réels et offrent une valeur appliquée. Explorez la vision, la feuille de route et comment commencer.</p>
                 </div>
                 <a href="2025/ai-agents.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1173,7 +1182,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/ai-beyond-basics.md" title="Assistant d’IA - Au-delà des principes de base" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463360/?captions=fre_fr&format=jpeg&nocache=1776280347348" alt="Assistant d’IA - Au-delà des principes de base"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3463357/?format=jpeg&nocache=1776280347348" alt="Assistant d’IA - Au-delà des principes de base"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1186,7 +1195,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment utiliser en toute confiance l’assistant AI dans AEP. Vous découvrirez notamment sa configuration, des cas d’utilisation clés, des conseils pratiques et des fonctionnalités à venir pour améliorer l’efficacité des workflows et l’impact marketing.</p>
                 </div>
                 <a href="2025/ai-beyond-basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1209,7 +1218,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Modélisation des données de Principal dans AEP avec des schémas XDM, la gestion des identités et les bonnes pratiques pour une personnalisation et une segmentation évolutives en temps réel.</p>
                 </div>
                 <a href="2025/model-xdm-schemas.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1232,7 +1241,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire Data Distiller 101 met en avant ses fonctionnalités de segmentation, d’enrichissement et d’intégration de l’IA/ML des données, offrant des solutions évolutives aux architectes des données et aux entités marketing afin d’améliorer la prise de décision axée sur les données.</p>
                 </div>
                 <a href="2025/data-distiller-101.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1255,7 +1264,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment transformer des projets passionnés en initiatives percutantes en alignant la vision sur les objectifs commerciaux, en obtenant l’adhésion des dirigeants et en utilisant AEP/RT-CDP pour créer de la valeur.</p>
                 </div>
                 <a href="2025/exec-sponsorship-aep-projects.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1278,7 +1287,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment Adobe Experience Platform Identity Service optimise la segmentation, l’activation et les informations de fusion de profil pour résoudre des défis marketing réels.</p>
                 </div>
                 <a href="2025/identity-graph.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1288,7 +1297,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### GenStudio for Performance Marketing
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1302,7 +1312,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/csc-gen-studio.md" title="Démystifier Content Supply chain et Adobe GenStudio en tant que suite de produits" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472981/?captions=fre_fr&format=jpeg&nocache=1776280347801" alt="Démystifier Content Supply chain et Adobe GenStudio en tant que suite de produits"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3472978/?format=jpeg&nocache=1776280347801" alt="Démystifier Content Supply chain et Adobe GenStudio en tant que suite de produits"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1315,7 +1325,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment Workfront + AEM connectent le supply chain de contenu. Découvrez comment Adobe Gen Studio rationalise la planification, la création, la diffusion et les informations.</p>
                 </div>
                 <a href="2025/csc-gen-studio.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1338,7 +1348,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire sur Adobe GenStudio for Performance Marketing aborde la création d’un cadre de gouvernance pour améliorer les processus créatifs, la collaboration et l’efficacité, tout en fournissant des informations sur la préparation organisationnelle, les bonnes pratiques pour les modèles de fonctionnement et les principes de marketing agile pour maximiser l’investissement.</p>
                 </div>
                 <a href="2025/genstudio-for-performance-marketing-operating-model.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1348,7 +1358,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Journey Optimizer
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1380,7 +1391,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment les dirigeants exécutifs font la promotion des programmes AJO, alignent les équipes et génèrent des résultats grâce à des stratégies d’engagement et de leadership des sponsors.</p>
                 </div>
                 <a href="2025/build-executive-sponsorship-ajo.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1403,7 +1414,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez des stratégies de leadership, de collaboration et d’engagement en temps réel pour tirer pleinement parti de Adobe Journey Optimizer.</p>
                 </div>
                 <a href="2025/change-management-strategies.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1426,7 +1437,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment un modèle opérationnel cohérent améliore l’efficacité, évite les problèmes de ressources et adapte votre programme marketing pour un succès à long terme.</p>
                 </div>
                 <a href="2025/design-an-operating-model-ajo.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1449,7 +1460,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment l’utilisation d’une architecture NorthStar peut vous aider à diagnostiquer les lacunes de votre implémentation et à maintenir l’alignement organisationnel autour d’AJO et de l’ensemble de votre pile de solutions Adobe.</p>
                 </div>
                 <a href="2025/northstar-architecture-enable-adobe-journey-optimzier.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1472,7 +1483,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment concevoir une stratégie de déploiement de cas d’utilisation Adobe Journey Optimizer qui génère des résultats mesurables. Découvrez des conseils pratiques et des exemples concrets pour tirer le meilleur parti de votre activité.</p>
                 </div>
                 <a href="2025/ajo-roadmap-to-value.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1495,7 +1506,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment harmoniser Adobe Journey Optimizer et Adobe Campaign pour bénéficier d’expériences cross-canal transparentes et de workflows efficaces.</p>
                 </div>
                 <a href="2025/ajo-adobe-campaign.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1518,7 +1529,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Rejoignez-nous pour explorer Adobe Journey Optimizer et découvrez comment créer des parcours clients personnalisés et pilotés par l’IA sur l’ensemble des canaux, pour un engagement plus intelligent et rationalisé.</p>
                 </div>
                 <a href="2025/journey-optimizer-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1528,7 +1539,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Marketo
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1555,7 +1567,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Explorez les nouvelles fonctionnalités de l’éditeur d’e-mail de Marketo, les bonnes pratiques, les conseils de migration et les pièges courants grâce aux questions/réponses.</p>
                 </div>
                 <a href="2025/marketo-new-email-editor.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1565,7 +1577,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Solution multiple
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1598,7 +1611,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">L’intégration de Adobe Experience Manager, d’Adobe Analytics et d’Adobe Target simplifie la diffusion, la personnalisation et les tests de contenu, favorisant une approche marketing agile et une optimisation continue grâce à des informations et à une automatisation pilotées par l’IA.</p>
                 </div>
                 <a href="2025/content-supply-chain-basics.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1621,7 +1634,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment l’IA dans Adobe Analytics, Target et CJA améliore la vitesse, la personnalisation et l’optimisation cross-canal d’insight pour des décisions marketing plus intelligentes et plus rapides.</p>
                 </div>
                 <a href="2025/accelerating-digital-experience-optimization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1644,7 +1657,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment les solutions Adobe améliorent les programmes de fidélité par le biais de la personnalisation et des données, en prenant en charge les parcours clients, de la sensibilisation à la fidélisation dans divers secteurs d’activité.</p>
                 </div>
                 <a href="2025/enhance-loyalty-programs.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1667,7 +1680,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment améliorer votre stratégie de personnalisation en intégrant Adobe Target à CJA et AEM, en explorant les bonnes pratiques, les informations clés et les stratégies exploitables pour optimiser l’engagement des clients et offrir des expériences personnalisées sur tous les canaux.</p>
                 </div>
                 <a href="2025/enhancing-personalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1677,7 +1690,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/gen-ai-experimentation.md" title="Expérience GenAI dans AJO et sa relation avec Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444461/?captions=fre_fr&format=jpeg&nocache=1776280348863" alt="Expérience GenAI dans AJO et sa relation avec Adobe Target"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3444453/?format=jpeg&nocache=1776280348863" alt="Expérience GenAI dans AJO et sa relation avec Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -1690,7 +1703,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La réunion a mis en évidence les capacités de l’accélérateur de contenu d’IA à générer du texte, des images et des HTML, l’expérimentation de contenu via Adobe Journey Optimizer, l’intégration à Adobe Target pour l’optimisation et la personnalisation, divers cas d’utilisation d’outils combinés et les développements futurs, y compris les fonctionnalités améliorées d’IA.</p>
                 </div>
                 <a href="2025/gen-ai-experimentation.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1713,7 +1726,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Apprenez à maîtriser la logique séquentielle dans Adobe Analytics et Customer Journey Analytics avec un cadre visuel pour traduire les scénarios en plans exploitables et créer des segments séquentiels efficaces.</p>
                 </div>
                 <a href="2025/mastering-sequential-logic.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1736,7 +1749,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Principal de la logique séquentielle dans Adobe Analytics avec une segmentation avancée, des contrôles de portée et des champs dérivés pour découvrir les modèles de comportement des clients et clientes et améliorer la précision des données.</p>
                 </div>
                 <a href="2025/sequential-logic-start-stop.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1746,7 +1759,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Cible
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1773,7 +1787,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les bonnes pratiques en matière de tests A/B et de personnalisation de l’IA avec Adobe Target, CJA et RTCDP afin de générer du contenu et des informations dynamiques sur plusieurs plateformes.</p>
                 </div>
                 <a href="2025/ai-adobe-target.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1783,7 +1797,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Général
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -1817,7 +1832,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Rejoignez le webinaire Adobe pour obtenir des informations sur les tendances d’achats pour les fêtes de fin d’année 2024 et les prévisions de marché du début de l’année 2025, explorez les catégories de produits à forte croissance et découvrez les bonnes pratiques pour créer des expériences d’achat personnalisées à l’aide de l’IA et des technologies avancées.</p>
                 </div>
                 <a href="2025/adobe-digital-insights.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1840,7 +1855,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Une stratégie de mesure bien mise en œuvre améliore l’efficacité opérationnelle, favorise la prise de décisions axée sur les données et améliore l’expérience client, offrant ainsi aux entreprises un avantage concurrentiel.</p>
                 </div>
                 <a href="2025/impactful-insights.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1863,7 +1878,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La séance sur la culture d'une organisation de marketing agile a mis en évidence les principes du marketing agile, ses avantages, les défis liés à l'approche traditionnelle en cascade, la nécessité d'un changement culturel et d'une gestion du changement, ainsi que les rôles et la structure essentiels à la réussite du marketing agile.</p>
                 </div>
                 <a href="2025/agile-marketing-organization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1886,7 +1901,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment développer des cas d’utilisation B2B pratiques avec les solutions Adobe.</p>
                 </div>
                 <a href="2025/practical-business-use-cases.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1909,7 +1924,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Explorez les principales tendances de 2025, leur impact sur les workflows et les rapports, et comment vous adapter aux solutions Adobe. Couvre les tendances mondiales, l’agilité et la mesure.</p>
                 </div>
                 <a href="2025/digital-trends-preparing-future.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1932,7 +1947,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire sur la conception de l’architecture entre solutions a porté sur la valeur et la création des diagrammes Northstar, avec des informations clés pour les développeurs, les dirigeants et les utilisateurs.</p>
                 </div>
                 <a href="2025/northstar-architecture.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1955,7 +1970,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment les détaillants utilisent le trafic optimisé par l’IA pour accroître la fidélité, l’engagement et la conversion dans ce webinaire Adobe 2025.</p>
                 </div>
                 <a href="2025/ai-driven-growth.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1978,7 +1993,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les principales tendances de la vente au détail et des voyages dans Adobe, optimisées par les visites de sites 1T+ : GenAI, mobiles, KPI et informations sur les consommateurs pour stimuler la croissance.</p>
                 </div>
                 <a href="2025/state-of-digital-and-genai-adoption-webinar.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -1988,7 +2003,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ### Workfront
 
-<!-- CARDS  ****
+<!-- 
+CARDS  ****
 
 {cta = Watch}
 
@@ -2018,7 +2034,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment l’automatisation basée sur l’IA dans Adobe Workfront simplifie la gestion de projet, améliore l’efficacité et prend en charge des décisions plus intelligentes basées sur les données.</p>
                 </div>
                 <a href="2025/unlock-efficiency-ai-drive-automation-workfront.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2041,7 +2057,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les bases de Workfront Fusion pour automatiser les workflows, accroître la productivité et intégrer des outils à l’aide de solutions à faible code, de modèles et de bonnes pratiques.</p>
                 </div>
                 <a href="2025/adobe-workfront-fusion-best-practices.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2064,7 +2080,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment configurer et développer l’intégration Adobe Workfront + JIRA pour prendre en charge les workflows connectés entre les systèmes d’enregistrement pour les besoins actuels et futurs.</p>
                 </div>
                 <a href="2025/workfront-and-jira.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2075,7 +2091,8 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 ## Sessions de 2024
 
-<!-- CARDS  
+<!-- 
+CARDS  
 
 {cta = Watch}
 
@@ -2136,7 +2153,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Adobe Admin Console est une plateforme centralisée de gestion des solutions d’entreprise Adobe qui propose des fonctions de gestion des utilisateurs et des produits, de sécurité et de conformité, des ressources d’assistance et des bonnes pratiques évolutives pour les entreprises.</p>
                 </div>
                 <a href="2024/adobe-admin-console.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2159,7 +2176,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session de bases de création AEM a couvert les concepts clés, le modèle d’environnement double, les défis liés à la création de contenu, les outils de création, les fonctionnalités de collaboration et de traduction et les services de diffusion Edge.</p>
                 </div>
                 <a href="2024/aem-authoring-concepts.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2182,7 +2199,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire sur l’efficacité des sites AMP a porté sur l’optimisation des performances, la configuration du Dispatcher, les bonnes pratiques de gestion des droits et les stratégies permettant de résoudre les problèmes de performances.</p>
                 </div>
                 <a href="2024/aem-sites-efficiencies.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2205,7 +2222,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Cette session présente les plans directeurs d’AEP, quatre cas d’utilisation d’intégration impliquant AJO, Marketo et Target, ainsi que l’architecture des campagnes déclenchées par l’API AEP et AJO.</p>
                 </div>
                 <a href="2024/aep-apps-services-integrations.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2215,7 +2232,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/aep-marketo-integration.md" title="Principes fondamentaux de l’intégration de Real-Time Customer Data Platform et de Marketo" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433670/?captions=fre_fr&format=jpeg&nocache=1776280350568" alt="Principes fondamentaux de l’intégration de Real-Time Customer Data Platform et de Marketo"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433222/?format=jpeg&nocache=1776280350568" alt="Principes fondamentaux de l’intégration de Real-Time Customer Data Platform et de Marketo"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2228,7 +2245,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Les principes de base de l’intégration de Real-Time Customer Data Platform et de Marketo explorent la manière dont Adobe AEP/RTCDP et Marketo fonctionnent ensemble pour améliorer la communication, rationaliser les processus et offrir des expériences client personnalisées.</p>
                 </div>
                 <a href="2024/aep-marketo-integration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2251,7 +2268,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session de planification de cas d’utilisation AEP couvre la correspondance des valeurs, l’alignement des stratégies et l’optimisation de la valeur commerciale par le biais de KPI. Il aide les entreprises à aligner leurs objectifs sur les résultats commerciaux et à exploiter les solutions Adobe pour offrir des expériences client percutantes.</p>
                 </div>
                 <a href="2024/aep-use-case-planning.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2274,7 +2291,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Ce webinaire expliquera comment l’adoption d’une approche de rédaction et de test basée sur l’IA avec Adobe peut améliorer la personnalisation du contenu à grande échelle, tout en relevant les défis du maintien de la confiance, de la cohérence de la marque et des performances.</p>
                 </div>
                 <a href="2024/ai-copywriting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2297,7 +2314,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire RTCDP Insights a montré comment Adobe Real-Time Customer Data Platform utilise l’IA pour améliorer l’analyse du marché, créer des modèles prédictifs et optimiser les expériences client.</p>
                 </div>
                 <a href="2024/ai-customer-experience.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2320,7 +2337,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session de John Magnusson sur la personnalisation pilotée par l’IA d’Adobe Target a mis en évidence des fonctionnalités et des exemples clés, en mettant l’accent sur le framework Engage, Expand et Embed.</p>
                 </div>
                 <a href="2024/ai-personalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2343,7 +2360,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session Adobe Journey Optimizer Essentials a porté sur la création de campagnes, le mappage des parcours client et la création de pages de destination, en mettant l’accent sur les expériences client personnalisées sur divers canaux.</p>
                 </div>
                 <a href="2024/ajo-essentials.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2366,7 +2383,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session a porté sur la configuration des fonctionnalités analytiques, la comparaison entre Adobe Analytics et Customer Journey Analytics, ainsi que sur les fonctionnalités clés des rapports marketing.</p>
                 </div>
                 <a href="2024/basic-to-intermediate-analysis-capabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2376,7 +2393,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/data-stream-prioritization.md" title="Hiérarchisation des flux de données" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456807/?captions=fre_fr&format=jpeg&nocache=1776280350594" alt="Hiérarchisation des flux de données"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427302/?format=jpeg&nocache=1776280350594" alt="Hiérarchisation des flux de données"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2389,7 +2406,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment gérer la hiérarchisation des flux de données pour l’orchestration des campagnes afin d’optimiser la capacité de votre entreprise à exécuter des Personalization pilotées par les données.</p>
                 </div>
                 <a href="2024/data-stream-prioritization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2412,7 +2429,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session sur Edge Delivery Services (EDS) a porté sur son architecture, son intégration à la création basée sur des documents et sur AEM, la création rapide de sites, les options de personnalisation et les bonnes pratiques pour maintenir des performances élevées.</p>
                 </div>
                 <a href="2024/edge-delivery-services.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2435,7 +2452,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment améliorer les stratégies mobiles, l’engagement des utilisateurs et fournir des expériences personnalisées de manière efficace à l’aide des solutions Adobe.</p>
                 </div>
                 <a href="2024/edge-network-mobile-personalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2458,7 +2475,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Explorez les nuances de la gestion du changement et fournissez des informations stratégiques pour vous permettre de guider votre organisation à travers des parcours transformationnels.</p>
                 </div>
                 <a href="2024/effective-change-management.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2481,7 +2498,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment les intégrations de produits peuvent rationaliser la gestion des workflows numériques, améliorer la collaboration entre les équipes, garantir l’efficacité de votre équipe et adapter vos processus d’entreprise.</p>
                 </div>
                 <a href="2024/empowering-lean-teams.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2504,7 +2521,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Rejoignez les leaders du secteur d’Adswerve, d’Expedia et d’Adobe qui partagent des informations, des tendances et des bonnes pratiques pour tirer parti d’Adobe Customer Journey Analytics afin de transformer l’analyse organisationnelle dans ce webinaire obligatoire.</p>
                 </div>
                 <a href="2024/expedia-aa-to-cja.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2527,7 +2544,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Cette session a pour but de montrer la manière dont Customer Journey Analytics et Adobe Journey Optimizer fonctionnent ensemble pour rationaliser la mesure de plusieurs campagnes et parcours Adobe Journey Optimizer.</p>
                 </div>
                 <a href="2024/getting-started-ajo-analysis.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2550,7 +2567,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment Real-Time CDP peut unifier des sources de données disparates, créer des profils clients complets et les activer sur plusieurs canaux. Découvrez les fonctionnalités et les bonnes pratiques de RTCDP qui peuvent vous aider à créer un parcours client plus efficace​.</p>
                 </div>
                 <a href="2024/getting-started-rtcdp.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2560,7 +2577,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/hyperpersonalization.md" title="Maturité de Personalization - Le chemin de l’hyperpersonnalisation" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457347/?captions=fre_fr&format=jpeg&nocache=1776280350623" alt="Maturité de Personalization - Le chemin de l’hyperpersonnalisation"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429288/?format=jpeg&nocache=1776280350623" alt="Maturité de Personalization - Le chemin de l’hyperpersonnalisation"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2573,7 +2590,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Informez-vous sur la nouvelle ère de l’hyperpersonnalisation. Nous allons établir une base sur un modèle de maturité de personnalisation, discuter des bloqueurs courants et fournir des conseils tactiques pour commencer.Points de discussion clés : le Parcours client moderne​ le chemin vers l’hyperpersonnalisation​ la prise en main de votre entreprise</p>
                 </div>
                 <a href="2024/hyperpersonalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2596,7 +2613,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Cette session d’introduction à Adobe Journey Optimizer permettra aux débutants de créer des expériences client de canaux SMS et de notifications push qui génèrent des résultats à l’aide de la personnalisation. Nous discuterons de l’utilisation et de la personnalisation des fragments.</p>
                 </div>
                 <a href="2024/journey-optimizer-mobile-capabilities.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2606,7 +2623,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/lean-teams-cja.md" title="Optimiser l’efficacité - Équipes allégées et Customer Journey Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457010/?captions=fre_fr&format=jpeg&nocache=1776280350610" alt="Optimiser l’efficacité - Équipes allégées et Customer Journey Analytics"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432998/?format=jpeg&nocache=1776280350610" alt="Optimiser l’efficacité - Équipes allégées et Customer Journey Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2619,7 +2636,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire montrera comment l’intégration de ces concepts peut accroître l’efficacité, améliorer les expériences client et soutenir la prise de décision axée sur les données au sein des entreprises.</p>
                 </div>
                 <a href="2024/lean-teams-cja.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2642,7 +2659,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Dans le monde actuel de la confidentialité des données, la gestion de la consommation des données et du consentement des cookies est d’une importance majeure. Dans cette vidéo, vous découvrirez les bonnes pratiques d’Adobe pour les outils prêts à l’emploi Analytics et Customer Journey Analytics.</p>
                 </div>
                 <a href="2024/mastering-cookies-data-privacy.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2665,7 +2682,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">La session a souligné l’importance d’une supply chain de contenu connectée pour améliorer les performances, de la vision d’Adobe Gen Studio pour optimiser les workflows de contenu et des fonctionnalités d’IA de Adobe Experience Manager, Workfront et Experience Platform pour améliorer la création de contenu, la planification et l’efficacité opérationnelle.</p>
                 </div>
                 <a href="2024/organizational-readiness-content-supply-chain.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2688,7 +2705,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment migrer vers la plateforme de données clients en temps réel d’Adobe (RTCDP) et le niveau d’effort requis :- Migration depuis une plateforme de données clients existante- Impact sur les cas d’utilisation existants (Personalization et optimisation)- Changements organisationnels requis pour prendre en charge la gestion des données client en temps réel.</p>
                 </div>
                 <a href="2024/rtcdp-migration-readiness.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2711,7 +2728,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Principal de la segmentation séquentielle et des filtres dans AA et CJA avec des aspects fondamentaux, des exemples pratiques et des applications commerciales, comme traité dans la session d’Andy Powers.</p>
                 </div>
                 <a href="2024/sequential-logic.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2721,7 +2738,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/strategic-leadership.md" title="Leadership stratégique" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456785/?captions=fre_fr&format=jpeg&nocache=1776280350687" alt="Leadership stratégique"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3427463/?format=jpeg&nocache=1776280350687" alt="Leadership stratégique"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2734,7 +2751,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Acquérir les tactiques pour atteindre efficacement les objectifs organisationnels par l'influence stratégique.- Augmenter le parrainage exécutif avec l'influence- Établir le cap pour le succès à long terme- Mener efficacement les initiatives stratégiques</p>
                 </div>
                 <a href="2024/strategic-leadership.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2757,7 +2774,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Le webinaire Adobe, dirigé par Jeff Homequest et Marco Lara, ingénieurs de terrain expérimentés, a porté sur la migration du JWT du compte de service vers les informations d’identification de serveur à serveur OAuth. Il a mis en évidence la date limite d’obsolescence de janvier 2025, les étapes de migration, les avantages d’OAuth et des considérations spéciales pour AEM, avec une prise en charge et une documentation complètes fournies pour le processus.</p>
                 </div>
                 <a href="2024/streamline-authentication.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2780,7 +2797,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez comment créer une base solide pour commencer à utiliser Recommendations. Bénéficiez d’une meilleure compréhension des algorithmes qui alimentent les recommandations et de la manière d’exploiter ces dernières avec succès.</p>
                 </div>
                 <a href="2024/target-personalization.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2803,7 +2820,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Des stratégies de mesure efficaces renforcent la confiance et l’autonomisation en impliquant les parties prenantes, en assurant la familiarité des données et en favorisant la confiance dans la prise de décisions, tandis que la confiance est établie par la transparence, la gouvernance des données et l’alignement des parties prenantes, et l’autonomisation est obtenue par la formation, les outils accessibles et les données exploitables, tout en contribuant à démontrer la valeur de l’analyse par l’impact sur l’entreprise et l’efficacité opérationnelle.</p>
                 </div>
                 <a href="2024/turning-data-into-action.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2826,7 +2843,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Ce webinaire explore les principales façons d’explorer et de classer par priorité les cas d’utilisation, de les mapper à des fonctionnalités Real-time CDP spécifiques et d’assurer l’alignement sur les résultats commerciaux et la valeur.</p>
                 </div>
                 <a href="2024/use-case-mapping.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2849,7 +2866,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Comprenez les différences entre App Measurement/AT.js et Web SDK, la procédure de migration, les considérations relatives au calendrier de la migration, les options de migration et les différences de données attendues.</p>
                 </div>
                 <a href="2024/web-sdk-migration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2872,7 +2889,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Découvrez les bonnes pratiques pour déterminer le bon équilibre entre les administrateurs système et les administrateurs de groupe de Workfront, répartir les charges de travail et maintenir l’intégrité des données afin de faire évoluer votre entreprise de manière efficace et sécurisée.</p>
                 </div>
                 <a href="2024/workfront-admin-guardianship.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2882,7 +2899,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2024/workfront-lean-teams.md" title="Webinaire Optimiser l’efficacité avec Adobe Workfront - Équipes au plus juste" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3456708/?captions=fre_fr&format=jpeg&nocache=1776280350723" alt="Webinaire Optimiser l’efficacité avec Adobe Workfront - Équipes au plus juste"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3429287/?format=jpeg&nocache=1776280350723" alt="Webinaire Optimiser l’efficacité avec Adobe Workfront - Équipes au plus juste"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -2895,7 +2912,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Explorez les stratégies et les approches pratiques pour stimuler la productivité et rationaliser les opérations à l’aide de méthodologies de lean avec Adobe Workfront, présentées par des experts du secteur.</p>
                 </div>
                 <a href="2024/workfront-lean-teams.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2918,7 +2935,7 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
                     <p class="is-size-6">Donnez à votre équipe les moyens d’exploiter tout le potentiel d’Adobe Workfront. Au cours de cette session, nos experts vous guideront à travers les bonnes pratiques qui offrent de la valeur, simplifient la gouvernance et favorisent l’adoption.</p>
                 </div>
                 <a href="2024/workfront-mastery.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
         </div>
@@ -2929,29 +2946,29 @@ Webinaires dirigés par la réussite client Adobe conçus pour vous aider à opt
 
 
 
-&#x200B;>>
+>>
     &lt;div class=« card-image »>
     &lt;figure class=« image x-is-16by9 »>
     &lt;a href=« 2024/workfront-mastery.md » title=« Workfront Mastery - Strategies for Success » target=« _blank » rel=« referrer »>
-    &lt;img class=« is-bordered-r-small » src=« https://video.tv.adobe.com/v/3435746/?format=jpeg&nocache=1764630166754 » alt=« Workfront Mastery - Strategies for Success »
-    style=« width: 100 %; format : 16/9; ajustement de l&#39;objet : couverture; débordement : masqué; affichage : bloc; marge : auto;« >
+    &lt;img class=« is-bordered-r-small » src=« https://video.tv.adobe.com/v/3435746/?format=jpeg&amp;nocache=1764630166754 » alt=« Workfront Mastery - Strategies for Success »
+    style=« width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;« >
     &lt;/a>
     &lt;/figure>
     &lt;/div>
     &lt;div class=« card-content is-padded-small » style=« display: flex; flex-direction: column; flex-growth: 1; justify-content: space-between;« >
     &lt;div class=« top-card-content »>
     &lt;p class=« headline is-size-6 has-text-weight-bold »>
-    &lt;a href=« 2024/workfront-mastery.md » target=« _blank » rel=« referrer » title=« Workfront Mastery - Strategies for Success »>Workfront Mastery - Strategies for Success&lt;/a>
+    &lt;a href=« 2024/workfront-mastery.md » target=« _blank » rel=« referrer » title=« Workfront Mastery - Strategies for Success »>Workfront Mastery - Stratégies pour des stratégies de réussite Succès&lt;/a>
     &lt;/p>
-    &lt;p> class=« is-size-6 »>Donnez à votre équipe les moyens d’exploiter tout le potentiel d’Adobe Workfront. Au cours de cette session, nos experts vous guideront à travers les bonnes pratiques qui offrent de la valeur, simplifient la gouvernance et favorisent l’adoption.&lt;/p>
+    &lt;p class=« is-size-6 »>Donnez à votre équipe les moyens d’exploiter tout le potentiel d’Adobe Workfront. Au cours de cette session, nos experts vous guideront à travers les bonnes pratiques qui offrent de la valeur, simplifient la gouvernance et favorisent l’adoption.&lt;/p>
     &lt;/div>
     &lt;a href=« 2024/workfront-mastery.md » target=« _blank » rel=« referrer » class=« spectrum-Button spectrum-Button—outline spectrum-Button—primary spectrum-Button—sizeM » style=« align-self: flex-start; margin-top: 1rem;« >
-    &lt;span class=« spectrum-Button-label has-no-wrap has-text-weight-bold »>Watch&lt;/span> id=&#39;437&#39;/>&lt;/a>
+    &lt;span class=« spectrum-Button-label has-no-wrap has-text-weight-bold »>Observer&lt;/span>
+    &lt;/a>
     &lt;/div>
     &lt;/div>
     &lt;/div>
-
-    </div>
+</div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 

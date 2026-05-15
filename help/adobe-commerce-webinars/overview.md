@@ -3,9 +3,9 @@ title: Webinaires Adobe Commerce
 description: Les webinaires d’Adobe Commerce sont une série mensuelle d’ateliers destinés aux clients d’Adobe Commerce. Ils couvrent un large éventail de sujets, des bonnes pratiques à la feuille de route des produits et aux tendances du secteur.
 exl-id: 829502f9-3b2a-426c-a06c-7edcde000c72
 duration: 66
-source-git-commit: 8bcf45a53f15844f4aa101e0267b63dff0858ac8
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '764'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,8 @@ Les webinaires d’Adobe Commerce sont une série mensuelle d’ateliers destin�
 
 ## Événements 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 
@@ -160,7 +161,7 @@ Les webinaires d’Adobe Commerce sont une série mensuelle d’ateliers destin�
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2024/visionary-thinking.md" target="_blank" rel="referrer" title="Creative Edge - Comment la pensée visionnaire transforme Commerce">Creative Edge - Comment la pensée visionnaire transforme Commerce</a>
+                        Creative Edge - Comment la pensée visionnaire transforme Commerce</a><a href="2024/visionary-thinking.md" target="_blank" rel="referrer" title="Creative Edge - Comment la pensée visionnaire transforme Commerce">
                     </p>
                     <p class="is-size-6">Ce webinaire explore l’intégration de la créativité et du commerce et explique comment les outils et les technologies d’Adobe peuvent vous aider à gérer les ressources, à adapter la création de contenu et à rationaliser le supply chain de contenu. Il explique l’importance de rassembler la créativité et le commerce et aborde des sujets tels que les expériences personnalisées, la gestion des ressources et l’utilisation d’outils tels qu’Adobe Workfront, Adobe Experience Manager et Adobe Stock pour rationaliser le processus de création de contenu.</p>
                 </div>

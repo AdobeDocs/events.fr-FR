@@ -3,9 +3,9 @@ title: Réveil avec Workfront
 description: La série Wake Up with Workfront présente les bonnes pratiques en matière de gestion de projet et de workflow pour tous les niveaux de compétence, avec des stratégies exploitables, des démonstrations en direct des fonctionnalités clés de Workfront et une session de questions/réponses finale.
 duration: 15
 exl-id: f03214e9-1ab8-429d-bac5-f2fcef209bd1
-source-git-commit: 0f08a5e73b4c8842b2639d89552a69b06b7a6788
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,8 @@ ht-degree: 0%
 La série Wake Up with Workfront met en avant les bonnes pratiques en matière de gestion de projet et de workflow pour les clients de toutes les compétences, en se concentrant sur des stratégies exploitables pour améliorer la collaboration et stimuler l’efficacité. Les sessions comprennent des démonstrations en direct des principales fonctionnalités de Workfront, afin de s’assurer que les participants comprennent comment appliquer les concepts abordés dans leurs propres environnements. Chaque événement se termine également par une session de questions/réponses en direct.
 
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

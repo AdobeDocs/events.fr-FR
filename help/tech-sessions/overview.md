@@ -3,9 +3,9 @@ title: Sessions techniques Experience Cloud
 description: Améliorez vos compétences Adobe Experience Cloud grâce à des sessions techniques en direct et à la demande animées par des experts Adobe. Obtenez des conseils pratiques et des stratégies à tout moment pour une expérience d’apprentissage transparente.
 exl-id: e368f1f8-5c3f-45a4-a9d5-2ed39b1c78ad
 duration: 53
-source-git-commit: 32127a71c8523d7dd8d8507571c594b4d5af897f
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '1630'
+source-wordcount: '1666'
 ht-degree: 2%
 
 ---
@@ -13,13 +13,14 @@ ht-degree: 2%
 # Enregistrements des sessions techniques Experience Cloud
 
 
-![Sessions techniques Experience Cloud](./assets/tech-sessions-banner.png){align="center"}
+![Sessions techniques ](./assets/tech-sessions-banner.png){align="center"}
 
 Libérez tout le potentiel de Adobe Experience Cloud avec des sessions techniques en direct et à la demande. Ces webinaires sont soigneusement conçus pour aller au-delà de la prise en charge traditionnelle. Dirigées par des experts chevronnés d’Adobe, les sessions fournissent des conseils, des astuces et des stratégies utiles pour vous aider à parcourir les solutions techniques en toute confiance, en évitant les pièges courants. Les experts d’Adobe sont des ingénieurs du support technique qui traitent les principales préoccupations et travaillent activement sur les cas quotidiens. Grâce aux options en direct et à la demande, vous avez la possibilité d’accéder aux informations quand vous en avez besoin, assurant ainsi une expérience d’apprentissage transparente.
 
 ## Sessions 2025
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2025/acc-delivery-performance.md
@@ -141,7 +142,7 @@ Libérez tout le potentiel de Adobe Experience Cloud avec des sessions technique
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="2025/getting-most-marketo-measure.md" target="_blank" rel="referrer" title="Tirer le meilleur parti de Marketo Measure">Tirer le meilleur parti de Marketo Measure</a>
                     </p>
-                    <p class="is-size-6">Optimisez Marketo Measure avec les bonnes pratiques de mappage des canaux, de segmentation, de mappage d’étape personnalisé et de suppression des points de contact. Utilisez des règles spécifiques, catégorisez les données et hiérarchisez les étapes de manière logique. Supprimez les points de contact indésirables pour obtenir des données plus précises. Tirez parti d’outils tels que les étapes de boomerang et soumettez des cas de prise en charge pour des configurations complexes. Adobe Accédez à l’enregistrement de session sur la page Experience Platform.</p>
+                    <p class="is-size-6">Optimisez Marketo Measure avec les bonnes pratiques de mappage des canaux, de segmentation, de mappage d’étape personnalisé et de suppression des points de contact. Utilisez des règles spécifiques, catégorisez les données et hiérarchisez les étapes de manière logique. Supprimez les points de contact indésirables pour obtenir des données plus précises. Tirez parti d’outils tels que les étapes de boomerang et soumettez des cas de prise en charge pour des configurations complexes. Accédez à l’enregistrement de session sur la page Experience Platform.</p>
                 </div>
                 <a href="2025/getting-most-marketo-measure.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
@@ -223,7 +224,8 @@ Libérez tout le potentiel de Adobe Experience Cloud avec des sessions technique
 
 ## Sessions 2024
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta = Watch}
 
 * 2024/aep-web-sdk-troubleshooting.md
@@ -356,7 +358,8 @@ Libérez tout le potentiel de Adobe Experience Cloud avec des sessions technique
 
 ## Sessions 2023
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta = Watch}
 
@@ -412,7 +415,7 @@ Libérez tout le potentiel de Adobe Experience Cloud avec des sessions technique
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/aem-deployment-failures-analysis.md" target="_blank" rel="referrer" title="Analyse des échecs de déploiement d’AEM as a Cloud Service">Analyse des échecs de déploiement d’AEM as a Cloud Service</a>
+                        <a href="2023/aem-deployment-failures-analysis.md" target="_blank" rel="referrer" title="Analyse des échecs de déploiement d’AEM as a Cloud Service">Analyse des échecs de déploiement d’</a>
                     </p>
                     <p class="is-size-6">les internes de déploiement d’AEM as a Cloud Service et le dépannage.</p>
                 </div>
@@ -435,7 +438,7 @@ Libérez tout le potentiel de Adobe Experience Cloud avec des sessions technique
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2023/aem-forms-headless-architecture.md" target="_blank" rel="referrer" title="Architecture découplée AEM Forms">Architecture découplée AEM Forms</a>
+                        <a href="2023/aem-forms-headless-architecture.md" target="_blank" rel="referrer" title="Architecture découplée AEM Forms">Architecture découplée </a>
                     </p>
                     <p class="is-size-6">Présentation de l’architecture découplée, des avantages d’AEM Forms découplé et de la démonstration en direct.</p>
                 </div>

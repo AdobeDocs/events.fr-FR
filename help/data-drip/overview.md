@@ -3,7 +3,7 @@ title: Goutte-à-goutte de données
 description: Rejoignez les experts d’Adobe dans la série Data Drip pour explorer les dernières fonctionnalités et bonnes pratiques d’Adobe Analytics et de Target, avec des démonstrations en direct permettant aux clients d’optimiser le potentiel du produit et de rester compétitifs.
 duration: 15
 exl-id: dd36b140-d53a-41fd-9c26-4d97ab7740a1
-source-git-commit: d195ceaea0b4ccd0c16949e6cff65ec6d04a5e6d
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -14,7 +14,8 @@ ht-degree: 0%
 
 La série Data Drip met en vedette des experts d’Adobe et accueille les clients Adobe Analytics et Target existants de tous les niveaux de compétence. La série se concentre sur certaines des dernières fonctionnalités et bonnes pratiques reflétant le sujet de l’événement. La présentation est suivie d’une démonstration en direct ou d’une capture d’écran présentant des exemples d’action sur les bonnes pratiques d’utilisation des fonctionnalités du produit. Les clients sont assurés de partir avec une meilleure compréhension de la façon de rester compétitif et d&#39;atteindre le succès, tout en maximisant ce que le produit a à offrir.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 

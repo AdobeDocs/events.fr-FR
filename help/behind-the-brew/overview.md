@@ -3,9 +3,9 @@ title: Derrière le Brew
 description: Derrière le Brew, la série complémentaire de Commerce & Coffee, est conçue pour les clients ayant des besoins techniques et qui souhaitent maîtriser les bonnes pratiques, intégrations et fonctionnalités avancées d’arrière-plan afin d’améliorer leurs expériences d’e-commerce.
 duration: 15
 exl-id: 30dd8695-7fd9-430b-87b6-05f82b6e9732
-source-git-commit: f5d96e8aefd0e0b3b9a27e7e2ace6a09c6b1478b
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '289'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,8 @@ ht-degree: 5%
 
 Derrière le Brew se trouve la série complémentaire de Commerce &amp; Coffee. Il est conçu pour les clients ayant une formation technique et qui souhaitent en savoir plus sur les bonnes pratiques d’arrière-plan, les intégrations et les fonctionnalités avancées qu’ils peuvent personnaliser pour améliorer les expériences e-commerce de leur entreprise.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 {cta  = Watch event}
 
@@ -54,8 +55,8 @@ Derrière le Brew se trouve la série complémentaire de Commerce &amp; Coffee. 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="2025/app-builder.md" title="Créateur d’application d’Adobe Developer" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1750103135976" alt="Créateur d’application d’Adobe Developer"
+                    <a href="2025/app-builder.md" title="Adobe Developer App Builder" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443027/?format=jpeg&nocache=1750103135976" alt="Adobe Developer App Builder"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -63,7 +64,7 @@ Derrière le Brew se trouve la série complémentaire de Commerce &amp; Coffee. 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="2025/app-builder.md" target="_blank" rel="referrer" title="Créateur d’application d’Adobe Developer">Créateur d’application d’Adobe Developer</a>
+                        <a href="2025/app-builder.md" target="_blank" rel="referrer" title="Adobe Developer App Builder">Adobe Developer App Builder</a>
                     </p>
                     <p class="is-size-6">Intégrer Adobe Commerce à n’importe quelle application e-commerce à l’aide d’App Builder Expert Guidance et de démonstrations en direct</p>
                 </div>

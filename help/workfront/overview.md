@@ -3,7 +3,7 @@ title: Ateliers à la demande Adobe Workfront
 description: Workfront Events est une vidéothèque où des experts et des pairs ont partagé leurs pensées et idées sur la manière d’utiliser Workfront pour améliorer le travail effectué pour leurs organisations.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 3a52e5d2a9a35be25986a12324f14f9fee3d174e
+source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 1%
@@ -16,7 +16,8 @@ ht-degree: 1%
 
 Cette série de vidéos en cours offre un aperçu clair et concis de chaque version trimestrielle d’Adobe Workfront. Que vous soyez un administrateur système, un utilisateur expérimenté ou que vous soyez simplement curieux des nouveautés, ces sessions sont conçues pour vous aider à rester informé et confiant sur les dernières mises à jour. En partenariat avec l’équipe de gestion des produits, ces événements mettent en évidence les fonctionnalités clés, les améliorations des fonctionnalités et des conseils pour comprendre rapidement ce qui change et comment ces modifications peuvent bénéficier à votre organisation.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * releases/26-q2-release-webinar.md
  
@@ -56,9 +57,10 @@ Le mois de mai marque le début de la saison de remise des diplômes, une pério
 
 Vous en cherchez plus ? Découvrez les dernières nouveautés de votre communauté Adobe Workfront grâce à notre sélection d’événements à la demande. Utilisez le menu de navigation de gauche pour parcourir les rubriques sous Rembobinage d’atelier, où les sessions sont regroupées par Fusion, Planification et Workflow afin de vous aider à trouver rapidement du contenu adapté à vos besoins.
 
-N’oubliez pas de vous joindre aux événements en direct à venir pour poser des questions, partager des informations et collaborer avec vos pairs. Consultez régulièrement la page [Événements Experience League Workfront](https://experienceleague.adobe.com/fr/events?filters=Workfront) pour découvrir les événements à venir !
+N’oubliez pas de vous joindre aux événements en direct à venir pour poser des questions, partager des informations et collaborer avec vos pairs. Consultez régulièrement la page [Événements Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) pour découvrir les événements à venir !
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * workshop-rewind/workflow/power-templates.md 
 * workshop-rewind/workflow/lessons-learned-admins.md
@@ -149,7 +151,8 @@ Le Versus ! les vidéos adoptent une approche côte à côte, ventilant les fonc
 
 Que vous soyez administrateur Workfront, chef de projet ou utilisateur quotidien, cette section fournit des conseils clairs et concis pour vous aider à prendre des décisions plus intelligentes, optimiser votre configuration et tirer le meilleur parti de Workfront, et ce, rapidement.
 
-<!-- CARDS
+<!-- 
+CARDS
 
 * quick-takes/top3/office-hours.md
 * quick-takes/versus/issues-vs-projects.md
@@ -213,7 +216,8 @@ La série Workfront Expert Insights est votre ressource incontournable pour déc
 
 Ces sessions présentent des solutions concrètes, des exemples de clients et des points à retenir exploitables conçus pour aider les utilisateurs de Workfront à tous les niveaux à optimiser leur configuration, à adapter les opérations et à tirer le meilleur parti de la plateforme. Que vous cherchiez à résoudre un défi spécifique ou à susciter des idées d’innovation, Workfront Expert Insights offre un aperçu des coulisses de la manière dont les experts le font.
 
-<!-- CARDS 
+<!-- 
+CARDS 
 
 * expert-insights/content-supply-chain.md
 * expert-insights/fusion.md
@@ -227,7 +231,7 @@ Ces sessions présentent des solutions concrètes, des exemples de clients et de
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Informations d’experts - Supply chain de contenu avec Core Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469996/?captions=fre_fr&format=jpeg&nocache=1778106659855" alt="Informations d’experts - Supply chain de contenu avec Core Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Informations d’experts - Supply chain de contenu avec Core Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -250,7 +254,7 @@ Ces sessions présentent des solutions concrètes, des exemples de clients et de
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/fusion.md" title="Informations d’experts - Fusion avec Ewan Hruska" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470018/?captions=fre_fr&format=jpeg&nocache=1778106659859" alt="Informations d’experts - Fusion avec Ewan Hruska"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469896/?format=jpeg&nocache=1778106659859" alt="Informations d’experts - Fusion avec Ewan Hruska"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -273,7 +277,7 @@ Ces sessions présentent des solutions concrètes, des exemples de clients et de
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/centers-of-excellence.md" title="Informations d’experts - Gouvernance et centres d’excellence avec Danielle Johnston" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470007/?captions=fre_fr&format=jpeg&nocache=1778106659848" alt="Informations d’experts - Gouvernance et centres d’excellence avec Danielle Johnston"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1778106659848" alt="Informations d’experts - Gouvernance et centres d’excellence avec Danielle Johnston"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
