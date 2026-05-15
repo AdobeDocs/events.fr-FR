@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Collection d'enregistrements provenant de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: a74b16144c63581e387e590ff4aa98f9a218ec84
+source-git-commit: 52ae84732dd4afdd0ffb29afbb5d3a3bd5921a43
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '370'
 ht-degree: 7%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 7%
    + 2023 {#2023}
       + [Excellence des développeurs avec les composants principaux d’AEM](experience-manager/2023/core-components.md)
       + [Séance d’immersion dans Tools for AEM Sites](experience-manager/2023/aem-sites-tools.md)
-      + [&#x200B; Stratégies de sécurité efficaces dans Cloud Service &#x200B;](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [ Stratégies de sécurité efficaces dans Cloud Service ](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [Maîtriser le contenu et les fragments d’expérience](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025 {#2025}
@@ -70,7 +70,7 @@ ht-degree: 7%
    + 2026 {#2026}
       + [Adoption de Workfront durable](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [Désordre des métadonnées](https://experienceleague.adobe.com/fr/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Désordre des métadonnées](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Articuler l’impact - Comment mesurer et partager la valeur de Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Simplifier la planification des ressources grâce à l’automatisation](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
@@ -93,5 +93,6 @@ ht-degree: 7%
       + [Fondements des rapports opérationnels](workfront/2022/foundations-of-operational-reporting.md)
       + [Utilisation des services d’administration de groupe](workfront/2022/leveraging-the-group-admin.md)
       + [En quoi consiste la gouvernance de Workfront ?](workfront/2022/what-is-workfront-governance.md)
-+ [Explorer les groupes d’utilisateurs Adobe dans Experience Cloud](./adobe-user-groups.md)
++ [Déverrouiller l’avantage Adobe Champion](./unlock-the-adobe-champion-advantage.md)
 + [Apprenez à postuler et à vous démarquer en tant que champion](./adobe-champion-application.md)
++ [Explorer les groupes d’utilisateurs Adobe dans Experience Cloud](./adobe-user-groups.md)
