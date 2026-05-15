@@ -27,4 +27,4 @@ Découvrez la stratégie derrière la préparation organisationnelle du point de
 * Découvrez comment vous aligner sur les cas d’utilisation commerciale en tant qu’organisation.
 * Ressources et actions clés pour la préparation à la plateforme CDP en temps réel
 
->[!VIDEO](https://video.tv.adobe.com/v/3425603/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457065/?captions=fre_fr&learn=on)
