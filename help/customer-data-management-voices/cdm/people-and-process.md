@@ -26,5 +26,5 @@ Découvrez comment tirer le meilleur parti de votre CDP en investissant dans les
 ## Informations supplémentaires
 
 * [Rationalisation de votre premier kilomètre de gestion des données](first-mile.md)
-* [Amélioration du rôle du professionnel du marketing en tant que gestionnaire de données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html)
-* [10 considérations pour une gestion responsable des données client](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+* [Amélioration du rôle du professionnel du marketing en tant que gestionnaire de données](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/elevating-the-marketers-role-as-a-data-steward.html?lang=fr)
+* [10 considérations pour une gestion responsable des données client](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html?lang=fr)
