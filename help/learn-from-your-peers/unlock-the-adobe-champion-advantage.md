@@ -31,5 +31,5 @@ Dans ce webinaire, les membres de l’équipe Adobe, ainsi que quatre champions 
 **Ressources supplémentaires**
 
 * [Participez au Programme Adobe Champion 2026-2027](https://event.adobe.com/2026-2027championprogramhub?cgen=7JJ162CW&mv=other)
-* [Consultez la page du programme Adobe Champion sur Adobe Experience League](https://experienceleague.adobe.com/en/champions?cgen=X2PHHJ1W&mv=other)
+* [Consultez la page du programme Adobe Champion sur Adobe Experience League](https://experienceleague.adobe.com/fr/champions?cgen=X2PHHJ1W&mv=other)
 * [Découvrez les contributions des champions sur les perspectives Adobe Experience League](https://experienceleague.adobe.com/fr/perspectives)
