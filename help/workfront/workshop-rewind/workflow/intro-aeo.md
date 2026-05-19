@@ -21,6 +21,6 @@ Explorez les possibilités offertes par les opérations d’entreprise avancées
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491318/?learn=on&enablevpops)
 
-Vous en cherchez plus ? Abonnez-vous à notre publication Experience League [Advanced Enterprise Operations Event Series](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546) pour recevoir automatiquement des notifications au fur et à mesure que de nouvelles sessions, de nouveaux liens d’enregistrement, de nouveaux enregistrements et de nouvelles ressources sont ajoutés !
+Vous en cherchez plus ? Abonnez-vous à notre publication Experience League [Advanced Enterprise Operations Event Series](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-series-advanced-enterprise-operations-capabilities-250546?profile.language=fr) pour recevoir automatiquement des notifications au fur et à mesure que de nouvelles sessions, de nouveaux liens d’enregistrement, de nouveaux enregistrements et de nouvelles ressources sont ajoutés !
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/en/events?lang=en) pour connaître les dernières sessions.
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events?lang=en) pour connaître les dernières sessions.
