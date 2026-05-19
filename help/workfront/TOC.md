@@ -3,9 +3,9 @@ user-guide-title: Événements Workfront
 breadcrumb-title: Événements Workfront
 user-guide-description: Événements Workfront
 solution: Workfront
-source-git-commit: c8c1cfef7a03b025037b5b061452f4cb2b25f2f0
+source-git-commit: 008061527b5d34bc29fe9a79554f4cbeadcfaea6
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '551'
 ht-degree: 1%
 
 ---
@@ -61,6 +61,7 @@ ht-degree: 1%
       + [Conseils de communication efficaces dans Workfront](workshop-rewind/workflow/communication-tips.md)
       + [Conseils de gouvernance, d’exécution et d’adoption](workshop-rewind/workflow/governance-execution-adoption.md)
       + [Principes de base de l’administration des groupes](workshop-rewind/workflow/group-admins.md)
+      + [Présentation des opérations d’entreprise avancées](workshop-rewind/workflow/intro-aeo.md)
       + [Leçons apprises par les administrateurs Workfront](workshop-rewind/workflow/lessons-learned-admins.md)
       + [Maîtriser les règles métier](workshop-rewind/workflow/business-rules.md)
       + [Gestion des notifications par e-mail](workshop-rewind/workflow/email-notifications.md)
