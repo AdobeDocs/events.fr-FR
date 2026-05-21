@@ -24,7 +24,7 @@ Regardez l’enregistrement à la demande pour tirer des leçons pratiques de so
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491410/?learn=on&enablevpops)
 
-Vous recherchez d’autres ressources partagées pendant l’événement ? Consultez l’article de la communauté [&#128279;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?fid=23&tid=250661) et veillez à ajouter un signet à la perspective [Développement via Workfront : de véritables leçons d’administration](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons) !
+Vous recherchez d’autres ressources partagées pendant l’événement ? Consultez l’article de la communauté [&#128279;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-inside-the-workfront-admin-role-10-lessons-from-my-first-two-years-may-21-2026-250661?profile.language=fr&fid=23&tid=250661) et veillez à ajouter un signet à la perspective [Développement via Workfront : de véritables leçons d’administration](https://experienceleague.adobe.com/en/perspectives/growing-through-workfront-real-admin-lessons) !
 
-De nouveaux événements sont ajoutés tous les mois. Consultez donc la page [Événements &#x200B;](https://experienceleague.adobe.com/en/events?lang=en) pour connaître les dernières sessions.
+De nouveaux événements sont ajoutés tous les mois. Consultez donc la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events?lang=en) pour connaître les dernières sessions.
 
