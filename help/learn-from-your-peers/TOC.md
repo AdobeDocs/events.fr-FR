@@ -71,7 +71,7 @@ ht-degree: 7%
    + 2026 {#2026}
       + [Adoption de Workfront durable](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [Désordre des métadonnées](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Désordre des métadonnées](https://experienceleague.adobe.com/fr/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Articuler l’impact - Comment mesurer et partager la valeur de Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Simplifier la planification des ressources grâce à l’automatisation](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
