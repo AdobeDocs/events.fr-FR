@@ -45,7 +45,7 @@ La session est enregistrée et sera disponible sur demande.
    * Implémentez les bonnes pratiques de gestion et d’optimisation des données.
    * Activez l’optimisation d’image profonde pour économiser de l’espace disque.
 
-* Robots d&#39;exploration web ****
+* Robots d&#39;exploration web **&#x200B;**
 
    * Détectez et atténuez les robots d&#39;exploration web abusifs à l’aide d’outils tels que New Relic et les requêtes SQL personnalisées.
    * Implémentez des stratégies de limitation et de blocage de débit pour les robots non légitimes.
