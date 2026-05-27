@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Informez-vous sur la nouvelle ère de l’hyperpersonnalisation. Nous allons établir une base sur un modèle de maturité de personnalisation, discuter des bloqueurs courants et fournir des conseils tactiques pour commencer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429288/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457347/?captions=fre_fr&learn=on)
 
 ## Points clés de la discussion
 
