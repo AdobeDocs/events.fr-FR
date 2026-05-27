@@ -35,7 +35,7 @@ Au cours de cette session, découvrez les bonnes pratiques et les raccourcis ess
 
 Le schéma XDM est la base de la modélisation des données dans AEP. Il permet l’intégration et le partage de données entre différents systèmes. Il définit la structure et la signification des données, telles que les attributs de profil et les actions basées sur un événement.
 
-****
+**&#x200B;**
 
 Une gestion des identités appropriée est essentielle pour éviter des problèmes tels que l’effondrement d’un profil. Le hachage de données sensibles telles que les e-mails et l’utilisation d’identifiants uniques peuvent contribuer à maintenir l’intégrité des données. Les mappages d’identités sont recommandés pour la segmentation et la personnalisation en temps réel.
 
