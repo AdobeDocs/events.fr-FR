@@ -25,7 +25,7 @@ Sens des affaires et raisonnement éthique : prenez des décisions intelligentes
 Research Methodology &amp; Storytelling Craft : Transformer les résultats des données en récits attrayants pour les parties prenantes.
 Compétence technique et intelligence émotionnelle : Offrez du soutien et des solutions avec empathie, pas seulement des compétences techniques.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471124/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471183/?captions=fre_fr&learn=on&enablevpops)
 
 ## Déverrouiller Analytics pour l’impact humain
 
