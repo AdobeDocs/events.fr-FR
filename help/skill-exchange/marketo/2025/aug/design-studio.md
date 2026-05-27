@@ -30,7 +30,7 @@ Vous en apprendrez plus sur,
 * L’utilisation des pratiques de codage intelligent dans Design Studio peut garantir vos opérations marketing et la conformité de la marque à l’avenir.
 * Comment l’intégration de Adobe Experience Manager (AEM) permet à Design Studio d’étendre la puissance de Marketo Engage.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471421/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471389/?learn=on&enablevpops)
 
 ## Déverrouiller des opérations Marketo efficaces
 

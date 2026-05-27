@@ -13,8 +13,8 @@ jira: KT-17374
 exl-id: f085fe77-4025-4121-bd2a-24ec1436be93
 source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 1%
+source-wordcount: '306'
+ht-degree: 2%
 
 ---
 
@@ -28,9 +28,9 @@ Ce webinaire explique comment l’accélérateur de contenu de l’assistant d�
 * Expériences et optimisation de contenu
 * IA générative
 
->[!VIDEO](https://video.tv.adobe.com/v/3444461/?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Accélérateur de contenu AI** L’accélérateur de contenu AI, optimisé par Microsoft Azure, OpenAI et Adobe Firefly, permet de générer du texte, des images et des HTML pour différents points de contact tels que les notifications push, les SMS et les e-mails. Il a été publié au 4e trimestre de l&#39;année précédente.
 

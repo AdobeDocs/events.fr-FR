@@ -13,7 +13,7 @@ ht-degree: 2%
 # Enregistrements des sessions techniques Experience Cloud
 
 
-![Sessions techniques &#x200B;](./assets/tech-sessions-banner.png){align="center"}
+![Sessions techniques ](./assets/tech-sessions-banner.png){align="center"}
 
 Libérez tout le potentiel de Adobe Experience Cloud avec des sessions techniques en direct et à la demande. Ces webinaires sont soigneusement conçus pour aller au-delà de la prise en charge traditionnelle. Dirigées par des experts chevronnés d’Adobe, les sessions fournissent des conseils, des astuces et des stratégies utiles pour vous aider à parcourir les solutions techniques en toute confiance, en évitant les pièges courants. Les experts d’Adobe sont des ingénieurs du support technique qui traitent les principales préoccupations et travaillent activement sur les cas quotidiens. Grâce aux options en direct et à la demande, vous avez la possibilité d’accéder aux informations quand vous en avez besoin, assurant ainsi une expérience d’apprentissage transparente.
 

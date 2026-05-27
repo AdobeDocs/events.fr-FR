@@ -26,7 +26,7 @@ L’adoption est un sujet sur lequel nous revenons régulièrement. Dans cette �
 
 Rejoignez-moi, votre CSM On-Demand Workfront, alors que je discute avec Leslie des raisons pour lesquelles l’adoption est un sujet si important, ainsi que de certaines de nos stratégies préférées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469929/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
 
 ## Conseils, astuces et plus encore
 
@@ -53,12 +53,12 @@ Rejoignez-moi, votre CSM On-Demand Workfront, alors que je discute avec Leslie d
 
 ## Ressources
 
-* Vous recherchez d’autres exemples ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314?profile.language=fr) pour découvrir d’autres idées partagées dans les commentaires !
-* [Tout sur les plans directeurs](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=fr)
-* [Rapport sur les dernières notes](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=fr)
-* [Ajouter une mise en forme conditionnelle de base à une vue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=fr)
-* [Ajout de tableaux de bord au panneau de navigation de gauche](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=fr)
-* [Modèles de mise en page - Épingler](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=fr)
+* Vous recherchez d’autres exemples ? Consultez la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) pour découvrir d’autres idées partagées dans les commentaires !
+* [Tout sur les plans directeurs](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
+* [Rapport sur les dernières notes](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
+* [Ajouter une mise en forme conditionnelle de base à une vue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
+* [Ajout de tableaux de bord au panneau de navigation de gauche](https://experienceleague.adobe.com/docs/workfront/using/basics/navigate/simplified-left-navigation.html?lang=en)
+* [Modèles de mise en page - Épingler](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/layout-templates/customize-pinned-pages.html?lang=en)
 
 ## À propos du conférencier
 
@@ -66,4 +66,4 @@ Leslie Spier est une défenseure dévouée des clients, avec des années d’exp
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [&#128279;](mailto:CSatScale@adobe.com).
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).

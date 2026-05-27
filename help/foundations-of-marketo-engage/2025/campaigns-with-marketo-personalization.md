@@ -15,13 +15,13 @@ doc-type: Event
 duration: 3229
 last-substantial-update: 2025-08-01T00:00:00Z
 jira: KT-18497
-source-git-commit: 9f9bbcdcd56ba6736d86a6f272023db52e28fa7a
+exl-id: 961ec095-fd39-453d-b687-94e3fbf4d0cf
+source-git-commit: d8708b7a7ef84153e29db7541bb95ccc39580f16
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
-
 
 # Optimiser les campagnes avec Marketo Personalization
 
