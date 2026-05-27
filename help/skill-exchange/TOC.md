@@ -5,7 +5,7 @@ user-guide-description: Collection d’enregistrements d’Experience Makers The
 event-series: The Skill Exchange
 source-git-commit: 6c9493a52200986d77efba0737b03d15db539845
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '852'
 ht-degree: 9%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 9%
       + [Keynote d’ouverture](analytics/2025/aug/opening-keynote.md)
       + [Personnalisations dans Adobe Analytics Workspace](analytics/2025/aug/analysis-workspace-customizations.md)
       + [Les tableaux de bord ne fournissent pas d’informations](analytics/2025/aug/dashboards-insights.md)
-      + [Data Storytelling Avec Analysis Workspace](analytics/2025/aug/data-storytelling.md)
+      + [Storytelling De Données Avec Analysis Workspace](analytics/2025/aug/data-storytelling.md)
       + [Données dans PowerPoint](analytics/2025/aug/data-to-powerpoint.md)
       + [Démystifier les mesures courantes](analytics/2025/aug/demystifying-common-metrics.md)
       + [Workflows d’analyse évolutifs](analytics/2025/aug/scalable-workflows.md)
@@ -130,7 +130,7 @@ ht-degree: 9%
       + [Cohésion des expériences avec la personnalisation et la gouvernance AEM](aem/aug2024/customize-elements.md)
       + [Stratégies de gestion des ressources numériques](aem/aug2024/spotlight-dam-strategies.md)
       + [Gestion des ressources de Dynamic Media Classic](aem/aug2024/dmc-asset-management.md)
-      + [Amélioration de la chaîne logistique du contenu](aem/aug2024/spotlight-content-supply-chain.md)
+      + [Amélioration du Supply chain de contenu](aem/aug2024/spotlight-content-supply-chain.md)
       + [Approches de l’éditeur de SPA et découplé Principal](aem/aug2024/headless-spa-editor.md)
       + [Métadonnées, structure de contenu et taxonomie](aem/aug2024/dam-performance.md)
       + [Imprimer la production](aem/aug2024/print-production.md)
@@ -189,8 +189,8 @@ ht-degree: 9%
       + [Votre feuille de route Marketo](marketo/aug2021/marketo-roadmap.md)
    + Février 2021 {#feb2021}
       + [Une immersion totale dans les objets personnalisés et la vitesse](marketo/feb2021/custom-objects.md)
-      + [Segment Adobe [!DNL Marketo Engage] Rockstar](marketo/feb2021/rockstar.md)
-      + [Création De Programmes Dans Adobe [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
+      + [Segment  [!DNL Marketo Engage] Rockstar](marketo/feb2021/rockstar.md)
+      + [Création De Programmes Dans  [!DNL Marketo Engage]](marketo/feb2021/create-programs.md)
       + [Puissance d’une campagne intelligente](marketo/feb2021/power-of-smart-campaign.md)
       + [Création de rapports dans  [!DNL Marketo Engage]](marketo/feb2021/reporting-within-marketo.md)
       + [Conseils et astuces Ultimate pour votre Forms](marketo/feb2021/forms-tips-and-tricks.md)
@@ -211,7 +211,7 @@ ht-degree: 9%
       + [Qualité des données](workfront/aug2024/data-quality.md)
       + [Améliorer votre expérience d’approbation](workfront/aug2024/approval-experience.md)
       + [Workfront Fusion et tableaux](workfront/aug2024/fusion-boards.md)
-      + [Chaîne logistique du contenu marketing](workfront/aug2024/content-supply-chain.md)
+      + [Supply chain du contenu marketing](workfront/aug2024/content-supply-chain.md)
       + [Améliorations des processus et efficacité opérationnelle](workfront/aug2024/spotlight-process-operations.md)
       + [Personnalisation des pages d’accueil Workfront](workfront/aug2024/tailoring-homepages.md)
       + [La transformation des flux de processus en Workfront est gagnante](workfront/aug2024/spotlight-process-flows.md)

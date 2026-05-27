@@ -27,7 +27,7 @@ Rejoignez cette session Experience League Live, au cours de laquelle des experts
 
 >[!BEGINSHADEBOX « Vous avez des questions ?« ]
 
-Poursuivez la discussion sur ce sujet dans la [publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893?profile.language=fr#M2671){target="_blank"} d’Adobe Experience League.
+Poursuivez la discussion sur ce sujet dans la [publication de la communauté](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/experience-league-live-post-session-discussion-leaping-ahead/m-p/656893#M2671){target="_blank"} d’Adobe Experience League.
 
 >[!ENDSHADEBOX]
 
@@ -50,6 +50,6 @@ La nouvelle interface utilisateur web de Campaign est importante, car elle offre
 * **[Interface utilisateur web de Campaign - Fonctionnalités clés](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=fr){target="_blank"}**
   *Documentation détaillée sur les éléments actuellement disponibles dans l’interface utilisateur web d’Adobe Campaign.*
 
-* **[Interface Utilisateur Web D’Adobe Campaign - Tutoriels](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=fr){target="_blank"}**
+* **[Interface Utilisateur Web D’Adobe Campaign - Tutoriels](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=en){target="_blank"}**
   *Vidéos pratiques et tutoriels sur les fonctionnalités de l’interface utilisateur web d’Adobe Campaign.*
 

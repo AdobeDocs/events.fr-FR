@@ -44,4 +44,4 @@ Utilisez vos données eCommerce pour réussir pendant la saison des fêtes. Ce w
 ## Ressources utiles
 
 Guide de l’utilisateur de [Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=fr)
-[Assistance &#x200B;](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html?lang=fr)
+[Assistance ](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

@@ -44,7 +44,7 @@ ht-degree: 7%
    + 2023 {#2023}
       + [Excellence des développeurs avec les composants principaux d’AEM](experience-manager/2023/core-components.md)
       + [Séance d’immersion dans Tools for AEM Sites](experience-manager/2023/aem-sites-tools.md)
-      + [&#x200B; Stratégies de sécurité efficaces dans Cloud Service &#x200B;](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [ Stratégies de sécurité efficaces dans Cloud Service ](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [Maîtriser le contenu et les fragments d’expérience](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025 {#2025}
@@ -71,7 +71,7 @@ ht-degree: 7%
    + 2026 {#2026}
       + [Adoption de Workfront durable](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [Désordre des métadonnées](https://experienceleague.adobe.com/fr/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Désordre des métadonnées](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Articuler l’impact - Comment mesurer et partager la valeur de Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Simplifier la planification des ressources grâce à l’automatisation](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}

@@ -9,13 +9,13 @@ doc-type: Event
 duration: 3547
 last-substantial-update: 2025-08-07T00:00:00Z
 jira: KT-18706
-source-git-commit: bc5752512fb1bc50cefe0180c308574e821888a2
+exl-id: fc46eb27-359f-49da-8795-53b6acea0075
+source-git-commit: 3769f299b7e1aa13294bbb50e0ed86ad04dffc1b
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '718'
 ht-degree: 0%
 
 ---
-
 
 # Marketo et mochas : synchronisation Salesforce
 
