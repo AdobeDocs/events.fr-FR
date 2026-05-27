@@ -10,13 +10,13 @@ doc-type: Event
 duration: 2798
 last-substantial-update: 2025-05-08T00:00:00Z
 jira: KT-18033
-source-git-commit: cfc7b54ae4360779ca2c41f88fc08089bae99165
+exl-id: 7d097151-8334-4e94-b4ae-b8bfed902e41
+source-git-commit: 415645856bb7b765b433b1db96a9a017a99573fd
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
-
 
 # Libérer la puissance de l’IA : Expérimentation avancée avec Adobe Target
 
@@ -30,7 +30,7 @@ Au cours de cette session, découvrez les bonnes pratiques relatives aux tests A
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458079/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Intégration de Personalization et d’AI** Personalization est essentiel pour améliorer les expériences client. Les outils pilotés par l’IA tels qu’Adobe Target permettent aux entreprises d’optimiser et de personnaliser à grande échelle. Les fonctionnalités telles que l’affectation automatique, le ciblage automatique, la personnalisation automatisée et les recommandations tirent parti des algorithmes de machine learning pour offrir des expériences personnalisées.
 
