@@ -57,7 +57,7 @@ CARDS ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/unlock-identities.md" title="Parcours transparents - Déverrouillage de l’identité avec CJA" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480150/?format=jpeg&nocache=1779819963453" alt="Parcours transparents - Déverrouillage de l’identité avec CJA"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3480154/?captions=fre_fr&format=jpeg&nocache=1779819963453" alt="Parcours transparents - Déverrouillage de l’identité avec CJA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,7 +145,7 @@ CARDS ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/value-with-content-supply-chain.md" title="Optimisation des chaînes d’approvisionnement de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479086/?format=jpeg&nocache=1779819963927" alt="Optimisation des chaînes d’approvisionnement de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479088/?captions=fre_fr&format=jpeg&nocache=1779819963927" alt="Optimisation des chaînes d’approvisionnement de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,7 +168,7 @@ CARDS ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/modern-delivery-model-aem.md" title="Modèles de diffusion modernes pour AEM Sites" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478775/?format=jpeg&nocache=1779819963962" alt="Modèles de diffusion modernes pour AEM Sites"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3478777/?captions=fre_fr&format=jpeg&nocache=1779819963962" alt="Modèles de diffusion modernes pour AEM Sites"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -319,7 +319,7 @@ CARDS ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/csc-change-management.md" title="Session 5 de VRA - Stratégies de gestion des modifications pour exploiter votre Supply chain de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479816/?format=jpeg&nocache=1779819964699" alt="Session 5 de VRA - Stratégies de gestion des modifications pour exploiter votre Supply chain de contenu"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3479819/?captions=fre_fr&format=jpeg&nocache=1779819964699" alt="Session 5 de VRA - Stratégies de gestion des modifications pour exploiter votre Supply chain de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
