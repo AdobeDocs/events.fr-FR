@@ -2,9 +2,9 @@
 title: Principes de base de Marketo Engage
 description: Rejoignez le Foundational Marketo User Group afin de renforcer la confiance et les compétences de base dans Adobe Marketo Engage par le biais de sessions conviviales et de soutien pour les débutants.
 exl-id: 0f4ac207-0828-4f35-915b-8ba5715af780
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: 57f4721e199ca2f2108901ef11167784c2d4ffe8
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '369'
 ht-degree: 1%
 
 ---
@@ -15,23 +15,45 @@ Le groupe d’utilisateurs de Marketo de base est conçu spécifiquement pour le
 
 ## Sessions de 2026
 
-<!-- 
-CARDS  ****
+<!-- CARDS  ****
 
 {cta = Watch}
 
+* 2026/monthly-newsletter.md
 * 2026/fundamentals.md
 
 -->
-
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="undefined">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="2026/monthly-newsletter.md" title="non défini" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3491509/?format=jpeg&nocache=1779897876356" alt="non défini"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="2026/monthly-newsletter.md" target="_blank" rel="referrer" title="non défini">non défini</a>
+                    </p>
+                    <p class="is-size-6">non défini</p>
+                </div>
+                <a href="2026/monthly-newsletter.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Session 1 of 2026 - Fundamentals of Marketo Engage">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2026/fundamentals.md" title="Session 1 de 2026 - Principes fondamentaux de Marketo Engage" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482934/?format=jpeg&nocache=1774995938827" alt="Session 1 de 2026 - Principes fondamentaux de Marketo Engage"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3482934/?format=jpeg&nocache=1779897876368" alt="Session 1 de 2026 - Principes fondamentaux de Marketo Engage"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -54,8 +76,7 @@ CARDS  ****
 
 ## Sessions de 2025
 
-<!-- 
-CARDS  ****
+<!-- CARDS  ****
 
 {cta = Watch}
 
@@ -65,8 +86,6 @@ CARDS  ****
 * 2025/programs-campaigns.md
 * 2025/scoring.md
 
-
-
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -75,7 +94,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/campaigns-with-marketo-personalization.md" title="Optimiser les campagnes avec Marketo Personalization" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1774995939325" alt="Optimiser les campagnes avec Marketo Personalization"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464791/?format=jpeg&nocache=1779897876954" alt="Optimiser les campagnes avec Marketo Personalization"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -98,7 +117,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/nurture-recipe.md" title="Création De Votre Recette De Culture" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1774995939359" alt="Création De Votre Recette De Culture"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3475224/?format=jpeg&nocache=1779897876943" alt="Création De Votre Recette De Culture"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -121,7 +140,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/professional-exam-preparation.md" title="Groupe d’utilisateurs de Marketo de base - Préparation d’examens professionnels" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1774995939342" alt="Groupe d’utilisateurs de Marketo de base - Préparation d’examens professionnels"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3476232/?format=jpeg&nocache=1779897876937" alt="Groupe d’utilisateurs de Marketo de base - Préparation d’examens professionnels"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -144,7 +163,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/programs-campaigns.md" title="Programmes, Campagnes et plus" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1774995939350" alt="Programmes, Campagnes et plus"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3464499/?format=jpeg&nocache=1779897876974" alt="Programmes, Campagnes et plus"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -167,7 +186,7 @@ CARDS  ****
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="2025/scoring.md" title="Score Plus Intelligent, Pas Plus Difficile" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1774995939332" alt="Score Plus Intelligent, Pas Plus Difficile"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3474961/?format=jpeg&nocache=1779897876965" alt="Score Plus Intelligent, Pas Plus Difficile"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -187,3 +206,4 @@ CARDS  ****
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
