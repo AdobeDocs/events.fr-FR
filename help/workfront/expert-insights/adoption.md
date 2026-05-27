@@ -53,7 +53,7 @@ Rejoignez-moi, votre CSM On-Demand Workfront, alors que je discute avec Leslie d
 
 ## Ressources
 
-* Vous recherchez d’autres exemples ? Consultez la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) pour découvrir d’autres idées partagées dans les commentaires !
+* Vous recherchez d’autres exemples ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/video-august-2023-workfront-expert-insights-adoption-with-leslie/td-p/613314) pour découvrir d’autres idées partagées dans les commentaires !
 * [Tout sur les plans directeurs](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints.html?lang=en)
 * [Rapport sur les dernières notes](https://experienceleague.adobe.com/docs/workfront/using/basics/update-work-items-view-updates/view-all-updates-in-a-report.html?lang=en)
 * [Ajouter une mise en forme conditionnelle de base à une vue](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.html?lang=en)
@@ -66,4 +66,4 @@ Leslie Spier est une défenseure dévouée des clients, avec des années d’exp
 
 ## Vous avez quelque chose à partager ?
 
-Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [](mailto:CSatScale@adobe.com).
+Avez-vous une excellente histoire à partager, soit au cours d’un événement, soit dans une vidéo d’informations d’experts ? Contactez notre équipe à l’adresse [&#128279;](mailto:CSatScale@adobe.com).
