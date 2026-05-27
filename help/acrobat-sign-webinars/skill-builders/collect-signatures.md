@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Découvrez comment la fonction Envoyer en bloc dans Acrobat Sign peut vous faire gagner du temps. Si vous avez besoin de plusieurs personnes pour signer des copies uniques d’une mise à jour de politique à l’échelle de l’entreprise, d’un AND ou de tout autre document, l’option Envoyer en bloc vous permet de préparer le fichier une seule fois, de l’envoyer à plusieurs signataires en un seul clic et de suivre facilement les réponses.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454893/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428188/?learn=on)
 
 ## Points clés
 

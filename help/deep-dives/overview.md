@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Événements d’exploration approfondie Marketo
 
-Bienvenue dans les enregistrements d’événements à la demande de Deep Dives. Grâce à ces ressources, combinées à la [documentation](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=fr) et aux [tutoriels](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=fr) d’Adobe Marketo, vous comprenez mieux comment utiliser Adobe Marketo pour prendre en charge votre entreprise.
+Bienvenue dans les enregistrements d’événements à la demande de Deep Dives. Grâce à ces ressources, combinées à la [documentation](https://experienceleague.adobe.com/docs/marketo-engage.html) et aux [tutoriels](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html) d’Adobe Marketo, vous comprenez mieux comment utiliser Adobe Marketo pour prendre en charge votre entreprise.
 
 <!-- 
 CARDS
@@ -71,7 +71,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="admin-console.md" title="Préparation à Marketo Engage sur Adobe Identity" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432365/?captions=fre_fr&format=jpeg&nocache=1772063850796" alt="Préparation à Marketo Engage sur Adobe Identity"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430920/?format=jpeg&nocache=1772063850796" alt="Préparation à Marketo Engage sur Adobe Identity"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -94,7 +94,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="api.md" title="API" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3430732/?captions=fre_fr&format=jpeg&nocache=1772063850782" alt="API"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3422479/?format=jpeg&nocache=1772063850782" alt="API"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
