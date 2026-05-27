@@ -4,7 +4,7 @@ user-guide-breadcrumb: Developers Live Events
 user-guide-description: Collection d’enregistrements de l’événement Adobe Developers Live Content
 source-git-commit: f75cc13d597e8a9e7b4e54335ef69a8a8c581e0e
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '616'
 ht-degree: 8%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 8%
    + [Confrontation du codage IA](2025/coding-agent.md)
    + [Innovations en matière de développement d’AI Commerce](2025/app-builder-extensions.md)
    + [Découverte de contenu par l’IA avec AEM](2025/ai-content-discovery.md)
-   + [Brand Concierge](2025/brand-concierge.md)
+   + [Brand Concierge](2025/brand-concierge.md)
    + [IA dédiée au contenu dans AEM](2025/content-ai.md)
    + [Création de documents à grande échelle](2025/document-authoring-at-scale.md)
    + [Publication dynamique](2025/dynamic-publishing.md)
