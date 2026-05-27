@@ -26,7 +26,7 @@ L’adoption est un sujet sur lequel nous revenons régulièrement. Dans cette �
 
 Rejoignez-moi, votre CSM On-Demand Workfront, alors que je discute avec Leslie des raisons pour lesquelles l’adoption est un sujet si important, ainsi que de certaines de nos stratégies préférées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469893/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3469929/?captions=fre_fr&learn=on&enablevpops)
 
 ## Conseils, astuces et plus encore
 

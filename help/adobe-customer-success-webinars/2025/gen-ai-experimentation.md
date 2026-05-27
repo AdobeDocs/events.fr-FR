@@ -28,7 +28,7 @@ Ce webinaire explique comment l’accélérateur de contenu de l’assistant d�
 * Expériences et optimisation de contenu
 * IA générative
 
->[!VIDEO](https://video.tv.adobe.com/v/3444453/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444461/?captions=fre_fr&learn=on&enablevpops)
 
 ## Points essentiels à retenir
 
