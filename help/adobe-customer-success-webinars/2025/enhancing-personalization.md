@@ -13,7 +13,7 @@ jira: KT-17377
 exl-id: 1f4ebfc8-0c01-4091-9f74-a8efec51611a
 source-git-commit: ef1eacd73c5a4fb9cdfee730d40606ec65bab2a7
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Découvrez comment améliorer la stratégie de personnalisation grâce à la pui
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444456/?learn=on&enablevpops)
 
-## Principaux points à retenir
+## Points essentiels à retenir
 
 * **Customer Journey Analytics (CJA)** CJA unifie les données et le comportement des clients à partir de divers canaux et sources d’interaction afin de créer une vue basée sur le parcours des interactions des clients. La combinaison des données de la cible dans CJA permet une analyse holistique des parcours client et optimise les stratégies de personnalisation sur tous les points de contact.
 

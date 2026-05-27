@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Explorez plus en détail toutes les options disponibles lors de l’envoi de contrats pour signature. Au cours de cette session, vous découvrirez les éléments suivants : envoi à plusieurs destinataires Rôles de destinataires disponibles (signataire, remplisseur de formulaire, délégué, etc.) Ajout d’un champ CC Protection par mot de passe, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454881/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428186/?learn=on)
 
 Le webinaire fournit des informations sur les fonctionnalités avancées d’Acrobat Sign pour configurer des workflows à plusieurs participants, configurer des rôles de destinataires et utiliser des groupes de destinataires et des messages privés. Cet apprentissage peut vous aider à rationaliser le processus d’envoi de documents pour signature et à améliorer la collaboration entre les participants à la signature.
 
