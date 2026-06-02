@@ -3,10 +3,10 @@ title: Ateliers à la demande Adobe Workfront
 description: Workfront Events est une vidéothèque où des experts et des pairs ont partagé leurs pensées et idées sur la manière d’utiliser Workfront pour améliorer le travail effectué pour leurs organisations.
 exl-id: bf38329c-65f1-48f0-b106-8b7d226aa894
 duration: 39
-source-git-commit: 18077f22675a20f35220d8a0bcbeaa5632d3c829
+source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
 workflow-type: tm+mt
-source-wordcount: '949'
-ht-degree: 1%
+source-wordcount: '911'
+ht-degree: 0%
 
 ---
 
@@ -53,11 +53,11 @@ CARDS
 
 ## Rembobinage de l&#39;atelier
 
-Le mois de mai marque le début de la saison de remise des diplômes, une période propice à de nouvelles perspectives et à l&#39;apprentissage auprès de ceux qui y ont déjà assisté. Pour célébrer l’événement, nous présentons une sélection de sessions au cours desquelles des clients Adobe Workfront chevronnés partagent des conseils pratiques, des expériences du monde réel et des informations que vous pouvez appliquer immédiatement. Les vidéos présentées ce mois-ci comprennent un mélange de tout nouveau contenu et de sessions remarquables du passé qui restent tout aussi pertinentes aujourd’hui.
+June est arrivé et la dernière édition de [The Workfront Wire](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/the-workfront-wire-june-2026-your-go-to-source-for-news-updates-events-250880?tid=250880) aussi ! Cette newsletter est votre guichet unique pour obtenir les dernières nouvelles, mises à jour, événements et tout ce qui se passe dans le monde de Workfront.
 
 Vous en cherchez plus ? Découvrez les dernières nouveautés de votre communauté Adobe Workfront grâce à notre sélection d’événements à la demande. Utilisez le menu de navigation de gauche pour parcourir les rubriques sous Rembobinage d’atelier, où les sessions sont regroupées par Fusion, Planification et Workflow afin de vous aider à trouver rapidement du contenu adapté à vos besoins.
 
-N’oubliez pas de vous joindre aux événements en direct à venir pour poser des questions, partager des informations et collaborer avec vos pairs. Consultez régulièrement la page [Événements Experience League Workfront](https://experienceleague.adobe.com/fr/events?filters=Workfront) pour découvrir les événements à venir !
+N’oubliez pas de vous joindre aux événements en direct à venir pour poser des questions, partager des informations et collaborer avec vos pairs. Consultez régulièrement la page [Événements Experience League Workfront](https://experienceleague.adobe.com/en/events?filters=Workfront) pour découvrir les événements à venir !
 
 <!-- 
 CARDS 
@@ -87,7 +87,7 @@ CARDS
                     <p class="is-size-6">Approche basée sur des modèles pour les campagnes globales avec des scénarios de localisation !</p>
                 </div>
                 <a href="workshop-rewind/workflow/power-templates.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
                 </a>
             </div>
         </div>
@@ -178,7 +178,7 @@ CARDS
                     <p class="is-size-6">Découvrez des conseils, des ressources et des bonnes pratiques de la communauté pour exécuter efficacement Office Hours d’Adobe Workfront afin de stimuler l’adoption et l’engagement.</p>
                 </div>
                 <a href="quick-takes/top3/office-hours.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
                 </a>
             </div>
         </div>
@@ -196,7 +196,7 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" title="OU - Problèmes par rapport aux projets">OU - Problèmes par rapport aux projets</a>
+                        <a href="quick-takes/versus/issues-vs-projects.md" target="_blank" rel="referrer" title="OU - Problèmes par rapport aux projets">OU - Problèmes ou projets</a>
                     </p>
                     <p class="is-size-6">Découvrez les différences entre les problèmes et les projets dans Workfront, et apprenez quelle approche convient aux besoins de workflow et de création de rapports de votre équipe.</p>
                 </div>
@@ -231,7 +231,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/content-supply-chain.md" title="Informations d’experts - Supply chain de contenu avec Core Kombol" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469996/?captions=fre_fr&format=jpeg&nocache=1778106659855" alt="Informations d’experts - Supply chain de contenu avec Core Kombol"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469899/?format=jpeg&nocache=1778106659855" alt="Informations d’experts - Supply chain de contenu avec Core Kombol"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -244,7 +244,7 @@ CARDS
                     <p class="is-size-6">Découvrez les stratégies d’experts de Core Kombol pour optimiser votre supply chain de contenu avec les solutions Adobe. Améliorez l’efficacité, la collaboration et les résultats.</p>
                 </div>
                 <a href="expert-insights/content-supply-chain.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
                 </a>
             </div>
         </div>
@@ -254,7 +254,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/fusion.md" title="Informations d’experts - Fusion avec Ewan Hruska" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470018/?captions=fre_fr&format=jpeg&nocache=1778106659859" alt="Informations d’experts - Fusion avec Ewan Hruska"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469896/?format=jpeg&nocache=1778106659859" alt="Informations d’experts - Fusion avec Ewan Hruska"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -267,7 +267,7 @@ CARDS
                     <p class="is-size-6">Découvrez les bonnes pratiques relatives à la fusion d’Ewan Hruska. Découvrez comment documenter, optimiser et mettre à l’échelle les workflows avec Adobe Workfront Fusion pour plus d’efficacité.</p>
                 </div>
                 <a href="expert-insights/fusion.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
                 </a>
             </div>
         </div>
@@ -277,7 +277,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="expert-insights/centers-of-excellence.md" title="Informations d’experts - Gouvernance et centres d’excellence avec Danielle Johnston" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3470007/?captions=fre_fr&format=jpeg&nocache=1778106659848" alt="Informations d’experts - Gouvernance et centres d’excellence avec Danielle Johnston"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3469897/?format=jpeg&nocache=1778106659848" alt="Informations d’experts - Gouvernance et centres d’excellence avec Danielle Johnston"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -290,7 +290,7 @@ CARDS
                     <p class="is-size-6">Découvrez les stratégies de Danielle Johnston sur l’utilisation de Workfront pour créer une gouvernance et des centres d’excellence qui favorisent l’adoption et le changement positif.</p>
                 </div>
                 <a href="expert-insights/centers-of-excellence.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">En savoir plus</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
                 </a>
             </div>
         </div>
