@@ -21,6 +21,6 @@ Rejoignez Lilit Mkrtchyan, chef de produit senior, pour cette immersion dans l�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491591/?learn=on&enablevpops)
 
-Vous recherchez d’autres ressources partagées pendant l’événement ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827) !
+Vous recherchez d’autres ressources partagées pendant l’événement ? Consultez la [publication de la communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827?profile.language=fr) !
 
-De nouveaux événements sont ajoutés tous les mois. Consultez donc la page [Événements &#x200B;](https://experienceleague.adobe.com/en/events?lang=en) pour connaître les dernières sessions.
+De nouveaux événements sont ajoutés tous les mois. Consultez donc la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events?lang=en) pour connaître les dernières sessions.
