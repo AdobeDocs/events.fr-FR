@@ -7,13 +7,13 @@ doc-type: Event
 duration: 3378
 last-substantial-update: 2026-06-02T00:00:00Z
 jira: KT-21434
-source-git-commit: ba77e7ad6a08fd33a6ef336bc0f40bbb6300d350
+exl-id: 69bc7e07-60e2-4c32-9e8d-e5c3c78b65a8
+source-git-commit: 168e08b888ba6f610da50394d78575878fc8ac8b
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # Présentation des types d’enregistrements globaux Workfront Planning : quand, pourquoi et comment les utiliser
 
@@ -21,7 +21,6 @@ Rejoignez Lilit Mkrtchyan, chef de produit senior, pour cette immersion dans l�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491591/?learn=on&enablevpops)
 
-Vous recherchez d’autres ressources partagées pendant l’événement ? Consultez la [publication de la communauté ]&#x200B;(https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827?profile.language=fr !
+Vous recherchez d’autres ressources partagées pendant l’événement ? Consultez la [publication de la communauté ](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-workfront-planning-global-record-types-explained-when-why-and-how-to-use-them-may-28-2026-250827) !
 
-De nouveaux événements sont ajoutés tous les mois. Consultez donc la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events?lang=en) pour connaître les dernières sessions.
-
+De nouveaux événements sont ajoutés tous les mois. Consultez donc la page [Événements ](https://experienceleague.adobe.com/en/events?lang=en) pour connaître les dernières sessions.
