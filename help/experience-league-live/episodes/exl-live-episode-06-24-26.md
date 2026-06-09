@@ -7,9 +7,9 @@ event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns, James Torio
 exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
-source-git-commit: 6cf497c3898f0aa061f89b12cf6843b05232d63c
+source-git-commit: 51bef94176a124ba60759c0ffa4ed839da4037ef
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,6 @@ Au cours de cette session, vous apprendrez à :
 
 Ne manquez pas cette occasion de découvrir les dernières nouveautés de l’optimisation agentique et de laisser nos experts répondre en direct à vos questions.
 
-[Programmez un rappel YouTube !](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
+**[Inscrivez-vous maintenant !](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}**
 
 [![ExL LIVE 24 juin 2026](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://engage.adobe.com/ExpLeagueLive-260624.html){target="_blank"}
