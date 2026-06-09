@@ -6,16 +6,17 @@ solution: Target
 event-cta-url-live: https://www.youtube.com/watch?v=P71hcKEazY0
 event-start-time: 2026-06-24 08:30-8
 event-guests: Daniel Wright, Drew Burns, James Torio
-source-git-commit: 83ba57e9aa2026437bae583a0db42b61fd05a23e
+exl-id: 1e99a025-d052-4cd6-96c8-0fd4b9a7ae7b
+source-git-commit: 4a81b87743847ed72b725a43cfb7979daec1dd5d
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
 
 # Comment tirer parti de Target MCP et d’autres nouvelles versions majeures d’Adobe Target
 
-Rejoignez-nous pour cet épisode d’Experience League LIVE où nos experts vous présenteront comment Adobe Target fournit un MCP Target pour analyser les informations sur le programme et créer et modifier des activités à l’aide d’un agent, ainsi que de nouvelles fonctionnalités supplémentaires pour l’optimisation de la mise à l’échelle.
+Rejoignez-nous pour la prochaine édition d’Experience League LIVE, où nos experts vous guideront à travers les dernières innovations d’Adobe Target alors que nous entrons dans une nouvelle ère de l’agentisme. Nous vous présentons le nouveau MCP de Target, ses caractéristiques, la façon d’y accéder et son fonctionnement pour analyser les informations sur le programme et créer et modifier des activités avec un agent. Nous partageons également des démonstrations de nouvelles fonctionnalités et améliorations supplémentaires conçues pour vous aider à mettre à l’échelle l’optimisation.
 
 Au cours de cette session, vous apprendrez à :
 
@@ -27,7 +28,6 @@ Au cours de cette session, vous apprendrez à :
 
 Ne manquez pas cette occasion de découvrir les dernières nouveautés de l’optimisation agentique et de laisser nos experts répondre en direct à vos questions.
 
+[Programmez un rappel YouTube !](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
 
 [![ExL LIVE 24 juin 2026](/help/experience-league-live/episodes/assets/webbanner-june-24-2026.png)](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
-
-[Programmez un rappel YouTube !](https://www.youtube.com/watch?v=P71hcKEazY0){target="_blank"}
