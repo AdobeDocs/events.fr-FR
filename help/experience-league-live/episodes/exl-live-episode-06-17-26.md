@@ -24,4 +24,4 @@ Nous vous proposons un parcours idéal pour tester vos parcours avant leur lance
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492438/?learn=on&enablevpops)
 
-Rejoignez la conversation au sein de la [Communauté ](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138) — nos experts se tiennent à votre disposition pour répondre à vos questions.
+Rejoignez la conversation au sein de la [Communauté &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-journey-optimizer-15/experience-league-live-june-17-2026-8-30-am-pt-journey-testing-validation-in-adobe-journey-optimizer-251138) — nos experts se tiennent à votre disposition pour répondre à vos questions.
