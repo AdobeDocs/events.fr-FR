@@ -9,9 +9,9 @@ event-background-image: exl-event-experience-league-live.png
 event-cta-text-reg: Register
 event-cta-text-live: Join live
 doc-type: live event
-source-git-commit: 50b5538ac3ad157286a0ba23b548e6d05eaa22b3
+source-git-commit: 5c9d0425f08771e901052fffb0c62a640d4de6f9
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '407'
 ht-degree: 15%
 
 ---
@@ -21,6 +21,7 @@ ht-degree: 15%
 
 + [Vue d’ensemble](overview.md)
 + Épisodes {#episodes}
+   + [Fragments de contenu AEM dans Adobe Journey Optimizer : nouveautés et utilisation](episodes/exl-live-episode-07-16-26.md)
    + [Comment tirer parti de Target MCP et d’autres nouvelles versions majeures d’Adobe Target](episodes/exl-live-episode-06-24-26.md)
    + [Tester, simuler et valider efficacement les parcours avant leur mise en ligne](episodes/exl-live-episode-06-17-26.md)
    + [Nouveaux cas d’utilisation pour l’engagement des clients : activités iOS Live, notifications push web et messagerie persistante](episodes/exl-live-episode-04-08-26.md)
