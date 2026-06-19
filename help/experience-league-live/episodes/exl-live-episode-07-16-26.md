@@ -7,7 +7,7 @@ feature: Deliverability
 event-cta-url-live: https://youtube.com/live/lrdorB0LgFo
 event-start-time: 2026-07-16 08:30-7
 event-guests: Sandra Hausmann, Jyothitha Chandran, Tyson Wai, Chris Ivory
-source-git-commit: bb45c593ea931bf57ced7f358f9300b83cd707a2
+source-git-commit: ae074af2754b15146b372023fa2ec297a51e4cac
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
@@ -40,3 +40,4 @@ Vous partirez avec une image claire de la façon dont AEM et AJO s’intègrent 
 Idéal pour les auteurs et autrices AEM et les utilisateurs et utilisatrices AJO qui collaborent sur du contenu et souhaitent réduire les conflits de remise entre les équipes.
 
 **Cliquez sur l’image ci-dessus pour définir un rappel pour l’émission !**
+
