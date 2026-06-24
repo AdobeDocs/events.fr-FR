@@ -8,10 +8,10 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: ae074af2754b15146b372023fa2ec297a51e4cac
+source-git-commit: 266d1337ab989ab9a9ba91f9c167d687e08050e9
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 53%
+source-wordcount: '102'
+ht-degree: 55%
 
 ---
 
@@ -23,19 +23,6 @@ Experience League LIVE est une émission produite par l’équipe d’Experien
 ## Événements Experience League LIVE à venir
 
 <table>
-<tr>
-    <td style="vertical-align: top;"><a href="episodes/exl-live-episode-06-24-26.md">
-      <img alt="Experience League LIVE 24 juin" src="episodes/assets/webbanner-june-24-2026.png">
-    </a>
-    <div>
-      <a href="episodes/exl-live-episode-06-24-26.md">
-        <strong>Comment tirer parti de Target MCP et d’autres nouvelles versions majeures d’Adobe Target </strong>
-      </a>
-      <br/><em>avec Daniel Wright, James Torio et Drew Burns</em>
-      <br/><em>24 juin 2026</em>
-    </div>
-  </td>
-</tr>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-16-26.md">
       <img alt="Experience League LIVE 16 juillet" src="assets/WebBannerExlLive-July16-2026.png">
@@ -95,5 +82,5 @@ Experience League LIVE est une émission produite par l’équipe d’Experien
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
 
