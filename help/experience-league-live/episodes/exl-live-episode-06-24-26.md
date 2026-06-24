@@ -28,4 +28,4 @@ Vous apprendrez à :
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492605/?learn=on&enablevpops)
 
-Consultez la documentation du produit pour plus d’informations sur le serveur [Adobe Target MCP](https://experienceleague.adobe.com/en/docs/target/using/mcp/target-mcp).
+Consultez la documentation du produit pour plus d’informations sur le serveur [Adobe Target MCP](https://experienceleague.adobe.com/fr/docs/target/using/mcp/target-mcp).
