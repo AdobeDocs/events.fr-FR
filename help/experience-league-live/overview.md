@@ -8,7 +8,7 @@ level: Beginner
 event-series: Experience League Live
 exl-id: bc99865c-9734-4067-bd67-1c636d8fc6f4
 duration: 67
-source-git-commit: 266d1337ab989ab9a9ba91f9c167d687e08050e9
+source-git-commit: 3aa7957b466fbba60a80e553dc6785cbea421108
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 55%
@@ -25,7 +25,7 @@ Experience League LIVE est une émission produite par l’équipe d’Experien
 <table>
 <tr>
     <td style="vertical-align: top;"><a href="episodes/exl-live-episode-07-16-26.md">
-      <img alt="Experience League LIVE 16 juillet" src="assets/WebBannerExlLive-July16-2026.png">
+      <img alt="Experience League LIVE 16 juillet" src="episodes/assets/WebBannerExlLive-July16-2026.png">
     </a>
     <div>
       <a href="episodes/exl-live-episode-07-16-26.md">
@@ -82,5 +82,5 @@ Experience League LIVE est une émission produite par l’équipe d’Experien
 
 >[!TIP]
 >
->Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/fr?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
+>Pour découvrir des méthodes d’apprentissage supplémentaires, consultez nos [cours](https://experienceleague.adobe.com/?lang=fr/#dashboard/learning) gratuits ainsi que nos [tutoriels](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) individuels.
 
