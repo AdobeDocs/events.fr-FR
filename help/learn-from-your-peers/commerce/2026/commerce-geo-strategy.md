@@ -7,15 +7,13 @@ doc-type: Event
 duration: 5
 last-substantial-update: 2026-05-26T00:00:00Z
 jira: KT-21383
-hidefromtoc: true
-hide: true
-source-git-commit: 64cded01bdde73fff5b5b8e292f973af997f5386
+exl-id: 28a56924-b608-48b9-bbcd-ebf48616c2cc
+source-git-commit: 059d7a6869a7b223ffa67dd878c6db5b35249a37
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # Stratégie Adobe Commerce GEO : optimisation de LLM pour les expériences D2C
 
@@ -25,6 +23,8 @@ S’appuyant sur des implémentations réelles avec l’une des marques grand pu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491452/?learn=on&enablevpops)
 
+[*Diapositives de session*](../../assets/commerce/adobe-commerce-geo-strategy-llm-optimization-slides.pdf){target="_blank"}
+
 ## Ce que vous apprendrez
 
 * comprendre les principes de base de la géolocalisation : découvrez comment le contenu structuré et piloté par l’intention influence la découvrabilité pilotée par l’IA ;
@@ -33,5 +33,3 @@ S’appuyant sur des implémentations réelles avec l’une des marques grand pu
 * Créer un framework de géolocalisation pratique : offrez aux parties prenantes de l’entreprise un chemin clair pour activer la stratégie de géolocalisation et mesurer l’impact du contenu
 
 Que vous débutiez dans l’évaluation de l’optimisation de vos expériences e-commerce par le biais de fonctionnalités natives d’IA ou que vous souhaitiez optimiser vos expériences e-commerce, cette session vous offrira un cadre pratique pour activer les principes de l’optimisation de l’environnement, avec un impact commercial réel.
-
-
