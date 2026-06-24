@@ -27,4 +27,4 @@ Des connaissances fondamentales aux applications réelles, cette session vous do
 
 Vous recherchez d’autres ressources partagées pendant l’événement ? Consultez [la publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-nathan-s-five-faves-basic-apis-for-the-workfront-world-june-23-2026-251328) !
 
-De nouveaux événements sont ajoutés tous les mois. Consultez donc la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
+De nouveaux événements sont ajoutés tous les mois. Consultez donc la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
