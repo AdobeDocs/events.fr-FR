@@ -25,5 +25,5 @@ Au cours de cette session, Nuria passera en revue des exemples réels de la mani
 
 Vous en cherchez plus ? Poursuivez la conversation [la publication de la communauté Experience League](https://experienceleaguecommunities.adobe.com/adobe-workfront-23/event-follow-up-own-your-impact-as-a-workfront-system-admin-june-24-2026-251357?tid=251357) !
 
-De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements ](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
+De nouveaux événements sont ajoutés tous les mois. Veillez donc à consulter la page [Événements &#x200B;](https://experienceleague.adobe.com/fr/events) pour connaître les dernières sessions.
 
