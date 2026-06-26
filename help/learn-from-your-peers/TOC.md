@@ -2,9 +2,9 @@
 user-guide-title: '[!DNL Experience Makers Learn from your peers]'
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: Collection d'enregistrements provenant de  [!DNL Experience Makers Learn from your peers]
-source-git-commit: 64cded01bdde73fff5b5b8e292f973af997f5386
+source-git-commit: a62b7c342f31cfc7a4fc858d84d6cf149f725545
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '380'
 ht-degree: 7%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 7%
       + [Communication, exigences et tests dans le SDLC Agile](commerce/2024/agile-sdlc.md)
 + Experience Manager {#experience-manager}
    + 2026 {#2026}
+      + [Obtention de droits de l’IA dans AEM et EDS](experience-manager/2026/ai-aem-eds.md)
       + [Mise à l’échelle des expériences omnicanal avec Dynamic Media](experience-manager/2026/omnichannel-dynamic-media.md)
    + 2025 {#2025}
       + [Embarras des métadonnées à la maîtrise](experience-manager/2025/metadata-mayhem.md)
@@ -44,7 +45,7 @@ ht-degree: 7%
    + 2023 {#2023}
       + [Excellence des développeurs avec les composants principaux d’AEM](experience-manager/2023/core-components.md)
       + [Séance d’immersion dans Tools for AEM Sites](experience-manager/2023/aem-sites-tools.md)
-      + [&#x200B; Stratégies de sécurité efficaces dans Cloud Service &#x200B;](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
+      + [ Stratégies de sécurité efficaces dans Cloud Service ](experience-manager/2023/effective-security-strategies-in-cloud-service.md)
       + [Maîtriser le contenu et les fragments d’expérience](experience-manager/2023/mastering-content-and-experience-fragments.md)
 + GenAI {#genai}
    + 2025 {#2025}
@@ -71,7 +72,7 @@ ht-degree: 7%
    + 2026 {#2026}
       + [Adoption de Workfront durable](workfront/2026/workfront-adoption.md)
    + 2025 {#2025}
-      + [Désordre des métadonnées](https://experienceleague.adobe.com/fr/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
+      + [Désordre des métadonnées](https://experienceleague.adobe.com/en/docs/events/learn-from-your-peers-recordings/experience-manager/2025/metadata-mayhem)
       + [Articuler l’impact - Comment mesurer et partager la valeur de Workfront](workfront/2025/how-to-measure-and-share-workfront-value.md)
       + [Simplifier la planification des ressources grâce à l’automatisation](workfront/2025/simplify-resource-planning-with-automation.md)
    + 2024 {#2024}
